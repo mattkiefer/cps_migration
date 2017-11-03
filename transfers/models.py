@@ -6,6 +6,9 @@ from geos.models import CommArea
 class Student(models.Model):
     student_id = models.CharField(max_length=10,primary_key=True)
 
+class District(models.Model):
+    name = models.CharField(max_length=50)
+
 
 class School(models.Model):
     county = models.CharField(null=True,max_length=30)
@@ -65,6 +68,9 @@ class School(models.Model):
 
     cps_closed = models.NullBooleanField()
     attendance_type = models.CharField(null=True,max_length=40)
+
+    dist_name = models.CharField(null=True,max_length=50)
+    district = models.ForeignKey(District,null=True)
 
 
 class Transfer(models.Model):

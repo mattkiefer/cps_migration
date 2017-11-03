@@ -4,14 +4,15 @@ from __future__ import unicode_literals
 from transfers.models import Transfer, School
 from django.db import migrations
 
-print('getting transfers')
-transfers = [x for x in Transfer.objects.all()]
-
-print('getting busted transfers')
-busted_from_home_lookups = [x for x in transfers if x.from_home_rcdts and not x.from_home_school]
-fixes = []
-
 def fixFromHomeTransfers(apps,schema_editor):
+    print('getting transfers')
+    transfers = [x for x in Transfer.objects.all()]
+
+    print('getting busted transfers')
+    busted_from_home_lookups = [x for x in transfers if x.from_home_rcdts and not x.from_home_school]
+    fixes = []
+
+
     print('fixing busted transfers')
     for transfer in busted_from_home_lookups:
         try:
