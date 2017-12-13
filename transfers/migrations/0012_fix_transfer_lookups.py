@@ -10,8 +10,8 @@ def fixFromHomeTransfers(apps,schema_editor):
 
     print('getting busted transfers')
     busted_from_home_lookups = [x for x in transfers if x.from_home_rcdts and not x.from_home_school]
+    busted_from_serving_lookups = [x for x in transfers if x.from_serving_rcdts and not x.from_serving_school]
     fixes = []
-
 
     print('fixing busted transfers')
     for transfer in busted_from_home_lookups:
@@ -24,8 +24,20 @@ def fixFromHomeTransfers(apps,schema_editor):
                 fixes.append(transfer)
         except Exception, e:
             import ipdb; ipdb.set_trace()
+
+    for transfer in busted_from_serving_lookups:
+        try:
+            from_serving_schools = School.objects.filter(rcdts=transfer.from_serving_rcdts)
+            if from_serving_schools:
+                transfer.from_serving_school = from_serving_schools[0]
+                transfer.save()
+                print('fixed busted transfer id: ' + str(transfer.id))
+                fixes.append(transfer)
+        except Exception, e:
+            import ipdb; ipdb.set_trace()
+
     print('all set. inspect fixes:')
-    import ipdb; ipdb.set_trace()
+    print [fix.__dict__ for fix in fixes]
 
 
 class Migration(migrations.Migration):

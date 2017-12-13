@@ -1,0 +1,78 @@
+CountyName,RecType,"Region-2 County-3 District-4",Type,School,FacilityName,Administrator,Address,City,Zip,Telephone,GradeServed,StRep,StSen,FedCong,Cat,NCES ID
+,,,,,,,,,,,,,,,,
+Adams,Voc Tech,10011720,41,4100,Quincy Area Voc Ctr,Mark Pfleiger,219 Baldwin Dr,Quincy,62301 4430,217224-3775,11-12,94,47,18,9,1700012
+Adams,Voc Tech,10011720,46,4600,West Central Regional System,Mr. Mark Pfleiger,219 Baldwin Dr,Quincy,62301 4430,217224-3775,9-12,94,47,18,9,1700231
+Cass,Voc Tech,10097000,45,4500,Two Rivers Career Educ System,Mr. Reggie Clinton,651 S Morgan St Rm 119,Virginia,62691 1547,217323-4711,9-12,93,47,18,9,1700293
+Fayette,Voc Tech,30262030,41,4100,Okaw Area Vocational Center,Nick Casey,1109 N 8th St,Vandalia,62471 1240,618283-5150,11-12,107,54,15,9,1700017
+Fayette,Voc Tech,30267410,45,4500,Bond Fayette Effingham EFE 410,Nick Casey,1109 N 8th St,Vandalia,62471 1240,618283-2008,,107,54,15,9,1700234
+,Voc Tech,40000000,46,4600,Career Educ Assoc of N Central IL,Marjorie Hartfiel,4151 Samuelson Rd,Rockford,61109 3272,815921-1650,9-12,67,34,16,9,1700235
+Cook,Voc Tech,50162070,46,4600,North Suburban Educ Reg for Voc,Martha Eldredge Stark,1131 S Dee Rd,Park Ridge,60068 4379,847692-8023,9-12,55,28,9,9,1700250
+Cook,Voc Tech,50162140,46,4600,Northwest Educational Council for Student Success,Gayle W Banakis,2121 S Goebbert Rd,Arlington Heights,60005 4205,847718-6803,9-12,53,27,8,9,1700317
+Cook,Voc Tech,60162010,46,4600,Morton Regional Del Sys,Eric Mastey,2400 Home Ave,Berwyn,60402 2110,708780-4100,9-12,23,12,4,9,1700248
+Cook,Voc Tech,60162120,46,4600,Des Plaines Valley EFE,Dr. Anne Cothran,2000 5th Ave M100,River Grove,60171 1907,708779-4448,9-12,78,39,5,9,1701394
+Cook,Voc Tech,70162180,46,4600,Moraine Area Career System,Debra Canna,4625 W 107th St,Oak Lawn,60453 5865,708422-6230,9-12,36,18,3,9,1700252
+Cook,Voc Tech,70162280,46,4600,Career Development System,Carol Brooks,16333 Kilbourne Ave,Oak Forest,60452 4601,708225-6023,9-12,30,15,1,9,1700249
+Cook,Voc Tech,70167900,45,4500,Career Preparation Network,Janice Stoettner,202 S Halsted St,Chicago Heights,60411 8200,708709-7905,9-12,80,40,2,9,
+,Voc Tech,80000000,46,4600,Eagle Ridge Vocational Del Sys,Nancy Jogerst,950 US Highway 20 W,Elizabeth,61028 9333,815858-2203,9-12,89,45,17,9,1700236
+Jo Daviess,Voc Tech,80437900,40,4000,Jo Daviess Carroll CTE Academy,Nancy Jogerst,950 US Highway 20 W,Elizabeth,61028 9333,815858-2203,11-12,89,45,17,9,1700237
+Stephenson,Voc Tech,80897230,45,4500,Career & Tech Educ Consortium,Jennifer Newendyke,2037 W Galena Ave,Freeport,61032 3004,815232-0709,9-12,89,45,17,9,1700238
+Champaign,Voc Tech,90100080,46,4600,Educ for Employment Sys 330,Nick Elder,2400 W Bradley Ave # A113,Champaign,61821 1806,217355-1382,9-12,103,52,13,9,1700313
+Coles,Voc Tech,110157350,45,4500,Eastern IL EFE System,Laura Sullivan,1617 Lake Land Blvd,Mattoon,61938 5915,217258-6283,9-12,110,55,15,9,1700242
+,Voc Tech,120000000,46,4600,Twin Rivers Career & Tech Ed Sys,Troy Hickey,301 S Cross St Ste 235,Robinson,62454 2155,618544-8664,9-12,110,55,15,9,1700243
+Clay,Voc Tech,120130350,46,4600,Clay/Jasper/Richland/N Wayne RDS,Mary Beth Stine,600 S Locust St,Flora,62839 2174,618662-4059,,109,55,15,9,1700244
+,Voc Tech,130000000,41,4100,Mt Vernon Area Voc Center,Robert Knutson,11101 N Wells Bypass Rd,Mount Vernon,62864 6588,618246-5602,11-12,115,58,12,9,1700269
+,Voc Tech,130000000,46,4600,Marion/Clinton/Wash Co CTES,Dwain Baldridge,200 E Schwartz St,Salem,62881 2941,618548-6385,9-12,107,54,15,9,1700245
+,Voc Tech,130000000,47,4700,Rend Lake Area Reg Del System,Ms. Kara Andrews,1710 Broadway St,Mount Vernon,62864 2930,618244-8040,9-12,115,58,12,9,1700270
+,Voc Tech,160000000,40,4000,KEC  Area Voc Center,Tom Crouch,21255 Malta Rd,Malta,60150,815825-2000,11-12,70,35,16,9,1700257
+,Voc Tech,160000000,46,4600,Kishwaukee Educ Consortium,Tom Crouch,PO Box 263,Malta,60150 0263,815825-2000,,90,45,16,9,1700258
+Dekalb,Voc Tech,160194300,40,4000,Indian Valley Area Voc Ctr,Mr. Joe Barbic,600 Lions Rd,Sandwich,60548 2448,815786-9873,11-12,90,45,14,9,1700259
+Livingston,Voc Tech,170530900,41,4100,Livingston Area Career Cntr,Tera Graves,1100 E Indiana Ave,Pontiac,61764 1204,815842-2557,11-12,106,53,16,9,1700064
+Livingston,Voc Tech,170530900,46,4600,Livingston Area Educ for Employ,Tera Graves,1100 E Indiana Ave,Pontiac,61764 1204,815842-2557,,106,53,16,9,1700261
+Logan,Voc Tech,170544040,41,4100,Lincolnland Technical Ed Ctr,Mr. Robert Bagby,1000 Primm Rd,Lincoln,62656 3180,217732-4131,11-12,87,44,18,9,1700067
+Logan,Voc Tech,170544040,46,4600,Lincolnland Reg Del System,Robert M Puckett,1000 Railer Way,Lincoln,62656 3180,217732-4131,9-12,87,44,18,9,1700284
+McLean,Voc Tech,170640870,41,4100,Bloomington Area Career Center,Tom Frazier,1202 E Locust St,Bloomington,61701 3363,309829-8671,11-12,88,44,18,9,1700036
+McLean,Voc Tech,170640870,46,4600,McLean/Dewitt Reg Voc System,Tom Frazier,PO Box 5187,Bloomington,61702 5187,309829-8671,,88,44,18,9,1700263
+Dupage,Voc Tech,190225020,40,4000,Technology Center of DuPage,Mr. Michael Zimmerman,301 S Swift Rd,Addison,60101 1495,630691-7591,11-12,46,23,8,9,1700037
+Dupage,Voc Tech,190225020,46,4600,DuPage Area Occup Educ Sys,Mr. Michael Zimmerman,301 S Swift Rd,Addison,60101 1495,630691-7591,9-12,46,23,8,9,1700264
+,Voc Tech,200000000,46,4600,Ohio & Wabash Valley Reg Voc Sys,Karen S Drage,PO Box 287,Norris City,62869 0287,618378-2274,,109,55,15,9,1700265
+,Voc Tech,210000000,46,4600,Franklin County Reg Del System,George Hopkins Jr,901 Public Sq,Benton,62812 2255,618438-9711,9-12,117,59,12,9,1700266
+Williamson,Voc Tech,211008010,46,4600,Williamson Co CTE System,Sharon Helleny,411 S Court St,Marion,62959 2711,618993-2138,P-12,117,59,12,9,1701409
+Grundy,Voc Tech,240327900,40,4000,Grundy Area Vocational Center,Lance Copes,1002 Union St,Morris,60450 1268,815942-4390,11-12,75,38,16,9,1700260
+,Voc Tech,260000000,46,4600,Western Area Career System 265,David Messersmith,130 S Lafayette St Ste 200,Macomb,61455 2280,309575-3226,9-12,93,47,18,9,1700271
+,Voc Tech,300000000,46,4600,Jackson/Perry Co Reg Del System,Rick Cook,3764 State Route 13/127,Pinckneyville,62274 3340,618357-2828,,116,58,12,9,1700274
+Alexander,Voc Tech,300027480,40,4000,Five County Reg Voc Center,Patrick Harner,130 Washington St,Tamms,62988,618747-2703,11-12,118,59,12,9,1700232
+Alexander,Voc Tech,300027480,45,4500,Five County Reg Voc System,Patrick Harner,130 Washington Ave,Tamms,62988 3417,618747-2703,9-12,118,59,12,9,1700233
+,Voc Tech,310000000,46,4600,Valley Educ for Employ System,Cassie  Blickem,RR 47 WAUBONSEE,Sugar Grove,60554,630466-2905,9-12,50,25,14,9,1700278
+Kane,Voc Tech,310450460,46,4600,Northern Kane Co Reg Voc System,Kinasha Brown,355 E Chicago St,Elgin,60120 6543,847888-5000,9-12,43,22,8,9,1700279
+Kane,Voc Tech,310453020,41,4100,Fox Valley Career Center,Rick Burchell,47W326 Keslinger Rd,Maple Park,60151 9720,630365-5113,11-12,70,35,14,9,1700053
+,Voc Tech,320000000,40,4000,Kankakee Area Career Center,Mr. Matthew A Kelley,PO Box 570,Bourbonnais,60914 0570,815939-4971,11-12,79,40,2,9,1700275
+,Voc Tech,320000000,46,4600,Kankakee Area Reg Voc Ed System,Mr. Matthew Kelley,PO Box 570,Bourbonnais,60914 0570,815939-4971,,79,40,2,9,1700276
+,Voc Tech,320000000,47,4700,Iroquois Area Reg Del System,Leo Sherman,1001 E Grant St STE112B,Watseka,60970 1832,815432-5470,9-12,106,53,16,9,1700277
+Knox,Voc Tech,330482050,41,4100,Galesburg Area Voc Ctr,Jeff L Houston,1135 W Fremont St,Galesburg,61401 2432,309973-2005,11-12,74,37,17,9,1700057
+Warren,Voc Tech,330947290,45,4500,Delabar CTE System,Peggy J Miller,105 N E St Ste 1,Monmouth,61462 1667,309734-7545,9-12,94,47,17,9,1700273
+Lake,Voc Tech,340497900,40,4000,Lake Co High Schools Tech Campus,Steve Clark,19525 W Washington St,Grayslake,60030 1152,847223-6681,11-12,62,31,10,9,1700280
+Lake,Voc Tech,340497900,46,4600,Lake County Area Voc System,Steve Clark,19525 W Washington St,Grayslake,60030 1152,847223-6681,9-12,62,31,10,9,1700281
+La Salle,Voc Tech,350501200,40,4000,La Salle-Peru Area Career Ctr,Mr. Dwayne Mentgen,200 9th St,Peru,61354 2000,815223-2454,11-12,76,38,16,9,1700155
+La Salle,Voc Tech,350507200,45,4500,Starved Rock for Voc Tech Ed,Mr. Dwayne Mentgen,200 9th St,Peru,61354 2000,815220-8195,,76,38,16,9,1700283
+,Voc Tech,390000000,46,4600,Heartland Region,Bret Hitchings,1 College Park,Decatur,62521 8512,217872-4056,9-12,101,51,13,9,1700285
+Macon,Voc Tech,390550610,41,4100,Heartland Technical Academy,Bret Hitchings,1 College Park,Decatur,62521 8512,217872-4050,11-12,101,51,13,9,1700068
+,Voc Tech,400000000,46,4600,Central Ill Rural Region,Kerry Lorton,201 W Exchange St,Jerseyville,62052 1602,618498-5541,9-12,100,50,13,9,1700286
+Madison,Voc Tech,410570100,41,4100,Collinsville Area Career Ctr,Tricia Blackard,2201 S Morrison Ave,Collinsville,62234 1449,618346-6320,11-12,112,56,12,9,1700072
+Madison,Voc Tech,410577450,45,4500,Madison Co Career & Tech Ed Sys,Rob Werden,6161 Center Grove Rd,Edwardsville,62025 3307,618656-0415,9-12,112,56,13,9,1700288
+,Voc Tech,440000000,46,4600,McHenry Co Coop for Employ Educ,David Engelbrecht,2200 N Seminary Ave,Woodstock,60098 2637,815501-3920,9-12,63,32,14,9,1700327
+,Voc Tech,450000000,40,4000,Career Center of Southern IL,Mark Stuart,6137 Beck Rd,Red Bud,62278 3347,618473-2222,10-12,116,58,12,9,1700291
+,Voc Tech,450000000,46,4600,Okaw Regional Voc System,Thomas Springborn,1 Taylor St Rm 101,Chester,62233 1970,618826-5471,9-12,116,58,12,9,1700292
+Whiteside,Voc Tech,470980050,40,4000,Whiteside Area Career,Paula Rademacher,1608 5th Ave,Sterling,61081 1360,815626-5810,11-12,71,36,17,9,1700305
+Whiteside,Voc Tech,470980050,46,4600,Whiteside Regional Voc System,Paula Rademacher,1608 5th Ave,Sterling,61081 1360,815626-5810,9-12,71,36,17,9,1700306
+,Voc Tech,480000000,46,4600,Peoria Educ Reg for Empl Traing,Mr. Christopher C Kendall,2000 W Pioneer Pkwy,Peoria,61615 1835,309693-7373,11-12,73,37,18,9,1700294
+Rock Island,Voc Tech,490810300,41,4100,United Twp Area Career Ctr,Larry Shimmin,1275 Avenue of The Cities,East Moline,61244 4145,309752-1691,11-12,72,36,17,9,1700083
+Rock Island,Voc Tech,490810300,46,4600,Quad City Career and Tech Ed Cons,Mr. Larry Shimmin,1275 Avenue of The Cities,East Moline,61244 4145,309752-1691,,72,36,17,9,1700295
+Saint Clair,Voc Tech,500827460,45,4500,Southwestern Illinois Career & Technical Education System,Gayle Appel,600 S Smiley St,O Fallon,62269 2316,618632-3507,9-12,113,57,12,9,1700297
+Saint Clair,Voc Tech,500827470,45,4500,ESL Regional Vocational System,Dekiethrich Lockett,1005 State St,East Saint Louis,62201 1907,618646-3101,9-12,114,57,12,9,1700298
+Sangamon,Voc Tech,510847310,45,4500,Regional Office of Car/Tech Educ,Mary Jo Wood,2450 Foundation Dr,Springfield,62703 5429,217529-3716,,99,50,13,9,1700299
+Sangamon,Voc Tech,510847900,40,4000,Capital Area Career Center,Jodi Ferriell,2201 Toronto Rd,Springfield,62712 3802,217529-5431,11-12,99,50,13,9,1700328
+,Voc Tech,530000000,46,4600,Tazewell Co Area EFE RDS,Jill M Warren,200 S 2nd St Ste 12,Pekin,61554 4088,309353-5011,9-12,91,46,17,9,1700309
+Woodford,Voc Tech,531027210,45,4500,Central IL Voc Ed Coop,Phyllis Glazier,101 W Madison St,Metamora,61548 7578,309367-2783,9-12,73,37,18,9,1700289
+Vermilion,Voc Tech,540927400,45,4500,Vermilion Voc Ed Deliver System,Nicholas S Chatterton,2000 E Main 110 LH,Danville,61832 5176,217443-8742,9-12,104,52,15,9,1700304
+,Voc Tech,560000000,40,4000,Wilco Area Career Center,Katrina Plese,500 Wilco Blvd,Romeoville,60446 3957,815838-6941,11-12,85,43,3,9,1700307
+Will,Voc Tech,560997110,45,4500,Three Rivers EFE System,Brian Gordon,214 N Ottawa St Ste 309,Joliet,60432 4077,815727-2714,,86,43,11,9,1700308

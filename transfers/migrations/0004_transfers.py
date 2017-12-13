@@ -20,7 +20,7 @@ transfer_out_filenames = [
                           #data_dir + 'ISBE_CPS_TRANSFER_DATA_2009_to_2013__CPS_Enrollment.csv',
                           data_dir + '18-073-belsha-follow_up_doc_2009_to_2017__CPS_Enrollment.csv',
                          ]
-fail_log_path = '/tmp/school_lookup_fails.csv'
+fail_log_path = '/tmp/dupe_transfers.csv'
 ### END CONFIG ###
 
 logger = open(fail_log_path,'w')
@@ -70,6 +70,8 @@ def load_transfers(apps,schema_editor):
             try:
                 transfer, created = Transfer.objects.get_or_create(student_id_no=intify(row['Student ID']),school_year=intify(row['School Year']))
                 #if created:
+                if transfer.from_home_rcdts or transfer.from_serving_rcdts:
+                    print('dupe transfer out:', transfer.__dict__, row)
                 if not transfer.student:
                     transfer.student = student_or_none(row['Student ID'])
                 from_home_school = school_or_none(row['Home RCDTS'])
@@ -90,11 +92,13 @@ def load_transfers(apps,schema_editor):
 def school_or_none(rcdts):
     schools = School.objects.filter(rcdts=rcdts)
     if not schools:
-        print rcdts
+        print('no school rcdts found:', rcdts)
     return schools[0] if schools else None
 
 def student_or_none(student_id):
     students = Student.objects.filter(student_id=student_id)
+    if not students:
+        print('no student found:', student_id)
     return students[0] if students else None
 
 

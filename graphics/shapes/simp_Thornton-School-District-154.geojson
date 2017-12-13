@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "STATEFP": "17", "ELSDLEA": "38910", "AFFGEOID": "9500000US1738910", "GEOID": "1738910", "NAME": "Thornton School District 154", "LSAD": "00", "ALAND": 11220664, "AWATER": 208984 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.636384, 41.582342 ], [ -87.578382, 41.580746 ], [ -87.578131, 41.557465 ], [ -87.626336, 41.557434 ], [ -87.636384, 41.582342 ] ] ] } }
+]
+}

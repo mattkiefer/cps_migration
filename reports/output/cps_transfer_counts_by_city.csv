@@ -1,0 +1,501 @@
+city,count
+Cicero,1658
+Berwyn,923
+Calumet City,922
+Rockford,886
+Skokie,804
+Joliet,719
+Evanston,707
+Aurora,652
+Harvey,641
+Oak Lawn,586
+Waukegan,582
+Dolton,576
+Burbank,559
+Des Plaines,487
+Maywood,483
+Bolingbrook,472
+Springfield,466
+Lansing,444
+Chicago Heights,439
+Elmwood Park,435
+Plainfield,426
+Oak Park,422
+Danville,419
+Chicago,407
+Riverdale,404
+South Holland,389
+Naperville,350
+Elgin,345
+Summit,321
+Country Club Hills,314
+Bellwood,310
+Blue Island,307
+Carpentersville,306
+Park Ridge,301
+Northlake,300
+Melrose Park,289
+Park Forest,281
+Norridge,271
+Niles,263
+Palatine,255
+Glenview,245
+Markham,230
+Elk Grove Village,228
+Peoria,226
+Matteson,225
+Calumet Park,224
+Midlothian,223
+Hoffman Estates,221
+Mt Prospect,219
+Romeoville,217
+Sauk Village,216
+Evergreen Park,215
+Alsip,210
+Morton Grove,209
+Flossmoor,209
+Justice,204
+River Grove,203
+Addison,198
+Franklin Park,195
+Streamwood,185
+Hazel Crest,182
+Schaumburg,180
+Hillside,178
+Zion,175
+Lombard,174
+Dixmoor,173
+Kankakee,170
+Bloomington,164
+Glendale Heights,161
+Decatur,157
+Hanover Park,156
+Oak Forest,154
+Champaign,152
+Downers Grove,151
+Crete,148
+Bridgeview,144
+Palos Hills,142
+Saint Charles,142
+Lyons,137
+Orland Park,136
+Darien,135
+Wheeling,133
+Richton Park,133
+Bensenville,133
+Rock Island,131
+Palos Heights,130
+Olympia Fields,130
+Schiller Park,129
+Tinley Park,122
+Freeport,120
+Dekalb,115
+La Grange,113
+Forest Park,113
+Wheaton,110
+Normal,109
+Lockport,108
+Broadview,108
+Hickory Hills,108
+Villa Park,107
+North Chicago,107
+Wilmette,105
+Lincolnwood,104
+Galesburg,103
+Woodridge,100
+Elmhurst,99
+Glen Ellyn,98
+Glenwood,95
+Northbrook,95
+Arlington Heights,94
+Gurnee,91
+Crystal Lake,91
+Buffalo Grove,90
+Posen,88
+Urbana,83
+Rolling Meadows,82
+Berkeley,82
+Burr Ridge,82
+DeKalb,81
+Carol Stream,80
+Brookfield,80
+Kewanee,79
+Chicago Ridge,78
+Carbondale,78
+Lake Villa,77
+Riverside,75
+Oswego,74
+Willowbrook,73
+Mundelein,73
+Harwood Heights,70
+South Elgin,70
+Robbins,70
+Worth,69
+Roselle,68
+West Chicago,68
+Bartlett,67
+Round Lake,64
+Steger,64
+University Park,64
+Highland Park,63
+Crestwood,60
+Westchester,60
+Willow Springs,60
+Stickney,59
+Belvidere,59
+Algonquin,56
+Rantoul,56
+La Grange Park,54
+Homewood,53
+Minooka,52
+Antioch,52
+Manteno,52
+Frankfort,49
+Round Lake Beach,49
+Vernon Hills,48
+Round Lake Heights,48
+Warrenville,48
+Mount Vernon,46
+Woodstock,46
+De Kalb,45
+Phoenix,44
+La Salle,44
+Crest Hill,43
+St Charles,43
+Deerfield,41
+East Moline,40
+Plano,40
+Prospect Heights,39
+Yorkville,39
+Barrington,39
+Ford Heights,37
+Wood Dale,37
+Hinsdale,36
+Westmont,36
+River Forest,36
+Mattoon,36
+North Aurora,36
+Lake in the Hills,36
+Shorewood,35
+North Riverside,35
+Burnham,35
+Macomb,35
+Beach Park,35
+Bloomingdale,34
+Quincy,34
+Merrionette Park,34
+Homer Glen,33
+New Lenox,33
+McHenry,33
+Winnetka,33
+Hometown,33
+Wadsworth,31
+Bradley,31
+Grayslake,29
+Gages Lake,28
+Montgomery,28
+Lemont,28
+Clarendon Hills,28
+Northfield,28
+Ottawa,27
+Bourbonnais,27
+Lynwood,27
+Mendota,26
+Moline,26
+Chatham,25
+Batavia,25
+Geneva,25
+Lincolnshire,24
+Cary,24
+Sterling,24
+Lisle,23
+Bedford Park,23
+East Saint Louis,23
+Silvis,22
+Glencoe,21
+Countryside,21
+Machesney Park,21
+Ingleside,21
+Marion,21
+Harvard,21
+Morris,21
+Great Lakes,21
+Belleville,21
+Libertyville,20
+Palos Park,20
+Hampshire,20
+Monee,19
+Harrisburg,19
+Hodgkins,18
+Galena,18
+Orland Hills,18
+Wauconda,18
+Mokena,17
+Beecher,17
+Lake Zurich,17
+Streator,17
+Winfield,17
+Loves Park,17
+Long Grove,16
+Charleston,16
+Marengo,16
+West Peoria,16
+Rochelle,16
+Round Lake Park,16
+Hawthorn Woods,15
+Huntley,15
+Mchenry,15
+Collinsville,14
+Gilman,14
+South Chicago Heights,14
+Malta,14
+Fox Lake,14
+Oak Brook,13
+Pontiac,13
+Cortland,13
+Spring Grove,12
+Thornton,12
+Momence,12
+Hopkins Park,11
+Dixon,11
+Herrin,11
+Clinton,11
+Hoopeston,11
+Lake Forest,11
+Centralia,10
+Medinah,10
+Lincoln,10
+Jacksonville,10
+Bushnell,9
+Dundee,9
+Burlington,9
+Braidwood,9
+Alton,9
+Peotone,9
+Itasca,9
+Rock Falls,9
+Rosemont,9
+Manhattan,9
+Beardstown,9
+Moweaqua,8
+Johnsburg,8
+Lindenhurst,8
+Edwardsville,8
+Marseilles,8
+Western Springs,8
+Peru,8
+Saint Anne,8
+Sycamore,8
+Rockdale,8
+Nashville,8
+Effingham,8
+Fairfield,8
+Orion,7
+Old Mill Creek,7
+North Barrington,7
+O Fallon,7
+Cullom,7
+Carlinville,7
+Sandwich,7
+Sugar Grove,7
+Oakbrook Terrace,7
+Oglesby,7
+West Dundee,7
+Roscoe,7
+Coal City,6
+Poplar Grove,6
+Fairbury,6
+Dunlap,6
+Fisher,6
+West Frankfort,6
+Oregon,6
+Christopher,6
+Granite City,6
+Murphysboro,6
+Highwood,6
+Wayne,5
+Metropolis,5
+Fairview Heights,5
+Byron,5
+Fox River Grove,5
+Cahokia,5
+Eureka,5
+Milan,5
+Litchfield,5
+Kenilworth,5
+Sullivan,5
+Pana,5
+Golconda,5
+Savoy,5
+Wilmington,5
+Lake In The Hills,5
+Earlville,5
+Shabbona,5
+La Grange Highlands,4
+Peoria Heights,4
+Morton,4
+East Peoria,4
+Gilberts,4
+Channahon,4
+Forreston,4
+Wasco,4
+Caledonia,4
+Lake Bluff,4
+Washington,4
+Bannockburn,4
+Spring Valley,4
+Marshall,4
+Mazon,4
+Geneseo,4
+Pingree Grove,4
+Sleepy Hollow,4
+Winthrop Harbor,4
+Elwood,4
+Elburn,3
+Durand,3
+Breese,3
+Onarga,3
+Genoa,3
+Lebanon,3
+Hanover,3
+Georgetown,3
+Mount Morris,3
+Serena,3
+South Beloit,3
+Cairo,3
+Godfrey,3
+DePue,3
+Brimfield,3
+Winnebago,3
+Rockton,3
+Stone Park,3
+Robinson,3
+Gridley,3
+Kirkland,3
+Taylorville,3
+Island Lake,3
+Monmouth,3
+Mc Nabb,3
+Donovan,3
+Swansea,3
+Pinckneyville,3
+Ladd,3
+Watseka,3
+Minonk,3
+El Paso,2
+Anna,2
+Canton,2
+Chatsworth,2
+Toulon,2
+Mt Vernon,2
+Savanna,2
+Hinckley,2
+Ullin,2
+Mounds,2
+Pecatonica,2
+Carmi,2
+Dwight,2
+Polo,2
+Joy,2
+Shelbyville,2
+Gibson City,2
+Stillman Valley,2
+Thomasboro,2
+Maple Park,2
+Grafton,2
+Benton,2
+Wood River,2
+Thawville,2
+Mount Pulaski,2
+Du Quoin,2
+Paxton,2
+Big Rock,2
+Sparta,2
+Zeigler,2
+Fulton,2
+Maroa,2
+Heyworth,2
+Bristol,2
+Caseyville,2
+Olney,2
+Dakota,2
+Dupo,2
+Washington Pk,2
+Bradford,2
+Villa Grove,2
+Ashton,2
+Oakwood,2
+Granville,2
+Hainesville,2
+Henry,1
+Forrest,1
+Louisville,1
+Albion,1
+Amboy,1
+Mount Carroll,1
+Staunton,1
+Warrensburg,1
+Newark,1
+Herscher,1
+Kempton,1
+Junction,1
+Philo,1
+Buffalo,1
+Chebanse,1
+Danforth,1
+Flanagan,1
+Wonder Lake,1
+Emden,1
+Sheridan,1
+Ogden,1
+Sesser,1
+Kingston,1
+Barry,1
+Joppa,1
+Creve Coeur,1
+Mount Erie,1
+South Roxana,1
+East St Louis,1
+Rochester,1
+Mulberry Grove,1
+Morrison,1
+Carrier Mills,1
+Waverly,1
+Chenoa,1
+Mascoutah,1
+Odell,1
+Grand Ridge,1
+Lostant,1
+Princeton,1
+Bismarck,1
+Piper City,1
+Carterville,1
+White Heath,1
+Grant Park,1
+Mc Leansboro,1
+Matherville,1
+Roanoke,1
+White Hall,1
+Dix,1
+Richmond,1
+Troy,1
+Roxana,1
+Assumption,1
+Vienna,1
+Seneca,1
+Madison,1
+Rushville,1
+Elmwood,1
+Aledo,1
+Arcola,1
+Mahomet,1
+Custer Park,1
+Highland,1
+Cherry Valley,1
+Stockton,1
+Buda,1
+Hillsboro,1
+East Dubuque,1
+Coal Valley,1
+Pekin,1
+Clifton,1

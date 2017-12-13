@@ -1,0 +1,346 @@
+city,county,transfer_count
+Manteno,Kankakee,8
+Chicago Ridge,Cook,5
+Countryside,Cook,3
+DePue,Bureau,1
+St Charles,Kane,12
+Kingston,Dekalb,1
+Lindenhurst,Lake,4
+Carol Stream,Kane,4
+Granite City,Madison,3
+Wauconda,Lake,5
+Batavia,Kane,6
+Vernon Hills,Lake,16
+Naperville,Dupage,64
+Braidwood,Will,1
+Buffalo,Sangamon,1
+Bartlett,Kane,13
+Robbins,Cook,1
+Burnham,Cook,1
+Hinsdale,Dupage,2
+Norridge,Cook,120
+Arlington Heights,Cook,33
+Bolingbrook,Dupage,1
+Cortland,Dekalb,2
+Markham,Cook,2
+Franklin Park,Cook,47
+Rock Island,Rock Island,35
+Winnetka,Cook,5
+Geneseo,Henry,2
+Round Lake Beach,Lake,9
+Wheeling,Cook,42
+Chicago,Dept Of Corrections,10
+Sauk Village,Cook,5
+Carbondale,Jackson,6
+Lake Bluff,Lake,2
+Villa Park,Dupage,20
+Highwood,Lake,4
+Shabbona,Dekalb,1
+Aurora,State Of Illinois,1
+Barrington,Lake,13
+Marengo,McHenry,3
+Berkeley,Cook,10
+Harvey,Cook,13
+Mundelein,Lake,23
+DeKalb,Dekalb,22
+Oak Park,Cook,47
+Chatham,Sangamon,4
+Moline,Rock Island,3
+Hainesville,Lake,1
+Clarendon Hills,Dupage,6
+Bolingbrook,Will,46
+Park Forest,Will,1
+Clinton,Dewitt,3
+Northfield,Cook,3
+Plainfield,Kendall,1
+Carol Stream,Dupage,14
+Burr Ridge,Dupage,6
+Hanover Park,Cook,10
+Morris,Grundy,2
+Lake in the Hills,McHenry,9
+Oglesby,La Salle,3
+Mendota,La Salle,1
+Niles,Cook,155
+Ingleside,Lake,4
+Berwyn,Cook,79
+Glenwood,Cook,7
+Streamwood,Kane,36
+Wood Dale,Dupage,5
+Prospect Heights,Cook,16
+Burlington,Kane,5
+Palos Heights,Cook,7
+Lincoln,Logan,1
+Crestwood,Cook,1
+Jacksonville,Morgan,2
+Johnsburg,McHenry,1
+Steger,Cook,7
+Hawthorn Woods,Lake,6
+Onarga,Iroquois,1
+Pingree Grove,Kane,1
+McHenry,McHenry,8
+Oak Forest,Cook,5
+Lincolnwood,Cook,87
+Kewanee,Dept Of Corrections,5
+Bourbonnais,Kankakee,5
+Mc Leansboro,Hamilton,1
+Brookfield,Cook,1
+Wasco,Kane,1
+Rantoul,Champaign,4
+Mount Vernon,Jefferson,1
+Aurora,Dupage,21
+River Grove,Cook,35
+Grayslake,Lake,14
+Barry,Pike,1
+Phoenix,Cook,4
+Winthrop Harbor,Lake,2
+University Park,Will,2
+Park Forest,Cook,8
+Great Lakes,Lake,4
+Bushnell,McDonough,4
+Elk Grove Village,Cook,67
+Pekin,Tazewell,1
+Northlake,Cook,53
+Crete,Will,8
+Plainfield,Will,69
+Carterville,Williamson,1
+Riverside,Cook,9
+Kirkland,Dekalb,2
+Summit,Cook,19
+Dolton,Cook,10
+Saint Charles,Dept Of Corrections,11
+Willowbrook,Dupage,5
+Northbrook,Cook,23
+Gilman,Iroquois,3
+Hampshire,Kane,8
+Stockton,Jo Daviess,1
+Posen,Cook,2
+Aurora,Kendall,9
+Sycamore,Dekalb,1
+Old Mill Creek,Lake,4
+Carpentersville,Kane,24
+Dakota,Stephenson,1
+Henry,Marshall,1
+Wilmette,Cook,20
+Montgomery,Kane,2
+Algonquin,Kane,12
+Melrose Park,Cook,42
+Gages Lake,Lake,11
+North Chicago,Lake,15
+Oswego,Kendall,12
+Hillsboro,Montgomery,1
+East Saint Louis,Saint Clair,4
+Addison,Dupage,31
+Oak Lawn,Cook,28
+Glenview,Cook,113
+Libertyville,Lake,6
+Rochelle,Ogle,1
+Roselle,Dupage,15
+Shorewood,Will,5
+Gibson City,Ford,2
+Orion,Henry,1
+Sleepy Hollow,Kane,3
+Orland Park,Cook,29
+Warrenville,Dupage,4
+East Moline,Rock Island,5
+Danville,Vermilion,17
+Princeton,Bureau,1
+Lansing,Cook,24
+Shelbyville,Shelby,1
+Dixmoor,Cook,1
+Forreston,Ogle,4
+Hometown,Cook,2
+Grafton,Dept Of Corrections,1
+Lake Zurich,Lake,4
+North Barrington,Lake,2
+Broadview,Cook,4
+Schaumburg,Cook,59
+Bridgeview,Cook,11
+Schiller Park,Cook,56
+Burbank,Cook,36
+Itasca,Dupage,4
+Maple Park,Kane,1
+Moweaqua,Shelby,2
+Huntley,McHenry,2
+Minooka,Grundy,5
+Mount Pulaski,Logan,1
+Normal,McLean,5
+Morton Grove,Cook,150
+Bensenville,Dupage,29
+Savanna,Carroll,1
+O Fallon,Saint Clair,1
+Crystal Lake,McHenry,28
+Beach Park,Lake,10
+Paxton,Ford,1
+West Chicago,Dupage,10
+Waukegan,Lake,110
+Peoria Heights,Peoria,1
+Lake in the Hills,Kane,8
+Rolling Meadows,Cook,24
+Hoffman Estates,Kane,1
+Monmouth,Warren,1
+North Aurora,Kane,5
+Springfield,Sangamon,17
+Glendale Heights,Dupage,33
+Buffalo Grove,Lake,22
+La Grange Park,Cook,5
+Marion,Williamson,3
+Buffalo Grove,Cook,17
+Byron,Ogle,3
+Hoffman Estates,Cook,59
+Country Club Hills,Cook,12
+Westchester,Cook,10
+Pinckneyville,Perry,3
+East St Louis,Saint Clair,1
+North Riverside,Cook,3
+Midlothian,Cook,1
+South Elgin,Kane,17
+Lake Villa,Lake,14
+Yorkville,Kendall,3
+Justice,Cook,9
+Joliet,Will,32
+Hickory Hills,Cook,9
+Freeport,Stephenson,6
+Highland Park,Lake,17
+Palos Hills,Cook,10
+Lincolnshire,Lake,9
+Rockford,Winnebago,82
+Calumet City,Cook,24
+Bradley,Kankakee,3
+Cary,McHenry,7
+Olympia Fields,Cook,4
+Orland Hills,Cook,3
+Lake Forest,Lake,2
+Bismarck,Vermilion,1
+Skokie,Cook,641
+Lisle,Dupage,10
+Westmont,Dupage,2
+Hodgkins,Cook,2
+Glen Ellyn,Dupage,23
+Antioch,Lake,11
+Homer Glen,Will,4
+Hillside,Cook,12
+River Forest,Cook,7
+Mt Prospect,Cook,87
+Alsip,Cook,8
+Breese,Clinton,2
+Romeoville,Will,14
+La Grange Highlands,Cook,1
+Peoria,Peoria,24
+New Lenox,Will,3
+Galesburg,Knox,7
+Riverdale,Cook,8
+Monee,Will,1
+Urbana,Champaign,8
+Maywood,Cook,22
+Manhattan,Will,2
+Morton,Tazewell,3
+Glencoe,Cook,1
+Kewanee,Henry,2
+Woodstock,McHenry,12
+Bloomingdale,Dupage,8
+Roscoe,Winnebago,2
+Crest Hill,Will,4
+Geneva,Kane,2
+Dixon,Lee,2
+Palatine,Cook,76
+Quincy,Adams,4
+Beecher,Will,1
+Coal City,Grundy,1
+Round Lake,Lake,21
+Beardstown,Cass,1
+Des Plaines,Cook,222
+Round Lake Heights,Lake,15
+Round Lake Park,Lake,5
+Evanston,Cook,401
+Ford Heights,Cook,4
+Rock Falls,Whiteside,1
+Zion,Lake,46
+Bedford Park,Cook,1
+Mokena,Will,1
+Elmhurst,Dupage,20
+Worth,Cook,13
+Chicago Heights,Cook,7
+Carlinville,Macoupin,1
+Wadsworth,Lake,3
+Ottawa,La Salle,5
+Roselle,Cook,1
+De Kalb,Dekalb,1
+La Grange,Cook,12
+Mattoon,Coles,1
+Aurora,Kane,32
+Fairview Heights,Saint Clair,2
+Homewood,Cook,6
+Harrisburg,Dept Of Corrections,2
+Champaign,Champaign,10
+Long Grove,Lake,4
+Gilberts,Kane,2
+Bloomington,McLean,16
+Matteson,Cook,11
+South Holland,Cook,7
+Hazel Crest,Cook,8
+Peotone,Will,1
+Park Ridge,Cook,192
+Willow Springs,Cook,2
+Flossmoor,Cook,16
+Woodridge,Dupage,10
+Algonquin,McHenry,3
+Sterling,Whiteside,1
+Streator,La Salle,1
+Chicago,Cook,8
+Cicero,Cook,96
+Grant Park,Kankakee,1
+Elgin,Kane,43
+Silvis,Rock Island,2
+Galena,Jo Daviess,6
+Saint Charles,Kane,3
+Hanover Park,Kane,8
+Lemont,Cook,1
+Ladd,Bureau,1
+Elmwood Park,Cook,56
+Eureka,Woodford,1
+Momence,Kankakee,5
+Richton Park,Cook,1
+Bristol,Kendall,1
+Carpentersville,Lake,1
+Lockport,Will,8
+Darien,Dupage,12
+Fairfield,Wayne,1
+Fox River Grove,McHenry,3
+Medinah,Dupage,5
+Stickney,Cook,3
+Oregon,Ogle,2
+Harvard,McHenry,3
+Warrenville,Dept Of Corrections,5
+Spring Valley,Bureau,1
+Charleston,Coles,1
+Decatur,Macon,14
+Durand,Winnebago,1
+Lyons,Cook,14
+Evergreen Park,Cook,5
+Hanover Park,Dupage,13
+Downers Grove,Dupage,11
+Macomb,McDonough,4
+Lombard,Dupage,36
+Belleville,Saint Clair,2
+Bellwood,Cook,21
+Frankfort,Will,5
+Harwood Heights,Cook,28
+South Beloit,Winnebago,1
+Blue Island,Cook,17
+Gurnee,Lake,24
+Deerfield,Lake,13
+Kankakee,Kankakee,2
+Fox Lake,Lake,6
+Spring Grove,Lake,1
+Wheaton,Dupage,31
+Genoa,Dekalb,1
+Caledonia,Boone,1
+Sandwich,Dekalb,2
+Belvidere,Boone,6
+Machesney Park,Winnebago,3
+Forest Park,Cook,9
+Tinley Park,Cook,11
+Dundee,Kane,2
+
+Note: this report defines the Far_North_Side as including the following: Far North Side
+Reference: https://en.wikipedia.org/wiki/Community_areas_in_Chicago#/media/File:Map_of_the_Community_Areas_and_%27Sides%27_of_the_City_of_Chicago.svg

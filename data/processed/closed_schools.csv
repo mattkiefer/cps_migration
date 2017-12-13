@@ -1,0 +1,61 @@
+County,CAT,Reg/Cty/ Dist/Type,School,School Name,K-12,"Housed [PK -12]",Low Income,Male,Female,Hispanic,Am. Indian,Asian,Black,OPI,White,2/More,PreK,PKBil,PKSe,K,1,2,3,4,5,6,7,8,9,10,11,12,Principal,Address,City,Zip,school year
+Cook,4,15016299025,2055,Altgeld Elem School,405,438,437,241,197,5,0,0,431,0,0,2,32,0,1,42,42,40,44,39,52,54,40,52,0,0,0,0,Kenya Unique Underwood,1340 W 71st St,Chicago,60636,2012-2013
+Cook,4,15016299025,2188,Armstrong  L Elem Math & Sci,96,96,93,54,42,3,0,0,93,0,0,0,0,0,0,0,0,0,5,24,36,31,0,0,0,0,0,0,Demetrius J Bunch,5345 W Congress Pkwy,Chicago,60644,2012-2013
+Cook,4,15016299025,2061,Attucks Elem School,233,272,271,143,129,1,0,0,270,0,0,1,38,0,1,25,22,24,28,27,27,30,19,31,0,0,0,0,Brenda Cunningham,5055 S State St,Chicago,60609,2012-2013
+Cook,4,15016299025,2065,Banneker Elem School,296,332,206,169,163,4,0,0,327,0,0,1,34,0,2,38,34,24,34,37,32,37,32,28,0,0,0,0,Verona S Portis,6656 S Normal Blvd,Chicago,60621,2012-2013
+Cook,4,15016299025,2084,Bethune Elem School,340,373,365,184,189,0,1,0,369,0,0,3,31,0,2,34,36,41,37,26,39,52,47,28,0,0,0,0,Ernest D Williams,3030 W Arthington St,Chicago,60612,2012-2013
+Cook,4,15016299025,2771,Bontemps Elem School,274,311,310,149,162,1,0,0,310,0,0,0,37,0,0,28,35,25,38,23,38,28,31,28,0,0,0,0,Allen Michael Mosley,1241 W 58th St,Chicago,60636,2012-2013
+Cook,4,15016299025,3758,Buckingham Special Education Ctr,35,35,34,35,0,1,0,0,34,0,0,0,0,0,0,0,0,2,2,1,3,6,12,9,0,0,0,0,Otis Cedric Taylor,9207 S Phillips Ave,Chicago,60617,2012-2013
+Cook,4,15016299025,2114,Calhoun North Elem School,275,311,305,146,165,1,0,0,309,0,0,1,35,0,1,28,25,26,28,27,38,39,35,29,0,0,0,0,Linda Johnson-Mcclinton,2833 W Adams St,Chicago,60612,2012-2013
+Cook,4,15016299025,2845,Canter Middle School,227,227,193,106,121,9,1,3,209,0,3,2,0,0,0,0,0,0,0,0,0,0,108,119,0,0,0,0,Colleen Marie Conlan,4959 S Blackstone Av,Chicago,60615,2012-2013
+Cook,4,15016299025,2152,Delano Elem School,295,382,350,182,200,5,0,0,377,0,0,0,86,0,1,36,37,30,33,30,39,21,30,39,0,0,0,0,Mr. James McNealey,3937 W Wilcox St,Chicago,60624,2012-2013
+Cook,4,15016299025,2176,Dumas Technology Acad Elem Sch,273,317,314,167,150,0,0,0,314,0,0,3,44,0,0,29,25,26,25,29,34,38,34,33,0,0,0,0,Macqueline King,6650 S Ellis Ave,Chicago,60637,2012-2013
+Cook,4,15016299025,2189,Emmet Elem School,363,445,426,240,205,1,0,0,441,1,0,2,79,0,3,53,42,48,44,38,32,40,31,35,0,0,0,0,Jacqueline A Robinson,5500 W Madison St,Chicago,60644,2012-2013
+Cook,4,15016299025,2201,Fermi Elem School,228,234,228,123,111,2,0,1,231,0,0,0,0,0,6,23,23,22,30,31,27,32,15,25,0,0,0,0,Pamela Sanders,1415 E 70th St,Chicago,60637,2012-2013
+Cook,4,15016299025,2956,Garfield Park Prep Acad Elem Sch,154,154,129,82,72,3,0,0,150,0,0,1,0,0,0,17,14,33,34,20,21,15,0,0,0,0,0,0,Ruth Allene Miller,3250 W Monroe St,Chicago,60624,2012-2013
+Cook,4,15016299025,2221,Goldblatt Elem School,200,231,231,112,119,5,0,0,225,0,0,1,31,0,0,26,24,20,23,27,17,20,23,20,0,0,0,0,Yvette Renee Curington,4257 W Adams St,Chicago,60624,2012-2013
+Cook,4,15016299025,2812,Goodlow Elem Magnet School,335,373,354,173,200,8,0,0,356,0,0,9,38,0,0,37,35,32,45,40,39,33,34,40,0,0,0,0,Ihechi Abu Sadiki,2040 W 62nd St,Chicago,60636,2012-2013
+Cook,4,15016299025,2261,Henson Elem School,216,240,237,128,112,0,0,0,240,0,0,0,22,0,2,26,26,23,42,14,21,23,22,19,0,0,0,0,Demetrius D Hobson,1326 S Avers Ave,Chicago,60623,2012-2013
+Cook,4,15016299025,2262,Herbert Elem School,282,343,324,181,162,9,0,2,317,0,0,15,48,0,13,30,34,30,27,24,35,41,25,36,0,0,0,0,Denise James Gillespie,2131 W Monroe St,Chicago,60612,2012-2013
+Cook,4,15016299025,2295,Key Elem School,304,304,288,166,138,9,3,0,290,0,1,1,0,0,0,34,32,31,38,25,34,32,40,38,0,0,0,0,Margo Giannoulis-King,517 N Parkside Ave,Chicago,60644,2012-2013
+Cook,4,15016299025,2297,King Elem School,237,279,219,154,125,51,0,1,214,0,1,12,32,8,2,27,28,30,25,19,27,24,28,29,0,0,0,0,Shelton Lenard Flowers,740 S Campbell Ave,Chicago,60612,2012-2013
+Cook,4,15016299025,2301,Kohn Elem School,352,384,368,193,191,1,0,0,381,0,0,2,31,0,1,30,41,35,43,34,41,39,37,52,0,0,0,0,Ms. Kimberly B Bishop,10414 S State St,Chicago,60628,2012-2013
+Cook,4,15016299025,2305,Lafayette Elem School,395,460,436,253,207,280,2,2,157,0,11,8,40,17,8,42,51,40,39,40,47,40,52,44,0,0,0,0,Trisha Marie Shrode,2714 W Augusta Blvd,Chicago,60622,2012-2013
+Cook,4,15016299025,2322,Lawrence Elem School,346,382,375,186,196,5,0,0,374,0,0,3,35,0,1,32,35,36,47,29,38,50,39,40,0,0,0,0,Diedre K Coleman,9928 S Crandon Ave,Chicago,60617,2012-2013
+Cook,4,15016299025,2329,Marconi Elem Community Academy,187,227,219,115,112,0,0,0,227,0,0,0,40,0,0,26,14,21,25,17,19,21,24,20,0,0,0,0,Carolyn Dolores Epps,230 N Kolmar Ave,Chicago,60624,2012-2013
+Cook,4,15016299025,2336,May Elem Community Academy,422,456,453,213,243,1,1,0,453,0,0,1,34,0,0,47,34,48,40,45,51,49,53,55,0,0,0,0,Roger Lewis,512 S Lavergne Ave,Chicago,60644,2012-2013
+Cook,4,15016299025,2338,Mayo Elem School,376,400,394,202,198,4,0,0,372,0,0,24,24,0,0,32,34,35,55,43,34,61,33,49,0,0,0,0,Stephen D Bournes,249 E 37th St,Chicago,60653,2012-2013
+Cook,4,15016299025,2047,Morgan Elem School,201,231,205,119,112,5,0,0,225,1,0,0,30,0,0,22,21,26,33,16,32,12,21,18,0,0,0,0,Vikki O Stokes,8407 S Kerfoot Ave,Chicago,60620,2012-2013
+Cook,4,15016299025,3157,Near North Elementary School,86,86,84,71,15,24,0,0,58,0,3,1,0,0,0,0,0,2,8,11,12,18,12,23,0,0,0,0,Frederick L Williams,739 N Ada St,Chicago,60642,2012-2013
+Cook,4,15016299025,2388,Overton Elem School,336,423,373,206,217,5,0,0,391,0,0,27,86,0,1,38,42,48,47,35,27,33,35,31,0,0,0,0,Brandi L Barrett,221 E 49th St,Chicago,60615,2012-2013
+Cook,4,15016299025,2810,Owens Elem Community Academy,256,324,248,166,158,6,0,0,318,0,0,0,67,0,1,60,75,48,71,2,0,0,0,0,0,0,0,0,Trudy Vanessa Taylor,12450 S State St,Chicago,60628,2012-2013
+Cook,4,15016299025,2390,Paderewski Elem Learning Academy,172,172,172,89,83,33,0,0,138,0,1,0,0,0,0,22,19,11,23,12,24,19,22,20,0,0,0,0,Alicia C Lewis,2221 S Lawndale Ave,Chicago,60623,2012-2013
+Cook,4,15016299025,2393,Parkman Elem School,192,225,217,103,122,20,3,0,202,0,0,0,29,0,4,29,35,27,21,11,16,12,22,19,0,0,0,0,Sonja Lynette James,245 W 51st St,Chicago,60609,2012-2013
+Cook,4,15016299025,2397,Peabody Elem School,243,263,260,134,129,198,1,0,59,0,2,3,6,14,0,27,23,26,28,29,26,33,25,26,0,0,0,0,Federico Flores,1444 W Augusta Blvd,Chicago,60642,2012-2013
+Cook,4,15016299025,2940,Pershing West Elem Magnet School,239,239,160,117,122,4,1,0,227,0,2,5,0,0,0,0,0,0,0,43,51,50,43,52,0,0,0,0,Cheryl Denise Watkins,3200 S Calumet Ave,Chicago,60616,2012-2013
+Cook,4,15016299025,2408,Pope Elem School,150,169,163,83,86,18,1,0,150,0,0,0,17,1,1,24,20,14,13,19,14,14,16,16,0,0,0,0,Beverly P Jordan,1852 S Albany Ave,Chicago,60623,2012-2013
+Cook,4,15016299025,2869,Roque De Duprey Elem School,91,91,90,43,48,62,0,0,26,0,3,0,0,0,0,12,7,9,12,7,10,7,19,8,0,0,0,0,Gloria Roman,2620 W Hirsch St,Chicago,60622,2012-2013
+Cook,4,15016299025,2427,Ross Elem School,305,320,318,170,150,1,0,0,318,0,1,0,12,0,3,41,28,33,48,28,36,27,38,26,0,0,0,0,Mr. Rashid K Shabazz,6059 S Wabash Ave,Chicago,60637,2012-2013
+Cook,4,15016299025,2432,Ryerson Elem School,359,392,392,215,177,9,1,0,382,0,0,0,32,0,1,41,24,36,45,38,37,48,43,47,0,0,0,0,Takeshi M White-James,646 N Lawndale Ave,Chicago,60624,2012-2013
+Cook,4,15016299025,2447,Sexton Elem School,313,352,292,181,171,4,0,0,347,0,0,1,38,0,1,36,40,39,43,27,30,31,34,33,0,0,0,0,Nicole J M Monroe,6020 S Langley Ave,Chicago,60637,2012-2013
+Cook,4,15016299025,2439,Songhai Elem Learning Institute,289,309,276,160,149,11,0,0,296,0,1,1,19,0,1,32,34,36,38,26,29,33,27,34,0,0,0,0,Sherry Yvette Pirtle,11725 S Perry Ave,Chicago,60628,2012-2013
+Cook,4,15016299025,2466,Stewart Elem School,222,244,240,125,119,104,1,13,118,1,6,1,12,9,1,28,22,23,25,28,32,25,22,17,0,0,0,0,Dawn Marie Orlando,4525 N Kenmore Ave,Chicago,60640,2012-2013
+Cook,4,15016299025,2470,Stockton Elem School,373,461,383,269,192,145,2,16,243,3,37,15,46,11,31,61,51,36,47,25,45,31,44,33,0,0,0,0,Jill Marie Besenjak,4420 N Beacon St,Chicago,60640,2012-2013
+Cook,4,15016299025,2489,Trumbull Elem School,290,381,324,217,164,219,6,48,55,1,43,9,28,18,45,29,28,33,34,33,38,32,24,39,0,0,0,0,Ms. Venus E Shannon,5200 N Ashland Ave,Chicago,60640,2012-2013
+Cook,4,15016299025,2495,Von Humboldt Elem School,292,356,348,166,190,177,2,0,161,1,2,13,55,8,1,26,35,31,45,25,30,37,37,26,0,0,0,0,Julious Lawson,2620 W Hirsch St,Chicago,60622,2012-2013
+Cook,4,15016299025,2509,West Pullman Elem School,262,290,262,158,132,3,0,0,285,0,0,2,28,0,0,24,27,28,38,24,25,35,28,33,0,0,0,0,Taquia M Hylton,11941 S Parnell Ave,Chicago,60628,2012-2013
+Cook,4,15016299025,2932,Williams Middle Prep Academy,124,124,121,64,60,1,0,0,123,0,0,0,0,0,0,0,0,0,0,0,0,31,52,41,0,0,0,0,Theresa Vivian Rhea,2710 S Dearborn St,Chicago,60616,2012-2013
+Cook,4,15016299025,2928,Williams Multiplex Elem School,222,253,232,120,133,3,0,0,248,0,1,1,29,0,2,28,29,40,46,36,43,0,0,0,0,0,0,0,Lashonn Graham,2710 S Dearborn St,Chicago,60616,2012-2013
+Cook,4,15016299025,2216,Woods Elem Math & Science Academy,326,362,344,193,169,3,0,0,356,1,1,1,35,0,1,24,32,30,45,39,34,47,36,39,0,0,0,0,Roslyn Jamerson Armour,6206 S Racine Ave,Chicago,60636,2012-2013
+Cook,4,15016299025,2522,Yale Elem School,180,180,167,94,86,0,0,0,179,0,1,0,0,0,0,13,19,17,26,30,15,21,15,24,0,0,0,0,Mrs. Rae Brunson Webb,7025 S Princeton Ave,Chicago,60621,2012-2013
+Cook       ,4,15016299025,3752,Las Casas Occupational HS        ,42,42,40,35,7,5,0,0,37,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,6,11,4,Ekaterini A Panagakis  ,,8401 S Saginaw Ave  ,60617,2009-2010
+Cook       ,4,15016299025,2340,McCorkle Elem School             ,276,310,296,163,147,0,0,0,310,,0,0,33,0,1,36,36,32,43,15,31,31,28,24,0,0,0,0,Janet House            ,4421 S State St     ,Chicago          ,60609,2009-2010
+Cook       ,4,15016299025,2443,Schneider Elem School            ,73,73,72,40,33,15,0,0,52,2,1,3,0,0,0,0,5,6,16,11,10,10,9,6,0,0,0,0,Vivian B Edwards       ,2957 N Hoyne Ave    ,Chicago          ,60618,2010-2011
+Cook       ,4,15016299025,0804,School of the Arts High School   ,396,396,378,179,217,3,0,1,388,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,112,108,94,82,Douglas Maclin         ,7627 S Constance Ave,Chicago          ,60649,2010-2011
+Cook       ,4,15016299025,0806,School of Leadership High School ,273,273,258,132,141,2,1,0,269,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,65,88,76,Jewel Lewis            ,7627 S Constance Ave,Chicago          ,60649,2010-2011
+Cook       ,4,15016299025,0801,Chicago Discovery Academy HS     ,345,345,305,181,164,115,1,0,225,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,61,111,91,82,Kathy Farr             ,2710 E 89th St      ,Chicago          ,60617,2010-2011
+Cook       ,4,15016299025,0809,Global Visions High School       ,162,162,142,93,69,12,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,51,38,45,Latanya A Austin       ,2710 E 89th St      ,Chicago          ,60617,2010-2011
+Cook       ,4,15016299025,2233,Guggenheim Elem School           ,259,291,288,150,141,7,0,0,282,0,0,2,32,0,0,27,29,32,43,26,38,19,24,21,0,0,0,0,Vikki O Stokes         ,7141 S Morgan St    ,Chicago          ,60621,2011-2012
+Cook       ,4,15016299025,2411,Price Lit & Writing Elem School  ,111,111,110,62,49,5,0,0,106,0,0,0,0,0,0,0,0,0,0,19,27,19,19,27,0,0,0,0,Justin Lawrence Moore  ,4351 S Drexel Blvd  ,Chicago          ,60653,2011-2012
+Cook       ,4,15016299025,0008,Crane Technical Prep High School ,471,471,393,264,207,10,0,0,457,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,80,128,164,99,Richard C Smith Jr     ,2245 W Jackson Blvd ,Chicago          ,60612,2011-2012
+Cook       ,4,15016299025,0798,Dyett High School                ,320,320,289,176,144,3,1,0,311,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,63,101,87,69,Robert Melvin McMiller ,555 E 51st St       ,Chicago          ,60615,2011-2012

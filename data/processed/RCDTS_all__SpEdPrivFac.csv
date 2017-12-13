@@ -1,0 +1,743 @@
+CountyName,RecType,"Region-2 County-3 District-4",Type,School,FacilityName,Administrator,Address,City,Zip,Telephone,GradeServed,StRep,StSen,FedCong,Cat
+,,,,,,,,,,,,,,,
+Adams,Dist,10010038,0,0,Chaddock,Debbie Reed,205 S 24th St,Quincy,62301 4446,217222-0034,,94,47,18,C
+Adams,School,10010038,0,410,Chaddock,Jerry A Douglas,205 S 24th St,Quincy,62301 4446,217222-0034,,94,47,18,D
+Adams,School,10010038,0,448,Chaddock-Group Home,Jerry A Douglas,205 S 24th St,Quincy,62301 4446,217222-0034,,94,47,18,D
+Adams,School,10010038,0,449,Chaddock-Independent Living,Jerry A Douglas,205 S 24th St,Quincy,62301 4446,217222-0034,,94,47,18,D
+Adams,School,10010038,0,488,Chaddock-Integrated Attachment,Jerry Douglas,205 S 24th St,Quincy,62301 4446,217222-0034,,94,47,18,D
+Adams,School,10010038,0,594,Chaddock- Extended,Jerry A Douglas,205 S 24th St,Quincy,62301 4446,217222-0034,,,,,D
+Adams,Dist,10010224,0,0,Transitions of Western Illinois,J Michael Rein,4409 Maine St,Quincy,62305 5849,217223-0413,,94,47,18,C
+Adams,School,10010224,0,205,Transitions School,Kelle Schlueter,732 Hampshire St,Quincy,62301 3014,217223-9694,,94,47,18,D
+Adams,School,10010224,0,279,Transitions School - Intensive,Lynn A Priepot,PO Box 3646,Quincy,62305 3646,217223-9694,,94,47,18,D
+Morgan,Dist,10690171,0,0,Pathway Services Unlimited,Stephen Brundage,1905 W Morton Ave,Jacksonville,62650 2620,217479-2336,,100,50,18,C
+Morgan,School,10690171,0,188,Pathway Services Unlimited,Nancy Logsdon,1905 W Morton Ave,Jacksonville,62650 2620,217271-1552,,100,50,18,D
+Morgan,School,10690171,0,322,Pathway Services Unlimited Int,Nancy Logsdon,1905 W Morton Ave,Jacksonville,62650 2620,217271-1552,,,,,D
+Christian,Dist,30110174,0,0,Presbyterian Church USA,Michael Havera,941 N 2500 East Rd,Assumption,62510 8026,309923-3681,,95,48,13,C
+Christian,School,30110174,0,481,Kemmerer Village,Joanne Coady,941 N 2500 East Rd,Assumption,62510 8026,217226-2139,,95,48,13,D
+Winnebago,Dist,41010182,0,0,Universal Health Svcs. Rockford,Tony Wilson,3445 Elmwood Rd,Rockford,61101 9529,815282-7709,,68,34,16,C
+Winnebago,Dist,41010297,0,0,Goldie B Floberg Center,John Pingo,58 W Rockton Rd,Rockton,61072 1631,815624-8431,,69,35,16,C
+Winnebago,School,41010297,0,564,Goldie Floberg Center-Anee House,Erin Ivancich,1015 Anee Dr,Rockford,61108 4387,779423-0418,,68,34,16,D
+Winnebago,School,41010297,0,575,Goldie B Floberg - Colchester,John Pingo,8326 Colchester Dr,Machesney Park,61115 7944,779423-0739,,68,34,16,D
+Winnebago,School,41010297,0,577,Goldie B Floberg - Grayling,John Pingo,424 Grayling Dr,Rockford,61107 5333,815580-8232,,69,35,16,D
+Winnebago,School,41010297,0,578,Goldie B Floberg-Upper Ridge Way,John Pingo,6115 Upper Ridge Way,Roscoe,61073 8310,815270-0688,,68,34,16,D
+Cook,Dist,50160004,0,0,Alexander Graham Bell Montessori,Debra Trude Suter,9300 Capitol Dr,Wheeling,60090 7207,847850-5490,,57,29,10,C
+Cook,School,50160004,0,81,Alexander Graham Bell Montessori,Ms. Karla Giese,9300 Capitol Dr,Wheeling,60090 7207,847850-5490,,57,29,10,D
+Cook,School,50160004,0,370,Alexander Graham Bell Mont. INT,Karla Giese,9300 Capitol Dr,Wheeling,60090 7207,847850-5490,,,,,D
+Cook,Dist,50160011,0,0,Arlyn Day School,Judith Goldstein,3013 Illinois Rd,Wilmette,60091 1118,847256-7117,,17,9,9,C
+Cook,School,50160011,0,25,Arlyn Day School,Judith Goldstein,3013 Illinois Rd,Wilmette,60091 1118,847256-7117,,17,9,9,D
+Cook,School,50160011,0,184,Arlyn Transition Program,Judith Goldstein,3013 Illinois Rd,Wilmette,60091 1118,847256-7117,,17,9,9,D
+Cook,School,50160011,0,186,Arlyn Day School - Extended,Judith Goldstein,3013 Illinois Rd,Wilmette,60091 1118,847256-7117,,17,9,9,D
+Cook,School,50160011,0,335,Arlyn Transition Program Int,Judith Goldstein,3013 Illinois Rd,Wilmette,60091 1118,847256-7117,,17,9,9,D
+Cook,Dist,50160013,0,0,Arthur E Welby Hall,Michael Biskupski,2101 Oakton St,Park Ridge,60068 1819,847696-3315,,20,10,9,C
+Cook,School,50160013,0,524,Arthur E Welby Hall,Michael Biskupski,2101 Oakton St,Park Ridge,60068 1819,847696-3315,,20,10,9,D
+Cook,Dist,50160024,0,0,Bridge View Day School,Chris Raspante,6935 W Touhy Ave,Niles,60714 4521,847588-2038,,15,8,9,C
+Cook,School,50160024,0,33,Bridge View Day School,Chris Raspante,6935 W Touhy Ave,Niles,60714 4521,847588-2038,,15,8,9,D
+Cook,Dist,50160034,0,0,Center on Deafness,Bonita Simon,3444 Dundee Rd,Northbrook,60062 2201,847559-0110,,58,29,10,C
+Cook,School,50160034,0,37,Centerview Therapeutic-Day,Joyce Zimmerman,3444 Dundee Rd,Northbrook,60062 2201,847559-0110,,58,29,10,D
+Cook,School,50160034,0,254,Centerview Therapeutic-Day-Int,Joyce Zimmerman,3667 Salem Walk,Northbrook,60062 2201,847559-0110,,58,29,10,D
+Cook,School,50160034,0,464,Centerview Therapeutic,Joyce Zimmerman,3667 Salem Walk,Northbrook,60062 2201,847559-0110,,58,29,10,D
+Cook,School,50160034,0,543,Centerview Therapeutic-Res-Int,Joyce Zimmerman,3667 Salem Walk,Northbrook,60062 8532,847559-0110,,57,29,10,D
+Cook,Dist,50160039,0,0,Challenger Day School,Chris Raspante,6935 W Touhy Ave,Niles,60714 4521,847588-2038,,15,8,9,C
+Cook,School,50160039,0,92,Challenger Day School,Chris Raspante,6935 W Touhy Ave,Niles,60714 4521,847588-2038,,15,8,9,D
+Cook,Dist,50160040,0,0,Ombudsman Educational Services,Lori Smith,1585 N Milwaukee Ave,Libertyville,60048 1359,847367-6383,,51,26,10,C
+Cook,School,50160040,0,54,Lyons Plus,Mary Polk,6535 Joliet Rd,Countryside,60525 4650,708482-0209,,31,16,3,D
+Cook,School,50160040,0,339,DuPage Glenbard Plus,Jan Donovan,105 W Army Trail Blvd,Addison,60101 3502,630359-3553,,77,39,8,D
+Cook,School,50160040,0,365,Lake County Plus Program,Mr. Timothy Burns,706 E Hawley St,Mundelein,60060 1946,847232-4751,,,,,D
+Cook,Dist,50160063,0,0,Cove School,Dr. Sally Sover,350 Lee Rd,Northbrook,60062 1521,847562-2100,,58,29,10,C
+Cook,School,50160063,0,84,Cove School,Dr. Sally Sover,350 Lee Rd,Northbrook,60062 1521,847562-2100,,58,29,10,D
+Cook,School,50160063,0,284,Cove School - Intensive,Dr. Sally Sover,350 Lee Rd,Northbrook,60062 1521,847562-2100,,58,29,10,D
+Cook,Dist,50160087,0,0,Safe Haven School,Holly Schaefer,1834 Torrey Pkwy,Libertyville,60048 1034,847347-5535,,18,9,9,C
+Cook,School,50160087,0,262,Safe Haven School,Holly Schaefer,937 Happ Rd,Northfield,60093 1006,847509-5885,,18,9,9,D
+Cook,School,50160087,0,303,Safe Haven School Lake Bluff,Holly E Schaefer,906 Muir Ave,Lake Bluff,60044 1587,847604-3903,,58,29,10,D
+Cook,School,50160087,0,375,Safe Haven Sch L. B. Ext,Holly Schaefer,906 Muir Ave,Lake Bluff,60044,847604-3903,,,,,D
+Cook,Dist,50160115,0,0,Jeanine Schultz School,Michael Biskupski,2101 Oakton St,Park Ridge,60068 1819,847696-3315,,20,10,9,C
+Cook,School,50160115,0,264,Jeanine Schultz Memorial School,Michael Biskupski,2101 Oakton St,Park Ridge,60068 1819,847696-3315,,20,10,9,D
+Cook,Dist,50160128,0,0,Learning House,Mark C Fisher,5110 Capitol Dr,Wheeling,60090 7900,847459-8330,,57,29,10,C
+Cook,School,50160128,0,99,Learning House,Sandra Schwartz,5110 Capitol Dr,Wheeling,60090 7900,847459-8330,,57,29,10,D
+Cook,School,50160128,0,268,Learning House - Intensive,Sandra Schwartz,5110 Capitol Dr,Wheeling,60090 7900,847459-8330,,57,29,10,D
+Cook,Dist,50160135,0,0,Little City Foundation,Shawn Jeffers,1760 W Algonquin Rd,Palatine,60067 4791,847358-5510,,54,27,6,C
+Cook,School,50160135,0,428,ChildBridge Center for Education,Karoline Dean,1760 W Algonquin Rd,Palatine,60067 4791,847221-7752,,54,27,6,D
+Cook,School,50160135,0,565,ChildBridge Center for Ed-Int,Karoline Dean,1760 W Algonquin Rd,Palatine,60067 4791,847221-7752,,54,27,6,D
+Cook,Dist,50160146,0,0,Maryville Academy,Ann Craig,1150 N River Rd,Des Plaines,60016 1214,847294-1894,,57,29,10,C
+Cook,School,50160146,0,222,Maryville Jen Unit C,Ann Craig,1150 N River Rd,Des Plaines,60016 1214,847390-3020,,57,29,10,D
+Cook,School,50160146,0,223,Maryville Jen Unit C - Invest,Ann Craig,1150 N River Rd,Des Plaines,60016 1214,847390-3020,,57,29,10,D
+Cook,School,50160146,0,507,Maryville Eisenberg-Casa Salama,Evelyn Smith,951 W Bartlett Rd,Bartlett,60103 4479,847294-1726,,,,,D
+Cook,School,50160146,0,512,Maryville Eisenberg- Casa Imani,Evelyn Smith,951 W Bartlett Rd,Bartlett,60103 4479,847294-1726,,,,,D
+Cook,School,50160146,0,537,Maryville Jen Unit B,Ann Craig,1150 N River Rd,Des Plaines,60016 1214,847390-3020,,57,29,10,D
+Cook,School,50160146,0,539,Maryville Jen Unit B - Invest,Ann Craig,1150 N River Rd,Des Plaines,60016 1214,847390-3020,,57,29,10,D
+Cook,Dist,50160150,0,0,The Institute for Person Centered Enrichment,Patricia Scherer,1941 Rohlwing Rd,Rolling Meadows,60008 1338,847509-8260,,58,29,10,C
+Cook,Dist,50160153,0,0,Family Guidance Centers Inc,Kathryn Dunlap,2525 E Oakton St D45,Arlington Heights,60005 4881,847956-7912,,55,28,8,C
+Cook,School,50160153,0,90,Metropolitan Prep High School,Kathryn Dunlap,2525 E Oakton St Ste D47,Arlington Heights,60005 4808,847956-7912,,55,28,8,D
+Cook,School,50160153,0,91,Metropolitan Prep Grade School,Kathryn Dunlap,2525 E Oakton St,Arlington Heights,60005 4881,847956-7912,,55,28,8,D
+Cook,School,50160153,0,141,Laureate Day School,Kathryn Dunlap,2525 E Oakton St Ste C3,Arlington Heights,60005 4805,847803-1550,,55,28,8,D
+Cook,School,50160153,0,323,Laureate Day School Ext,Kathryn Dunlap,2525 E Oakton St Ste C3,Arlington Heights,60005 4805,847803-1550,,55,28,8,D
+Cook,School,50160153,0,324,Metropolitan Prep Grade Sch- Ext,Kathryn Dunlap,2525 E Oakton St,Arlington Heights,60005 4881,847956-7912,,55,28,8,D
+Cook,School,50160153,0,325,Metropolitan Prep HS-Ext,Kathryn Dunlap,2525 E Oakton St Ste D47,Arlington Heights,60005 4808,847956-7912,,55,28,8,D
+Cook,Dist,50160197,0,0,South Campus,Tom Dempsey,909 E Wilmette Rd,Palatine,60074 6496,847359-8300,,54,27,8,C
+Cook,School,50160197,0,87,South Campus,Tom Dempsey,909 E Wilmette Rd,Palatine,60074 6496,847359-8300,,54,27,8,D
+Cook,School,50160197,0,153,South Campus-Extended Day,Tom Dempsey,909 E Wilmette Rd,Palatine,60074 6496,847359-8300,,54,27,8,D
+Cook,Dist,50160200,0,0,Virtual Connections Academy Inc,Tanya Guild,865 E Wilmette Rd,Palatine,60074 6493,847359-8690,,,,,C
+Cook,School,50160200,0,344,Virtual Connections Academy,Tanya Guild,865 E Wilmette Rd,Palatine,60074 6493,847359-8690,,,,,D
+Cook,Dist,50160255,0,0,NewHope Academy,Brandy M Larrance,3250 N Arlington Hgts Rd,Arlington Heights,60004,847588-0463,,15,8,9,C
+Cook,School,50160255,0,50,NewHope Academy,Brandy M Larrance,3250 N Arlington Hgts Rd,Arlington Heights,60004,847588-0463,,15,8,9,D
+Cook,Dist,50160258,0,0,Northshore University Health Sys,Mark Neaman,2650 Ridge Ave,Evanston,60201 1718,847570-2010,,18,9,9,C
+Cook,School,50160258,0,111,Evanston Day School,Kathleen Hart,3633 W Lake Ave Ste 200,Glenview,60026 5802,847486-8705,,17,9,10,D
+Cook,Dist,50160270,0,0,Camelot Education,Todd Bock,7500 Rialto Blvd Ste 260,Austin,78735 8531,512858-9900,,,,,C
+Cook,School,50160270,0,49,Camelot Therapeutic-Naperville,Michael Gurley,1220 Bond St,Naperville,60563 2757,630355-0200,,41,21,11,D
+Cook,School,50160270,0,57,Camelot Northwest Cntr forAutism,Jennifer Johnson,509 Oak St,DeKalb,60115 3360,815787-4144,,70,35,16,D
+Cook,School,50160270,0,107,Camelot Northwest Cntr for Autism,Jennifer Johnson,509 Oak St,DeKalb,60115 3360,815787-4144,,70,35,16,D
+Cook,School,50160270,0,131,Camelot Ther-Naperville Int,Michael Gurley,1220 Bond St,Naperville,60563 2757,630355-0200,,41,21,11,D
+Cook,School,50160270,0,132,Camelot Therap-Mt. Prospect-Int,Nicole Davenport,580 Slawin Ct,Mt Prospect,60056 2183,224618-8338,,57,29,10,D
+Cook,School,50160270,0,167,Camelot Ther-Hoffman Estates,Andrew Derwin,5135 Trillium Blvd,Hoffman Estates,60192 3600,224402-7408,,52,26,8,D
+Cook,School,50160270,0,168,Camelot Ther-Hoffman Estates Int,Andrew Derwin,5135 Trillium Blvd,Hoffman Estates,60192 3600,630897-4321,,52,26,8,D
+Cook,School,50160270,0,217,Camelot - Kankakee Campus,Nicole Davenport,650 N Convent St,Bourbonnais,60914 1332,815602-8200,,79,40,2,D
+Cook,School,50160270,0,218,Camelot - Kankakee Campus Int,Nicole Davenport,650 N Convent St,Bourbonnais,60914 1332,815602-8200,,79,40,2,D
+Cook,School,50160270,0,304,Camelot of Belvidere,Heather Nelson,7133 Garden Prairie Rd,Garden Prairie,61038 9774,815597-8760,,,,,D
+Cook,School,50160270,0,305,Camelot of Belvidere-Int,Craig Reveter,7133 Garden Prairie Rd,Garden Prairie,61038 9774,815597-8760,,,,,D
+Cook,School,50160270,0,336,Camelot of the Quad Cities,Debra Singley,3601 69th Ave,Moline,61265 9798,309517-6330,,71,36,17,D
+Cook,School,50160270,0,337,Camelot of the Quad Cities Int,Debra Singley,3601 69th Ave,Moline,61265 9798,309517-6330,,71,36,17,D
+Cook,School,50160270,0,351,Camelot Therapeutic-Mt. Prospect,Nicole Davenport,580 Slawin Ct,Mt Prospect,60056 2183,224612-8338,,57,29,10,D
+Cook,Dist,50160305,0,0,Joseph Academy,Mike Schack,1101 Gregory St,Des Plaines,60016 1231,847826-0584,,57,29,10,C
+Cook,School,50160305,0,106,Joseph Academy - Melrose Park,Mike Schack,1100 N 22nd Ave,Melrose Park,60160 3116,708345-4500,,77,39,4,D
+Cook,School,50160305,0,165,Joseph Academy - Des Plaines,Bob Malek,1101 Gregory St,Des Plaines,60016 1231,847803-1930,,57,29,10,D
+Cook,School,50160305,0,231,Joseph Academy at Hometown,Laura Capparelli,9003 S Kostner Ave,Hometown,60456 1007,708952-1100,,31,16,3,D
+Cook,School,50160305,0,340,Joseph Academy- Melrose Park Int,Mike Schack,1100 N 22nd Ave,Melrose Park,60160 3116,708345-4500,,77,39,4,D
+Cook,School,50160305,0,341,Joseph Academy- Des Plaines Int,Michael Schack,1101 Gregory St,Des Plaines,60016 1231,847803-1930,,57,29,10,D
+Cook,School,50160305,0,342,Joseph Academy at Hometown Int,Laura Capparelli,90003 S Kostner Ave,Hometown,60456,708952-1100,,31,16,3,D
+Cook,Dist,50160308,0,0,Leslie Shankman School Corp,Diana Kon,6245 S Ingleside Ave,Chicago,60637 2621,773420-2900,,26,13,1,C
+Cook,School,50160308,0,51,Hyde Park Day School,Jay Allan Smith,6254 S Ellis Ave,Chicago,60637,773420-2550,,26,13,1,D
+Cook,School,50160308,0,53,Hyde Park Day School-North,Melanie Hodak,1980 Old Willow Rd,Northfield,60093 2913,847446-7025,,18,9,9,D
+Cook,School,50160308,0,60,Sonia Shankman Ortho Day - Int,Michelle Zarrilli,6245 S Ingleside Ave,Chicago,60637 2621,773420-2887,,26,13,1,D
+Cook,School,50160308,0,117,Sonia Shankman Orthogenic-Day,Michelle Zarrilli,6245 S Ingleside Ave,Chicago,60637 2621,773420-2887,,26,13,1,D
+Cook,School,50160308,0,450,Sonia Shankman Orthogenic,Michelle Zarrilli,6245 S Ingleside Ave,Chicago,60637 2621,773420-2887,,26,13,1,D
+Cook,School,50160308,0,482,Sonia Shankman Orthogenic - Int,Michelle Zarrilli,6245 S Ingleside Ave,Chicago,60637 2621,773420-2887,,26,13,1,D
+Cook,Dist,50160318,0,0,Orchard Village,Timothy Bobrowski,7679 Marmora Ave,Skokie,60077,847967-1800,,15,8,9,C
+Cook,School,50160318,0,179,Orchard Academy,Kenneth S Kozin,7669 Marmora Ave,Skokie,60077 2628,847967-1800,,15,8,9,D
+Cook,School,50160318,0,214,Orchard Academy - Intensive,Kenneth S Kozin,7669 Marmora Ave,Skokie,60077 2628,847967-1800,,15,8,9,D
+Cook,Dist,50160668,0,0,New Connections Academy Inc,Tanya Guild,865 E Wilmette Rd,Palatine,60074 6493,847359-8690,,54,27,8,C
+Cook,School,50160668,0,176,New Connections Academy,Tanya Guild,865 E Wilmette Rd,Palatine,60074 6493,847359-8690,,54,27,8,D
+Cook,School,50160668,0,280,New Connections - Ext Day,Tanya Guild,865 E Wilmette Rd,Palatine,60074 6493,847359-8690,,54,27,8,D
+Cook,Dist,60160002,0,0,Achievement Centers,Kathryn Fouks,6425 Willow Springs Rd,La Grange Highlands,60525 4468,708579-9040,,31,16,3,C
+Cook,School,60160002,0,12,Acacia Academy,Kathryn Fouks,6425 Willow Springs Rd,La Grange Highlands,60525 4468,708579-9040,,31,16,3,D
+Cook,School,60160002,0,58,Acacia Academy - Intensive,Kathryn Fouts,6425 Willow Springs Rd,La Grange Highlands,60525 4468,708579-9040,,31,16,3,D
+Cook,Dist,60160143,0,0,Britten School,Elaine Moor,10110 Gladstone Str,Westchester,60154,708343-7500,,24,12,4,C
+Cook,School,60160143,0,15,Britten School,Elaine Moor,10110 Gladstone St,Westchester,60154 2614,708343-7500,,7,4,7,D
+Cook,Dist,60160215,0,0,Streamwood Behavioral Healthcare,Dr. Ronald Weglarz,1400 E Irving Park Rd,Streamwood,60107 3201,630837-9000,,44,22,8,C
+Cook,School,60160215,0,277,Innovations Academy,Dr. Joyce Nelson,1360 E Irving Park Rd,Streamwood,60107 3202,630540-3900,,44,22,8,D
+Cook,School,60160215,0,297,Innovations Academy - Intensive,Dr. Joyce Nelson,1360 E Irving Park Rd,Streamwood,60107 3202,630540-3900,,44,22,8,D
+Cook,School,60160215,0,306,Innovations Acad-HS Voc. ED,Dr. Joyce Nelson,1360 E Irving Park Rd,Streamwood,60107 3202,630540-3900,,44,22,8,D
+Cook,School,60160215,0,348,Innovations Acad-HS Voc Ed Int,Dr. Joyce Nelson,1360 E Irving Park Rd,Streamwood,60107 3202,630540-3900,,,,,D
+Cook,Dist,60160289,0,0,Helping Hand Center,Mary Beth Hepp,9649 W 55th St,Countryside,60525 3632,708352-3580,,23,12,3,C
+Cook,School,60160289,0,333,Helping Hand School,Sally Wilson-Gamble,9649 W 55th St,Countryside,60525 3632,708352-3580,,23,12,3,D
+Cook,Dist,60160663,0,0,Riveredge Hospital,Carey E Carlock,8311 Roosevelt Rd,Forest Park,60130 2529,708209-4182,,7,4,7,C
+Cook,School,60160663,0,558,Roosevelt Academy,Ben Frank,8311 Roosevelt Rd,Forest Park,60130 2529,708771-7000,,7,4,7,D
+Cook,Dist,70160001,0,0,AAA Academy,Mrs. Freda McArthur,13801 Chatham St,Blue Island,60406 3219,708206-0000,,30,15,1,C
+Cook,School,70160001,0,120,AAA Academy,Shelton Flowers,13801 Chatham St,Blue Island,60406 3219,708206-0000,,30,15,1,D
+Cook,Dist,70160021,0,0,Blue Island Ctz for Pers W/DD,Anthony A DiVittorio,2155 Broadway St,Blue Island,60406 3050,708389-6578,,28,14,1,C
+Cook,School,70160021,0,35,Blue Cap School,Jill Pertchi,1962 Broadway St,Blue Island,60406 3002,708389-8137,,28,14,1,D
+Cook,Dist,70160050,0,0,Childrens Habilitation Center,Pam Markle,121 W 154th St,Harvey,60426 3552,708596-2220,,30,15,2,C
+Cook,School,70160050,0,353,Childrens Habilitation Center,Jane L Lurquin,121 W 154th St,Harvey,60426 3552,708596-2220,,30,15,2,D
+Cook,Dist,70160081,0,0,Elim Christian School,Mike Otte,13020 S Central Ave,Palos Heights,60463 2410,708389-0555,,27,14,1,C
+Cook,School,70160081,0,108,Elim Christian School-Day,Mike Otte,13020 S Central Ave,Palos Heights,60463 2410,708389-0555,,27,14,1,D
+Cook,School,70160081,0,147,Elim Christian School-Intensive,Mike Otte,13020 S Central Ave,Palos Heights,60463 2410,708389-0555,,27,14,1,D
+Cook,School,70160081,0,350,Elim Pathways,Mr. Mike Otte,13020 S Central Ave,Palos Heights,60463 2410,708389-0555,,,,,D
+Cook,Dist,70160183,0,0,iCan Dream Center,Dr. Evisha Ford,17508 E Carriageway Dr Unit A/D,Hazel Crest,60429 2075,708798-4200,,38,19,2,C
+Cook,School,70160183,0,320,iCan Dream Center,Dr. Evisha Ford,17508 E Carriageway Dr Unit A/D,Hazel Crest,60429 2075,708798-4200,,38,19,2,D
+Cook,Dist,70160309,0,0,Chicago Autism Academy,Laura A Hartwell,21133 S 80th Ave,Frankfort,60423 9179,815806-2900,,37,19,1,C
+Cook,School,70160309,0,121,Chicago Autism Academy,Laura Hartwell,21133 S 80th Ave,Frankfort,60423 9179,815806-2900,,37,19,1,D
+Cook,Dist,70160311,0,0,St Coletta of Illinois,Annette Skafgaard,18350 Crossing Dr,Tinley Park,60487 6294,708342-5278,,37,19,1,C
+Cook,School,70160311,0,129,Lt Joseph P Kennedy School,Cynthia James,18350 Crossing Dr,Tinley Park,60487 6294,708342-5278,,37,19,1,D
+Cook,School,70160311,0,183,Lt Joseph P Kennedy School - Int,Cynthia James,18350 Crossing Dr,Tinley Park,60487 6294,708342-5278,,37,19,1,D
+Cook,School,70160311,0,215,Lt Joseph P Kennedy - Special,Cynthia James,18350 Crossing Dr,Tinley Park,60487 6294,708342-5278,,37,19,1,D
+Cook,School,70160311,0,266,Lt Joseph P Kennedy Early Child,Cynthia James,18350 Crossing Dr,Tinley Park,60487 6294,708342-5278,,37,19,1,D
+Stephenson,Dist,80890163,0,0,Norman C Sleezer Youth Home,Cara Williams,1401 S Sleezer Home Rd,Freeport,61032 2514,815232-8336,,89,45,17,C
+Stephenson,School,80890163,0,483,Norman C Sleezer Youth Home,Cara Williams,1401 S Sleezer Home Rd,Freeport,61032 2514,815232-8336,,89,45,17,D
+Champaign,Dist,90100030,0,0,Carle Foundation,James Leonard,805 W Park St,Urbana,61801 2522,217383-4800,P-12,103,52,13,C
+Champaign,School,90100030,0,180,Carle Auditory Oral School,Danielle M Darcy,805 W Park St,Urbana,61801 2522,217326-2824,,103,52,13,D
+Champaign,Dist,90100067,0,0,Cunningham Childrens Home,Marlin Livingston,1301 N Cunningham Ave,Urbana,61802 1830,217367-3728,,103,52,13,C
+Champaign,School,90100067,0,6,Cunningham-Circle Academy,Linda K Fox,1204 N Division Ave,Urbana,61801 1870,217367-6923,,103,52,13,D
+Champaign,School,90100067,0,86,Gerber School-Cunningham (Day),Jennifer Rohn,1301 N Cunningham Ave,Urbana,61802 1830,217367-4064,,103,52,13,D
+Champaign,School,90100067,0,133,Gerber School-Cunningham (Int),Jennifer Rohn,1301 N Cunningham Ave,Urbana,61802 1830,217367-4064,,103,52,13,D
+Champaign,School,90100067,0,134,Cunningham-Circle Academy (Int),Linda K Fox,1204 N Division Ave,Urbana,61801 1870,217367-6923,,103,52,13,D
+Champaign,School,90100067,0,321,Circle Academy-Vermilion,Linda K Fox,351 N Chicago St,Rossville,60963 1031,217769-0030,,106,53,15,D
+Champaign,School,90100067,0,455,Cunningham-Kendall Gill,Jessica Farmer,208 E Washington St,Urbana,61801 4227,217328-2662,,103,52,13,D
+Champaign,School,90100067,0,458,Cunningham-Girls,Todd Wagner,1301 N Cunningham Ave,Urbana,61802 1830,217359-0528,,103,52,13,D
+Champaign,School,90100067,0,466,Gerber School-Cunningham,Jennifer Rohn,1301 N Cunningham Ave,Urbana,61802 1830,217367-4064,,103,52,13,D
+Champaign,School,90100067,0,527,Gerber School-Cunningham (Combo),Jennifer Rohn,1301 N Cunningham Ave,Urbana,61802 1830,217337-4064,,103,52,13,D
+Champaign,Dist,90100172,0,0,Universal Health System,Joseph Sheehy,809 W Church St,Champaign,61820 3320,217373-1700,,103,52,13,C
+Champaign,School,90100172,0,30,Pavilion Foundation School-Day,Jesse McFarling,810 W Church St,Champaign,61820 3321,217373-1889,,103,52,13,D
+Champaign,School,90100172,0,329,Pavilion Foundation Sch - Day Int,Jesse McFarling,801 W Church St,Champaign,61820,217373-1899,,103,52,13,D
+Champaign,School,90100172,0,405,Pavilion Foundation School,Ann Robinson,810 W Church St,Champaign,61820 3321,217373-1889,,103,52,13,D
+Jefferson,Dist,130410229,0,0,Spero Family Services,John Shadowens,2023 Richview Rd,Mount Vernon,62864 2884,618242-1070,,115,58,12,C
+Jefferson,School,130410229,0,536,Spero Academy,Trina Whipple,2023 Richview Rd,Mount Vernon,62864 2884,618242-1070,,115,58,12,D
+Jefferson,School,130410229,0,547,Spero Academy Transitional,Kay Zibby,2023 Richview Rd,Mount Vernon,62864 2884,618242-1070,,115,58,12,D
+Washington,Dist,130950109,0,0,Hoyleton Youth & Family Services,Christopher L Cox,8 Executive Dr Ste 200,Fairview Heights,62208 1350,618493-7382,,108,54,15,C
+Washington,School,130950109,0,467,Hoyleton Youth & Family-Main,Christopher L Cox,325 N Main St,Hoyleton,62803,618493-7382,,108,54,15,D
+Washington,School,130950109,0,469,Hoyleton Youth & Family-Skyview,Christopher L Cox,29 E Elm St,Hoyleton,62803,618493-7382,,108,54,15,D
+Washington,School,130950109,0,470,Hoyleton Youth & Family-TLC,Christopher L Cox,85 E Elm St,Hoyleton,62803,618493-7382,,108,54,15,D
+Washington,School,130950109,0,471,Hoyleton Youth & Family-Koelling,Christopher L Cox,350 N Main St,Hoyleton,62803 2006,618493-7382,,108,54,15,D
+Washington,School,130950109,0,472,Hoyleton Youth & Family-Elm,Christopher L Cox,115 E Elm St,Hoyleton,62803,618493-7382,,108,54,15,D
+Cook,Dist,150160003,0,0,Ada S McKinley Community Services,George Jones Jr,725 S Wells St Ste 1A,Chicago,60607 4577,312554-0600,,6,3,7,C
+Cook,Dist,150160009,0,0,Chicago-Catholic Charities,Deborah L Hays,2060 W Granville Ave,Chicago,60659 3097,773273-4529,,16,8,9,C
+Cook,School,150160009,0,359,Misericordia School,Deborah L Hays,2060 W Granville Ave,Chicago,60659 3097,773273-4744,,16,8,9,D
+Cook,Dist,150160014,0,0,Associated Talmud Torahs,Rabbi  Ralzman,3531 Madison St,Skokie,60076 2958,773973-2828,,16,8,9,C
+Cook,School,150160014,0,5,Keshet Day School,Dr. Melinda Remaly,3210 Dundee Rd,Northbrook,60062 2341,847205-0274,,58,29,10,D
+Cook,School,150160014,0,7,Keshet High School,Dr. Melinda Remaly,8233 Central Park Ave,Skokie,60076 2908,773262-1160,,16,8,9,D
+Cook,School,150160014,0,109,Keshet Day School-Intensive,Dr. Melinda Remaly,3531 Madison St,Skokie,60076 2958,773973-2828,,58,29,10,D
+Cook,School,150160014,0,114,Keshet High School-Intensive,Dr. Melinda Remaly,3531 Madison St,Skokie,60076 2958,773973-2828,,16,8,9,D
+Cook,School,150160014,0,338,Keshet Transition Program,Dr. Melinda Remaly,8111 N St. Louis Ave,Skokie,60076,847983-1119,,16,8,9,D
+Cook,School,150160014,0,343,Keshet Transition Prg Int,Dr. Melinda Remaly,8111 Saint Louis Ave,Skokie,60076 2968,773973-2828,,16,8,9,D
+Cook,Dist,150160017,0,0,Beacon Therapeutic School,Susan Reyna-Guerrero,1912 W 103rd St,Chicago,60643 2625,773298-1243,,35,18,1,C
+Cook,School,150160017,0,252,Beacon - Cal Park - Autism,Joan Gross,12440 S Ada St,Calumet Park,60827 5802,708388-3183,,28,14,1,D
+Cook,School,150160017,0,253,Beacon - Main - Autism,Lawrence A Wyrobek,10650 S Longwood Dr,Chicago,60643 2617,773881-1005,,35,18,3,D
+Cook,Dist,150160035,0,0,One Hope United,David McDonnell,111 E Wacker Dr Ste 325,Chicago,60601 4380,312949-5612,,5,3,7,C
+Cook,School,150160035,0,82,CARE Day School,Ann Deuel,215 N Milwaukee Ave,Lake Villa,60046 8529,847245-6584,,64,32,14,D
+Cook,School,150160035,0,412,CARE,Ann Deuel,215 N Milwaukee Ave,Lake Villa,60046 8529,847245-6584,,64,32,14,D
+Cook,Dist,150160045,0,0,Chicago Lighthouse,Janet Szlyk,1850 W Roosevelt Rd,Chicago,60608 1200,312666-1331,,9,5,7,C
+Cook,School,150160045,0,61,Chicago Lighthouse,Lee Burklund,1850 W Roosevelt Rd,Chicago,60608 1200,312666-1331,,9,5,7,D
+Cook,Dist,150160051,0,0,Childrens Home and Aid Society,Nancy Ronquillo,125 S Wacker Dr,Chicago,60606 4424,312424-6801,,9,5,7,C
+Cook,School,150160051,0,418,Rice Childrens Cntr (residential),Melissa Ludington,1101 Washington St,Evanston,60202 1619,847866-3800,,18,9,9,D
+Cook,Dist,150160077,0,0,Easter Seals Metropolitan Chicago,E Timothy Muri,1939 W 13th St Ste 300,Chicago,60608 1237,312491-4110,,9,5,7,C
+Cook,School,150160077,0,70,Easter Seals Therapeutic-South,Maryellen Bucci,17300 Ozark Ave,Tinley Park,60477 2693,708802-9050,,38,19,1,D
+Cook,School,150160077,0,95,Easter Seals Therapeutic,Sarah Rose,1939 W 13th St,Chicago,60608 1236,312432-1751,,9,5,7,D
+Cook,School,150160077,0,173,Easter Seals Therapeutic - Int,Sarah Rose,1939 W 13th St,Chicago,60608 1236,312432-1751,,9,5,7,D
+Cook,School,150160077,0,199,Easter Seals Therap - Rockford,Jacque Ruch,615 S 5th St,Rockford,61104 3021,815965-6745,,67,34,17,D
+Cook,School,150160077,0,200,Easter Seals Therap-Rockford-Int,Jacque Ruch,615 S 5th St,Rockford,61104 3021,815965-6745,,67,34,17,D
+Cook,School,150160077,0,216,Easter Seals South - Intensive,Maryellen Bucci,17300 Ozark Ave,Tinley Park,60477 2693,708802-9050,,38,19,1,D
+Cook,Dist,150160083,0,0,Esperanza Community Services,Joy Decker,520 N Marshfield Ave,Chicago,60622 6731,312243-6097,,10,5,5,C
+Cook,School,150160083,0,110,Esperanza School,Cindy Dombkowski,520 N Marshfield Ave,Chicago,60622 6731,312243-6097,,10,5,5,D
+Cook,School,150160083,0,157,Esperanza School - Intensive,Cindy Dombkowski,520 N Marshfield Ave,Chicago,60622 6731,312243-6097,,10,5,5,D
+Cook,Dist,150160091,0,0,Gateway to Learning,Cheryl Hennely,4925 N Lincoln Ave,Chicago,60625 2609,773784-3200,,13,7,5,C
+Cook,School,150160091,0,113,Gateway to Learning,Cheryl Hennelly,4925 N Lincoln Ave,Chicago,60625 2609,773784-3200,,13,7,5,D
+Cook,Dist,150160127,0,0,Lawrence Hall Youth Services,Kara Teeple,4833 N Francisco Ave,Chicago,60625 3640,773769-3500,,13,7,5,C
+Cook,School,150160127,0,430,Lawrence Hall-Institutional,Victoria Hicks,4833 N Francisco Ave,Chicago,60625 3640,773769-3511,,13,7,5,D
+Cook,School,150160127,0,588,Lawrence Hall-Ashland,Tracy Levine,65 E Wacker Pl,Chicago,60601 7296,773973-1809,,5,3,7,D
+Cook,School,150160127,0,589,Lawrence Hall-Lakewood,Tracy Levine,65 E Wacker Pl,Chicago,60601 7296,773262-0892,,5,3,7,D
+Cook,Dist,150160131,0,0,Lester and Rosalie Anixter Center,Dr. Terese Garate,2001 N Clybourn Ave,Chicago,60614 4036,773761-1501,,14,7,9,C
+Cook,School,150160131,0,31,Stuart G Ferst School-Intensive,Mo Buti,6050 N California Ave,Chicago,60659 3916,773761-4651,,16,8,9,D
+Cook,School,150160131,0,40,Stuart G Ferst - Therapeutic Day,Mo Buti,6050 N California Ave,Chicago,60659 3916,773761-4651,,16,8,9,D
+Cook,Dist,150160162,0,0,New Horizon Center,Patricia Palmer,6737 W Forest Preserve Ave,Chicago,60634 1470,773286-6226,,19,10,5,C
+Cook,School,150160162,0,143,New Horizon Center-Intensive,Kathleen Nelson,6737 W Forest Preserve Ave,Chicago,60634 1470,773286-6226,,19,10,5,D
+Cook,School,150160162,0,172,New Horizon Center,Kathleen Nelson,6737 W Forest Preserve Ave,Chicago,60634 1470,773286-6226,,19,10,5,D
+Cook,Dist,150160169,0,0,PACTT Learning Center,Kristen Gottschling,7101 N Greenview Ave,Chicago,60626 2628,773338-9102,,14,7,9,C
+Cook,School,150160169,0,3,PACTT Learning Center,Paula Jablonski,7101 N Greenview Ave,Chicago,60626 2628,773338-9102,,14,7,9,D
+Cook,School,150160169,0,209,PACTT Learning Center - Int,Paula Jablonski,7101 N Greenview Ave,Chicago,60626 2628,773338-9102,,14,7,9,D
+Cook,School,150160169,0,243,PACTT Transition Program,Paula Jablonski,7101 N Greenview Ave,Chicago,60626 2628,773338-9102,,14,7,9,D
+Cook,School,150160169,0,427,PACTT-Oak Park,Paula Jablonski,714 Belleforte Ave,Oak Park,60302 1579,773338-9102,,78,39,7,D
+Cook,School,150160169,0,562,PACTT - Elmwood Park Group Home,Paula Jablonski,7914 W Cortland Pkwy,Elmwood Park,60707 3524,773338-9102,,78,39,5,D
+Cook,Dist,150160185,0,0,Rush Medical Center,Larry Goodman,1653 W Congress Pkwy,Chicago,60612 3833,312942-5000,,9,5,7,C
+Cook,School,150160185,0,220,Rush University Medical Center,Jean Heideman,2150 W Harrison St,Chicago,60612 3706,312942-6627,,9,5,7,D
+Cook,Dist,150160198,0,0,South Central Community Services,Felicia Blasingame,8316 S Ellis Ave,Chicago,60619 5509,773483-0900,,33,17,1,C
+Cook,School,150160198,0,20,South Central School-Main Campus,Geneva Reynolds,1021 E 83rd St,Chicago,60619 5505,773483-0900,,33,17,1,D
+Cook,School,150160198,0,226,South Central School,Geneva Reynolds,7550 S Phillips Ave,Chicago,60649 3724,773374-2223,,25,13,2,D
+Cook,Dist,150160222,0,0,Thresholds,Mark Ishaug,120 S LA Salle St,Chicago,60603 3403,773572-5200,,11,6,5,C
+Cook,School,150160222,0,235,Thresholds-Loren Juhl High School,Tom Moore,4219 N Lincoln Ave,Chicago,60618 2901,773537-3029,,11,6,5,D
+Cook,School,150160222,0,420,Thresholds-James House,Leah Seligman,4448 N Kimball Ave,Chicago,60625 5416,773537-3024,,40,20,4,D
+Cook,School,150160222,0,423,Thresholds-Dianes House,Leah Seligman,2041 W Arthur Ave,Chicago,60645 5516,773537-3024,,16,8,9,D
+Cook,School,150160222,0,424,Thresholds-Mary Hill House,Leah Seligman,7356 N Winchester Ave,Chicago,60626 1509,773537-3024,,14,7,9,D
+Cook,School,150160222,0,596,Thresholds - Excel,Patricia Biggs,2352 W Touhy Ave Ste 1K,Chicago,60645 3442,773537-3376,,,,,D
+Cook,Dist,150160228,0,0,UCAN,Zachary W Schrantz,3605 W Fillmore St,Chicago,60624 4310,773588-0180,,40,20,4,C
+Cook,School,150160228,0,39,Ucan,Cherilyn Thomas,3110 W Grand Ave,Chicago,60622 4324,773722-3097,,4,2,7,D
+Cook,School,150160228,0,89,Ucan/High School,Cherilyn Thomas,3110 W Grand Ave,Chicago,60622 4324,773722-3097,,4,2,7,D
+Cook,School,150160228,0,300,UCAN Cal Park,Ms. Cherilyn Thomas,12440 S Ada St,Calumet Park,60827 5802,708388-3183,,,,,D
+Cook,School,150160228,0,366,UCAN Cal Park - Intensive,Ms. Cherilyn Thomas,12440 S Ada St,Calumet Park,60827 5802,708388-3183,,,,,D
+Cook,School,150160228,0,379,UCAN Longwood,Ms. Cherilyn Thomas,10650 S Longwood Dr,Chicago,60643 2617,773881-1005,,,,,D
+Cook,School,150160228,0,380,UCAN Longwood - Intensive,Ms. Cherilyn Thomas,10650 S Longwood Dr,Chicago,60643 2617,773881-1005,,,,,D
+Cook,Dist,150160243,0,0,Jewish Child & Family Services,Sandra Spicher,216 W Jackson Blvd,Chicago,60606 6909,312357-4800,,6,3,7,C
+Cook,School,150160243,0,79,Jewish Bureau-Therapeutic,Sandra Spicher,3145 W Pratt Blvd,Chicago,60645 4125,773467-3900,,16,8,9,D
+Cook,School,150160243,0,227,Jewish Bureau  Therapeutic - Int,Sandra Spicher,3145 W Pratt Blvd,Chicago,60645 4125,773467-3900,,16,8,9,D
+McLean,Dist,170640015,0,0,Baby Fold,Dianne Schultz,108 E Willow St,Normal,61761 1640,309452-1170,,105,53,18,C
+McLean,School,170640015,0,32,Hammitt School-Day,Rhonda Howard,108 E Willow St,Normal,61761 1640,309452-1170,,105,53,18,D
+McLean,School,170640015,0,249,Hammitt Day - Challenges Autism,Melody Donnnelly,108 E Willow St,Normal,61761 1640,309452-1170,,105,53,18,D
+McLean,School,170640015,0,250,Hammitt Jr/Sr-Challenges Autism,Miranda Braye,1500 Fort Jesse Rd Ste A,Normal,61761 1981,309452-1790,,105,53,18,D
+McLean,School,170640015,0,270,Hammitt Junior-Senior High Sch,Miranda Braye,1500 Fort Jesse Rd,Normal,61761 1981,309452-1790,,105,53,18,D
+McLean,School,170640015,0,516,Hammitt Residential,Dianne Schultz,614 Oglesby Ave,Normal,61761 1888,309452-1170,,105,53,18,D
+McLean,Dist,170640333,0,0,Ausome Academy,Kim Williamson,403 Kays Dr,Normal,61761 1958,309662-5050,,,,,C
+Dupage,Dist,190220096,0,0,PPAG LLC,Melissa Waxler,900 S Park Blvd,Streamwood,60107 2135,630823-8323,,44,22,8,C
+Dupage,School,190220096,0,175,Parkland Preparatory Academy,Sarah Commike,900 S Park Blvd,Streamwood,60107 2135,630823-8323,,44,22,8,D
+Dupage,School,190220096,0,221,Parkland Preparatory Academy-Int,Sarah Commike,900 S Park Blvd,Streamwood,60107 2135,630823-8323,,44,22,8,D
+Dupage,School,190220096,0,371,Parkland Prep Acad Plainfield,Melissa Waxler,27040 W 127th St,Plainfield,60585 5000,630636-9732,,,,,D
+Dupage,School,190220096,0,372,Parkland Prep Acad Plainfield INT,Melissa Waxler,27040 W 127th St,Plainfield,60585 5000,630636-9732,,,,,D
+Dupage,Dist,190220108,0,0,Turning Pointe Autism Foundation,Carrie Provenzale,1500 W Ogden Ave,Naperville,60540 3919,630570-7948,,41,21,11,C
+Dupage,School,190220108,0,271,Turning Pointe CN Day School,Bernadette Bassett,1500 W Ogden Ave,Naperville,60540 3919,630615-6037,,41,21,11,D
+Dupage,Dist,190220110,0,0,Guiding Light Counseling & Ed Ctr,William Palmer,1051 Internationale Pkwy,Woodridge,60517 4945,630783-0100,,85,43,11,C
+Dupage,School,190220110,0,318,Guiding Light Academy,Colleen Sheehan,1051 Internationale Pkwy,Woodridge,60517 4945,630739-7500,,85,43,11,D
+Dupage,School,190220110,0,363,Guiding Light Academy Int,Colleen Sheehan,1051 Internationale Pkwy,Woodridge,60517 4945,630739-7500,,,,,D
+Dupage,Dist,190220114,0,0,Abraxas Youth & Family Services,Eileen Roberts,2221 64th St,Woodridge,60517 2180,630824-4575,,85,43,11,C
+Dupage,School,190220114,0,247,Abraxas Naperville Bridge Program,Eileen Roberts,2221 64th St,Woodridge,60517 2180,630824-4575,,85,43,11,D
+Dupage,School,190220114,0,261,Abraxas Naperville Bridge-Int,Eileen Roberts,2221 64th St,Woodridge,60517 2180,630824-4575,,85,43,11,D
+Dupage,School,190220114,0,327,Abraxas Meridian North,Eileen Roberts,2221 64th St,Woodridge,60517 2180,630824-4575,,81,41,11,D
+Dupage,Dist,190220117,0,0,Northern IL Academy,Carolyn Willandt,998 Corporate Blvd,Aurora,60502 9102,630952-2208,,83,42,11,C
+Dupage,School,190220117,0,556,Northern IL Academy,Jennifer Marriot,998 Corporate Blvd,Aurora,60502 9102,630952-2208,,83,42,11,D
+Dupage,School,190220117,0,557,Northern IL Academy - Int,Jennifer Marriot,998 Corporate Blvd,Aurora,60502 9102,630952-2208,,83,42,11,D
+Dupage,School,190220117,0,561,Northern IL Academy - Autism,Jennifer Marriot,998 Corporate Blvd,Aurora,60502 9102,630952-2208,,83,42,11,D
+Dupage,School,190220117,0,568,Northern IL Academy - Autism Int,Jennifer Marriot,998 Corporate Blvd,Aurora,60502 9102,630952-2208,,83,42,11,D
+Dupage,Dist,190220136,0,0,Little Friends,Camille Smith,140 N Wright St,Naperville,60540 4748,630355-6533,,41,21,6,C
+Dupage,School,190220136,0,67,Little Friends-Bridge-Intensive,Camille Smith,619 E Franklin Ave,Naperville,60540 4693,630355-6870,,81,41,11,D
+Dupage,School,190220136,0,145,Little Friends-Krejci/Mansion,Camille Smith,619 E Franklin Ave,Naperville,60540 4693,630355-6870,,41,21,6,D
+Dupage,School,190220136,0,149,Little Friends-Bridge High School,Camille Smith,619 E Franklin Ave,Naperville,60540 4693,630355-6870,,81,41,11,D
+Dupage,School,190220136,0,152,Little Friends-Krejci-Intensive,Camille Smith,619 E Franklin Ave,Naperville,60540 4693,630355-6870,,41,21,6,D
+Dupage,Dist,190220137,0,0,PPAG II LLC,Melissa Waxler,900 S Park Blvd,Streamwood,60107 2135,630823-8323,,44,22,8,C
+Dupage,School,190220137,0,287,Parkland Prep Academy South,Melissa Waxler,8901 S 52nd Ave,Oak Lawn,60453 1388,708857-8100,,31,16,3,D
+Dupage,School,190220137,0,290,Parkland Prep Academy South - Int,Melissa Waxler,8901 S 52nd Ave,Oak Lawn,60453 1388,630823-8323,,31,16,3,D
+Dupage,Dist,190220139,0,0,Lutheran Child & Family Services,Brenton Diers,329 W Lake St,Addison,60101 2514,630543-6900,,77,39,8,C
+Dupage,School,190220139,0,178,Lutherbrook Academy - Intensive,Hans Schuller,329 W Lake St,Addison,60101 2514,630628-1467,,77,39,8,D
+Dupage,School,190220139,0,425,Lutherbrook Childrens Center,Hans Schuller,343 W Lake St,Addison,60101 2514,630628-1467,,77,39,8,D
+Dupage,Dist,190220167,0,0,Childs Voice,Dr. Michele Wilkins,180 Hansen Ct,Wood Dale,60191 1121,630595-8200,,45,23,8,C
+Dupage,School,190220167,0,213,Childs Voice,Dr. Michele Wilkins,180 Hansen Ct,Wood Dale,60191 1121,630595-8200,,45,23,8,D
+Dupage,Dist,190220195,0,0,Sisters of St Joseph,Mr. John Utterback,125 E Seminary Ave,Wheaton,60187 5308,630289-4221,,42,21,6,C
+Dupage,School,190220195,0,43,Clare Woods Academy-Intensive,Mr. John Utterback,125 E Seminary Ave,Wheaton,60187 5308,630289-4221,,42,21,6,D
+Dupage,School,190220195,0,317,Clare Woods Academy,Mr. John Utterback,125 E Seminary Ave,Wheaton,60187 5308,630289-4221,,42,21,6,D
+Dupage,Dist,190220221,0,0,Soaring Eagle Academy,Deanna Tyrpak,800 Parkview Blvd,Lombard,60148 3200,630323-2900,,82,41,11,C
+Dupage,School,190220221,0,267,Soaring Eagle Academy,Jessica Nicholson,800 Parkview Blvd,Lombard,60148 3200,630323-2900,,82,41,11,D
+Dupage,School,190220221,0,278,Soaring Eagle - Transition,Jessica Nicholson,800 Parkview Blvd,Lombard,60148 3200,630323-2900,,82,41,11,D
+Dupage,Dist,190220242,0,0,Adventist GlenOaks Hospital,Lisa Grigsby,701 Winthrop Ave,Glendale Heights,60139 1405,630671-0383,,46,23,8,C
+Dupage,School,190220242,0,1,GlenOaks Therapeutic Day-North,Mary Sue Parla,135 N Brandon Dr,Glendale Heights,60139 2039,630671-0383,,46,23,8,D
+Dupage,School,190220242,0,24,GlenOaks-Therapeutic Day-South,Marla Sue Parla,1N 450 Main St,Glen Ellyn,60137,630469-3602,,46,23,8,D
+Dupage,School,190220242,0,80,GlenOaks Therapeutic Day-West,Michael Carter,940 W Mooseheart Rd,North Aurora,60542 8984,630966-1811,,50,25,14,D
+Dupage,School,190220242,0,198,GlenOaks Transition - South,Mary Sue Parla,1N450 Main St,Glen Ellyn,60137 3576,630469-3602,,46,23,8,D
+Dupage,Dist,190220251,0,0,Giant Steps Illinois,Sylvia Smith,2500 Cabot Dr,Lisle,60532 3607,630864-3800,,42,21,6,C
+Dupage,School,190220251,0,2,Giant Steps-Illinois,Martin Koranda,2500 Cabot Dr,Lisle,60532 3607,630864-3829,,42,21,6,D
+Dupage,School,190220251,0,312,Giant Steps-Illinois-Int.,Martin Koranda,2500 Cabot Dr,Lisle,60532 3607,630864-3829,,42,21,6,D
+Dupage,Dist,190220282,0,0,SEAL,Cindy Nudd,240 E Progress Rd,Lombard,60148 1354,630953-1222,,46,23,8,C
+Dupage,School,190220282,0,142,School of Exp Arts & Learn (SEAL),Chris Robertson,240 E Progress Rd,Lombard,60148 1354,630953-1222,,46,23,8,D
+Dupage,School,190220282,0,197,School of Exp Arts & Learn - South,Chris Robertson,1265 Naperville Dr,Romeoville,60446 1483,630226-0004,,85,43,11,D
+Dupage,School,190220282,0,281,SEAL - West,Cindy Nudd,1200 Claussen Dr,Woodstock,60098 2139,847458-2645,,66,33,6,D
+Dupage,School,190220282,0,368,Seal Quest,Cindy Nudd,1200 Claussen Dr,Woodstock,60098 2139,815337-2005,,,,,D
+Dupage,Dist,190220332,0,0,Holtz Educational Center,Melinda Pieniazek,8149 S Cass Avenue,Darien,60561,630541-6441,,,,,C
+Dupage,School,190220332,0,378,Holtz Educational Center,Melinda Pieniazek,8149 S Cass Avenue,Darien,60561,630541-6441,,,,,D
+Jackson,Dist,300390023,0,0,Brehm Preparatory School,Brian Brown,950 S Brehm Ln,Carbondale,62901 5854,618457-0371,,118,59,12,C
+Jackson,School,300390023,0,29,Brehm Preparatory School-Day,Terri Lynn Douglas,950 S Brehm Ln,Carbondale,62901 5854,618457-0371,,118,59,12,D
+Jackson,School,300390023,0,504,Brehm Preparatory School,Terri Lynn Douglas,950 S Brehm Ln,Carbondale,62901 5854,618457-0371,,118,59,12,D
+Jackson,Dist,300390325,0,0,Neuro-Restorative,Scott Shaw,306 W Mill St,Carbondale,62901 2727,618529-3060,,115,58,12,C
+Jackson,School,300390325,0,367,NeuroRestorative Acad Chicagoland,Michael Blacharczyk,1471 E Business Center Dr Ste 300,Mt Prospect,60056 6058,618781-2929,,,,,D
+Jackson,School,300390325,0,373,NeuroRestorative Acad Chgo INT,Michael Blacharczyk,1471 E Business Center Dr Ste 300,Mt Prospect,60056 6058,618781-2929,,,,,D
+Jackson,School,300390325,0,520,NeuroRestorative,Scott Ewing,751 Wood Rd,Carbondale,62902,618529-3060,,115,58,12,D
+Jackson,School,300390325,0,521,NeuroRestorative Bridge House,Scott Ewing,606 S Terrace Dr,Carbondale,62901 2117,618529-3060,,115,58,12,D
+Jackson,School,300390325,0,597,NeuroRestorative Helen House,Camelia Botez,707 W Helen Rd,Palatine,60067 6056,847934-7398,,,,,D
+Jackson,School,300390325,0,598,NeuroRestorative H H Int 16hr,Camelia Botez,707 W Helen Rd,Palatine,60067 6056,847934-7398,,,,,D
+Jackson,School,300390325,0,599,NeuroRestorative H.H. Int 24hr,Camelia Botez,707 W Helen Rd,Palatine,60067 6056,847934-7398,,,,,D
+Kane,Dist,310450100,0,0,Hamilton Academy,Barbara B Hamilton,180 S 8th St,West Dundee,60118 2047,847695-9732,,66,33,6,C
+Kane,School,310450100,0,104,Hamilton Academy,Barbara B Hamilton,180 S 8th St,West Dundee,60118 2047,847695-9732,,66,33,6,D
+Kane,Dist,310450125,0,0,Larkin Center,Dennis Graf,1212 Larkin Ave,Elgin,60123 6042,847695-5656,,43,22,8,C
+Kane,Dist,310450144,0,0,Marklund,Gil Fonger,1S450 Wyatt Dr,Geneva,60134 4921,630593-5500,,50,25,14,C
+Kane,School,310450144,0,76,Marklund Day School,Paula M. Bodzioch,164 S Prairie Ave,Bloomingdale,60108 1626,630307-1882,,45,23,8,D
+Kane,Dist,310450178,0,0,Association for Individual Dev.,Lynn OShea,309 W New Indian Trl,Aurora,60506 2494,630966-4000,,83,42,11,C
+Kane,Dist,310450202,0,0,Special Education Services,Dr. Elizabeth Conran,195 Poplar Pl,North Aurora,60542 1404,630907-2400,,83,42,11,C
+Kane,School,310450202,0,122,Menta Academy Hillside,Teno Geritano,4100 Warren Ave,Hillside,60162 1763,708449-1310,,7,4,7,D
+Kane,School,310450202,0,135,Hillside Academy East,Ms. Adrianne Porter,3049 W Harrison St,Chicago,60612 3342,773638-9605,,9,5,7,D
+Kane,School,310450202,0,245,Country Club Hills Tech & Trade,Shawanda Barga,4187 183rd St,Country Club Hills,60478 5308,708798-9542,,38,19,2,D
+Kane,School,310450202,0,275,Midstate Cornerstone Academy,Mrs. Casey Adam,316 E South St,Nokomis,62075 1300,217563-7600,,95,48,13,D
+Kane,School,310450202,0,282,Menta Academy North Life Skills,Jennifer Barr-Wreciona,621 Belvidere Rd,Waukegan,60085 6307,847731-0066,,60,30,10,D
+Kane,School,310450202,0,293,Country Club Hills Transition,Shawanda Barga,4187 183rd St,Country Club Hills,60478 5308,708798-9542,,38,19,2,D
+Kane,School,310450202,0,294,Fox Tech Transition Program,Elizabeth Conran,195 Poplar Pl,North Aurora,60542 1404,630907-2400,,83,42,11,D
+Kane,School,310450202,0,309,CORE Academy,Elizabeth Conran,801 W Illinois Ave,Aurora,60506 2831,630906-7900,,83,42,11,D
+Kane,School,310450202,0,310,CORE Supported,Elizabeth Conran,801 W Illinois Ave,Aurora,60506 2831,630906-7900,,83,42,11,D
+Kane,School,310450202,0,311,Menta Academy Oak Park,Rory Conran,44 W Madison St,Oak Park,60302 4236,630907-7869,,7,4,7,D
+Kane,School,310450202,0,349,Menta Academy North,Jennifer Barr-Wreciona,621 Belvidere Rd,Waukegan,60085 6307,847599-1680,,60,30,10,D
+Kane,School,310450202,0,355,Menta Acad Cornerstone Taylorville,Mrs. Casey Adam,500 E North,Stonington,62567 9700,217563-7600,,,,,D
+Kane,School,310450202,0,360,Menta Acad Chicago South,Mr. Jason Kudelka,321 E 84th St,Chicago,60619 4897,773533-9605,,,,,D
+Kane,School,310450202,0,369,Menta Academy Belleville,Dana Miller,6400 West Main,Belleville,62223,630907-2400,,,,,D
+Kane,Dist,310450217,0,0,Summit School,Johanna White,333 W River Rd,Elgin,60123 1572,847468-0490,,66,33,8,C
+Kane,School,310450217,0,229,Summit School,Helene Kraus,333 W River Rd,Elgin,60123 1572,847468-0490,,66,33,8,D
+Kane,Dist,310450300,0,0,ABLE Academy,Candice Gizewski,452 N Eola Rd Ste A,Aurora,60502 9110,708220-3233,,,,,C
+Kane,School,310450300,0,100,ABLE Academy,William Kruthers,595 S River St,Batavia,60510 2602,630999-0401,,,,,D
+Lake,Dist,340490006,0,0,Allendale Association,Jennifer Stiemsma,600 W Grand Ave,Lake Villa,60046 9152,847356-3334,,64,32,14,C
+Lake,School,340490006,0,17,Allendale-Stepping Stone-LINC,Lorine Schaar,1055 Lake Ave,Woodstock,60098 7409,815206-5725,,63,32,14,D
+Lake,School,340490006,0,19,Allendale-Stepping Stone-Day,Jennifer Stiemsma,600 W Grand Ave,Lake Villa,60046 9152,847356-3334,,64,32,14,D
+Lake,School,340490006,0,238,Allendale-Stepping Stone-LINC-Int,Lorine Schaar,1055 Lake Ave,Woodstock,60098 7409,815206-5725,,63,32,14,D
+Lake,School,340490006,0,239,Allendale Stepping Stone-Day-Int,Jennifer Stiemsma,600 W Grand Ave,Lake Villa,60046 9152,847356-3334,,64,32,14,D
+Lake,School,340490006,0,402,Allendale Residential School Prog,Jennifer Stiemsma,600 W Grand Ave,Lake Villa,60046 9152,847356-3334,,64,32,14,D
+Lake,School,340490006,0,403,Allendale-Walter Cherry,Jennifer Stiemsma,421 W Water St,Waukegan,60085 5527,847360-9560,,60,30,10,D
+Lake,School,340490006,0,409,Allendale-Becker House,Jennifer Stiemsma,448 N Genesee St,Waukegan,60085 4006,847244-9343,,60,30,10,D
+Lake,School,340490006,0,542,Allendale Res. Sch. Prg. Int,Jennifer Stiemsma,600 W Grand Ave,Lake Villa,60046 9152,847356-3334,,64,32,14,D
+Lake,School,340490006,0,554,Allendale - North Chicago,Jennifer Stiemsma,1920 Sherman Ave,North Chicago,60064 2318,847693-2060,,60,30,10,D
+Lake,School,340490006,0,710,Allendale-Benet Lake,Jennifer Stiemsma,12603 224th Ave,Bristol,53104,262396-9660,,,,,D
+Lake,School,340490006,0,810,Allendale-Benet Lake-Int,Jennifer Stiemsma,12603 224th Ave,Bristol,53104,262396-9660,,,,,D
+Lake,Dist,340490007,0,0,Alt Behavior Treatment Centers,Robin D McGinnis,27255 N Fairfield Rd,Mundelein,60060 9117,847487-9455,,51,26,14,C
+Lake,Dist,340490044,0,0,Classroom Connection Day School,Crisler Lovendahl,2225 Lakeside Dr,Bannockburn,60015 1265,847582-1787,,58,29,10,C
+Lake,School,340490044,0,234,Classroom Connection Day School,Kellie Klasen,2225 Lakeside Dr,Bannockburn,60015 1265,847582-1787,,58,29,10,D
+Lake,Dist,340490210,0,0,Connections Academy East,Elaina Shannon,300 S Waukegan Rd,Lake Forest,60045 2643,224544-5920,,,,,C
+Lake,School,340490210,0,345,Connections Academy East,Elaina Shannon,300 S Waukegan Rd,Lake Forest,60045 2643,224544-5920,,,,,D
+Lake,School,340490210,0,346,New Connections Academy East,Elaina Shannon,300 S Waukegan Rd,Lake Forest,60045 2643,224544-5920,,,,,D
+Lake,Dist,340490241,0,0,Felicity Schools LLC,Michael Nekritz,158 S Waukegan Rd,Deerfield,60015 5203,224475-3329,,18,9,10,C
+Lake,School,340490241,0,299,Felicity Schools LLC,Edward ONeill,158 S Waukegan Rd,Deerfield,60015 5203,847899-0002,,18,9,10,D
+Lake,Dist,340490252,0,0,Connections Day School,Betty Lindquist,31410 N US Highway 45,Libertyville,60048 9444,224544-5920,,51,26,10,C
+Lake,School,340490252,0,18,Connections Day School,Janet Frichtl,31410 N US Highway 45,Libertyville,60048 9444,224544-5920,,51,26,10,D
+Lake,School,340490252,0,319,Connections Day School Int,Betty Lindquist,31410 N US Highway 45,Libertyville,60048 9444,224544-5920,,51,26,10,D
+Lake,Dist,340490301,0,0,Winston Knolls Education Group,Val Belmonte,2353 Hassell Rd Ste 110,Hoffman Estates,60169 2170,630283-3221,,44,22,8,C
+Lake,School,340490301,0,47,W. Knolls at Hoffman Est. Campus,Val Belmonte,2353 Hassell Rd Ste 11,Hoffman Estates,60169 2170,630283-3221,,44,22,8,D
+Lake,School,340490301,0,347,W K at Hoffman Est. Campus INT,Val Belmonte,2353 Hassell Rd Ste 11,Hoffman Estates,60169 2170,630283-3221,,,,,D
+La Salle,Dist,350500132,0,0,Lighted Way Association,Jane Duncan Wamhoff,941 6th St,La Salle,61301 2205,815224-1345,,76,38,16,C
+La Salle,School,350500132,0,144,Lighted Way Association,Jane Duncan Wamhoff,941 6th St,La Salle,61301 2205,815224-1345,,76,38,16,D
+La Salle,School,350500132,0,182,Lighted Way Association - Int,Jane Duncan Wamhoff,941 6th St,La Salle,61301 2205,815224-1345,,76,38,16,D
+Macon,Dist,390550233,0,0,Webster-Cantrell Hall,Mr. Martin Harris,1942 E Cantrell St,Decatur,62521 3214,217423-6961,,96,48,13,C
+Macon,School,390550233,0,517,Webster-Cantrell Hall,Mr. Martin Harris,1942 E Cantrell St,Decatur,62521 3214,217423-6961,,96,48,13,D
+Madison,Dist,410570060,0,0,Coordinated Youth & Human Service,Cynthia A Gavilsky,2016 Madison Ave,Granite City,62040 4657,618876-2382,,113,57,12,C
+Madison,School,410570060,0,105,Coordinated Youth & Human Service,Cynthia A Gavilsky,1611 W 3rd St,Granite City,62040 1893,618876-2383,,113,57,12,D
+Madison,School,410570060,0,328,Coordinated Yth & Human Serv. Int,Cynthia A Gavisky,1611 W 3rd St,Granite City,62040 1893,618876-2383,,,,,D
+Madison,Dist,410570235,0,0,William M Bedell-ARC,Gary Osborne,400 S Main St,Wood River,62095 1426,618251-2175,,111,56,12,C
+Madison,School,410570235,0,160,William M Bedell-Wood River,Cheryl Blaha,400 S Main St,Wood River,62095 1426,618251-2175,,111,56,12,D
+Madison,Dist,410570284,0,0,Madison Co Regional Office of Ed,Robert A Daiber,157 N Main St,Edwardsville,62025 1960,618296-4530,,112,56,13,C
+Madison,School,410570284,0,330,Madison Co Ed Therapy Cntr,Michele Watkins,201 Staunton Rd,Troy,62294 1227,618667-0633,,108,54,15,D
+McHenry,Dist,440630327,0,0,Alexander Leigh Cntr for Autism,Kelly Weaver,620 N Rte 31,Crystal Lake,60012,815477-2522,,64,32,14,C
+McHenry,School,440630327,0,219,Alexander Leigh Cntr for Autism,Dr. Theresa Baker,620 N Rte 31,Crystal Lake,60012,815477-2522,,64,32,14,D
+Ogle,Dist,470710273,0,0,Milestone Inc,Shawn Way,4060 McFarland Rd,Loves Park,61111 4402,815654-6100,,68,34,16,C
+Ogle,School,470710273,0,475,RocVale Childrens Home,Joe Pinge,4450 N Rockton Ave,Rockford,61103 1526,815639-2956,,68,34,16,D
+Peoria,Dist,480720052,0,0,Childrens Home Assoc of IL,Matt George,2130 N Knoxville Ave,Peoria,61603 2460,309685-1047,,92,46,17,C
+Peoria,School,480720052,0,298,Academy for Autism,Patrick Cassady,404 NE Madison Ave,Peoria,61603 3720,309687-7734,,92,46,17,D
+Peoria,School,480720052,0,314,Academy for Autism- Int,Patrick Cassady,404 NE Madison Ave,Peoria,61603 3720,309687-7734,,92,46,17,D
+Peoria,School,480720052,0,407,Childrens Home - Weaver,Cindy Hoffman,7225 W Plank Rd,Peoria,61604 5252,309687-6604,,91,46,18,D
+Peoria,School,480720052,0,408,Kiefer School - Madison,Allison Childers,404 NE Madison Ave,Peoria,61603 3720,309687-7734,,92,46,17,D
+Peoria,School,480720052,0,416,Childrens Home - Challenger,Cindy Hoffman,7225 W Plank Rd,Peoria,61604 5252,309687-6604,,91,46,18,D
+Peoria,School,480720052,0,442,Childrens Home-Columbia,Cindy Hoffman,400 E Frye Ave,Peoria,61603 2540,309687-7739,,92,46,17,D
+Peoria,School,480720052,0,473,Childrens Home - Sommer,Stacie Billingsley,2019 N Bigelow St,Peoria,61604 3505,309687-6605,,92,46,17,D
+Peoria,School,480720052,0,541,Childrens Home Assn-Youth Farm,Stacie Billingsley,7225 W Plank Rd,Peoria,61604 5252,309687-6605,,91,46,18,D
+Peoria,School,480720052,0,572,Kiefer School - Madison-Intensive,Allison Childers,404 NE Madison Ave,Peoria,61603 3720,309687-7734,,92,46,17,D
+Peoria,School,480720052,0,591,Childrens Home Assoc Ent Unit,Cindy Hoffman,7225 W Plank Rd,Peoria,61604 5252,309687-6604,,91,46,18,D
+Peoria,School,480720052,0,592,Childrens Home Assoc Atl Unit,Cindy Hoffman,7225 W Plank Rd,Peoria,61604 5252,309687-6604,,91,46,18,D
+Rock Island,Dist,490810012,0,0,Arrowhead Ranch,Angela Moody,12200 104th St,Coal Valley,61240 9712,309799-7044,,71,36,17,C
+Rock Island,School,490810012,0,404,Arrowhead Academy,Dr. Chester Lien,12200 104th St,Coal Valley,61240 9712,309799-7044,,71,36,17,D
+Rock Island,School,490810012,0,555,Arrowhead Academy - Intensive,Dr. Chester Lien,12200 104th St,Coal Valley,61240 9712,309799-7044,,71,36,17,D
+Saint Clair,Dist,500820047,0,0,Childrens Center for BD,Carolyn P Birth,353 N 88th St,Centreville,62203 2705,618398-1152,,114,57,12,C
+Saint Clair,Dist,500820101,0,0,Hazel Bland Promise Center,Joyce A Williams,2900 State St,East Saint Louis,62205 2234,618274-3500,,114,57,12,C
+Saint Clair,School,500820101,0,203,Hazel Bland Promise Center,Joyce A Williams,2900 State St,East Saint Louis,62205 2234,618274-3500,,114,57,12,D
+Saint Clair,School,500820101,0,260,Hazel Bland Promise Cntr - Int,Joyce A Williams,2900 State St,East Saint Louis,62205 2234,618274-3500,,114,57,12,D
+Saint Clair,Dist,500820254,0,0,Illinois Center for Autism,Susan Szekely,548 S Ruby Ln,Fairview Heights,62208 2614,618398-7500,,113,57,12,C
+Saint Clair,School,500820254,0,11,Ill Center for Autism-Granite City,Maria Madaus,3231 Nameoki Rd,Granite City,62040 5001,618451-5826,,112,56,12,D
+Saint Clair,School,500820254,0,23,ICA - Granite City - Madison,Lisa Pretto,3101 Madison Ave,Granite City,62040 3620,618451-5808,,112,56,12,D
+Saint Clair,School,500820254,0,130,IL Center for Autism-Special,Sandra Rodenberg,548 S Ruby Ln,Fairview Heights,62208 2614,618398-7500,,113,57,12,D
+Saint Clair,School,500820254,0,292,IL Center for Autism-Belleville,Sandra Rodenberg,1306 Wabash Ave,Belleville,62220 3370,618398-7500,,113,57,12,D
+Saint Clair,School,500820254,0,308,IL Ctr for Autism Grigsby Sat.,Terri Hozian,3801 Old Cargill Rd,Granite City,62040,618973-5727,,111,56,12,D
+Saint Clair,Dist,500820321,0,0,Adolescent Adjustment Center,Bernard Polt,353 N 88th St Rear,Centreville,62203 2705,618293-0084,,114,57,12,C
+Saint Clair,School,500820321,0,263,Juvenile Transitional Cntr Acad,Amy Polt,353 N 88th St,Centreville,62203 2705,618398-2524,,114,57,12,D
+Saint Clair,School,500820321,0,265,Juvenile Transitional Cntr - Int,Amy Polt,353 N 88th St,Centreville,62203 2705,618482-4205,,114,57,12,D
+Saint Clair,School,500820321,0,302,JTC Girls-Boys Academy,Amy Polt,4850 Market St,Centreville,62207 2506,618332-3630,,114,57,12,D
+Saint Clair,School,500820321,0,374,JTC Girls-Boys Acad Int,Amy Polt,4850 Market St,Centreville,62207 2506,618332-3630,,,,,D
+Sangamon,Dist,510840107,0,0,Hope Institute,Clint W Paul,15 E Hazel Dell Ln,Springfield,62712 4210,217585-5437,,99,50,13,C
+Sangamon,School,510840107,0,190,Hope Institute-Comm Transition,Cliff Hathaway,2201 Toronto Rd,Springfield,62712 3802,217585-5122,,99,50,13,D
+Sangamon,School,510840107,0,191,Hope Institute-Comm Trans-Int,Cliff Hathaway,2201 Toronto Rd,Springfield,62712 3802,217585-5122,,99,50,13,D
+Sangamon,School,510840107,0,246,Hope Learning Academy - Lakeshore,Cliff Hathaway,15 E Hazel Dell Ln,Springfield,62712 4210,217585-5437,,99,50,13,D
+Sangamon,School,510840107,0,468,Hope Institute-Claremont,Amanda Brott,2117 Claremont Dr,Springfield,62703 5212,217529-3742,,99,50,13,D
+Sangamon,School,510840107,0,523,Hope Learning Academy,Cliff Hathaway,15 East Hazel Dell Ln,Springfield,62712 4210,217585-5437,,99,50,13,D
+Sangamon,School,510840107,0,525,Hope Learning Academy - Intensive,Cliff Hathaway,15 E Hazel Dell Ln,Springfield,62712 4210,217585-5437,,99,50,13,D
+Sangamon,School,510840107,0,526,Hope Institute-Halifax,Amanda Brott,2023 Halifax Dr,Springfield,62703 5291,217585-0026,,99,50,13,D
+Sangamon,School,510840107,0,528,Hope Institute-Bluestem,Amanda Brott,3728 Bluestem Ct,Springfield,62712 8778,217585-0134,,96,48,13,D
+Sangamon,School,510840107,0,529,Hope Institute-Boxwood,Camille Randall,1401 Boxwood Ct,Springfield,62712 7548,217585-8857,,99,50,13,D
+Sangamon,School,510840107,0,530,Hope Institute-Cormorant,Amanda Brott,2210 Cormorant Dr,Springfield,62711 6213,217726-9761,,99,50,18,D
+Sangamon,School,510840107,0,531,Hope Institute-James,Amanda Brott,1501 James St,Springfield,62703 5380,217529-8076,,99,50,13,D
+Sangamon,School,510840107,0,532,Hope Institute-Lindbergh,Amanda Brott,2310 Lindbergh Blvd,Springfield,62704 5530,217787-0357,,99,50,18,D
+Sangamon,School,510840107,0,533,Hope Institute-Red Oak,Amanda Brott,3113 Red Oak Ln,Springfield,62712 8391,217585-8173,,96,48,13,D
+Sangamon,School,510840107,0,534,Hope Institute-Springwood,Amanda Brott,2917 Springwood Dr,Springfield,62712 5839,217585-1618,,96,48,13,D
+Sangamon,School,510840107,0,535,Hope Institute-Delano,Amanda Brott,5 Delano Ln,Springfield,62703 5312,217585-0419,,99,50,13,D
+Sangamon,School,510840107,0,538,Hope Institute-Grant,Camille Randall,15 E Hazel Dell Ln,Springfield,62712 4210,217585-5136,,99,50,13,D
+Sangamon,School,510840107,0,540,Hope Institute-Heather Mill,Amanda Brott,2312 Heather Mill Ct,Springfield,62704 6551,217726-8854,,99,50,18,D
+Sangamon,School,510840107,0,544,Hope Institute-Stockton,Amanda Brott,2109 Stockton Dr,Springfield,62703 5234,217585-6882,,99,50,13,D
+Sangamon,School,510840107,0,553,Hope Institute-Belhaven,Amanda Brott,25 Belhaven Dr,Springfield,62704 5434,217670-1995,,99,50,18,D
+Sangamon,School,510840107,0,559,Hope Institute-Kennedy,Camille Randall,15 E Hazel Dell Ln,Springfield,62712 4210,217585-5198,,99,50,13,D
+Sangamon,School,510840107,0,560,Hope Institute-Jefferson,Amanda Brott,15 E Hazel Dell Ln,Springfield,62712 4210,217585-5164,,99,50,13,D
+Sangamon,School,510840107,0,563,Hope Institute-Grinnell,Camille Randall,2317 Grinnell Dr,Springfield,62704 5442,217546-3045,,99,50,18,D
+Sangamon,School,510840107,0,570,Hope Institute-Nyre,Amanda Brott,13 Hazel Dell Ln,Springfield,62712,217585-3705,,99,50,13,D
+Sangamon,School,510840107,0,574,Hope Institute-Monroe,Amanda Brott,13 Hazel Dell Ln,Springfield,62712,217785-5142,,99,50,13,D
+Sangamon,School,510840107,0,600,Hope Vocational Academy,Greg Gardner,5220 S 6th St Rd,Springfield,62703,217585-5129,,,,,D
+Sangamon,Dist,510840204,0,0,Spfld Diocese Catholic Charities,Steven Roach,1625 W Washington St,Springfield,62702 4757,217523-9201,,99,50,13,C
+Sangamon,School,510840204,0,175,Catholic Childrens Home-Day,Mrs. Kimberly Speidel,1400 State St,Alton,62002 3410,618465-3594,,111,56,12,D
+Sangamon,School,510840204,0,518,Catholic Childrens Home,Mrs. Kimberly Speidel,1400 State St,Alton,62002 3410,618465-3594,,111,56,12,D
+Tazewell,Dist,530900220,0,0,TCRC Inc,Jamie Durdel,21310 State Route 9,Tremont,61568 9252,309347-7148,,87,44,18,C
+Tazewell,School,530900220,0,413,Tazewell County Resource Center,Michael Legan,1520 Summer St,Pekin,61554 5643,309347-7148,,91,46,17,D
+Woodford,Dist,531020100,0,0,Easterseals Central Illinois,Steve Thompson,507 E Armstrong Ave,Peoria,61603 3201,309686-1177,,,,,C
+Woodford,School,531020100,0,100,Easterseals Central IL Learning Acad,Kevin Dill,110 County Rd 400 E,Germantown Hill,61548,309686-1177,,,,,D
+Will,Dist,560990134,0,0,Hopewell Schools Inc.,Chad Kollross,1009 S Briggs St,Joliet,60433 9593,815463-9655,,86,43,11,C
+Will,School,560990134,0,98,Hopewell School,Chad Kollross,1009 S Briggs St,Joliet,60433 9593,815553-0680,,86,43,11,D
+Will,School,560990134,0,193,Bridgepoint Acad of Orland Park,Will McDermott,11520 W 183rd St,Orland Park,60467 9465,630243-6902,,37,19,1,D
+Will,Dist,560990226,0,0,Trinity Services,Art Dykstra,1361 E Lincoln Hwy,New Lenox,60451 2153,815463-0719,,37,19,1,C
+Will,School,560990226,0,274,Trinity School,Emma Vrlec,1361 E Lincoln Hwy,New Lenox,60451 2153,815463-0719,,37,19,1,D
+Will,Dist,560990227,0,0,Center for Disability Services,Jennifer Gabrenya,311 S Reed St,Joliet,60436 2050,815744-3500,,86,43,11,C
+Will,School,560990227,0,42,Center for Disability Services,Susan Knaperek,311 S Reed St,Joliet,60436 2050,815744-3500,,86,43,11,D
+Will,School,560990227,0,170,Center for Disability Serv. INT,Susan Knaperek,311 S Reed St,Joliet,60436 2050,815744-3500,,86,43,11,D
+Will,Dist,560990296,0,0,Hopewell Career Academy Inc,Chad Kollross,1009 S Briggs St,Joliet,60433 9593,815553-0680,,86,43,11,C
+Will,School,560990296,0,162,Hopewell Career Academy,Will McDermott,1352 N Cedar Rd,New Lenox,60451 1163,815463-4884,,37,19,11,D
+Will,School,560990296,0,171,Hopewell Academy of Orland Park,Chuck Kollross,11524 W 183rd St,Orland Park,60467 9463,815463-9655,,37,19,1,D
+OUT OF STATE,Dist,777770010,0,0,Kings Daughters School,Dr. David H Craig,412 W 9th St,Columbia,38401 3105,931388-3810,,,,,C
+OUT OF STATE,School,777770010,0,805,Kings Daughters School,Dr. David H Craig,412 W 9th St,Columbia,38401 3105,931388-3810,,,,,D
+OUT OF STATE,School,777770010,0,806,Kings Daughters - Autism,Dr. David Craig,412 W 9th St,Columbia,38401 3105,931388-3810,,,,,D
+OUT OF STATE,Dist,777770016,0,0,New England Center for Children,Vincent Strully Jr,33 Turnpike Rd,Southborough,01772 2108,508481-1015,,,,,C
+OUT OF STATE,School,777770016,0,770,New England Center for Children,Heather Morrison,33 Turnpike Rd,Southborough,01772 2108,508481-1015,,,,,D
+OUT OF STATE,Dist,777770018,0,0,Bellefaire,Adam Jacobs,22001 Fairmount Blvd,Shaker Heights,44118 4819,216320-8222,,,,,C
+OUT OF STATE,School,777770018,0,620,Bellefaire-Monarch School,Leigh Johnson,22001 Fairmount Blvd,Shaker Heights,44118 4819,216320-8222,,,,,D
+OUT OF STATE,School,777770018,0,778,Bellefaire-Intensive,Leigh Johnson,22001 Fairmount Blvd,Shaker Heights,44118 4819,216320-8222,,,,,D
+OUT OF STATE,School,777770018,0,779,Bellefaire-Transitional,Leigh Johnson,22001 Fairmount Blvd,Shaker Heights,44118 4819,216320-8222,,,,,D
+OUT OF STATE,School,777770018,0,797,Bellefaire-Monarch Boarding Academy,Leigh Johnson,22001 Fairmount Blvd,Shaker Heights,44118 4819,216320-8222,,,,,D
+OUT OF STATE,Dist,777770019,0,0,Boys Town Schools,Father Steven Boes,13603 Flanagan Blvd,Boys Town,68010 7501,402964-7273,,,,,C
+OUT OF STATE,School,777770019,0,803,Boys Town Schools,Tanya Martin,13603 Flanagan Blvd,Boys Town,68010 7501,402498-1898,,,,,D
+OUT OF STATE,School,777770019,0,804,Boys Town Interim Program Schools,Shawna Younghans,555 N 30th St,Omaha,68131 2136,402964-7273,,,,,D
+OUT OF STATE,Dist,777770022,0,0,Boston Higashi School,Michael L Kelly,800 N Main St,Randolph,02368 3663,617961-0800,,,,,C
+OUT OF STATE,School,777770022,0,720,Boston Higashi School,Deborah Donovan,800 N Main St,Randolph,02368 3663,781961-0800,,,,,D
+OUT OF STATE,School,777770022,0,878,Boston Higashi - Extended,Deborah Donovan,800 N Main St,Randolph,02368 3663,781961-0800,,,,,D
+OUT OF STATE,Dist,777770025,0,0,Cornell Corrections of CA Inc,Brandon Miller,700 Four Mile Pkwy,Canon City,81212 9114,719276-7500,,,,,C
+OUT OF STATE,Dist,777770029,0,0,La Europa Academy,Kent Tasso,PO Box 575780,Salt Lake City,84157 5780,801268-9300,,,,,C
+OUT OF STATE,School,777770029,0,819,La Europa Academy,Lucy Terzis,1220 E Vine St,Murray,84121 1738,801268-9300,,,,,D
+OUT OF STATE,Dist,777770031,0,0,Wediko Childrens Service,Amy C Sousa,72-74 E Dedham St,Boston,02118,617292-9200,,,,,C
+OUT OF STATE,School,777770031,0,798,Wediko School,Kimberly Guest,11 Bobcat Blvd,Windsor,03244 7419,603478-5236,,,,,D
+OUT OF STATE,School,777770031,0,871,Wediko School - Intensive,Kimberly Guest,11 Bobcat Blvd,Windsor,03244 7419,603478-5236,,,,,D
+OUT OF STATE,Dist,777770032,0,0,Specialized Ed Services Inc-SESI,Dr. Michael Kaufman,385 Oxford Valley Rd,Yardley,19067 7700,215369-8699,,,,,C
+OUT OF STATE,School,777770032,0,240,High Road School of Bloomington,Vicki Kennedy,1316 E Empire St Ste A,Bloomington,61701 3420,309454-8700,,105,53,18,D
+OUT OF STATE,School,777770032,0,241,High Road School - Intensive,Vicki Kennedy,1316 E Empire St Ste A,Bloomington,61701 3420,309454-8700,,105,53,18,D
+OUT OF STATE,Dist,777770033,0,0,Grove School Inc,Richard Chorney,175 Copse Rd,Madison,06443 2323,203245-2778,,,,,C
+OUT OF STATE,School,777770033,0,811,Grove School,Leon Losapio,175 Copse Rd,Madison,06443 2323,203245-2778,,,,,D
+OUT OF STATE,Dist,777770036,0,0,Central Institute f/t Deaf,Robin M Feder,825 S Taylor Ave,Saint Louis,63110 1567,314977-0132,,,,,C
+OUT OF STATE,School,777770036,0,630,Central Inst f/t Deaf-Day,Donita Gibbs,825 S Taylor Ave,Saint Louis,63110 1567,314977-0130,,,,,D
+OUT OF STATE,Dist,777770037,0,0,Universal Health Services,Dr. Bill Parsons,3401 W End Ave,Nashville,37203 1042,615250-0000,,,,,C
+OUT OF STATE,Dist,777770041,0,0,Devereux Foundation,Robert Kreider,444 Devereux Dr,Villanova,19085 1932,610542-3000,,,,,C
+OUT OF STATE,School,777770041,0,823,Devereux Georgia Treatment Net,Gwendolyn B Skinner,1291 Stanley Rd NW,Kennesaw,30152 4359,770427-0147,,,,,D
+OUT OF STATE,School,777770041,0,832,Devereux Glenholme School,Maryann Campbell,81 Sabbaday Ln,Washington,06793 1318,860868-7377,,,,,D
+OUT OF STATE,Dist,777770042,0,0,Acadia Health Care,Joey Jacobs,830 Crescent Centre Dr Ste 610,Franklin,37067 7323,615861-6000,,,,,C
+OUT OF STATE,School,777770042,0,840,Youth Care of Utah,Trina Packard,PO Box 909,Draper,84020 0909,801572-6989,,,,,D
+OUT OF STATE,Dist,777770049,0,0,Innerchange,Jennifer Steiner,2172 E 7200 S,Spanish Fork,84660 9340,866661-7509,,,,,C
+OUT OF STATE,School,777770049,0,627,New Haven Residential Treatment,John Stewart,2152 E 7200 S,Spanish Fork,84660 9340,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,826,New Haven RTC Parks House,Matt Bartlett,258 W 400 N,Saratoga Springs,84045,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,828,New Haven Residential Treatment,John Stewart,2152 E 7200 S,Spanish Fork,84660 9340,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,838,New Haven RTC Nightingale House,Matt Bartlett,244 W 400 N,Saratoga Springs,84045,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,847,New Haven RTC Roosevelt House,Matt Bartlett,2152 E 7200 S,Spanish Fork,84660 9340,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,850,New Haven RTC Anthony House,Matt Bartlett,258 W 400 N,Saratoga Springs,84045,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,852,New Haven RTC Hobble Creek,Matt Bartlett,266 South Left Fork Hobble Creek Canyon,Springville,84660,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,854,New Haven RTC Teresa House,Matt Bartlett,2172 E 7200 S,Spanish Fork,84660 9340,801794-1218,,,,,D
+OUT OF STATE,School,777770049,0,855,New Haven RTC Sacajawea House,Matt Bartlett,2096 E 7200 S,Spanish Fork,84660 9338,801794-1218,,,,,D
+OUT OF STATE,Dist,777770053,0,0,Chileda Institute,Ruth Wiseman,1825 Victory St,La Crosse,54601 7201,608782-6480,,,,,C
+OUT OF STATE,School,777770053,0,812,Chileda Institute,Rick Jones,1825 Victory St,La Crosse,54601 7201,608782-6480,,,,,D
+OUT OF STATE,School,777770053,0,924,Chileda Institute - Intensive,Rick Jones,1825 Victory St,La Crosse,54601 7201,608782-6480,,,,,D
+OUT OF STATE,Dist,777770056,0,0,Change Academy Lake o/t Ozarks,Chris Perkins,130 Calo Ln,Lake Ozark,65049 9208,573365-2221,,,,,C
+OUT OF STATE,School,777770056,0,831,Change Academy Lake o/t Ozarks,Abby Mayer,130 Calo Ln,Lake Ozark,65049 9208,573365-2221,,,,,D
+OUT OF STATE,Dist,777770057,0,0,Cleveland-University Heights SD,Robert Burmeister,2155 Miramar Blvd,University Heights,44118 3301,216371-7171,,,,,C
+OUT OF STATE,School,777770057,0,955,Cleveland-University Heights SD,Robert Burmeister,2155 Miramar Blvd,University Heights,44118 3301,216371-7171,,,,,D
+OUT OF STATE,Dist,777770058,0,0,Waterfall Canyon Academy,Richard Dimick,3375 Harrison Blvd,Ogden,84403 1228,801621-3901,,,,,C
+OUT OF STATE,School,777770058,0,833,Waterfall Canyon Academy,Karen Nickel,3375 Harrison Blvd,Ogden,84403 1228,801621-3901,,,,,D
+OUT OF STATE,Dist,777770062,0,0,Seven Hills Foundation,Joseph Allred,455 South St,Barre,01005 8909,978355-4541,,,,,C
+OUT OF STATE,School,777770062,0,835,Stetson School,Carrie Lehmann,455 South St,Barre,01005 8909,978355-4541,,,,,D
+OUT OF STATE,Dist,777770070,0,0,May Institute Inc,Dr. Lauren Solatar,41 Pacella Park Dr,Randolph,02368 1755,781440-0400,,,,,C
+OUT OF STATE,School,777770070,0,872,May Center for Brain Injury and Related Disorders,Andrea Potoczny-Gray,596 Summer St,Brockton,02302 4210,508588-8800,,,,,D
+OUT OF STATE,Dist,777770071,0,0,Falcon Ridge Ranch,Joette Hayden,633 E Highway 9,Virgin,84779,435635-5260,,,,,C
+OUT OF STATE,School,777770071,0,836,Falcon Ridge Ranch,Joette Hayden,633 E Highway 9,Virgin,84779,435635-5260,,,,,D
+OUT OF STATE,Dist,777770072,0,0,Devereux Texas Treatment Network,Pamela E Reed,1150 Devereux Dr,League City,77573 2043,281335-1000,,,,,C
+OUT OF STATE,School,777770072,0,843,Devereux Texas Treatment Network,Pamela E Reed,1150 Devereux Dr,League City,77573 2043,281335-1000,,,,,D
+OUT OF STATE,School,777770072,0,844,Devereux-Units #4 & #5,Pamela E Helm,1150 Devereux Dr,League City,77573 2043,281335-1000,,,,,D
+OUT OF STATE,School,777770072,0,845,Devereux Victoria - Young Adult,Richard Perkins,PO Box 2666,Victoria,77902 2666,361575-8271,,,,,D
+OUT OF STATE,School,777770072,0,846,Devereux-Victoria,Richard Perkins,PO Box 2666,Victoria,77902 2666,361575-8271,,,,,D
+OUT OF STATE,Dist,777770074,0,0,Clarinda Youth Corporation,Reggie St. Romain,1820 N 16th St,Clarinda,51632 1165,712542-3103,,,,,C
+OUT OF STATE,School,777770074,0,875,Clarinda Academy - Residential,Brittany Behr,1820 N 16th St,Clarinda,51632 1165,712542-3103,,,,,D
+OUT OF STATE,School,777770074,0,965,Clarinda Academy,Chad Leonard,1820 N 16th St,Clarinda,51632 1165,712542-3103,,,,,D
+OUT OF STATE,Dist,777770075,0,0,Elk Mountain Academy,Loretta Olding,3067 Mosquito Creek Rd,Clark Fork,83811 9825,208266-1122,,,,,C
+OUT OF STATE,School,777770075,0,841,Elk Mountain Academy,Blake Miller,3067 Mosquito Creek Rd,Clark Fork,83811 9825,208266-1122,,,,,D
+OUT OF STATE,Dist,777770078,0,0,Hughes Cntr-Exceptional Children,Michael S Triggs,1601 Franklin Tpke,Danville,24540 1031,434836-8500,,16,19,5,C
+OUT OF STATE,Dist,777770084,0,0,Pines Residential Trt Cntr,Wesley Mason III,825 Crawford Pkwy,Portsmouth,23704 2301,757391-6734,,80,18,3,C
+OUT OF STATE,Dist,777770088,0,0,Woodward Youth Corporation,Ryan Santi,1251-334th St,Woodward,50276,515438-3481,,,,,C
+OUT OF STATE,School,777770088,0,867,Woodward Academy,Mr. Aaron Peterson,1251-334th St,Woodward,50276,515438-3481,,,,,D
+OUT OF STATE,School,777770088,0,868,Woodward Academy JSO,Mr. Aaron Peterson,1251 - 334th St,Woodward,50276,515438-3481,,,,,D
+OUT OF STATE,School,777770088,0,962,Woodward Academy - Public School,Mr. Aaron Peterson,1251 - 334th St,Woodward,50276,515438-3481,,,,,D
+OUT OF STATE,Dist,777770089,0,0,Forest Heights Lodge,Linda Clefisch,PO Box 789,Evergreen,80437 0789,303674-6681,,,,,C
+OUT OF STATE,School,777770089,0,817,Forest Heights Lodge,Linda Clefisch,PO Box 789,Evergreen,80437 0789,303674-6681,,,,,D
+OUT OF STATE,Dist,777770094,0,0,Neuro Institute of Austin,Ed Prettyman,1106 W Dittmar Rd,Austin,78745 6328,512444-4835,,,,,C
+OUT OF STATE,Dist,777770102,0,0,Heartspring,David Stupay,8700 E 29th St N,Wichita,67226 2169,316634-8700,,,,,C
+OUT OF STATE,School,777770102,0,733,Heartspring,David Stupay,8700 E 29th St N,Wichita,67226 2169,316634-8700,,,,,D
+OUT OF STATE,School,777770102,0,876,Heartspring - Intensive,David Stupay,8700 E 29th St N,Wichita,67226 2169,316634-8700,,,,,D
+OUT OF STATE,Dist,777770103,0,0,Heritage Schools Inc,Jerry Spanos,5600 Heritage School Dr,Provo,84604 7701,801226-4600,,,,,C
+OUT OF STATE,School,777770103,0,848,Heritage School Inc,Jerry Spanos,5600 Heritage School Dr,Provo,84604 7701,801226-4600,,,,,D
+OUT OF STATE,Dist,777770104,0,0,Heartland Behavioral Health,Alyson Harder,1500 W Ashland St,Nevada,64772 1710,417667-2666,,,,,C
+OUT OF STATE,School,777770104,0,874,Heartland Behavioral Services,Alyson Harder,1500 W Ashland St,Nevada,64772 1710,417667-2666,,,,,D
+OUT OF STATE,School,777770104,0,966,Heartland Behavioral/R-5 Public,Tina Sitz,1500 W Ashland St,Nevada,64772 1710,417667-2666,,,,,D
+OUT OF STATE,Dist,777770105,0,0,Hillcrest Family Services,Gary L Gansemer,2005 Asbury Rd,Dubuque,52001 3042,563583-7357,,,,,C
+OUT OF STATE,School,777770105,0,698,Anna B Lawther Academy,Christine Davis,2005 Asbury Rd,Dubuque,52001 3042,563582-4015,,,,,D
+OUT OF STATE,School,777770105,0,857,Anna B Lawther Academy,Christine Davis,2005 Asbury Rd,Dubuque,52001 3042,563582-4015,,,,,D
+OUT OF STATE,Dist,777770106,0,0,Hoosier Care Inc,Tom Watts,1050 Chinoe Rd Ste 350,Lexington,40502 6571,859255-0075,,,,,C
+OUT OF STATE,School,777770106,0,352,Swann Special Care-Elementary,Huey(Debbie) Lang,2422 W Springfield Ave,Champaign,61821 2812,217398-9273,,103,52,13,D
+OUT OF STATE,School,777770106,0,354,Swann Special Care-Secondary,John Lawrence,2418 W Springfield Ave,Champaign,61821 2812,217398-9270,,103,52,13,D
+OUT OF STATE,School,777770106,0,361,Walter Lawson Childrens Home,Katie Johnson,1820 Walter Lawson Dr,Loves Park,61111 2757,815633-6636,,68,34,16,D
+OUT OF STATE,School,777770106,0,496,Swann Special Care Center,Kym Halberstadt,109 Kenwood Rd,Champaign,61821 2905,217356-5164,,103,52,13,D
+OUT OF STATE,Dist,777770112,0,0,Discovery Academy,Brent Hall,105 N 500 W,Provo,84601 2646,801489-3311,,,,,C
+OUT OF STATE,School,777770112,0,877,Discovery Ranch Boys,Clint Dorny,1308 S 1600 W,Mapleton,84664 4221,801489-3311,,,,,D
+OUT OF STATE,School,777770112,0,910,Discovery Connections,Nicholas Pakidko,1834 Sandhill Rd,Orem,84058 7512,801374-2121,,,,,D
+OUT OF STATE,School,777770112,0,931,Discovery Academy,Nicholas Pakidko,105 N 500 W,Provo,84601 2646,801960-9615,,,,,D
+OUT OF STATE,School,777770112,0,942,Discovery Ranch for Girls,Andrea Burgess,4928 N 4500 W,Cedar City,84721 5632,435865-9574,,,,,D
+OUT OF STATE,Dist,777770113,0,0,Crotched Mountain Rehab Center,Michael Coughlin,1 Verney Dr,Greenfield,03047 5000,603547-3311,,,,,C
+OUT OF STATE,School,777770113,0,879,Crotched Mountain School,Melissa White,1 Verney Dr,Greenfield,03047 5000,603547-1503,,,,,D
+OUT OF STATE,Dist,777770120,0,0,Southwood Psychiatric Hospital,Steve Quigley,2575 Boyce Plaza Rd,Pittsburgh,15241 3925,412257-2290,,,,,C
+OUT OF STATE,Dist,777770122,0,0,Perkins School for the Blind,David Power,175 N Beacon St,Watertown,02472 2751,617924-3434,,,,,C
+OUT OF STATE,School,777770122,0,884,Perkins School for the Blind,Christopher Underwood,175 N Beacon St,Watertown,02472 2751,617924-3434,,,,,D
+OUT OF STATE,School,777770122,0,885,Perkins - Multi-Impaired,Christopher Underwood,175 N Beacon St,Watertown,02472 2751,617924-3434,,,,,D
+OUT OF STATE,School,777770122,0,886,Perkins - D/B Multi-Impaired,Christopher Underwood,175 N Beacon St,Watertown,02472 2751,617924-3434,,,,,D
+OUT OF STATE,School,777770122,0,887,Perkins - Severe Impaired,Christopher Underwood,175 N Beacon St,Watertown,02472 2751,617924-3434,,,,,D
+OUT OF STATE,Dist,777770123,0,0,Lad Lake,Dan Magnuson,PO Box 158,Dousman,53118 0158,262965-2131,,,,,C
+OUT OF STATE,School,777770123,0,895,Lad Lake-Special,Thomas Geraty,PO Box 158,Dousman,53118 0158,262965-2131,,,,,D
+OUT OF STATE,School,777770123,0,896,Lad Lake,Thomas Geraty,PO Box 158,Dousman,53118 0158,262965-2131,,,,,D
+OUT OF STATE,Dist,777770124,0,0,Liahona Academy,"Clayton AhQuin, Jr",PO Box 790310,Virgin,84779 0310,435635-0740,,,,,C
+OUT OF STATE,Dist,777770133,0,0,St Coletta/Cardinal Cushing,Jo Ann Simons,405 Washington St,Hanover,02339 2343,781826-6371,,,,,C
+OUT OF STATE,School,777770133,0,916,Cardinal Cushing School - 281,Lawrence E Sauer,405 Washington St,Hanover,02339 2343,781826-6371,,,,,D
+OUT OF STATE,School,777770133,0,921,Cardinal Cushing School - 315,Lawrence E Sauer,405 Washington St,Hanover,02339 2343,781826-6371,,,,,D
+OUT OF STATE,School,777770133,0,922,Cardinal Cushing School - 366,Lawrence E Sauer,405 Washington St,Hanover,02339 2343,781826-6371,,,,,D
+OUT OF STATE,Dist,777770142,0,0,Lutheran Social Services-WI/MI,David Lorson,647 W Virginia St,Milwaukee,53204 1535,414281-4400,,,,,C
+OUT OF STATE,Dist,777770145,0,0,Marygrove Services,Sr. Helen Negri,2705 Mullanphy Ln,Florissant,63031 3727,314830-6222,,,,,C
+OUT OF STATE,School,777770145,0,751,Marygrove Services,Wendy Pikula,2705 Mullanphy Ln,Florissant,63031 3727,314830-6203,,,,,D
+OUT OF STATE,Dist,777770147,0,0,Oxbow Academy,Shawn Brooks,4245 HC 13,Wales,84667 5001,435436-9460,,,,,C
+OUT OF STATE,School,777770147,0,890,Oxbow Academy,Shawn Brooks,4245 HC 13,Wales,84667 5001,435436-9460,,,,,D
+OUT OF STATE,Dist,777770155,0,0,Acadia Behavioral Health,Roxanne Jividen,5602 Caito Dr,Indianapolis,46226 1346,317544-4340,,,,,C
+OUT OF STATE,School,777770155,0,891,Resolute Treatment Facility,Lynn Farmer,320 N Tibbs Ave,Indianapolis,46222 4064,317630-5215,,,,,D
+OUT OF STATE,School,777770155,0,892,Resource Residential Treatment,Staci Hovermale,1404 S State Ave,Indianapolis,46203 2009,317783-4003,,,,,D
+OUT OF STATE,School,777770155,0,893,Options Treatment Center,Dennis Greer,5602 Caito Dr,Indianapolis,46226 1346,317544-4340,,,,,D
+OUT OF STATE,School,777770155,0,904,Resource - SHARE,Staci Hovermale,1404 S State Ave,Indianapolis,46203 2009,317783-4003,,,,,D
+OUT OF STATE,School,777770155,0,905,Resource - PRTF,Staci Hovermale,1404 S State Ave,Indianapolis,46203 2009,317783-4003,,,,,D
+OUT OF STATE,Dist,777770157,0,0,Moog Center for Deaf Education,Jean Sachar Moog,12300 S 40 Dr,Saint Louis,63141 8820,314692-7172,,,,,C
+OUT OF STATE,School,777770157,0,613,Moog Center for Deaf Education,Betsy Brooks,12300 S 40 Dr,Saint Louis,63141 8820,314692-7172,,,,,D
+OUT OF STATE,Dist,777770160,0,0,RTC Resource Acquisiton Corp,Lisa Machado,1404 S State Ave,Indianapolis,46203 2009,317783-4003,,,,,C
+OUT OF STATE,School,777770160,0,968,Indianapolis Public Schools,Jeff Catlett,9105 E 56th St Ste 2200,Indianapolis,46216 2232,317524-6360,,,,,D
+OUT OF STATE,Dist,777770161,0,0,Starr Commonwealth,Martin L Mitchel,13725 26 Mile Rd,Albion,49224 9525,517629-5593,,,,,C
+OUT OF STATE,Dist,777770168,0,0,Oconomowoc Residential Programs,James Balestrieri,PO Box 278,Dousman,53118 0278,262569-5515,,,,,C
+OUT OF STATE,School,777770168,0,607,ODTC-Genesee Lake School Day,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262569-5510,,,,,D
+OUT OF STATE,School,777770168,0,609,ODTC-Genesee Lake School Day-Int,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262569-5510,,,,,D
+OUT OF STATE,School,777770168,0,616,The Richardson School LLC,Craig Brimacombe,321 Olympian Blvd,Beloit,53511 4209,608473-3244,,,,,D
+OUT OF STATE,School,777770168,0,620,The Richardson School Int,Mr. Craig Brimacombe,321 Olympian Blvd,Beloit,53511 4209,608473-3244,,,,,D
+OUT OF STATE,School,777770168,0,621,ODTC-Genesee Lake 1-on-1,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262569-5510,,,,,D
+OUT OF STATE,School,777770168,0,622,ODTC-Genesee Lake 1-on-1 Int,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262569-5510,,,,,D
+OUT OF STATE,School,777770168,0,709,Prader-Willi Starlight Home,Marguerite Rupnow,988 Chesterton Ct,Oconomowoc,53066 4311,262569-5515,,,,,D
+OUT OF STATE,School,777770168,0,737,ODTC-Genesee Lake School - Int,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262567-5510,,,,,D
+OUT OF STATE,School,777770168,0,739,IDTC - T.C. Harris School,Audra Whitworth,3700 Rome Dr,Lafayette,47905 4489,765448-4220,,,,,D
+OUT OF STATE,School,777770168,0,741,IDTC - T.C. Harris School - Int,Audra Whitworth,3700 Rome Dr,Lafayette,47905 4489,765448-4220,,,,,D
+OUT OF STATE,School,777770168,0,760,Oconomowoc-Anthony House,Marguerite Rupnow,1231 Blue Dahlia Rd,Oconomowoc,53066 2203,262569-5515,,,,,D
+OUT OF STATE,School,777770168,0,763,Oconomowoc-Gate House,Marguerite Rupnow,123 Lawn St,Hartland,53029 1713,262569-5515,,,,,D
+OUT OF STATE,School,777770168,0,764,Oconomowoc-Sawyer House,Kim Ray,307 Wilson Ave,Dousman,53118 9380,262569-5510,,,,,D
+OUT OF STATE,School,777770168,0,765,Oconomowoc-Cheryl House,Kim Ray,3222 N Silver Cedar Rd,Oconomowoc,53066 4727,262569-5510,,,,,D
+OUT OF STATE,School,777770168,0,827,ODTC-Genesee Lk - Special,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262567-5515,,,,,D
+OUT OF STATE,School,777770168,0,898,ODTC - Genesee Lk - Int - 1-1,Kim Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262569-5515,,,,,D
+OUT OF STATE,School,777770168,0,899,ODTC - Genesee Lk - Special 1-1,Kay Ray,36100 Genesee Lake Rd,Oconomowoc,53066 9201,262569-5515,,,,,D
+OUT OF STATE,Dist,777770173,0,0,Phoenix Care Systems,Len Dziubla,1744 N Farwell Ave,Milwaukee,53202 1806,414225-4460,,,,,C
+OUT OF STATE,School,777770173,0,156,Willowglen-Illinois Intensive,Betty Kinard,701 W Lamm Rd,Freeport,61032 9630,815233-6162,,89,45,17,D
+OUT OF STATE,School,777770173,0,236,Willowglen-Illinois,Betty Kinard,701 W Lamm Rd,Freeport,61032 9630,815233-6162,,89,45,17,D
+OUT OF STATE,School,777770173,0,451,Willowglen-Brewster,Betty Kinard,730 N Brewster Ave,Freeport,61032 3113,815233-1396,,89,45,17,D
+OUT OF STATE,School,777770173,0,452,Willowglen-DeBoer,Betty Kinard,1653 DE Boer Ln,Freeport,61032 5900,815232-8130,,89,45,17,D
+OUT OF STATE,School,777770173,0,453,Willowglen-Kunkle,Betty Kinard,3111 W Kunkle Blvd,Freeport,61032 6922,815233-0406,,89,45,17,D
+OUT OF STATE,School,777770173,0,454,Willowglen-Whistler,Betty Kinard,321 N Whistler Ave,Freeport,61032 3958,815233-0636,,89,45,17,D
+OUT OF STATE,School,777770173,0,586,Willowglen-Washington,Betty Kinard,227 E Washington St,Freeport,61032 5162,815232-0980,,,,,D
+OUT OF STATE,Dist,777770179,0,0,Utah Youth Village,"Eric Bjorklund, J.D.",5800 S Highland Dr,Salt Lake City,84121 1359,801272-9980,,,,,C
+OUT OF STATE,School,777770179,0,932,Alpine Academy,Angie Alvey,1280 Whispering Horse Dr,Tooele,84074 3473,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,933,Alpine Academy-ASPIRE Program,Angie Alvey,1369 E Erda Way,Tooele,84074 3412,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,934,Alpine Academy-Cottonwood Grove,Angie Alvey,1288 Whispering Horse Dr,Erda,84074 3473,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,935,Alpine Academy-Gene Smith Home,Angie Alvey,4076 Droubay Rd,Erda,84074 9517,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,936,Alpine Academy-Mountain Birch,Angie Alvey,1369 E Erda Way,Tooele,84074 3412,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,937,Alpine Academy-Oak Ridge Home,Angie Alvey,1296 Whispering Horse Dr,Erda,84074 3473,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,938,Alpine Academy-Pine Canyon Home,Angie Alvey,1249 Whispering Horse Dr,Tooele,84074 3473,435228-0100,,,,,D
+OUT OF STATE,School,777770179,0,939,Alpine Academy-Willow Creek Home,Angie Alvey,1293 Whispering Horse Dr,Erda,84074 3473,435228-0100,,,,,D
+OUT OF STATE,Dist,777770192,0,0,RTC Options Acquisition Corp,Rick Bangert,5602 Caito Dr,Indianapolis,46226 1346,317544-4340,,,,,C
+OUT OF STATE,Dist,777770194,0,0,Little Keswick School,Marc Columbus,500 Little Keswick Ln,Keswick,22947 2406,434295-0457,,,,,C
+OUT OF STATE,School,777770194,0,941,Little Keswick School,Marc Columbus,500 Little Keswick Ln,Keswick,22947 2406,434295-0457,,,,,D
+OUT OF STATE,Dist,777770213,0,0,Normative Services Academy,Gary Flohr,5 Lane Ln,Sheridan,82801 8630,307674-6878,,,,,C
+OUT OF STATE,School,777770213,0,947,Normative Services Academy,Gary Flohr,5 Lane Ln,Sheridan,82801 8630,307674-6878,,,,,D
+OUT OF STATE,School,777770213,0,948,Normative Services Academy-270,Gary Flohr,5 Lane Ln,Sheridan,82801 8630,307674-6878,,,,,D
+OUT OF STATE,Dist,777770214,0,0,Sequel Youth and Family Services,Mr. Steve Laidaker,3921 Oakland Dr,Kalamazoo,49008 4819,269381-4760,,,,,C
+OUT OF STATE,School,777770214,0,949,Lakeside Academy,Steve Laidacker,3921 Oakland Dr,Kalamazoo,49008 4819,269381-4760,,,,,D
+OUT OF STATE,Dist,777770225,0,0,Mingus Mountain Academy,Mr. Mike McFarland,15801 E Don Carlos Dr,Prescott Valley,86315 4109,602335-2000,,,,,C
+OUT OF STATE,School,777770225,0,718,Mingus Mountain Academy,Mr. Mike McFarland,15801 E Don Carlos Drive,Prescott Valley,86315,602335-2000,,,,,D
+OUT OF STATE,Dist,777770234,0,0,McLean Hospital Inc,Joseph Gold,115 Mill St,Belmont,02478 1064,617855-2367,,,,,C
+OUT OF STATE,Dist,777770236,0,0,Acadia Arkansas,Matt Wiltshire,PO Box 727,Fordyce,71742 0727,870352-8203,,,,,C
+OUT OF STATE,School,777770236,0,928,Millcreek of Arkansas,Janice Baker,1810 Industrial Dr,Fordyce,71742 7110,870352-8203,,,,,D
+OUT OF STATE,Dist,777770237,0,0,Yellowstone Boys & Girls Ranch,Michael Chavers,1732 S 72nd St W,Billings,59106 3538,406655-2109,,,,,C
+OUT OF STATE,School,777770237,0,783,Yellowstone Boys & Girls Ranch,Rishay Watson,1732 S 72nd St W,Billings,59106 3538,406651-2926,,,,,D
+OUT OF STATE,School,777770237,0,785,Yellowstone Ranch-Therapeutic,Christi Beals,1732 S 72nd St W,Billings,59106 3538,406655-2100,,,,,D
+OUT OF STATE,School,777770237,0,981,Yellowstone Public School,Lynn Solberg,1732 S 72nd St W,Billings,59106 3538,406656-2198,,,,,D
+OUT OF STATE,Dist,777770240,0,0,Lakemary Center Inc.,Marcy Seaman,100 Lakemary Dr,Paola,66071 1855,913557-4000,,,,,C
+OUT OF STATE,School,777770240,0,761,Lakemary 1:1 Support 16,Amanda Martell,100 Lakemary Dr,Paola,66071 1855,913557-4000,,,,,D
+OUT OF STATE,School,777770240,0,762,Lakemary 1:1 Support 24,Amanda Martell,100 Lakemary Dr,Paola,66071 1855,903557-4000,,,,,D
+OUT OF STATE,School,777770240,0,800,Lakemary Enhanced,Amanda Martell,100 Lakemary Dr,Paola,66071 1855,913557-4000,,,,,D
+OUT OF STATE,School,777770240,0,802,Lakemary Intensive,Amanda Martell,100 Lakemary Dr,Paola,66071 1855,913557-4000,,,,,D
+OUT OF STATE,School,777770240,0,930,Lakemary Center Inc,Marcy Seaman,100 Lakemary Dr,Paola,66071 1855,913557-4000,,,,,D
+OUT OF STATE,Dist,777770244,0,0,Bayes Achievement Center Inc,Daniel Bayes,7517 Highway 755 S,Huntsville,77340,936291-3391,,,,,C
+OUT OF STATE,School,777770244,0,725,Bayes Achievement Center Inc,Vanessa Eckenrode,7517 State Highway 75 S,Huntsville,77340 2485,936291-3391,,,,,D
+OUT OF STATE,Dist,777770245,0,0,Clinicare Corp,Dave Fritsch,10201 W Lincoln Ave,West Allis,53227 2136,414545-9490,,,,,C
+OUT OF STATE,School,777770245,0,747,Milwaukee Academy,Dana Dorn,9501 W Watertown Plank Rd,Milwaukee,53226 3552,414257-3141,,,,,D
+OUT OF STATE,School,777770245,0,799,Eau Claire Academy-Stop Program,Laurie Van Beek,550 N Dewey St,Eau Claire,54703 3218,715834-6681,,,,,D
+OUT OF STATE,School,777770245,0,858,Eau Claire Academy,Laurie Van Beek,550 N Dewey St,Eau Claire,54703 3218,715834-6681,,,,,D
+OUT OF STATE,Dist,777770246,0,0,Bancroft Schools & Communities,Toni Pergolin,PO Box 20,Haddonfield,08033 0018,856524-7322,,,,,C
+OUT OF STATE,Dist,777770248,0,0,WRFS Services LLC,Adrain Dee Gibson,5233 S 50 E,Wabash,46992 8011,260563-1158,,,,,C
+OUT OF STATE,School,777770248,0,773,Compass Rose Academy,Mike Haarer,5233 S 50 E,Wabash,46992 8011,260569-4757,,,,,D
+OUT OF STATE,Dist,777770260,0,0,Spectrum Center,Mark Claypool,16360 San Pablo Ave,San Pablo,94806 1242,510741-5440,,,,,C
+OUT OF STATE,School,777770260,0,376,Spectrum Center Lake County,Karen Gill,18550 W Millburn Rd,Old Mill Creek,60083 9248,847916-7375,,,,,D
+OUT OF STATE,School,777770260,0,377,Spectrum Center L.C. Int,Karen Gill,18550 W Millburn Rd,Old Mill Creek,60083 9248,847916-7375,,,,,D
+OUT OF STATE,Dist,777770263,0,0,Provo Canyon School-Orem,Dr. Adam McLain,763 N 1650W,Springville,84663,801227-2000,,,,,C
+OUT OF STATE,School,777770263,0,722,Provo Canyon School-Girls,Mr. Tim Marshall,763 N 1650 W,Springville,84663 5066,801227-2000,,,,,D
+OUT OF STATE,School,777770263,0,776,Provo Canyon - Springville Campus,Tim Marshall,763 N 1650 W,Springville,84663 5066,801227-2000,,,,,D
+OUT OF STATE,Dist,777770264,0,0,Provo Canyon School-Provo,Brad Gerrard,4501 N University Ave,Provo,84604 5504,801227-2100,,,,,C
+OUT OF STATE,School,777770264,0,749,Provo Canyon School-Boys,Tim Marshall,4501 N University Ave,Provo,84604 5504,801227-2000,,,,,D
+OUT OF STATE,Dist,777770266,0,0,Banner Learning Corp.,Eric A Carlton,8177 Glades Rd Ste 217,Boca Raton,33434 4022,561477-6996,,,,,C
+OUT OF STATE,Dist,777770267,0,0,Lakeview Rehabilitation Center,Tina Trudel,1701 Sharp Rd,Waterford,53185 5214,262534-7297,,,,,C
+OUT OF STATE,Dist,777770268,0,0,Logos School,Kathleen BoydFenger,9137 Old Bonhomme Rd,Saint Louis,63132 4417,314997-7002,,,,,C
+OUT OF STATE,School,777770268,0,602,Logos School,Kathleen BoydFenger,9137 Old Bonhomme Rd,Saint Louis,63132 4417,314997-7002,,,,,D
+OUT OF STATE,Dist,777770271,0,0,Nexus Trtmt,David Hutchinson,505 Highway 169 N Ste 500,Plymouth,55441 6447,763553-1637,,,,,C
+OUT OF STATE,School,777770271,0,362,Onarga Academy - Expressions,Tara Lemenager,300 East Seminary,Onarga,60955,815268-7440,,106,53,16,D
+OUT OF STATE,School,777770271,0,432,Onarga Academy-Adolescent,Tara Lemenager,300 E Seminary,Onarga,60955 1213,815268-7440,,106,53,16,D
+OUT OF STATE,School,777770271,0,433,Onarga Academy-Transitional,Tara Lemenager,300 E Seminary,Onarga,60955 1213,815268-7440,,106,53,16,D
+OUT OF STATE,School,777770271,0,501,Onarga Academy,Tara Lemenager,300 E Seminary,Onarga,60955 1213,815268-7440,,106,53,16,D
+OUT OF STATE,School,777770271,0,522,Nexus-Indian Oaks Academy,Sheila Pickens,101 N Bramble St,Manteno,60950 9303,815802-3753,,34,17,2,D
+OUT OF STATE,School,777770271,0,595,Nexus- Indian Oaks Academy Int,Sheila Pickens,101 N Bramble St,Manteno,60950 9303,815802-3753,,,,,D
+OUT OF STATE,Dist,777770276,0,0,Edgewood Childrens Center,Vince Hillyer,330 N Gore Ave,Webster Groves,63119 1600,314968-2060,,,,,C
+OUT OF STATE,School,777770276,0,755,Great Circle Edgewood Campus-1-1,Darla Hemrick,330 N Gore Ave,Webster Groves,63119 1600,314919-4700,,,,,D
+OUT OF STATE,School,777770276,0,917,Great Circle Edgewood Campus,Darla Hemrick,330 N Gore Ave,Webster Groves,63119 1600,314919-4700,,,,,D
+OUT OF STATE,School,777770276,0,918,Great Circle Edgewood Campus-Int,Darla Hemrick,330 N Gore Ave,Webster Groves,63119 1600,314919-4700,,,,,D
+OUT OF STATE,School,777770276,0,919,Great Circle Edgewood Campus-Aut,Darla Hemrick,330 N Gore Ave,Webster Groves,63119 1600,314968-2060,,,,,D
+OUT OF STATE,Dist,777770277,0,0,KidsPeace-Orefield,Susan Mullen,5300 Kidspeace Dr,Orefield,18069 2044,610799-8879,,,,,C
+OUT OF STATE,School,777770277,0,738,KidsPeace National Centers Inc,Michelle Williams,5300 Kidspeace Dr,Orefield,18069 2044,610799-8000,,,,,D
+OUT OF STATE,Dist,777770280,0,0,Acadia Montana,Carter Anderson,55 Basin Creek Rd,Butte,59701 9704,406496-6347,,,,,C
+OUT OF STATE,School,777770280,0,791,Acadia Montana,Kathy Kopf,55 Basin Creek Rd,Butte,59701 9704,406496-6347,,,,,D
+OUT OF STATE,Dist,777770281,0,0,Kids Behavioral Health-Utah,Mike Rowley,5899 Rivendell Dr,West Jordan,84081 6500,801561-3377,,,,,C
+OUT OF STATE,Dist,777770286,0,0,Diamond Ranch Academy,Cody Warole,433 S Diamond Ranch Parkway,Hurricane,84737,435635-4297,,,,,C
+OUT OF STATE,School,777770286,0,719,Diamond Ranch Academy,Reeve Knighton,433 S Diamond Ranch Parkway,Hurricane,84737,435635-4297,,,,,D
+OUT OF STATE,Dist,777770293,0,0,Melmark School,Rita M Gardner,2600 Wayland Rd,Berwyn,19312 2307,610353-1726,,,,,C
+OUT OF STATE,School,777770293,0,704,Melmark School,Travis C McCoy,2600 Wayland Rd,Berwyn,19312 2307,610325-4986,,,,,D
+OUT OF STATE,Dist,777770295,0,0,Giant Steps-St Louis,Betty Berger,7281 Sarah St,Maplewood,63143 2404,314932-1051,,,,,C
+OUT OF STATE,School,777770295,0,608,Giant Steps-St Louis,Betty Berger,7281 Sarah St,Maplewood,63143 2404,314932-1051,,,,,D
+OUT OF STATE,Dist,777770299,0,0,Woodridge of Missouri LLLC,Neil Campbell,162 Cude Ln,Madison,37115 2202,615860-9230,,,,,C
+OUT OF STATE,School,777770299,0,705,Piney Ridge Center,Paul Smith,1000 Hospital Rd,Waynesville,65583 2634,573774-5353,,,,,D
+OUT OF STATE,School,777770299,0,951,Piney Ridge-Waynesville SD,Paul Smith,1000 Hospital Rd,Waynesville,65583 2634,573774-5353,,,,,D
+OUT OF STATE,Dist,777770300,0,0,Red Rock Canyon School,Melanie Habibian,747 E Saint George Blvd,St George,84770 3035,435673-6111,,,,,C
+OUT OF STATE,School,777770300,0,708,Red Rock Canyon School,Brian Pace,747 E Saint George Blvd,St George,84770 3035,435673-6111,,,,,D
+OUT OF STATE,Dist,777770303,0,0,Triumph Academy,Bruce Humphries,62 S 950 W,Brigham City,84302 4424,435538-5063,,,,,C
+OUT OF STATE,School,777770303,0,920,Triumph Academy,Bruce Humphries,62 S 950 W,Brigham City,84302 4424,435538-5063,,,,,D
+OUT OF STATE,Dist,777770307,0,0,Intermountain,Jim Fitzgerald,500 S Lamborn St,Helena,59601 5417,406442-7920,,,,,C
+OUT OF STATE,School,777770307,0,714,Intermountain Childrens Home,Marvin Williams,500 S Lamborn St,Helena,59601 5417,406442-7920,,,,,D
+OUT OF STATE,Dist,777770310,0,0,Frederic L Chamberlain Center,William Doherty,1 Pleasant St,Middleboro,02346 1101,508947-7825,,,,,C
+OUT OF STATE,School,777770310,0,772,Frederic L Chamberlain School,Diane Wilson,1 Pleasant St,Middleboro,02346 1101,508946-9336,,,,,D
+OUT OF STATE,School,777770310,0,945,Frederic L Chamberlain Sch Int,Diane Wilson,1 Pleasant St,Middleboro,02346 1101,508946-9336,,,,,D
+OUT OF STATE,Dist,777770314,0,0,ECH Every Childs Hope,Michael Brennan,8240 Saint Charles Rock Rd,Saint Louis,63114 4508,314427-3755,,,,,C
+OUT OF STATE,School,777770314,0,734,Every Childs Hope  (ECH),Marlina Hunt-Clark,8240 Saint Charles Rock Rd,Saint Louis,63114 4508,314593-2999,,,,,D
+OUT OF STATE,Dist,777770315,0,0,Midwest Academy,Carla Brown,2416 340th St,Keokuk,52632 9539,319524-3560,,,,,C
+OUT OF STATE,School,777770315,0,960,Midwest Academy,Ben Trane,2416 340th St,Keokuk,52632 9539,319524-3560,,,,,D
+OUT OF STATE,Dist,777770316,0,0,Judge Rotenberg Ed Center,Glenda Crookes,250 Turnpike St,Canton,02021 2359,781828-2202,,,,,C
+OUT OF STATE,School,777770316,0,711,Judge Rotenberg Turnpike 279,Glenda Crookes,279 Turnpike St,Canton,02021 2310,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,712,Judge Rotenberg Pineneedle Ln 71,Glenda Crookes,71 Pineneedle Ln,Mansfield,02048 1651,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,713,Judge Rotenberg Pineneedle  Ln 73,Glenda Crookes,73 Pineneedle Ln,Mansfield,02048 1651,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,744,Judge Rotenberg - Holbrook,Glenda Crookes,398 South St,Holbrook,02343 1366,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,750,Judge Rotenberg - Norton,Glenda Crookes,31 Shelly Rd,Norton,02766 2109,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,752,Judge Rotenberg - Old Maple,Glenda Crookes,70 Old Maple St,Stoughton,02072 1967,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,759,Judge Rotenberg - Stearns,Glenda Crookes,65 Stearns Ave,Mansfield,02048,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,767,Judge Rotenberg - Stoughton,Glenda Crookes,66 Kevin Clancy Way,Stoughton,02072 3888,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,768,Judge Rotenberg - Talbot,Glenda Crookes,35 Talbot St,Stoughton,02072 2548,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,769,Judge Rotenberg - Turnpike,Glenda Crookes,198 Turnpike St,Canton,02021 2311,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,771,Judge Rotenberg Ed Center-Intensive,Glenda Crookes,250 Turnpike St,Canton,02021 2359,781828-2202,,,,,D
+OUT OF STATE,School,777770316,0,774,Judge Rotenberg Ed Center,Glenda Crookes,250 Turnpike St,Canton,02021 2359,781828-2202,,,,,D
+OUT OF STATE,Dist,777770317,0,0,Camphill Special School,Bernard Wolf,1784 Fairview Rd,Glenmoore,19343 2624,610469-9236,,,,,C
+OUT OF STATE,School,777770317,0,853,Camphill Special School,Bernard Wolf,1784 Fairview Rd,Glenmoore,19343 2624,610469-9236,,,,,D
+OUT OF STATE,Dist,777770319,0,0,Damar Services Inc,Dr. Jim Dalton,6067 Decatur Blvd,Indianapolis,46241 9606,317856-5201,,,,,C
+OUT OF STATE,School,777770319,0,856,Damar Services Inc,Erin Crick,6067 Decatur Blvd,Indianapolis,46241 9606,317856-5201,,,,,D
+OUT OF STATE,School,777770319,0,929,Damar Services Inc - Intensive,Erin Crick,6067 Decatur Blvd,Indianapolis,46241 9606,317856-5201,,,,,D
+OUT OF STATE,Dist,777770323,0,0,Zimmerman Consulting,Linda Zimmerman,50 Calle Del Rio,Los Lunas,87031 7556,505866-9271,,,,,C
+OUT OF STATE,Dist,777770326,0,0,Children and Youth Services,Ken Allen,5500 Bagley Park Rd,West Jordan,84081 5697,801280-2697,,,,,C
+OUT OF STATE,Dist,777770328,0,0,Discovery School of Virginia,Mark Mellus,PO Box 1159,Dillwyn,23936 1159,434983-5616,,,,,C
+OUT OF STATE,School,777770328,0,787,Discovery School of VA for Girls,John Case,2697 Copper  Mine Road,Dillwyn,23936 1159,434983-2003,,,,,D
+OUT OF STATE,School,777770328,0,837,Discovery School of VA for Boys,John Case,2697 Copper Mine Road,Dillwyn,23936 1160,434983-5616,,,,,D
+OUT OF STATE,Dist,777770331,0,0,Harbor Point Academy,Freddie Anderson,301 Fort Ln,Portsmouth,23704 2221,757391-6731,,,,,C
+OUT OF STATE,School,777770331,0,628,Harbor Point Academy,Tracey Flemings,301 Fort Ln,Portsmouth,23704 2221,757391-6569,,,,,D
+OUT OF STATE,Dist,777770665,0,0,Natl Deaf Academy/Preparatory Sch,Deana Goldstein,19650 US Highway 441,Mt Dora,32757 6959,352735-9500,,,,,C
+OUT OF STATE,School,777770665,0,616,Natl Deaf Aca 1:1 - Extended,Ms. Deana Goldstein,19650 US Highway 441,Mount Dora,32757 6959,352735-9500,,,,,D
+OUT OF STATE,School,777770665,0,903,Natl Deaf Aca - 1-1 - 16 hour,Deana Goldstein,19650 US Highway 441,Mount Dora,32757 6959,352735-9500,,,,,D
+OUT OF STATE,Dist,777770666,0,0,University Charter School,Alan Reiman,PO Box 87,Liberty Hill,78642 0087,512517-2774,,,,,C
+OUT OF STATE,School,777770666,0,736,Meridell Achievement Center,Ray Heckerman,PO Box 87,Liberty Hill,78642 0087,512528-2100,,,,,D
+OUT OF STATE,Dist,777770667,0,0,Meridell Achievement Center,Alan Reiman,PO Box 87,Liberty Hill,78642 0087,512528-2100,,,,,C
+OUT OF STATE,Dist,777770670,0,0,Glen Mills Schools,Randy Ireson,PO Box 5001,Concordville,19331 5001,610459-8100,,,,,C
+OUT OF STATE,School,777770670,0,807,Glen Mills Schools,Mr. Jim Chobany,PO Box 5001,Concordville,19331 5001,610459-8100,,,,,D

@@ -1,0 +1,137 @@
+city,county,transfer_count
+Brookfield,Cook,1
+Des Plaines,Cook,1
+Rolling Meadows,Cook,2
+Round Lake Heights,Lake,2
+Lindenhurst,Lake,1
+Algonquin,McHenry,1
+Chicago Ridge,Cook,1
+Peru,La Salle,1
+Oak Brook,Dupage,2
+Evanston,Cook,14
+Aurora,Dupage,3
+Zion,Lake,4
+Winnetka,Cook,1
+Kenilworth,Cook,1
+St Charles,Kane,1
+Elmhurst,Dupage,6
+Chatham,Sangamon,1
+Phoenix,Cook,1
+Effingham,Effingham,1
+De Kalb,Dekalb,1
+La Grange,Cook,5
+Park Forest,Cook,5
+Springfield,Sangamon,2
+Aurora,Kane,4
+Naperville,Dupage,25
+Great Lakes,Lake,1
+Elk Grove Village,Cook,1
+Champaign,Champaign,3
+Long Grove,Lake,2
+Robbins,Cook,1
+Plainfield,Will,2
+Northbrook,Cook,12
+Hinsdale,Dupage,4
+Bloomington,McLean,8
+La Grange Park,Cook,1
+Marion,Williamson,1
+South Holland,Cook,3
+Buffalo Grove,Cook,1
+Arlington Heights,Cook,3
+Hazel Crest,Cook,2
+Darien,Dupage,1
+Park Ridge,Cook,3
+Dolton,Cook,10
+Bannockburn,Lake,1
+Markham,Cook,4
+Flossmoor,Cook,7
+Woodridge,Dupage,2
+Willowbrook,Dupage,3
+Wheeling,Cook,1
+Riverside,Cook,1
+Chicago,Dept Of Corrections,1
+Buffalo Grove,Lake,3
+Carbondale,Jackson,1
+Posen,Cook,2
+Chicago,Cook,3
+Cicero,Cook,6
+Barrington,Lake,1
+Old Mill Creek,Lake,1
+Carpentersville,Kane,5
+Justice,Cook,1
+Joliet,Will,5
+Lemont,Cook,2
+Elmwood Park,Cook,1
+Matteson,Cook,2
+Highland Park,Lake,5
+Algonquin,Kane,1
+Melrose Park,Cook,1
+Lincolnshire,Lake,1
+Rockford,Winnebago,6
+Calumet City,Cook,5
+Harvey,Cook,3
+DeKalb,Dekalb,1
+Oak Park,Cook,27
+Chicago Heights,Cook,1
+Lockport,Will,2
+Oak Lawn,Cook,2
+Galena,Jo Daviess,1
+Glenview,Cook,9
+Clarendon Hills,Dupage,3
+Olympia Fields,Cook,3
+Summit,Cook,1
+Bolingbrook,Will,2
+Roselle,Dupage,1
+Fox River Grove,McHenry,1
+Skokie,Cook,2
+Burr Ridge,Dupage,4
+Schaumburg,Cook,2
+Glen Ellyn,Dupage,2
+Antioch,Lake,1
+Homer Glen,Will,1
+Orland Park,Cook,1
+River Forest,Cook,4
+Danville,Vermilion,5
+Mt Prospect,Cook,3
+Morris,Grundy,1
+Lansing,Cook,2
+Romeoville,Will,1
+Niles,Cook,3
+Lyons,Cook,1
+Hanover Park,Dupage,3
+Downers Grove,Dupage,1
+Macomb,McDonough,2
+Berwyn,Cook,3
+Peoria,Peoria,4
+Glenwood,Cook,3
+Braidwood,Will,1
+Galesburg,Knox,4
+Riverdale,Cook,9
+Bridgeview,Cook,1
+Frankfort,Will,2
+Wilmette,Cook,8
+Burbank,Cook,2
+Maywood,Cook,2
+Glencoe,Cook,1
+Kewanee,Henry,2
+Vernon Hills,Lake,5
+Deerfield,Lake,3
+Mokena,Will,2
+Richton Park,Cook,1
+Homewood,Cook,3
+Normal,McLean,2
+Morton Grove,Cook,5
+Lombard,Dupage,2
+Northfield,Cook,3
+Maroa,Macon,2
+Oak Forest,Cook,1
+Geneva,Kane,2
+Quincy,Adams,1
+Bourbonnais,Kankakee,2
+Evergreen Park,Cook,1
+Forest Park,Cook,2
+Tinley Park,Cook,1
+Glendale Heights,Dupage,1
+
+Note: this report defines the Central as including the following: Central
+Reference: https://en.wikipedia.org/wiki/Community_areas_in_Chicago#/media/File:Map_of_the_Community_Areas_and_%27Sides%27_of_the_City_of_Chicago.svg

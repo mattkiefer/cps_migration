@@ -1,0 +1,2503 @@
+school,pct_black,pct_low_income,district,city,county,CPS transfers,CPS transfers (maj black schools)
+Thornton Township High School,0.79,0.1,Thornton Twp HSD 205,Harvey,Cook,273,187
+Caroline Sibley Elem School,0.94,0.99,Dolton SD 149,Calumet City,Cook,199,156
+Thornwood High School,0.83,0.08,Thornton Twp HSD 205,South Holland,Cook,223,148
+Thornridge High School,0.97,0.07,Thornton Twp HSD 205,Dolton,Cook,213,139
+IYC Chicago,NA,NA,,Chicago,Dept Of Corrections,205,130
+Gen George Patton Elem School,0.96,0.6,Gen George Patton SD 133,Riverdale,Cook,153,127
+Thornton Fractnl No High School,0.64,0.85,Thornton Fractional Twp HSD 215,Calumet City,Cook,184,116
+Prairie-Hills Junior High School,0.87,0.95,Prairie-Hills ESD 144,Markham,Cook,143,113
+Lincoln Elem School,0.55,0.89,Lincoln ESD 156,Calumet City,Cook,153,104
+Perry Elementary School,0.4,0.92,CUSD 300,Carpentersville,Kane,133,99
+Proviso East High School,0.44,0.63,Proviso Twp HSD 209,Maywood,Cook,198,94
+Washington Elem School,0.99,0.93,Dolton SD 148,Riverdale,Cook,106,94
+Burr Oak Elem School,0.77,0.84,Calumet Public SD 132,Calumet Park,Cook,106,91
+DD Eisenhower High Sch (Campus),0.32,1.0,CHSD 218,Blue Island,Cook,163,89
+Emerson Elem School,0.67,0.55,Maywood-Melrose Park-Broadview 89,Maywood,Cook,119,84
+Thornton Fractnl So High School,0.65,0.66,Thornton Fractional Twp HSD 215,Lansing,Cook,145,84
+Proviso West High School,0.47,0.25,Proviso Twp HSD 209,Hillside,Cook,169,81
+Rich Central Campus High School,0.93,0.75,Rich Twp HSD 227,Olympia Fields,Cook,119,81
+Hillcrest High School,0.89,0.56,Bremen CHSD 228,Country Club Hills,Cook,131,81
+Hoover Elem School,0.73,0.77,Hoover-Schrum Memorial SD 157,Calumet City,Cook,106,75
+Ellis Arts Academy,0.65,0.83,Rockford SD 205,Rockford,Winnebago,92,73
+Lincoln Elementary School,0.93,0.96,Dolton SD 148,Dolton,Cook,97,73
+Calumet Elem School,0.8,0.88,Calumet Public SD 132,Calumet Park,Cook,77,70
+Lincoln Elementary School,0.77,0.74,Bellwood SD 88,Bellwood,Cook,92,67
+Bloom Trail High School,0.58,0.75,Bloom Twp HSD 206,Chicago Heights,Cook,99,67
+Illinois Youth Ctr - St Charles,NA,NA,,Saint Charles,Dept Of Corrections,135,67
+Roosevelt Elem School,0.96,0.93,Dolton SD 148,Dolton,Cook,80,66
+Brooks Middle School,0.7,1.0,Harvey SD 152,Harvey,Cook,83,66
+Homewood-Flossmoor High School,0.69,0.23,Homewood Flossmoor CHSD 233,Flossmoor,Cook,103,66
+Clearview Elem School,0.26,0.81,Waukegan CUSD 60,Waukegan,Lake,91,65
+Strassburg Elem,0.75,0.59,CCSD 168,Sauk Village,Cook,84,64
+Rich East Campus High School,0.89,0.85,Rich Twp HSD 227,Park Forest,Cook,103,63
+Rosa L Parks Middle School,0.63,0.98,W Harvey-Dixmoor PSD 147,Dixmoor,Cook,85,62
+Park Elementary School,0.95,0.98,Dolton SD 148,Riverdale,Cook,73,61
+Berger-Vandenberg Elem School,0.98,1.0,Dolton SD 149,Dolton,Cook,79,61
+Bryant Elem School,0.8,1.0,Harvey SD 152,Harvey,Cook,81,61
+H L Richards High Sch(Campus),0.28,0.99,CHSD 218,Oak Lawn,Cook,126,61
+Garfield Elem School,0.68,0.58,Maywood-Melrose Park-Broadview 89,Maywood,Cook,94,60
+Riverdale School,0.98,0.94,Dolton SD 148,Riverdale,Cook,65,60
+Burr Oak Academy,0.77,0.74,Calumet Public SD 132,Calumet Park,Cook,72,59
+Martin L King Elem School,0.71,0.96,W Harvey-Dixmoor PSD 147,Dixmoor,Cook,73,58
+Danville High School,0.37,0.65,Danville CCSD 118,Danville,Vermilion,78,58
+Edison Elem School,0.42,0.72,Danville CCSD 118,Danville,Vermilion,70,58
+Rich South Campus High School,0.87,0.82,Rich Twp HSD 227,Richton Park,Cook,82,56
+Lincoln Elementary School,0.34,0.56,DeKalb CUSD 428,DeKalb,Dekalb,64,56
+Crete-Monee High School,0.66,0.68,Crete Monee CUSD 201U,Crete,Will,97,56
+Rickover Jr High School,0.77,0.54,CCSD 168,Sauk Village,Cook,83,55
+Meade Park Elem School,0.55,0.93,Danville CCSD 118,Danville,Vermilion,74,55
+Wagoner Elem,0.74,0.66,CCSD 168,Sauk Village,Cook,67,54
+Memorial Jr High School,0.52,0.73,Lansing SD 158,Lansing,Cook,89,53
+Wilson Elem School,0.64,0.98,Chicago Heights SD 170,Chicago Heights,Cook,66,53
+Southwood Middle School,0.94,0.77,Country Club Hills SD 160,Country Club Hills,Cook,64,52
+Zenon J Sykuta  School,0.95,0.7,Country Club Hills SD 160,Country Club Hills,Cook,70,52
+Meadowview  School,0.94,0.75,Country Club Hills SD 160,Country Club Hills,Cook,66,52
+Kennedy Middle School,0.6,0.72,Rockford SD 205,Rockford,Winnebago,66,51
+Oak Park & River Forest High Sch,0.22,0.19,Oak Park - River Forest SD 200,Oak Park,Cook,142,51
+Thurgood Marshall Elem School,0.66,1.0,Bellwood SD 88,Bellwood,Cook,68,50
+Washington Junior High,0.99,0.92,Dolton SD 148,Riverdale,Cook,57,50
+Diekman Elem School,0.96,0.99,Dolton SD 149,Dolton,Cook,58,50
+New Beginnings Learning Academy,0.97,1.0,Dolton SD 149,South Holland,Cook,63,50
+Wentworth Intermediate School,0.57,0.59,Calumet City SD 155,Calumet City,Cook,65,50
+Carol Moseley Braun School,0.97,1.0,Dolton SD 149,Calumet City,Cook,71,49
+Tyler Elementary School,0.34,0.65,DeKalb CUSD 428,De Kalb,Dekalb,56,49
+Auburn High School,0.43,0.49,Rockford SD 205,Rockford,Winnebago,78,48
+Chateaux School,0.94,0.92,Prairie-Hills ESD 144,Hazel Crest,Cook,57,48
+Michelle Obama Sch of Technology and the Arts,0.85,0.88,Park Forest SD 163,Park Forest,Cook,58,48
+A B Shepard High Sch (Campus),0.24,1.0,CHSD 218,Palos Heights,Cook,107,48
+Colin Powell Middle Sch,0.86,0.75,ESD 159,Matteson,Cook,64,47
+North Ridge Middle School,0.41,0.78,Danville CCSD 118,Danville,Vermilion,55,47
+Farragut Elem School,0.41,0.98,Joliet PSD 86,Joliet,Will,73,47
+Bolingbrook High School,0.27,0.59,Valley View CUSD 365U,Bolingbrook,Will,115,47
+Roosevelt Middle School,0.51,0.99,Bellwood SD 88,Bellwood,Cook,74,46
+Bloom High School,0.44,0.86,Bloom Twp HSD 206,Chicago Heights,Cook,90,46
+Roosevelt Elem School,0.86,0.58,Maywood-Melrose Park-Broadview 89,Broadview,Cook,79,45
+Mae Jemison School,0.88,0.96,Prairie-Hills ESD 144,Hazel Crest,Cook,59,45
+Maya Angelou Elem Sch,0.84,0.99,Harvey SD 152,Harvey,Cook,50,45
+South View Upper Elem School,0.47,0.83,Danville CCSD 118,Danville,Vermilion,57,45
+Roosevelt Junior High School,0.99,0.92,Dolton SD 148,Dolton,Cook,49,44
+Waukegan High School,0.14,0.63,Waukegan CUSD 60,Waukegan,Lake,98,44
+Wentworth Jr High School,0.62,0.95,Calumet City SD 155,Calumet City,Cook,58,43
+Oak Glen Elem School,0.57,0.79,Lansing SD 158,Lansing,Cook,66,43
+West Middle School,0.44,0.57,Rockford SD 205,Rockford,Winnebago,62,42
+George T Wilkins Elem School,0.23,0.75,Indian Springs SD 109,Justice,Cook,80,42
+Washington Elem School,0.9,0.99,W Harvey-Dixmoor PSD 147,Harvey,Cook,48,42
+Wilson Elementary School,0.53,0.55,Calumet City SD 155,Calumet City,Cook,72,42
+Barack Obama Sch of Leadership and STEM,0.81,0.86,Park Forest SD 163,Chicago Heights,Cook,52,42
+Anne M Jeans Elem School,0.66,0.83,CCSD 180,Willowbrook,Dupage,61,42
+Mark Denman Elementary School,0.54,0.9,Danville CCSD 118,Danville,Vermilion,51,42
+Crete-Monee Middle School,0.64,0.68,Crete Monee CUSD 201U,University Park,Will,63,42
+Jesse C White Learning Academy,0.9,0.89,Hazel Crest SD 152-5,Hazel Crest,Cook,49,41
+O W Huth Middle School,0.94,0.76,Matteson ESD 162,Matteson,Cook,51,41
+Liberty Elem School,0.5,0.83,Danville CCSD 118,Danville,Vermilion,46,41
+Franklin Elementary School,0.93,0.98,Dolton SD 148,Dolton,Cook,48,40
+Unity Jr High School,0.03,0.88,Cicero SD 99,Cicero,Cook,267,39
+J Sterling Morton West High Sch,0.07,0.83,J S Morton HSD 201,Berwyn,Cook,281,39
+Washington Middle School,0.44,0.78,Springfield SD 186,Springfield,Sangamon,42,39
+Forest Park Middle School,0.59,0.54,Forest Park SD 91,Forest Park,Cook,53,38
+Matteson Elem School,0.91,0.89,Matteson ESD 162,Matteson,Cook,49,38
+Argo Community High School,0.13,0.42,Argo CHSD 217,Summit,Cook,167,38
+Thomas Jefferson Middle School,0.2,0.72,Waukegan CUSD 60,Waukegan,Lake,72,38
+Frank A Brodnicki Elem School,0.15,0.57,Indian Springs SD 109,Justice,Cook,83,37
+McKinley Elem School,0.64,0.99,Bellwood SD 88,Bellwood,Cook,72,36
+Lindop Elem School,0.79,0.54,Lindop SD 92,Broadview,Cook,46,36
+Sandburg Elem School,0.86,1.0,Harvey SD 152,Harvey,Cook,43,36
+Burr Ridge Middle School,0.7,0.8,CCSD 180,Burr Ridge,Dupage,50,36
+Whittier Elem School,0.74,0.99,Harvey SD 152,Harvey,Cook,45,35
+Schrum Memorial School,0.76,0.86,Hoover-Schrum Memorial SD 157,Calumet City,Cook,51,35
+Lincoln Middle School,0.1,0.89,Berwyn North SD 98,Berwyn,Cook,132,34
+Central Park Elem School,0.31,0.82,Midlothian SD 143,Midlothian,Cook,71,34
+Markham Park Elem School,0.84,0.92,Prairie-Hills ESD 144,Markham,Cook,45,34
+Barack H Obama Learning Academy,0.83,0.91,Hazel Crest SD 152-5,Markham,Cook,43,34
+Parker Junior High School,0.67,0.45,Flossmoor SD 161,Flossmoor,Cook,52,34
+Lakewood School,0.04,0.9,CUSD 300,Carpentersville,Kane,50,34
+Hazel Dell Elem School,0.65,0.79,Springfield SD 186,Springfield,Sangamon,38,34
+Joliet West High School,0.24,0.5,Joliet Twp HSD 204,Joliet,Will,77,34
+Highlands Elem School,0.94,0.98,Prairie-Hills ESD 144,Hazel Crest,Cook,43,33
+Reavis Elem School,0.62,0.83,Lansing SD 158,Lansing,Cook,47,33
+Bremen High School,0.26,0.41,Bremen CHSD 228,Midlothian,Cook,94,33
+Evergreen Park High School,0.33,0.22,Evergreen Park CHSD 231,Evergreen Park,Cook,68,33
+Lewis Lemon Elementary,0.72,0.75,Rockford SD 205,Rockford,Winnebago,48,32
+Jefferson Elementary School,0.48,0.83,,Bellwood,Cook,59,32
+Woodgate Elem School,0.86,0.7,ESD 159,Matteson,Cook,38,32
+Nathan Hale Elem School,0.73,0.05,Sunnybrook SD 171,Lansing,Cook,51,32
+DeKalb High School,0.15,0.51,DeKalb CUSD 428,Dekalb,Dekalb,51,32
+Carman-Buckner Elem School,0.26,0.89,Waukegan CUSD 60,Waukegan,Lake,55,32
+Indiana Elem School,0.93,0.73,Matteson ESD 162,Park Forest,Cook,41,31
+Heritage Middle School,0.74,0.04,Sunnybrook SD 171,Lansing,Cook,50,31
+Tinley Park High School,0.26,0.32,Bremen CHSD 228,Tinley Park,Cook,55,31
+Hinsdale South High School,0.2,0.31,Hinsdale Twp HSD 86,Darien,Dupage,67,31
+Dundee-Crown High School,0.06,0.63,CUSD 300,Carpentersville,Kane,72,31
+Geo T Wilkins Jr High School,0.2,0.63,Indian Springs SD 109,Justice,Cook,70,30
+Lincoln Junior High School,0.98,0.92,Dolton SD 148,Dolton,Cook,44,30
+Coolidge Middle School,0.66,0.99,South Holland SD 151,Phoenix,Cook,48,30
+Madison School,0.62,0.99,South Holland SD 151,South Holland,Cook,39,30
+Sauk Elem School,0.9,0.88,Matteson ESD 162,Richton Park,Cook,44,30
+Lincoln Elem School,0.92,0.98,Chicago Heights SD 170,Chicago Heights,Cook,36,30
+Feitshans Elem Sch,0.53,0.84,Springfield SD 186,Springfield,Sangamon,32,30
+Beyer Elem School,0.51,0.78,Rockford SD 205,Rockford,Winnebago,47,29
+Kellar School,0.32,0.92,Posen-Robbins ESD 143-5,Robbins,Cook,47,29
+Carpentersville Middle School,0.09,0.87,CUSD 300,Carpentersville,Kane,45,29
+North Elem School,0.17,0.85,Waukegan CUSD 60,Waukegan,Lake,58,29
+Edna Keith Elem School,0.42,0.85,Joliet PSD 86,Joliet,Will,48,29
+Guilford High School,0.24,0.37,Rockford SD 205,Rockford,Winnebago,45,28
+Robina Lyle Elementary School,0.12,0.62,Indian Springs SD 109,Bridgeview,Cook,61,28
+S T E M Academy,0.96,1.0,Dolton SD 149,Calumet City,Cook,38,28
+School of Fine Arts,0.97,1.0,Dolton SD 149,Calumet City,Cook,37,28
+East High School,0.08,0.69,Aurora East USD 131,Aurora,Kane,68,28
+Steele School,0.28,0.74,Galesburg CUSD 205,Galesburg,Knox,37,28
+Washington Jr High & Academy Prgm,0.35,1.0,Joliet PSD 86,Joliet,Will,43,28
+Sunnyside Elementary School,0.41,0.74,,Berkeley,Cook,51,27
+Coolidge Elementary School,0.4,0.73,Lansing SD 158,Lansing,Cook,62,27
+Mohawk Primary Center,0.86,0.88,Park Forest SD 163,Park Forest,Cook,39,27
+Neal Math Science Academy,0.34,0.98,North Chicago SD 187,North Chicago,Lake,39,27
+Springfield Southeast High Sch,0.49,0.64,Springfield SD 186,Springfield,Sangamon,44,27
+Washington Dual Language Academy,0.4,0.49,Maywood-Melrose Park-Broadview 89,Maywood,Cook,39,26
+Central Middle School,0.31,0.47,Evergreen Park ESD 124,Evergreen Park,Cook,57,26
+Washington-McKinley Elem Sch,0.32,0.95,Chicago Heights SD 170,Chicago Heights,Cook,41,26
+Lanphier High School,0.4,0.71,Springfield SD 186,Springfield,Sangamon,35,26
+U S Grant Middle School,0.41,0.68,Springfield SD 186,Springfield,Sangamon,37,26
+Crete Elementary School,0.53,0.76,Crete Monee CUSD 201U,Crete,Will,36,26
+Veterans Memorial Middle Sch,0.21,0.8,Cook County SD 130,Blue Island,Cook,41,25
+Posen Elem School,0.34,0.94,Posen-Robbins ESD 143-5,Posen,Cook,41,25
+Lowell-Longfellow Elem School,0.85,0.99,Harvey SD 152,Harvey,Cook,36,25
+Amandla Charter School,0.97,0.23,Amandla Charter School,Chicago,Cook,44,25
+Kankakee High School,0.5,0.47,Kankakee SD 111,Kankakee,Kankakee,40,25
+Brooks Middle School,0.24,0.61,Valley View CUSD 365U,Bolingbrook,Will,61,25
+McIntosh Elementary,0.6,0.74,Rockford SD 205,Rockford,Winnebago,29,24
+Gordon School,0.17,0.9,Posen-Robbins ESD 143-5,Posen,Cook,50,24
+McKinley Jr High School,0.92,0.74,South Holland SD 150,South Holland,Cook,39,24
+Marya Yates Elementary School,0.92,0.67,ESD 159,Matteson,Cook,48,24
+Heather Hill Elem School,0.82,0.47,Flossmoor SD 161,Flossmoor,Cook,28,24
+Rock Island Academy,0.63,0.8,Rock Island SD 41,Rock Island,Rock Island,38,24
+Talala Elementary School,0.83,0.88,Crete Monee CUSD 201U,Park Forest,Will,33,24
+Joliet Central High School,0.18,0.76,Joliet Twp HSD 204,Joliet,Will,86,24
+Evanston Twp High School,0.29,0.41,Evanston Twp HSD 202,Evanston,Cook,160,23
+Greenwood Elem School,0.88,0.63,South Holland SD 150,South Holland,Cook,29,23
+Jefferson Elem School,0.43,0.99,Chicago Heights SD 170,Chicago Heights,Cook,32,23
+Huntley Middle School,0.14,0.55,DeKalb CUSD 428,Dekalb,Dekalb,31,23
+Irving Elementary School,0.38,0.89,Bloomington SD 87,Bloomington,McLean,31,23
+G Stanley Hall Elem School,0.17,0.79,Marquardt SD 15,Glendale Heights,Dupage,30,23
+Benjamin Franklin Middle School,0.35,0.52,Springfield SD 186,Springfield,Sangamon,29,23
+Matheny-Withrow Elem Sch,0.63,0.85,Springfield SD 186,Springfield,Sangamon,26,23
+Balmoral Elem Sch,0.52,0.77,Crete Monee CUSD 201U,Crete,Will,44,23
+IYC Kewanee,NA,NA,,Kewanee,Dept Of Corrections,36,23
+Rockford Envrnmntl Science Acad,0.27,0.57,Rockford SD 205,Rockford,Winnebago,40,22
+Prairie Oak School,0.11,0.9,Berwyn North SD 98,Berwyn,Cook,125,22
+Southeast Elem School,0.27,0.47,Evergreen Park ESD 124,Evergreen Park,Cook,47,22
+George Washington Elementary Sch,0.41,0.63,Cook County SD 130,Alsip,Cook,39,22
+Lincoln Elem School,0.34,0.98,W Harvey-Dixmoor PSD 147,Dixmoor,Cook,37,22
+Eisenhower School,0.61,0.99,South Holland SD 151,South Holland,Cook,32,22
+Flossmoor Hills Elem School,0.85,0.53,Flossmoor SD 161,Flossmoor,Cook,28,22
+Horizon Science Acad-Belmont Charter Sch,0.69,0.82,Horizon Science Acad-Belmont,Chicago,Cook,42,22
+Shiloh Park Elem School,0.5,0.9,Zion ESD 6,Zion,Lake,34,22
+Zion-Benton Twnshp Hi Sch,0.28,0.61,Zion-Benton Twp HSD 126,Zion,Lake,64,22
+Hope Academy,0.68,0.76,Decatur SD 61,Decatur,Macon,26,22
+Oak View Elem School,0.29,0.71,Valley View CUSD 365U,Bolingbrook,Will,45,22
+Field Stevenson Elem School,0.51,0.63,Forest Park SD 91,Forest Park,Cook,34,21
+McKinley Elem School,0.9,0.69,South Holland SD 150,South Holland,Cook,24,21
+Urbana High School,0.37,0.62,Urbana SD 116,Urbana,Champaign,29,21
+Arland D Williams Jr Elem Sch,0.07,0.69,Mattoon CUSD 2,Mattoon,Coles,24,21
+Barbara A Sizemore Campus,1.0,0.61,Betty Shabazz  Internl Chrtr Sch,Chicago,Cook,24,21
+Bloomington Jr High School,0.22,0.6,Bloomington SD 87,Bloomington,McLean,29,21
+Kankakee Junior High School,0.49,0.62,Kankakee SD 111,Kankakee,Kankakee,29,21
+Jefferson Middle School,0.52,0.82,Springfield SD 186,Springfield,Sangamon,30,21
+Gwendolyn Brooks Middle School,0.21,0.2,Oak Park ESD 97,Oak Park,Cook,42,20
+Childs Elem School,0.75,0.89,Posen-Robbins ESD 143-5,Robbins,Cook,26,20
+Academy for Learning,0.94,0.73,,Dolton,Cook,25,20
+Taft School,0.51,0.99,South Holland SD 151,Harvey,Cook,26,20
+Neil Armstrong Elem School,0.93,0.78,ESD 159,Richton Park,Cook,27,20
+Arcadia Elem School,0.92,0.71,Matteson ESD 162,Olympia Fields,Cook,31,20
+Longwood Elem School,0.69,0.41,Brookwood SD 167,Glenwood,Cook,32,20
+Springfield High School,0.29,0.38,Springfield SD 186,Springfield,Sangamon,30,20
+Jefferson High School,0.23,0.5,Rockford SD 205,Rockford,Winnebago,42,19
+John Muir Literacy Academy,0.22,0.44,Schaumburg CCSD 54,Hoffman Estates,Cook,39,19
+Rice Childrens Center,0.61,0.85,,Evanston,Cook,24,19
+William Beye Elem School,0.2,0.22,Oak Park ESD 97,Oak Park,Cook,41,19
+Karel Havlicek Elem School,0.08,0.89,Berwyn North SD 98,Berwyn,Cook,94,19
+Freeport High School,0.22,0.57,Freeport SD 145,Freeport,Stephenson,30,19
+Thomas Jefferson Jr High School,0.14,0.42,Woodridge SD 68,Woodridge,Dupage,33,19
+Carbondale Comm H S,0.28,0.59,Carbondale CHSD 165,Carbondale,Jackson,26,19
+Oakdale Elem School,0.13,0.68,Waukegan CUSD 60,Waukegan,Lake,29,19
+A J Katzenmaier Academy,0.34,0.98,North Chicago SD 187,North Chicago,Lake,22,19
+Lindsay School,0.32,0.46,Springfield SD 186,Springfield,Sangamon,26,19
+Hubert H Humphrey Middle School,0.21,0.77,Valley View CUSD 365U,Bolingbrook,Will,40,19
+Swan Hillman Elem School,0.17,0.09,Rockford SD 205,Rockford,Winnebago,28,18
+North Elementary School,0.12,0.75,CCSD 62,Des Plaines,Cook,76,18
+Irving Middle School,0.71,0.76,Maywood-Melrose Park-Broadview 89,Maywood,Cook,35,18
+Creative Communications Acad,0.96,0.99,Dolton SD 149,Calumet City,Cook,26,18
+Comm H S Dist 99 - South High Sch,0.11,0.28,CHSD 99,Downers Grove,Dupage,34,18
+Galesburg High School,0.11,0.53,Galesburg CUSD 205,Galesburg,Knox,25,18
+Daniel Webster Middle School,0.16,0.77,Waukegan CUSD 60,Waukegan,Lake,36,18
+MacArthur Middle School,0.45,0.78,Berkeley SD 87,Berkeley,Cook,38,17
+Percy Julian Middle School,0.2,0.19,Oak Park ESD 97,Oak Park,Cook,46,17
+Cicero East Elem School,0.03,0.87,Cicero SD 99,Cicero,Cook,107,17
+Liberty Elem School,0.03,0.93,Cicero SD 99,Cicero,Cook,116,17
+Bridgeview Elem School,0.09,0.65,Indian Springs SD 109,Bridgeview,Cook,70,17
+Oak Lawn-Hometown Middle Sch,0.06,0.44,Oak Lawn-Hometown SD 123,Oak Lawn,Cook,96,17
+Stony Creek Elem School,0.11,0.55,Alsip-Hazlgrn-Oaklwn SD 126,Alsip,Cook,73,17
+Paul Revere Primary School,0.23,0.64,Cook County SD 130,Blue Island,Cook,36,17
+Nob Hill Elem School,0.91,0.94,Prairie-Hills ESD 144,Country Club Hills,Cook,18,17
+Pace Elementary,0.92,0.83,,Riverdale,Cook,22,17
+Brookwood Jr High School,0.8,0.36,Brookwood SD 167,Glenwood,Cook,24,17
+Sandridge Elem School,0.55,0.55,Sandridge SD 172,Lynwood,Cook,33,17
+Freeport Middle School,0.27,0.73,Freeport SD 145,Freeport,Stephenson,26,17
+Allendale School,0.63,0.71,,Lake Villa,Lake,26,17
+Harrison Comm Learning Cntr,0.62,0.91,Peoria SD 150,Peoria,Peoria,26,17
+Southwest  Elem School,0.3,0.85,Danville CCSD 118,Danville,Vermilion,20,17
+A O Marshall Elem School,0.13,1.0,Joliet PSD 86,Joliet,Will,32,17
+Lynne Thigpen Elem School,0.26,0.99,Joliet PSD 86,Joliet,Will,29,17
+Fairmont School,0.4,0.65,Fairmont SD 89,Lockport,Will,39,17
+Jonas E Salk Elem School,0.21,0.62,Valley View CUSD 365U,Bolingbrook,Will,33,17
+Nexus-Indian Oaks Academy,0.45,0.76,,Manteno,,42,17
+Conklin Elem School,0.48,0.67,Rockford SD 205,Rockford,Winnebago,20,16
+Lincoln Elem School,0.11,0.58,Maywood-Melrose Park-Broadview 89,Maywood,Cook,68,16
+Irving Elem School,0.2,0.24,Oak Park ESD 97,Oak Park,Cook,35,16
+Hamlin Upper Grade Center,0.16,0.47,Atwood Heights SD 125,Alsip,Cook,39,16
+Nathan Hale Middle School,0.28,0.62,Cook County SD 130,Crestwood,Cook,34,16
+Lincoln Elem School,0.18,0.67,Cook County SD 130,Blue Island,Cook,32,16
+Blackhawk Primary Center,0.83,0.88,Park Forest SD 163,Park Forest,Cook,23,16
+21st Century Primary Center,0.89,0.9,Park Forest SD 163,Park Forest,Cook,19,16
+Brookwood Middle School,0.74,0.36,Brookwood SD 167,Glenwood,Cook,23,16
+Betty  Shabazz International Charter School,0.99,0.64,Betty Shabazz  Internl Chrtr Sch,Chicago,Cook,23,16
+Normal Community West High School,0.12,0.3,McLean County USD 5,Normal,McLean,23,16
+King Middle Grade School,0.57,0.58,Kankakee SD 111,Kankakee,Kankakee,26,16
+Lincoln School,0.64,0.91,Peoria SD 150,Peoria,Peoria,27,16
+McClernand Elem School,0.47,0.87,Springfield SD 186,Springfield,Sangamon,16,16
+Edwin A Lee Elementary School,0.49,0.89,Springfield SD 186,Springfield,Sangamon,20,16
+Country Club Hills Tech & Trade,0.9,0.79,,Country Club Hills,Kane,20,16
+Oliver W Holmes Elem School,0.16,0.2,Oak Park ESD 97,Oak Park,Cook,44,15
+J Sterling Morton East High Sch,0.02,0.92,J S Morton HSD 201,Cicero,Cook,213,15
+Fieldcrest Elem School,0.37,0.9,Prairie-Hills ESD 144,Oak Forest,Cook,31,15
+Holmes Elem School,0.23,1.0,Harvey SD 152,Harvey,Cook,40,15
+Hickory Bend Elem School,0.79,0.34,Brookwood SD 167,Glenwood,Cook,26,15
+Oakdale Elem School,0.27,0.67,McLean County USD 5,Normal,McLean,20,15
+Sheridan Elem School,0.42,0.83,Bloomington SD 87,Bloomington,McLean,23,15
+Marquardt Middle School,0.15,0.74,Marquardt SD 15,Glendale Heights,Dupage,32,15
+Eisenhower Jr High School,0.14,0.37,Darien SD 61,Darien,Dupage,28,15
+Lace Elem School,0.13,0.37,Darien SD 61,Darien,Dupage,24,15
+John L Sipley Elem School,0.24,0.56,Woodridge SD 68,Woodridge,Dupage,23,15
+Glenbard East High School,0.1,0.44,Glenbard Twp HSD 87,Lombard,Dupage,55,15
+Century Oaks Elem School,0.12,0.76,SD U-46,Elgin,Kane,29,15
+West Aurora High School,0.12,0.55,Aurora West USD 129,Aurora,Kane,51,15
+West Elementary School,0.39,0.88,Zion ESD 6,Zion,Lake,26,15
+Dubois Elem School,0.46,0.68,Springfield SD 186,Springfield,Sangamon,22,15
+Elizabeth Graham Elem School,0.5,0.78,Springfield SD 186,Springfield,Sangamon,19,15
+Carl Sandburg Elementary,0.44,0.98,Joliet PSD 86,Joliet,Will,26,15
+Illinois Youth Center-Warrenville,0.5,0.7,,Warrenville,Dept Of Corrections,30,15
+Abraham Lincoln Middle School,0.31,0.62,Rockford SD 205,Rockford,Winnebago,30,14
+Hoffman Estates High School,0.12,0.5,Township HSD 211,Hoffman Estates,Cook,46,14
+Longfellow Elem School,0.15,0.16,Oak Park ESD 97,Oak Park,Cook,40,14
+Echo School,0.8,0.79,,South Holland,Cook,20,14
+Cottage Grove Upper Grade Center,0.93,0.99,Ford Heights SD 169,Ford Heights,Cook,19,14
+Medgar Evers Primary Academic Center,0.93,0.96,Ford Heights SD 169,Ford Heights,Cook,19,14
+Oak Lawn Comm High School,0.07,0.39,Oak Lawn CHSD 229,Oak Lawn,Cook,104,14
+Taylor Park Elem School,0.4,0.82,Freeport SD 145,Freeport,Stephenson,19,14
+Malta Elementary School,0.27,0.61,DeKalb CUSD 428,Malta,Dekalb,15,14
+Fairview Elem School,0.25,0.45,McLean County USD 5,Normal,McLean,15,14
+Mill Street Elem School,0.09,0.32,Naperville CUSD 203,Naperville,Dupage,30,14
+Metea Valley High School,0.13,0.2,Indian Prairie CUSD 204,Aurora,Dupage,31,14
+Francis Granger Middle School,0.11,0.21,Indian Prairie CUSD 204,Aurora,Dupage,22,14
+Thomas Elementary School,0.44,0.49,Carbondale ESD 95,Carbondale,Jackson,17,14
+Lorenzo R Smith Elem School,0.82,0.75,Pembroke CCSD 259,Hopkins Park,Kankakee,16,14
+North Elementary School,0.32,0.97,,North Chicago,Lake,21,14
+Hufford Junior High School,0.23,0.99,Joliet PSD 86,Joliet,Will,42,14
+Wood View Elem School,0.36,0.72,Valley View CUSD 365U,Bolingbrook,Will,23,14
+Independence Elem School,0.22,0.79,Valley View CUSD 365U,Bolingbrook,Will,58,14
+Ridge Lawn Elementary School,0.09,0.58,Chicago Ridge SD 127-5,Chicago Ridge,Cook,36,13
+Burnham Elem School,0.39,0.96,Burnham SD 154-5,Burnham,Cook,37,13
+Serena Hills Elem School,0.46,0.74,Flossmoor SD 161,Chicago Heights,Cook,15,13
+Washington Elem School,0.57,0.59,Champaign CUSD 4,Champaign,Champaign,15,13
+Founders Elementary School,0.2,0.75,DeKalb CUSD 428,Dekalb,Dekalb,20,13
+Larkin High School,0.09,0.75,SD U-46,Elgin,Kane,38,13
+Taft Primary School,0.58,0.63,Kankakee SD 111,Kankakee,Kankakee,15,13
+John Kennedy Middle Grade School,0.35,0.56,Kankakee SD 111,Kankakee,Kankakee,20,13
+Zion Central Middle School,0.4,0.85,Zion ESD 6,Zion,Lake,22,13
+North Chicago Community High Sch,0.36,0.98,North Chicago SD 187,North Chicago,Lake,25,13
+Forrestal Elem School,0.42,0.92,North Chicago SD 187,Great Lakes,Lake,17,13
+Manual Academy,0.68,0.86,Peoria SD 150,Peoria,Peoria,27,13
+Calvin Coolidge Middle School,0.64,0.77,Peoria SD 150,West Peoria,Peoria,18,13
+Roosevelt Magnet School,0.86,0.89,Peoria SD 150,Peoria,Peoria,16,13
+Enos Elem School,0.43,0.84,Springfield SD 186,Springfield,Sangamon,15,13
+Bernard J Ward Elem School,0.17,0.89,Valley View CUSD 365U,Bolingbrook,Will,43,13
+Menta Academy Hillside,0.48,0.72,,Hillside,Kane,16,13
+Rockford East High School,0.23,0.48,Rockford SD 205,Rockford,Winnebago,28,12
+Kishwaukee Elem School,0.39,0.81,Rockford SD 205,Rockford,Winnebago,21,12
+Riverdahl Elem School,0.24,0.72,Rockford SD 205,Rockford,Winnebago,20,12
+Garfield Elem School,0.4,0.27,Forest Park SD 91,Forest Park,Cook,18,12
+Westchester Middle School,0.27,0.31,Westchester SD 92-5,Westchester,Cook,25,12
+J M Hannum Elem School,0.13,0.5,Oak Lawn-Hometown SD 123,Oak Lawn,Cook,46,12
+Northeast Elem School,0.41,0.61,Evergreen Park ESD 124,Evergreen Park,Cook,51,12
+Meadow Lane School,0.13,0.41,Atwood Heights SD 125,Merrionette Park,Cook,34,12
+James Hart School,0.53,0.39,Homewood SD 153,Homewood,Cook,21,12
+Winston Churchill School,0.49,0.35,Homewood SD 153,Homewood,Cook,24,12
+Roosevelt Elem School,0.2,1.0,Chicago Heights SD 170,Chicago Heights,Cook,23,12
+Columbia Central School,0.27,0.74,Steger SD 194,Steger,Cook,34,12
+Amos Alonzo Stagg High School,0.04,0.28,Cons HSD 230,Palos Hills,Cook,82,12
+Carl Sandburg Middle Sch,0.21,0.58,Freeport SD 145,Freeport,Stephenson,15,12
+Centennial High School,0.36,0.54,Champaign CUSD 4,Champaign,Champaign,18,12
+Dr Preston L Williams Jr Elementary School,0.47,0.91,Urbana SD 116,Urbana,Champaign,16,12
+Broadmeadow Elem School,0.37,1.0,Rantoul City SD 137,Rantoul,Champaign,16,12
+Dr Nick Osborne Primary Center,0.3,0.84,Mount Vernon SD 80,Mount Vernon,Jefferson,15,12
+Clinton Rosette Middle School,0.19,0.6,DeKalb CUSD 428,DeKalb,Dekalb,18,12
+Gwendolyn Brooks Elem Sch,0.39,0.65,DeKalb CUSD 428,Dekalb,Dekalb,20,12
+Indian Trail Jr High School,0.02,0.63,Addison SD 4,Addison,Dupage,51,12
+Addison Trail High School,0.02,0.53,DuPage HSD 88,Addison,Dupage,48,12
+Willowbrook High School,0.09,0.46,DuPage HSD 88,Villa Park,Dupage,42,12
+Pleasant Hill Elem School,0.13,0.36,CUSD 200,Winfield,Dupage,17,12
+Parrish Elem School,0.44,0.47,Carbondale ESD 95,Carbondale,Jackson,16,12
+Streamwood High School,0.08,0.66,SD U-46,Streamwood,Kane,51,12
+Harriet Gifford Elem School,0.18,0.83,SD U-46,Elgin,Kane,20,12
+Mark Twain Primary School,0.44,0.72,Kankakee SD 111,Kankakee,Kankakee,18,12
+Whittier Elem School,0.11,0.75,Waukegan CUSD 60,Waukegan,Lake,16,12
+Franklin Primary School,0.74,0.86,Peoria SD 150,Peoria,Peoria,15,12
+Glen Oak Comm Learning Cntr,0.71,0.92,Peoria SD 150,Peoria,Peoria,31,12
+Dirksen Junior High School,0.25,1.0,Joliet PSD 86,Joliet,Will,31,12
+Woodland Elem School,0.29,1.0,Joliet PSD 86,Joliet,Will,25,12
+Romeoville High School,0.13,0.59,Valley View CUSD 365U,Romeoville,Will,53,12
+Haskell Academy,0.74,0.73,Rockford SD 205,Rockford,Winnebago,12,11
+R K Welsh Elem School,0.47,0.72,Rockford SD 205,Rockford,Winnebago,18,11
+Nichols Middle School,0.17,0.35,Evanston CCSD 65,Evanston,Cook,51,11
+Rhodes Elem School,0.06,0.82,Rhodes SD 84-5,River Grove,Cook,75,11
+Abraham Lincoln Elem School,0.14,0.15,Oak Park ESD 97,Oak Park,Cook,30,11
+Kolmar Elem School,0.24,0.64,Midlothian SD 143,Midlothian,Cook,45,11
+Arbor Park Middle School,0.16,0.4,Arbor Park SD 145,Oak Forest,Cook,31,11
+Kennedy Elem School,0.72,1.0,Chicago Heights SD 170,Chicago Heights,Cook,26,11
+Central High School,0.28,0.46,Champaign CUSD 4,Champaign,Champaign,20,11
+Bloomington High School,0.24,0.53,Bloomington SD 87,Bloomington,McLean,27,11
+Stevenson Elem School,0.24,0.54,Bloomington SD 87,Bloomington,McLean,11,11
+Beebe Elem School,0.08,0.27,Naperville CUSD 203,Naperville,Dupage,23,11
+Carbondale Middle School,0.48,0.42,Carbondale ESD 95,Carbondale,Jackson,14,11
+South Elgin High School,0.06,0.34,SD U-46,South Elgin,Kane,30,11
+Tefft Middle School,0.06,0.75,SD U-46,Streamwood,Kane,28,11
+Goodwin Elem School,0.13,0.38,Aurora West USD 129,North Aurora,Kane,13,11
+Henry W Cowherd Middle School,0.1,0.77,Aurora East USD 131,Aurora,Kane,20,11
+C I Johnson Elem School,0.09,0.79,Aurora East USD 131,Aurora,Kane,17,11
+Churchill Jr High School,0.14,0.59,Galesburg CUSD 205,Galesburg,Knox,15,11
+East Elementary School,0.33,0.87,Zion ESD 6,Zion,Lake,20,11
+Little Fort Elem School,0.17,0.68,Waukegan CUSD 60,Waukegan,Lake,30,11
+Lincoln Jr High School,0.05,0.78,La Salle ESD 122,La Salle,La Salle,15,11
+Northwest Elem School,0.07,0.81,La Salle ESD 122,La Salle,La Salle,23,11
+Thomas Jefferson Middle School,0.39,0.58,Decatur SD 61,Decatur,Macon,17,11
+Stephen Decatur Middle School,0.45,0.66,Decatur SD 61,Decatur,Macon,13,11
+Wells Elem School,0.42,0.98,East Moline SD 37,East Moline,Rock Island,12,11
+Longfellow Elem School,0.29,0.87,Rock Island SD 41,Rock Island,Rock Island,13,11
+Monee Elementary School,0.44,0.57,Crete Monee CUSD 201U,Monee,Will,22,11
+AAA Academy,0.92,0.81,,Blue Island,Cook,14,11
+Bernard W Flinn Middle School,0.24,0.49,Rockford SD 205,Rockford,Winnebago,25,10
+Gregory Elem School,0.24,0.61,Rockford SD 205,Rockford,Winnebago,20,10
+Buzz Aldrin Elem School,0.07,0.28,Schaumburg CCSD 54,Schaumburg,Cook,24,10
+Albert Einstein Elem School,0.11,0.27,Schaumburg CCSD 54,Hanover Park,Cook,24,10
+Lincolnwood Elem School,0.25,0.3,Evanston CCSD 65,Evanston,Cook,44,10
+Oakton Elem School,0.36,0.62,Evanston CCSD 65,Evanston,Cook,64,10
+Roy Elem School,0.02,0.72,Mannheim SD 83,Northlake,Cook,66,10
+Melrose Park Elem School,0.03,0.61,Maywood-Melrose Park-Broadview 89,Melrose Park,Cook,80,10
+Jefferson Elem School,0.1,0.81,Berwyn North SD 98,Berwyn,Cook,52,10
+T Roosevelt Elem School,0.02,0.95,Cicero SD 99,Cicero,Cook,77,10
+Oak Ridge Elem School,0.06,0.55,North Palos SD 117,Palos Hills,Cook,57,10
+Lawn Manor School,0.14,0.46,Atwood Heights SD 125,Oak Lawn,Cook,28,10
+Lane Elem School,0.21,0.67,Alsip-Hazlgrn-Oaklwn SD 126,Alsip,Cook,24,10
+Greenbriar Elem School,0.19,0.99,Chicago Heights SD 170,Chicago Heights,Cook,14,10
+Steger Intermediate Center,0.26,0.78,Steger SD 194,Steger,Cook,25,10
+Urbana Middle School,0.34,0.69,Urbana SD 116,Urbana,Champaign,14,10
+Normal Community High School,0.12,0.25,McLean County USD 5,Normal,McLean,19,10
+Parkside Jr High School,0.13,0.35,McLean County USD 5,Normal,McLean,14,10
+Fox Creek Elementary School,0.2,0.64,McLean County USD 5,Bloomington,McLean,13,10
+Army Trail Elem School,0.04,0.86,Addison SD 4,Addison,Dupage,23,10
+Greenbrook Elem School,0.23,0.47,Keeneyville SD 20,Hanover Park,Dupage,27,10
+Mark DeLay School,0.09,0.4,Darien SD 61,Darien,Dupage,17,10
+Edgewood Elem School,0.17,0.52,Woodridge SD 68,Woodridge,Dupage,26,10
+Thayer J Hill Middle School,0.13,0.22,Indian Prairie CUSD 204,Naperville,Dupage,19,10
+Edison Elementary School,0.08,0.48,Macomb CUSD 185,Macomb,McDonough,12,10
+Kimball Middle School,0.1,0.79,SD U-46,Elgin,Kane,20,10
+Olney C Allen Elem School,0.17,0.72,Aurora East USD 131,Aurora,Kane,24,10
+Beulah Park Elem School,0.44,0.84,Zion ESD 6,Zion,Lake,16,10
+Lyon Magnet Elementary School,0.1,0.7,Waukegan CUSD 60,Waukegan,Lake,13,10
+Round Lake Senior High School,0.07,0.61,Round Lake CUSD 116,Round Lake,Lake,37,10
+Eisenhower High School,0.48,0.59,Decatur SD 61,Decatur,Macon,18,10
+William Harris Elem School,0.5,0.69,Decatur SD 61,Decatur,Macon,11,10
+Peoria High School,0.66,0.77,Peoria SD 150,Peoria,Peoria,15,10
+Glenview Middle School,0.2,0.99,East Moline SD 37,East Moline,Rock Island,16,10
+Gompers Junior High School,0.09,1.0,Joliet PSD 86,Joliet,Will,35,10
+Plainfield South High School,0.1,0.28,Plainfield SD 202,Plainfield,Will,35,10
+Regl Inst Scholastic Excellence,0.49,0.7,,Worth,ROE,16,10
+Jackson Charter School,0.69,0.31,Rockford SD 205,Rockford,Winnebago,11,9
+West View Elem School,0.45,0.63,Rockford SD 205,Rockford,Winnebago,15,9
+Washington Elem School,0.12,0.46,Evanston CCSD 65,Evanston,Cook,42,9
+Palatine High School,0.05,0.54,Township HSD 211,Palatine,Cook,48,9
+Northwest School,0.21,0.43,Evergreen Park ESD 124,Evergreen Park,Cook,19,9
+Prairie Jr High School,0.16,0.54,Alsip-Hazlgrn-Oaklwn SD 126,Alsip,Cook,28,9
+Elden D Finley Jr High School,0.1,0.72,Chicago Ridge SD 127-5,Chicago Ridge,Cook,23,9
+Developmental Learning Pgm   DLP,0.4,0.64,,Midlothian,Cook,14,9
+Springfield Elem School,0.22,0.81,Midlothian SD 143,Midlothian,Cook,31,9
+Center Elem School,0.3,0.68,Freeport SD 145,Freeport,Stephenson,10,9
+Franklin Middle School,0.47,0.65,Champaign CUSD 4,Champaign,Champaign,11,9
+Dr Howard Elem School,0.4,0.6,Champaign CUSD 4,Champaign,Champaign,10,9
+J W Eater Jr High School,0.32,0.99,Rantoul City SD 137,Rantoul,Champaign,17,9
+Zadok Casey Middle School,0.28,0.8,Mount Vernon SD 80,Mount Vernon,Jefferson,11,9
+Blackhawk Middle School,0.03,0.65,Bensenville SD 2,Bensenville,Dupage,41,9
+Pioneer Elem School,0.06,0.65,West Chicago ESD 33,West Chicago,Dupage,21,9
+Schafer Elem School,0.08,0.63,SD 45 DuPage County,Lombard,Dupage,25,9
+Comm H S Dist 99 - North H S,0.06,0.17,CHSD 99,Downers Grove,Dupage,26,9
+Jefferson Jr High School,0.07,0.24,Naperville CUSD 203,Naperville,Dupage,25,9
+Neuqua Valley High School,0.05,0.07,Indian Prairie CUSD 204,Naperville,Dupage,18,9
+Fischer Middle School,0.17,0.33,Indian Prairie CUSD 204,Aurora,Dupage,18,9
+Mary Lou Cowlishaw Elementary,0.11,0.27,Indian Prairie CUSD 204,Naperville,Dupage,20,9
+Oswego East High School,0.13,0.18,CUSD 308,Oswego,Kendall,18,9
+Lincoln Elem School,0.13,0.59,Macomb CUSD 185,Macomb,McDonough,11,9
+Kenyon Woods Middle School,0.04,0.34,SD U-46,South Elgin,Kane,23,9
+Channing Memorial Elem School,0.07,0.94,SD U-46,Elgin,Kane,11,9
+Heritage Elem School,0.11,0.77,SD U-46,Streamwood,Kane,16,9
+Lords Park Elem School,0.05,0.89,SD U-46,Elgin,Kane,18,9
+C F Simmons Middle School,0.05,0.78,Aurora East USD 131,Aurora,Kane,23,9
+Nielson Elementary School,0.13,0.71,Galesburg CUSD 205,Galesburg,Knox,15,9
+Thomas Jefferson Primary School,0.55,0.74,Peoria SD 150,Peoria,Peoria,16,9
+Sandburg Elem School,0.36,0.5,Springfield SD 186,Springfield,Sangamon,11,9
+Harvard Park Elem School,0.55,0.86,Springfield SD 186,Springfield,Sangamon,13,9
+Orenic Intermediate School,0.12,0.34,Troy CCSD 30C,Plainfield,Will,24,9
+Pershing Elem School,0.18,0.98,Joliet PSD 86,Joliet,Will,20,9
+Plainfield East High School,0.17,0.3,Plainfield SD 202,Plainfield,Will,39,9
+Lockport Township High Sch East,0.06,0.17,Lockport Twp HSD 205,Lockport,Will,43,9
+Kenneth L Hermansen Elementary,0.22,0.54,Valley View CUSD 365U,Romeoville,Will,25,9
+John Nelson Elem School,0.23,0.62,Rockford SD 205,Rockford,Winnebago,22,8
+Rolling Green,0.18,0.58,Rockford SD 205,Rockford,Winnebago,12,8
+King Elementary School,0.31,0.8,Rockford SD 205,Rockford,Winnebago,16,8
+Lincoln Elementary School,0.05,0.53,Palatine CCSD 15,Palatine,Cook,19,8
+Jane Addams JHS,0.07,0.2,Schaumburg CCSD 54,Schaumburg,Cook,21,8
+Dwight D Eisenhower JHS,0.14,0.28,Schaumburg CCSD 54,Hoffman Estates,Cook,28,8
+Adlai Stevenson Elem School,0.06,0.29,Schaumburg CCSD 54,Elk Grove Village,Cook,42,8
+Holmes Jr High School,0.04,0.62,Comm Cons SD 59,Mt Prospect,Cook,23,8
+Grant-White Elem School,0.66,0.65,Forest Park SD 91,Forest Park,Cook,12,8
+Komarek Elem School,0.13,0.43,Komarek SD 94,North Riverside,Cook,35,8
+William Hatch Elem School,0.21,0.14,Oak Park ESD 97,Oak Park,Cook,19,8
+Whittier Elem School,0.21,0.24,Oak Park ESD 97,Oak Park,Cook,21,8
+Goodwin Elementary School,0.03,0.88,Cicero SD 99,Cicero,Cook,69,8
+Heritage Middle School,0.05,0.88,Summit SD 104,Summit,Cook,65,8
+Paul Revere Intermediate School,0.24,0.8,Cook County SD 130,Blue Island,Cook,21,8
+Millennium Elem School,0.05,0.08,Kirby SD 140,Tinley Park,Cook,14,8
+Braun Educational Center,0.6,0.67,,Oak Forest,Cook,14,8
+Willow School,0.42,0.39,Homewood SD 153,Homewood,Cook,16,8
+Sieden Prairie Elementary School,0.52,0.82,ESD 159,Matteson,Cook,16,8
+Illinois School,0.9,0.72,Matteson ESD 162,Park Forest,Cook,9,8
+Richton Square School,0.83,0.84,,Richton Park,Cook,11,8
+Delta Learning Center,0.44,0.99,,Robbins,Cook,8,8
+Edison Middle School,0.34,0.55,Champaign CUSD 4,Champaign,Champaign,10,8
+Stratton Elementary School,0.61,0.79,Champaign CUSD 4,Champaign,Champaign,13,8
+Mount Vernon High School,0.15,0.56,Mt Vernon Twp HSD 201,Mount Vernon,Jefferson,10,8
+Horizon Science Acad-McKinley Park Charter Sch,0.05,0.84,Horizon Science Acad-McKinley Pk,Chicago,Cook,66,8
+Cortland Elementary School,0.07,0.58,DeKalb CUSD 428,Cortland,Dekalb,14,8
+Cedar Ridge Elem School,0.1,0.75,McLean County USD 5,Bloomington,McLean,13,8
+Spring Wood Middle School,0.17,0.49,Keeneyville SD 20,Hanover Park,Dupage,29,8
+Glenn Westlake Middle School,0.05,0.32,Lombard SD 44,Lombard,Dupage,27,8
+Glenbard North High School,0.09,0.36,Glenbard Twp HSD 87,Carol Stream,Dupage,37,8
+Naperville North High School,0.06,0.17,Naperville CUSD 203,Naperville,Dupage,17,8
+Oswego High School,0.07,0.19,CUSD 308,Oswego,Kendall,15,8
+Lewis School,0.46,0.48,Carbondale ESD 95,Carbondale,Jackson,11,8
+Elgin High School,0.06,0.76,SD U-46,Elgin,Kane,34,8
+Sunnydale Elem School,0.02,0.71,SD U-46,Streamwood,Kane,19,8
+Jefferson Middle School,0.14,0.65,Aurora West USD 129,Aurora,Kane,19,8
+Smith Elem School,0.2,0.54,Aurora West USD 129,Aurora,Kane,13,8
+Mabel O Donnell Elem School,0.15,0.8,Aurora East USD 131,Aurora,Kane,13,8
+Meadowdale Elem School,0.03,0.86,CUSD 300,Carpentersville,Kane,14,8
+Elmwood Elem School,0.41,0.86,Zion ESD 6,Zion,Lake,19,8
+Prairie Trail School,0.25,0.34,Gurnee SD 56,Wadsworth,Lake,22,8
+MacArthur High School,0.48,0.49,Decatur SD 61,Decatur,Macon,17,8
+Durfee Magnet Elementary,0.59,0.61,Decatur SD 61,Decatur,Macon,8,8
+Rock Island High School,0.31,0.6,Rock Island SD 41,Rock Island,Rock Island,18,8
+Earl H Hanson Elem School,0.25,0.74,Rock Island SD 41,Rock Island,Rock Island,12,8
+Garfield Elem School,0.54,0.87,Danville CCSD 118,Danville,Vermilion,16,8
+Troy Crossroads Elem School,0.08,0.39,,Shorewood,Will,16,8
+Aux Sable Middle Sch,0.13,0.31,Plainfield SD 202,Joliet,Will,29,8
+Pioneer Elementary School,0.2,0.41,Valley View CUSD 365U,Bolingbrook,Will,27,8
+School District 428 IYC-HRB,NA,NA,,Harrisburg,Dept Of Corrections,17,8
+Berrian School,0.2,0.86,Quincy SD 172,Quincy,Adams,8,7
+C Henry Bloom Elem School,0.26,0.61,Rockford SD 205,Rockford,Winnebago,14,7
+Wm Nashold Elem School,0.23,0.58,Rockford SD 205,Rockford,Winnebago,14,7
+Neil Armstrong Elem School,0.13,0.27,Schaumburg CCSD 54,Hoffman Estates,Cook,18,7
+Dewey Elem School,0.14,0.3,Evanston CCSD 65,Evanston,Cook,44,7
+Kingsley Elementary School,0.22,0.3,Evanston CCSD 65,Evanston,Cook,28,7
+Old Orchard Jr High School,0.11,0.49,Skokie SD 68,Skokie,Cook,72,7
+Thomas Edison Elem School,0.08,0.56,Skokie SD 69,Morton Grove,Cook,80,7
+J B Conant High School,0.04,0.27,Township HSD 211,Hoffman Estates,Cook,34,7
+Hillside Elem School,0.45,0.73,Hillside SD 93,Hillside,Cook,26,7
+Columbus  East Elem School,0.01,0.93,Cicero SD 99,Cicero,Cook,81,7
+McKinley Elem School,0.04,0.91,Cicero SD 99,Cicero,Cook,37,7
+J Sterling Morton Freshman Cntr,0.02,0.95,J S Morton HSD 201,Cicero,Cook,91,7
+Willow Springs Elem School,0.04,0.61,Willow Springs SD 108,Willow Springs,Cook,60,7
+H H Conrady Jr High School,0.05,0.57,North Palos SD 117,Hickory Hills,Cook,62,7
+Simmons Middle School,0.05,0.67,Ridgeland SD 122,Oak Lawn,Cook,58,7
+Ernest F Kolb Elem School,0.11,0.81,Ridgeland SD 122,Oak Lawn,Cook,16,7
+Care Program,0.5,0.61,,Crestwood,Cook,7,7
+Western Avenue Elem School,0.5,0.29,Flossmoor SD 161,Flossmoor,Cook,22,7
+U S Grant Elem School,0.17,1.0,Chicago Heights SD 170,South Chicago Heights,Cook,12,7
+Dist 206 Alternative High School,0.8,0.75,,Chicago Heights,Cook,11,7
+Reavis High School,0.02,0.5,Reavis Twp HSD 220,Burbank,Cook,163,7
+Oak Forest High School,0.09,0.29,Bremen CHSD 228,Oak Forest,Cook,32,7
+Speed Program for Adaptive Learn,0.72,0.62,,Chicago Heights,Cook,8,7
+Speed Independence Elem Sch,0.8,0.84,,Chicago Heights,Cook,8,7
+Lincoln-Douglas Elementary School,0.25,0.8,Freeport SD 145,Freeport,Stephenson,14,7
+South Side Elementary School,0.23,0.38,Champaign CUSD 4,Champaign,Champaign,10,7
+Mattoon Middle School,0.04,0.62,Mattoon CUSD 2,Mattoon,Coles,7,7
+J L Buford Intermediate Ed Ctr,0.24,0.81,Mount Vernon SD 80,Mount Vernon,Jefferson,10,7
+Littlejohn Elem School,0.13,0.78,DeKalb CUSD 428,DeKalb,Dekalb,8,7
+Parkside Elementary School,0.24,0.53,McLean County USD 5,Normal,McLean,7,7
+Winnebago Elem School,0.1,0.53,Marquardt SD 15,Bloomingdale,Dupage,13,7
+Black Hawk Elem School,0.13,0.76,Marquardt SD 15,Glendale Heights,Dupage,29,7
+Pheasant Ridge Primary School,0.05,0.45,Queen Bee SD 16,Glendale Heights,Dupage,16,7
+Jefferson Middle School,0.09,0.67,SD 45 DuPage County,Villa Park,Dupage,18,7
+North Elem School,0.09,0.61,SD 45 DuPage County,Villa Park,Dupage,18,7
+El Sierra Elem School,0.07,0.32,Downers Grove GSD 58,Downers Grove,Dupage,15,7
+Goodrich Elem School,0.1,0.33,Woodridge SD 68,Woodridge,Dupage,11,7
+Glenbard West High School,0.05,0.26,Glenbard Twp HSD 87,Glen Ellyn,Dupage,22,7
+Lake Park High School,0.06,0.19,Lake Park CHSD 108,Roselle,Dupage,35,7
+Monroe Middle School,0.11,0.3,CUSD 200,Wheaton,Dupage,17,7
+Waubonsie Valley High School,0.13,0.22,Indian Prairie CUSD 204,Aurora,Dupage,36,7
+Longwood Elem School,0.24,0.48,Indian Prairie CUSD 204,Naperville,Dupage,18,7
+Central Elem,0.09,0.79,Kewanee CUSD 229,Kewanee,Henry,16,7
+Belle Alexander Elem School,0.13,0.82,Kewanee CUSD 229,Kewanee,Henry,11,7
+Unity Point Elem School,0.14,0.59,Unity Point CCSD 140,Carbondale,Jackson,9,7
+Hanover Countryside Elem School,0.05,0.49,SD U-46,Streamwood,Kane,10,7
+Highland Elem School,0.09,0.87,SD U-46,Elgin,Kane,18,7
+Washington Elem School,0.15,0.87,SD U-46,Elgin,Kane,23,7
+Greenman Elem School,0.11,0.68,Aurora West USD 129,Aurora,Kane,16,7
+McCleery Elem School,0.11,0.65,Aurora West USD 129,Aurora,Kane,11,7
+C M Bardwell Elem School,0.05,0.85,Aurora East USD 131,Aurora,Kane,35,7
+Steuben Elementary School,0.25,0.71,Kankakee SD 111,Kankakee,Kankakee,20,7
+Bradley-Bourbonnais C High School,0.11,0.43,Bradley Bourbonnais CHSD 307,Bradley,Kankakee,12,7
+Woodland Middle School,0.07,0.33,Woodland CCSD 50,Gurnee,Lake,30,7
+Greenwood Elem School,0.15,0.71,Waukegan CUSD 60,Waukegan,Lake,19,7
+Black Hawk Elem School,0.49,0.79,Springfield SD 186,Springfield,Sangamon,9,7
+Isaac Singleton Elem Sch,0.25,0.99,Joliet PSD 86,Joliet,Will,24,7
+Taft Grade School,0.02,0.37,Taft SD 90,Lockport,Will,17,7
+Plainfield High School,0.09,0.31,Plainfield SD 202,Plainfield,Will,26,7
+A Vito Martinez Middle School,0.12,0.57,Valley View CUSD 365U,Romeoville,Will,37,7
+Jane Addams Middle School,0.26,0.53,Valley View CUSD 365U,Bolingbrook,Will,25,7
+Joseph Academy - Melrose Park,0.38,0.75,,Melrose Park,Cook,11,7
+Robert Frost JHS,0.08,0.17,Schaumburg CCSD 54,Schaumburg,Cook,21,6
+John Jay Elem School,0.06,0.78,Comm Cons SD 59,Mt Prospect,Cook,24,6
+Rupley Elem School,0.02,0.75,Comm Cons SD 59,Elk Grove Village,Cook,28,6
+Chute Middle School,0.33,0.57,Evanston CCSD 65,Evanston,Cook,74,6
+Haven Middle School,0.18,0.27,Evanston CCSD 65,Evanston,Cook,38,6
+Dawes Elementary School,0.3,0.6,Evanston CCSD 65,Evanston,Cook,54,6
+Lincoln Elem School,0.17,0.3,Evanston CCSD 65,Evanston,Cook,52,6
+Schaumburg High School,0.06,0.33,Township HSD 211,Schaumburg,Cook,24,6
+Grant Elem School,0.04,0.99,Bellwood SD 88,Melrose Park,Cook,39,6
+Brook Park Elem School,0.01,0.19,Brookfield Lagrange Park SD 95,La Grange Park,Cook,20,6
+Forest Road Elem School,0.09,0.25,La Grange SD 102,La Grange Park,Cook,17,6
+John Mills Elem School,0.01,0.59,Elmwood Park CUSD 401,Elmwood Park,Cook,138,6
+Walsh Elem School,0.05,0.86,Summit SD 104,Summit,Cook,63,6
+Everett F Kerr Middle School,0.18,0.87,Cook County SD 130,Blue Island,Cook,27,6
+Kerkstra Elem School,0.13,0.38,Forest Ridge SD 142,Oak Forest,Cook,18,6
+Speed Early Learning Center,0.72,0.64,,Chicago Heights,Cook,6,6
+Blackhawk Elem School,0.2,0.85,Freeport SD 145,Freeport,Stephenson,12,6
+Robeson Elem School,0.32,0.52,Champaign CUSD 4,Champaign,Champaign,7,6
+Thomas Paine Elem School,0.33,0.66,Urbana SD 116,Urbana,Champaign,6,6
+Wiley Elementary School,0.41,0.7,Urbana SD 116,Urbana,Champaign,7,6
+Rantoul Twp High School,0.25,0.63,Rantoul Township HSD 193,Rantoul,Champaign,14,6
+Kingsley Jr High School,0.13,0.33,McLean County USD 5,Normal,McLean,10,6
+Bent Elem School,0.16,0.78,Bloomington SD 87,Bloomington,McLean,13,6
+York Center Elem School,0.1,0.76,SD 45 DuPage County,Lombard,Dupage,15,6
+John E Albright Middle School,0.06,0.43,Salt Creek SD 48,Villa Park,Dupage,11,6
+Holmes Elem School,0.06,0.34,Maercker SD 60,Clarendon Hills,Dupage,19,6
+Willow Creek Elem School,0.11,0.44,Woodridge SD 68,Woodridge,Dupage,9,6
+Western Trails Elem School,0.12,0.48,CCSD 93,Carol Stream,Dupage,14,6
+Wheaton North High School,0.07,0.25,CUSD 200,Wheaton,Dupage,20,6
+Naperville Central High School,0.04,0.14,Naperville CUSD 203,Naperville,Dupage,18,6
+Brookdale Elementary School,0.13,0.22,Indian Prairie CUSD 204,Naperville,Dupage,19,6
+P H Miller Elem School,0.07,0.62,Plano CUSD 88,Plano,Kendall,8,6
+Emily G Johns School,0.1,0.63,Plano CUSD 88,Plano,Kendall,9,6
+Yorkville High School,0.06,0.17,Yorkville CUSD 115,Yorkville,Kendall,8,6
+Yorkville Middle School,0.06,0.2,Yorkville CUSD 115,Yorkville,Kendall,12,6
+Bartlett High School,0.04,0.38,SD U-46,Bartlett,Kane,19,6
+Ellis Middle School,0.07,0.87,SD U-46,Elgin,Kane,10,6
+Glenbrook Elem School,0.08,0.51,SD U-46,Streamwood,Kane,16,6
+Hillcrest Elem School,0.05,0.85,SD U-46,Elgin,Kane,22,6
+Washington Middle School,0.07,0.58,Aurora West USD 129,Aurora,Kane,14,6
+Hill Elem School,0.1,0.74,Aurora West USD 129,Aurora,Kane,15,6
+K D Waldo Middle School,0.08,0.81,Aurora East USD 131,Aurora,Kane,19,6
+Edison Primary School,0.69,0.71,Kankakee SD 111,Kankakee,Kankakee,6,6
+Antioch Elem School,0.05,0.3,Antioch CCSD 34,Antioch,Lake,11,6
+Miguel Juarez Middle School,0.11,0.74,Waukegan CUSD 60,Waukegan,Lake,16,6
+Michael E Baum Elem School,0.27,0.66,Decatur SD 61,Decatur,Macon,7,6
+Pleasant Valley Elem School,0.57,0.9,Pleasant Valley SD 62,Peoria,Peoria,7,6
+Richwoods High School,0.31,0.41,Peoria SD 150,Peoria,Peoria,12,6
+Eagle Ridge School,0.31,0.9,Carbon Cliff-Barstow SD 36,Silvis,Rock Island,16,6
+Glenwood High School,0.06,0.17,Ball Chatham CUSD 5,Chatham,Sangamon,7,6
+Jane Addams Elem School,0.39,0.72,Springfield SD 186,Springfield,Sangamon,6,6
+Butler Elem School,0.38,0.6,Springfield SD 186,Springfield,Sangamon,9,6
+Fairview Elem School,0.38,0.72,Springfield SD 186,Springfield,Sangamon,9,6
+Laraway Elem School,0.54,0.73,Laraway CCSD 70C,Joliet,Will,12,6
+M J Cunningham Elem Sch,0.1,0.99,Joliet PSD 86,Joliet,Will,20,6
+Timber Ridge Middle School,0.08,0.36,Plainfield SD 202,Plainfield,Will,25,6
+John F Kennedy Middle Sch,0.15,0.26,Plainfield SD 202,Plainfield,Will,19,6
+Pavilion Foundation School,0.56,0.25,,Champaign,Champaign,11,6
+Juvenile Transitional Cntr Acad,0.76,0.84,,Centreville,Saint Clair,11,6
+Legacy Acad of Excellence Charter Sch,0.59,0.27,Rockford SD 205,Rockford,Winnebago,7,5
+Galapagos Rockford Charter Sch,0.5,0.33,Rockford SD 205,Rockford,Winnebago,5,5
+A C Thompson Elem School,0.2,0.5,Rockford SD 205,Rockford,Winnebago,8,5
+Central Road Elem School,0.02,0.42,Palatine CCSD 15,Rolling Meadows,Cook,17,5
+Anne Fox Elem School,0.13,0.37,Schaumburg CCSD 54,Hanover Park,Cook,14,5
+Forest View Elem School,0.08,0.45,Comm Cons SD 59,Mt Prospect,Cook,36,5
+Chippewa Middle School,0.08,0.52,CCSD 62,Des Plaines,Cook,48,5
+Walker Elem School,0.31,0.5,Evanston CCSD 65,Evanston,Cook,41,5
+Clarence E Culver School,0.02,0.39,Niles ESD 71,Niles,Cook,70,5
+Maine West High School,0.03,0.38,Maine Township HSD 207,Des Plaines,Cook,61,5
+Wm Fremd High School,0.02,0.15,Township HSD 211,Palatine,Cook,24,5
+River Grove Elem School,0.02,0.62,River Grove SD 85-5,River Grove,Cook,134,5
+Jane Addams Elem School,0.06,0.57,Maywood-Melrose Park-Broadview 89,Melrose Park,Cook,35,5
+Betsy Ross Elem School,0.42,0.38,Forest Park SD 91,Forest Park,Cook,10,5
+Westchester Intermediate School,0.26,0.41,Westchester SD 92-5,Westchester,Cook,18,5
+L J Hauser Jr High School,0.02,0.18,Riverside SD 96,Riverside,Cook,15,5
+Daniel Burnham Elem School,0.01,0.82,Cicero SD 99,Cicero,Cook,143,5
+Woodrow Wilson Elem School,0.01,0.92,Cicero SD 99,Cicero,Cook,78,5
+Warren Park School,0.04,0.89,Cicero SD 99,Cicero,Cook,38,5
+Cicero West Elementary School,0.02,0.93,Cicero SD 99,Cicero,Cook,122,5
+Heritage Middle School,0.05,0.72,Berwyn South SD 100,Berwyn,Cook,62,5
+Freedom Middle School,0.02,0.86,Berwyn South SD 100,Berwyn,Cook,44,5
+Irving Elem School,0.03,0.71,Berwyn South SD 100,Berwyn,Cook,46,5
+Hiawatha Elem School,0.04,0.78,Berwyn South SD 100,Berwyn,Cook,45,5
+Lincoln Elem School,0.04,0.61,Lyons SD 103,Brookfield,Cook,36,5
+Costello School,0.05,0.69,Lyons SD 103,Lyons,Cook,24,5
+PAEC Alternative Elementary,0.67,0.67,,Maywood,Cook,8,5
+PAEC Alternative High School,0.95,0.56,,Maywood,Cook,10,5
+J B Kennedy Elem School,0.01,0.5,Burbank SD 111,Burbank,Cook,70,5
+Ridge Central Elem School,0.06,0.53,Chicago Ridge SD 127-5,Chicago Ridge,Cook,28,5
+Nathan Hale Primary School,0.18,0.59,Cook County SD 130,Crestwood,Cook,20,5
+Lee R Foster Elem School,0.06,0.42,Forest Ridge SD 142,Oak Forest,Cook,16,5
+Spaulding School,0.23,0.63,Midlothian SD 143,Midlothian,Cook,6,5
+Morton Gingerwood Elem School,0.12,0.41,Arbor Park SD 145,Oak Forest,Cook,13,5
+MacArthur/Echo Elementary,0.74,0.69,,South Holland,Cook,9,5
+Center for Science & Technology,0.74,0.79,,Calumet City,Cook,7,5
+Victor J Andrew High School,0.05,0.18,Cons HSD 230,Orland Hills,Cook,19,5
+Galena Primary School,0.03,0.42,Galena USD 120,Galena,Jo Daviess,11,5
+Kenwood Elem School,0.28,0.53,Champaign CUSD 4,Champaign,Champaign,7,5
+Eastlawn Elem School,0.23,0.98,Rantoul City SD 137,Rantoul,Champaign,10,5
+Northview Elem School,0.19,0.99,Rantoul City SD 137,Rantoul,Champaign,9,5
+Pleasant Acres Elem School,0.3,1.0,Rantoul City SD 137,Rantoul,Champaign,7,5
+Carl Sandburg Elem School,0.06,0.55,Charleston CUSD 1,Charleston,Coles,6,5
+Hoyleton Education Center,0.51,0.62,,Hoyleton,Marion,8,5
+Pontiac Jr High School,0.04,0.51,Pontiac CCSD 429,Pontiac,Livingston,9,5
+YBMC Charter Sch,0.38,0.72,McLean County USD 5,Normal,McLean,7,5
+Glenn Elem School,0.13,0.4,McLean County USD 5,Normal,McLean,6,5
+Tioga Elementary School,0.05,0.68,Bensenville SD 2,Bensenville,Dupage,39,5
+Reskin Elem School,0.1,0.82,Marquardt SD 15,Glendale Heights,Dupage,15,5
+Glenside Middle School,0.06,0.39,Queen Bee SD 16,Glendale Heights,Dupage,16,5
+Americana Intermediate School,0.04,0.41,Queen Bee SD 16,Glendale Heights,Dupage,15,5
+Leman Middle School,0.02,0.54,West Chicago ESD 33,West Chicago,Dupage,11,5
+Turner Elem School,0.01,0.58,West Chicago ESD 33,West Chicago,Dupage,11,5
+Park View Elem School,0.06,0.24,Lombard SD 44,Lombard,Dupage,8,5
+Jackson Middle School,0.06,0.4,SD 45 DuPage County,Villa Park,Dupage,17,5
+Indian Trail Elem School,0.11,0.15,Downers Grove GSD 58,Downers Grove,Dupage,9,5
+Kingsley Elem School,0.06,0.17,Downers Grove GSD 58,Downers Grove,Dupage,12,5
+Maercker Elem School,0.09,0.38,Maercker SD 60,Westmont,Dupage,15,5
+Jay Stream Middle School,0.07,0.37,CCSD 93,Carol Stream,Dupage,14,5
+Madison Elem School,0.12,0.26,CUSD 200,Wheaton,Dupage,11,5
+C E Miller Elem School,0.11,0.53,CUSD 201,Westmont,Dupage,7,5
+Scott Elementary School,0.14,0.28,Naperville CUSD 203,Naperville,Dupage,8,5
+Still Middle School,0.09,0.18,Indian Prairie CUSD 204,Aurora,Dupage,12,5
+McCarty Elementary School,0.15,0.3,Indian Prairie CUSD 204,Aurora,Dupage,15,5
+Nancy Young Elementary School,0.08,0.13,Indian Prairie CUSD 204,Aurora,Dupage,14,5
+Herrin C U S D 4 Elem School,0.04,0.67,Herrin CUSD 4,Herrin,Williamson,6,5
+Macomb Junior High School,0.07,0.36,Macomb CUSD 185,Macomb,McDonough,6,5
+Clinton Elem School,0.06,0.42,SD U-46,South Elgin,Kane,8,5
+Huff Elem School,0.05,0.92,SD U-46,Elgin,Kane,16,5
+Horizon Elem School,0.09,0.51,SD U-46,Hanover Park,Kane,16,5
+Creekside Elem,0.09,0.64,SD U-46,Elgin,Kane,16,5
+Nicholson Elem School,0.15,0.46,Aurora West USD 129,Montgomery,Kane,9,5
+John Gates Elem School,0.04,0.76,Aurora East USD 131,Aurora,Kane,9,5
+Nicholas A Hermes Elem School,0.05,0.76,Aurora East USD 131,Aurora,Kane,16,5
+Lombard Jr High School,0.11,0.68,Galesburg CUSD 205,Galesburg,Knox,8,5
+Gale School,0.14,0.53,Galesburg CUSD 205,Galesburg,Knox,6,5
+Beach Park Middle School,0.22,0.47,Beach Park CCSD 3,Beach Park,Lake,15,5
+Newport Elem School,0.32,0.53,Beach Park CCSD 3,Wadsworth,Lake,9,5
+Spaulding Elementary School,0.21,0.35,Gurnee SD 56,Gurnee,Lake,15,5
+Glen Flora Elem School,0.14,0.79,Waukegan CUSD 60,Waukegan,Lake,15,5
+H R McCall Elem School,0.11,0.66,Waukegan CUSD 60,Waukegan,Lake,15,5
+Warren Township High School,0.1,0.16,Warren Twp HSD 121,Gurnee,Lake,22,5
+Enterprise Elem School,0.43,0.6,Decatur SD 61,Decatur,Macon,7,5
+Valley View Elem School,0.02,0.42,McHenry CCSD 15,Mchenry,McHenry,12,5
+SEAPCO Academy,0.18,0.34,,Peoria,Peoria,10,5
+United Twp High School,0.12,0.59,United Twp HSD 30,East Moline,Rock Island,8,5
+Moline Sr High School,0.07,0.43,Moline-Coal Valley CUSD 40,Moline,Rock Island,9,5
+Edison Jr High School,0.35,0.71,Rock Island SD 41,Rock Island,Rock Island,12,5
+Washington Jr High School,0.33,0.57,Rock Island SD 41,Rock Island,Rock Island,5,5
+Ridgewood Elem School,0.22,0.78,Rock Island SD 41,Rock Island,Rock Island,11,5
+East St Louis Senior High School,0.98,0.98,East St Louis SD 189,East Saint Louis,Saint Clair,7,5
+Owen Marsh Elem School,0.29,0.43,Springfield SD 186,Springfield,Sangamon,10,5
+Southern View Elem School,0.32,0.68,Springfield SD 186,Springfield,Sangamon,5,5
+Wilcox Elem School,0.31,0.65,Springfield SD 186,Springfield,Sangamon,7,5
+Richland Jr High,0.14,0.41,Richland GSD 88A,Crest Hill,Will,16,5
+Richland Elem School,0.15,0.46,Richland GSD 88A,Crest Hill,Will,21,5
+Indian Trail Middle School,0.11,0.3,Plainfield SD 202,Plainfield,Will,15,5
+Creekside Elementary School,0.16,0.42,Plainfield SD 202,Plainfield,Will,27,5
+Charles Reed Elementary Sch,0.13,0.3,Plainfield SD 202,Plainfield,Will,13,5
+Skoff Elementary,0.09,0.62,Valley View CUSD 365U,Romeoville,Will,45,5
+R E A D Y Program,0.74,0.48,,Champaign,ROE,8,5
+Salt School,0.22,0.62,,Kankakee,ROE,10,5
+Britten School,0.31,0.51,,Westchester,Cook,10,5
+Parkland Preparatory Academy,0.32,0.48,,Streamwood,Dupage,8,5
+CORE Academy,0.41,0.67,,Aurora,Kane,8,5
+Allendale Residential School Prog,0.38,0.43,,Lake Villa,Lake,6,5
+Kankakee Area Career Center,NA,NA,,Bourbonnais,,7,5
+Baldwin Intermediate,0.11,0.57,Quincy SD 172,Quincy,Adams,6,4
+Washington Academy,0.04,0.68,Belvidere CUSD 100,Belvidere,Boone,15,4
+Brookview Elem School,0.1,0.33,Rockford SD 205,Rockford,Winnebago,11,4
+Arthur Froberg Elem School,0.16,0.49,Rockford SD 205,Rockford,Winnebago,8,4
+Julia Lathrop Elem School,0.17,0.71,Rockford SD 205,Rockford,Winnebago,11,4
+Summerdale Early Childhood Center,0.61,0.65,,Rockford,Winnebago,6,4
+Winston Campus Jr High,0.05,0.73,Palatine CCSD 15,Palatine,Cook,23,4
+Walter R Sundling Jr High Sch,0.03,0.29,Palatine CCSD 15,Palatine,Cook,15,4
+Hanover Highlands Elem School,0.06,0.32,Schaumburg CCSD 54,Hanover Park,Cook,22,4
+Grove Jr High School,0.01,0.56,Comm Cons SD 59,Elk Grove Village,Cook,32,4
+Juliette Low Elem School,0.04,0.67,Comm Cons SD 59,Arlington Heights,Cook,18,4
+Madison Elem School,0.09,0.49,Skokie SD 69,Skokie,Cook,67,4
+Elk Grove High School,0.03,0.34,Township HSD 214,Elk Grove Village,Cook,64,4
+Rolling Meadows High School,0.03,0.26,Township HSD 214,Rolling Meadows,Cook,29,4
+Buffalo Grove High School,0.02,0.18,Township HSD 214,Buffalo Grove,Cook,24,4
+Niles North High School,0.1,0.32,Niles Twp HSD 219,Skokie,Cook,106,4
+Niles West High School,0.04,0.31,Niles Twp HSD 219,Skokie,Cook,139,4
+Lincoln Middle School,0.02,0.63,Schiller Park SD 81,Schiller Park,Cook,39,4
+J W Riley Elem School,0.02,0.9,,Northlake,Cook,31,4
+Westchester Primary School,0.21,0.38,Westchester SD 92-5,Westchester,Cook,27,4
+Abe Lincoln Elem School,0.01,0.79,Cicero SD 99,Cicero,Cook,113,4
+Sherlock Elem School,0.0,0.91,Cicero SD 99,Cicero,Cook,28,4
+Riverside Brookfield Twp HS,0.06,0.2,Riverside-Brookfield Twp SD 208,Riverside,Cook,29,4
+Proviso Math and Science Academy,0.29,0.39,Proviso Twp HSD 209,Forest Park,Cook,4,4
+Liberty Junior High School,0.02,0.59,Burbank SD 111,Burbank,Cook,85,4
+Luther Burbank Elem School,0.01,0.5,Burbank SD 111,Burbank,Cook,65,4
+Richard Byrd Elementary School,0.01,0.66,Burbank SD 111,Burbank,Cook,46,4
+Glen Oaks Elem School,0.03,0.63,North Palos SD 117,Hickory Hills,Cook,36,4
+Dr Kenneth M Sorrick School,0.07,0.58,North Palos SD 117,Palos Hills,Cook,19,4
+Kolmar Avenue Elem School,0.05,0.39,Oak Lawn-Hometown SD 123,Oak Lawn,Cook,19,4
+Hazelgreen Elem School,0.1,0.63,Alsip-Hazlgrn-Oaklwn SD 126,Alsip,Cook,28,4
+Worthwoods Elem School,0.04,0.65,Worth SD 127,Worth,Cook,22,4
+High Point Elem School,0.04,0.2,Orland SD 135,Orland Park,Cook,12,4
+Transition,0.2,0.23,,Orland Park,Cook,5,4
+Central Middle School,0.06,0.4,CCSD 146,Tinley Park,Cook,18,4
+Wolcott School,0.22,0.34,Thornton SD 154,Thornton,Cook,14,4
+Empire Elem School,0.21,0.59,Freeport SD 145,Freeport,Stephenson,4,4
+Carrie Busey Elem School,0.21,0.39,Champaign CUSD 4,Savoy,Champaign,5,4
+Garden Hills Elem School,0.61,0.71,Champaign CUSD 4,Champaign,Champaign,7,4
+M L King Jr Elem School,0.62,0.9,Urbana SD 116,Urbana,Champaign,5,4
+Mattoon High School,0.04,0.5,Mattoon CUSD 2,Mattoon,Coles,6,4
+Pepper Ridge Elementary School,0.16,0.45,McLean County USD 5,Bloomington,McLean,4,4
+Washington Elem School,0.08,0.32,Bloomington SD 87,Bloomington,McLean,4,4
+Churchill Elem School,0.06,0.43,Glen Ellyn SD 41,Glen Ellyn,Dupage,12,4
+Forest Glen Elem School,0.03,0.24,Glen Ellyn SD 41,Glen Ellyn,Dupage,14,4
+Madison Elementary School,0.06,0.53,Lombard SD 44,Lombard,Dupage,12,4
+Ardmore Elem School,0.03,0.25,SD 45 DuPage County,Villa Park,Dupage,11,4
+Herrick Middle School,0.01,0.1,Downers Grove GSD 58,Downers Grove,Dupage,8,4
+Westfield Elem School,0.11,0.18,CCSD 89,Glen Ellyn,Dupage,6,4
+Community High School,0.02,0.47,CHSD 94,West Chicago,Dupage,13,4
+Westmont High School,0.08,0.35,CUSD 201,Westmont,Dupage,10,4
+Lisle High School,0.09,0.27,Lisle CUSD 202,Lisle,Dupage,6,4
+Indian Plains Alternative School,0.42,0.54,,Aurora,Dupage,6,4
+Marion Jr High School,0.08,0.46,Marion CUSD 2,Marion,Williamson,8,4
+Centennial Elem School,0.08,0.6,Plano CUSD 88,Plano,Kendall,10,4
+Circle Center Grade School,0.03,0.14,Yorkville CUSD 115,Yorkville,Kendall,4,4
+Plank Junior High,0.08,0.31,CUSD 308,Oswego,Kendall,8,4
+Kewanee High School,0.12,0.67,Kewanee CUSD 229,Kewanee,Henry,12,4
+Irving Elem School,0.1,0.8,Kewanee CUSD 229,Kewanee,Henry,5,4
+Carruthers Elementary School,0.19,0.98,Murphysboro CUSD 186,Murphysboro,Jackson,5,4
+Garfield Elem School,0.06,0.96,SD U-46,Elgin,Kane,13,4
+Oakhill Elem School,0.05,0.75,SD U-46,Streamwood,Kane,12,4
+Central School Program,0.22,0.75,,Elgin,Kane,7,4
+Jewel Middle School,0.11,0.5,Aurora West USD 129,North Aurora,Kane,9,4
+Freeman Elem School,0.07,0.54,Aurora West USD 129,Aurora,Kane,9,4
+Rose E Krug Elem School,0.16,0.75,Aurora East USD 131,Aurora,Kane,8,4
+Edna Rollins Elem School,0.05,0.86,Aurora East USD 131,Aurora,Kane,9,4
+Parkview Elementary School,0.08,0.7,CUSD 300,Carpentersville,Kane,12,4
+Manteno High School,0.02,0.32,Manteno CUSD 5,Manteno,Kankakee,8,4
+Liberty Intermediate School,0.09,0.43,Bourbonnais SD 53,Bourbonnais,Kankakee,8,4
+King School,0.15,0.75,Galesburg CUSD 205,Galesburg,Knox,9,4
+Hillcrest Elementary School,0.04,0.3,Antioch CCSD 34,Antioch,Lake,6,4
+Gavin Central Elementary School,0.06,0.63,Gavin SD 37,Ingleside,Lake,8,4
+Glenwood Elementary School,0.11,0.78,Waukegan CUSD 60,Waukegan,Lake,27,4
+Highland Park High School,0.02,0.14,Twp HSD 113,Highland Park,Lake,12,4
+Indian Hill Elem School,0.12,0.62,Round Lake CUSD 116,Round Lake Heights,Lake,22,4
+W J Murphy Elem School,0.1,0.73,Round Lake CUSD 116,Round Lake Park,Lake,18,4
+Grant Community High School,0.04,0.34,Grant CHSD 124,Fox Lake,Lake,15,4
+Streator Twp High School,0.05,0.55,Streator Twp HSD 40,Streator,La Salle,6,4
+McKinley Elem School,0.02,0.39,Ottawa ESD 141,Ottawa,La Salle,8,4
+Northbrook School,0.02,0.58,Mendota CCSD 289,Mendota,La Salle,9,4
+Mary W French Academy,0.75,0.82,Decatur SD 61,Decatur,Macon,5,4
+South Shores Elem School,0.48,0.55,Decatur SD 61,Decatur,Macon,11,4
+Lincoln Elem School,0.03,0.57,Sterling CUSD 5,Sterling,Whiteside,5,4
+East Coloma - Nelson Elem Sch,0.03,0.47,East Coloma - Nelson CESD 20,Rock Falls,Whiteside,4,4
+Northeast Jr High School,0.14,0.47,Silvis SD 34,East Moline,Rock Island,5,4
+George O Barr School,0.11,0.65,Silvis SD 34,Silvis,Rock Island,4,4
+Logan Elem School,0.15,0.64,Moline-Coal Valley CUSD 40,Moline,Rock Island,4,4
+Eugene Field Elem School,0.11,0.36,Rock Island SD 41,Rock Island,Rock Island,4,4
+Frances Willard Elem School,0.54,0.63,Rock Island SD 41,Rock Island,Rock Island,13,4
+Thurgood Marshall Learning Ctr,0.58,0.41,,Rock Island,Rock Island,4,4
+Whiteside Middle School,0.52,0.52,Whiteside SD 115,Belleville,Saint Clair,4,4
+Glenwood Intermediate Sch,0.06,0.19,Ball Chatham CUSD 5,Chatham,Sangamon,10,4
+Ridgely Elem School,0.27,0.78,Springfield SD 186,Springfield,Sangamon,5,4
+Troy Middle School,0.12,0.34,Troy CCSD 30C,Plainfield,Will,14,4
+Troy Craughwell School,0.09,0.42,Troy CCSD 30C,Joliet,Will,8,4
+Troy Heritage Trail School,0.16,0.46,Troy CCSD 30C,Joliet,Will,8,4
+Rockdale Elem School,0.08,0.75,Rockdale SD 84,Rockdale,Will,10,4
+T E Culbertson Elem School,0.3,0.99,Joliet PSD 86,Joliet,Will,13,4
+Taft Elementary School,0.16,0.99,Joliet PSD 86,Joliet,Will,11,4
+Coretta Scott King Magnet Sch,0.67,0.58,Crete Monee CUSD 201U,University Park,Will,4,4
+Plainfield North High School,0.07,0.14,Plainfield SD 202,Plainfield,Will,16,4
+Heritage Grove Middle School,0.07,0.14,Plainfield SD 202,Plainfield,Will,13,4
+Lakewood Falls Elem School,0.16,0.45,Plainfield SD 202,Plainfield,Will,25,4
+Ridge Elementary School,0.08,0.3,Plainfield SD 202,Plainfield,Will,16,4
+Elizabeth Eichelberger Elem Sch,0.14,0.3,Plainfield SD 202,Plainfield,Will,18,4
+Irene King Elem School,0.07,0.73,Valley View CUSD 365U,Romeoville,Will,23,4
+Jamie McGee Elementary School,0.24,0.44,Valley View CUSD 365U,Bolingbrook,Will,11,4
+Reg'l Learning Center Star Winn,0.6,0.9,,Rockford,ROE,5,4
+Reg'l Learning Academy Star Winn,0.48,0.74,,Rockford,ROE,5,4
+Lincoln School RSSP,0.31,0.67,,Joliet,ROE,11,4
+Beacon Therapeutic-Cal Park,0.89,0.92,,Calumet Park,Cook,6,4
+CARE Day School,NA,NA,,Lake Villa,Cook,8,4
+Allendale - North Chicago,NA,NA,,North Chicago,Lake,6,4
+Onarga Academy,NA,NA,,Onarga,,8,4
+J D Colt Elem School,0.01,0.57,Litchfield CUSD 12,Litchfield,Montgomery,3,3
+Harlem High School,0.05,0.53,Harlem UD 122,Machesney Park,Winnebago,12,3
+Ralston Elem School,0.01,0.41,Harlem UD 122,Machesney Park,Winnebago,4,3
+Clifford P Carlson Elem School,0.26,0.46,Rockford SD 205,Rockford,Winnebago,5,3
+Maud E Johnson Elem School,0.17,0.48,Rockford SD 205,Rockford,Winnebago,6,3
+Whitehead Elem School,0.25,0.61,Rockford SD 205,Rockford,Winnebago,9,3
+Hunting Ridge Elem School,0.05,0.17,Palatine CCSD 15,Palatine,Cook,14,3
+Lake Louise Elem School,0.04,0.67,Palatine CCSD 15,Palatine,Cook,30,3
+Gray M Sanborn Elem School,0.07,0.57,Palatine CCSD 15,Palatine,Cook,14,3
+Oliver W Holmes Middle School,0.02,0.78,Wheeling CCSD 21,Wheeling,Cook,30,3
+Winston Churchill Elem School,0.03,0.09,Schaumburg CCSD 54,Schaumburg,Cook,18,3
+Lakeview Elem School,0.03,0.4,Schaumburg CCSD 54,Hoffman Estates,Cook,23,3
+Friendship Jr High School,0.04,0.54,Comm Cons SD 59,Des Plaines,Cook,37,3
+Cumberland Elem School,0.03,0.38,CCSD 62,Des Plaines,Cook,14,3
+Maine East High School,0.05,0.46,Maine Township HSD 207,Park Ridge,Cook,85,3
+The Academy at Forest View,0.05,0.48,,Arlington Heights,Cook,6,3
+Scott Elementary School,0.01,0.79,Mannheim SD 83,Melrose Park,Cook,55,3
+Enger School,0.02,0.57,,Franklin Park,Cook,10,3
+Early Childhood Cntr/Lincoln Primary,0.44,0.99,,Bellwood,Cook,5,3
+Stevenson Middle School,0.05,0.85,Maywood-Melrose Park-Broadview 89,Melrose Park,Cook,20,3
+A F Ames Elem School,0.03,0.19,Riverside SD 96,Riverside,Cook,13,3
+Drexel Elem School,0.01,0.89,Cicero SD 99,Cicero,Cook,47,3
+Komensky Elem School,0.02,0.82,Berwyn South SD 100,Berwyn,Cook,36,3
+J W Robinson Jr Elem School,0.07,0.79,Lyons SD 103,Lyons,Cook,49,3
+Washington Middle School,0.05,0.75,Lyons SD 103,Lyons,Cook,66,3
+Seventh Ave Elem School,0.04,0.21,La Grange SD 105 South,La Grange,Cook,18,3
+J Sterling Morton Alternative Sch,0.0,1.0,,Cicero,Cook,5,3
+Elmwood Elem School,0.03,0.55,Elmwood Park CUSD 401,Elmwood Park,Cook,118,3
+Proviso Area Except Child Center,0.47,0.53,,Maywood,Cook,12,3
+PAEC Academy,0.4,0.83,,Hillside,Cook,7,3
+Dr Donald Wharton Elem School,0.05,0.91,Summit SD 104,Summit,Cook,27,3
+Charles J Sahs Elem School,0.01,0.72,Central Stickney SD 110,Chicago,Cook,60,3
+Worth Elem School,0.04,0.5,Worth SD 127,Worth,Cook,31,3
+Nathan Hale Intermediate,0.2,0.64,Cook County SD 130,Crestwood,Cook,13,3
+Horace Mann School,0.15,0.26,,Blue Island,Cook,5,3
+School Dist 133 Annex,0.96,0.23,,Riverdale,Cook,5,3
+Liberty Elem School,0.02,0.22,Orland SD 135,Orland Park,Cook,10,3
+Scarlet Oak Elem School,0.14,0.44,Arbor Park SD 145,Oak Forest,Cook,10,3
+Bert H Fulton School,0.06,0.42,CCSD 146,Tinley Park,Cook,4,3
+Early Childhood Cntr,0.88,0.96,,Riverdale,Cook,3,3
+Lester Crawl Primary Ctr,0.29,0.48,,Lansing,Cook,6,3
+Steger Primary Center,0.3,0.81,Steger SD 194,Steger,Cook,13,3
+PEACE Center,1.0,0.5,,Dolton,Cook,3,3
+Carl Sandburg High School,0.05,0.12,Cons HSD 230,Orland Park,Cook,33,3
+A E R O Educational Center,0.11,0.32,,Burbank,Cook,11,3
+Jones Farrar Magnet School,0.24,0.64,Freeport SD 145,Freeport,Stephenson,3,3
+Westview Elem School,0.22,0.52,Champaign CUSD 4,Champaign,Champaign,5,3
+Jefferson Elem School,0.06,0.53,Charleston CUSD 1,Charleston,Coles,5,3
+Mark Twain Elem School,0.04,0.59,Charleston CUSD 1,Charleston,Coles,3,3
+Kemmerer Village School,0.29,0.81,,Assumption,Shelby,7,3
+Jordan Elem School,0.26,0.99,Centralia SD 135,Centralia,Marion,3,3
+Washington Elem School,0.04,0.58,Pontiac CCSD 429,Pontiac,Livingston,3,3
+Lincoln Jr High School,0.04,0.42,Lincoln ESD 27,Lincoln,Logan,3,3
+Central Elem School,0.06,0.49,Lincoln ESD 27,Lincoln,Logan,4,3
+Waterbury Elem School,0.05,0.22,Keeneyville SD 20,Roselle,Dupage,9,3
+Abraham Lincoln Elem School,0.01,0.14,Glen Ellyn SD 41,Glen Ellyn,Dupage,14,3
+Butterfield Elem School,0.09,0.36,Lombard SD 44,Lombard,Dupage,5,3
+Stevenson School,0.08,0.63,SD 45 DuPage County,Lombard,Dupage,6,3
+O Neill Middle School,0.07,0.16,Downers Grove GSD 58,Downers Grove,Dupage,10,3
+Belle Aire Elem School,0.03,0.06,Downers Grove GSD 58,Downers Grove,Dupage,5,3
+Whittier Elem School,0.03,0.08,Downers Grove GSD 58,Downers Grove,Dupage,4,3
+Hinsdale Central High School,0.02,0.08,Hinsdale Twp HSD 86,Hinsdale,Dupage,13,3
+Glen Crest Middle School,0.07,0.21,CCSD 89,Glen Ellyn,Dupage,9,3
+Briar Glen Elem School,0.07,0.23,CCSD 89,Wheaton,Dupage,5,3
+Hawthorne Elem School,0.02,0.39,CUSD 200,Wheaton,Dupage,5,3
+Whittier Elem School,0.06,0.13,CUSD 200,Wheaton,Dupage,6,3
+Bower Elem School,0.03,0.28,CUSD 200,Warrenville,Dupage,5,3
+Madison Jr High School,0.06,0.13,Naperville CUSD 203,Naperville,Dupage,3,3
+Ellsworth Elem School,0.05,0.19,Naperville CUSD 203,Naperville,Dupage,13,3
+Elmwood Elem School,0.07,0.21,Naperville CUSD 203,Naperville,Dupage,11,3
+Georgetown Elementary School,0.15,0.58,Indian Prairie CUSD 204,Aurora,Dupage,11,3
+Fry Elementary School,0.02,0.04,Indian Prairie CUSD 204,Naperville,Dupage,5,3
+Owen Elementary School,0.08,0.15,Indian Prairie CUSD 204,Naperville,Dupage,11,3
+Sandburg Middle  School,0.01,0.1,Elmhurst SD 205,Elmhurst,Dupage,9,3
+Emerson Elem School,0.01,0.14,Elmhurst SD 205,Elmhurst,Dupage,7,3
+North Side Elem School,0.05,0.49,Fairfield PSD 112,Fairfield,Wayne,5,3
+Longfellow Elem School,0.14,0.61,Marion CUSD 2,Marion,Williamson,3,3
+Herrin Middle School,0.05,0.58,Herrin CUSD 4,Herrin,Williamson,5,3
+Mazon-Verona-Kinsman Elem School,0.0,0.32,Mazon-Verona-Kinsman ESD 2C,Mazon,Grundy,3,3
+Saratoga Elem School,0.02,0.35,Saratoga CCSD 60C,Morris,Grundy,7,3
+Plano High School,0.11,0.57,Plano CUSD 88,Plano,Kendall,8,3
+Plano Middle School,0.11,0.59,Plano CUSD 88,Plano,Kendall,6,3
+The Wheatlands Elementary School,0.11,0.12,CUSD 308,Aurora,Kendall,11,3
+Wolfs Crossing Elem School,0.1,0.12,CUSD 308,Aurora,Kendall,5,3
+Southbury Elem School,0.06,0.19,CUSD 308,Oswego,Kendall,4,3
+Macomb Senior High School,0.09,0.38,Macomb CUSD 185,Macomb,McDonough,5,3
+Eastview Middle School,0.03,0.23,SD U-46,Bartlett,Kane,9,3
+Canton Middle School,0.07,0.59,SD U-46,Streamwood,Kane,22,3
+Bartlett Elem School,0.05,0.31,SD U-46,Bartlett,Kane,14,3
+Coleman Elem School,0.05,0.84,SD U-46,Elgin,Kane,14,3
+Laurel Hill Elem School,0.04,0.85,SD U-46,Hanover Park,Kane,12,3
+McKinley Elem School,0.03,0.88,SD U-46,Elgin,Kane,9,3
+Parkwood Elem School,0.04,0.91,SD U-46,Hanover Park,Kane,14,3
+Ronald D O Neal,0.07,0.9,SD U-46,Elgin,Kane,10,3
+Wayne Elem School,0.01,0.17,SD U-46,Wayne,Kane,5,3
+Spring Trail Elementary School,0.05,0.35,SD U-46,Carol Stream,Kane,10,3
+Sam Rotolo Middle Sch,0.04,0.17,Batavia USD 101,Batavia,Kane,9,3
+Hoover Wood Elem School,0.12,0.25,Batavia USD 101,Batavia,Kane,7,3
+Hall Elem School,0.16,0.58,Aurora West USD 129,Aurora,Kane,9,3
+G N Dieterich Elem School,0.06,0.73,Aurora East USD 131,Aurora,Kane,13,3
+Richmond Intermediate Sch,0.03,0.4,St Charles CUSD 303,Saint Charles,Kane,14,3
+Alan B Shepard Elem School,0.12,0.53,Bourbonnais SD 53,Bourbonnais,Kankakee,7,3
+St Anne Comm High School,0.38,0.78,St Anne CHSD 302,Saint Anne,Kankakee,5,3
+Kenneth Murphy School,0.26,0.42,Beach Park CCSD 3,Beach Park,Lake,11,3
+Woodland Elementary,0.08,0.38,Woodland CCSD 50,Gages Lake,Lake,26,3
+Robert E Abbott Middle School,0.08,0.69,Waukegan CUSD 60,Waukegan,Lake,14,3
+Howard A Yeager Elem Sch,0.33,0.95,North Chicago SD 187,North Chicago,Lake,10,3
+La Salle-Peru Twp High School,0.03,0.39,La Salle-Peru Twp HSD 120,La Salle,La Salle,10,3
+Shepherd Middle School,0.03,0.48,Ottawa ESD 141,Ottawa,La Salle,3,3
+Milton Pope Elem School,0.0,0.21,Miller Twp CCSD 210,Marseilles,La Salle,3,3
+Blackstone Elem School,0.04,0.57,Mendota CCSD 289,Mendota,La Salle,5,3
+Dennis Elem School,0.27,0.47,Decatur SD 61,Decatur,Macon,4,3
+Muffley Elem School,0.33,0.51,Decatur SD 61,Decatur,Macon,4,3
+Parsons Accelerated School,0.31,0.53,Decatur SD 61,Decatur,Macon,6,3
+Pershing Early Learning Center,0.4,0.43,,Decatur,Macon,3,3
+N O Nelson Elem School,0.08,0.3,Edwardsville CUSD 7,Edwardsville,Madison,3,3
+Collinsville Middle School,0.13,0.6,Collinsville CUSD 10,Collinsville,Madison,3,3
+Lundahl Middle School,0.01,0.99,Crystal Lake CCSD 47,Crystal Lake,McHenry,8,3
+Dean Street Elem School,0.05,0.39,Woodstock CUSD 200,Woodstock,McHenry,5,3
+Mary Endres Elementary School,0.05,0.42,Woodstock CUSD 200,Woodstock,McHenry,8,3
+Sterling High School,0.03,0.47,Sterling CUSD 5,Sterling,Whiteside,7,3
+Challand Middle School,0.03,0.54,Sterling CUSD 5,Sterling,Whiteside,3,3
+Sterling Middle School,0.69,0.82,Peoria SD 150,Peoria,Peoria,5,3
+Von Steuben Middle School,0.54,0.75,Peoria SD 150,Peoria,Peoria,4,3
+Limestone Community High School,0.1,0.44,Limestone CHSD 310,Peoria,Peoria,3,3
+Wilder-Waite Elem School,0.07,0.15,Dunlap CUSD 323,Peoria,Peoria,6,3
+Ridgeview Elementary School,0.15,0.25,Dunlap CUSD 323,Peoria,Peoria,3,3
+Ridgewood Elem School,0.19,0.96,East Moline SD 37,East Moline,Rock Island,3,3
+Thomas Jefferson Elem School,0.23,0.67,Rock Island SD 41,Milan,Rock Island,5,3
+Whiteside Elem School,0.51,0.59,Whiteside SD 115,Belleville,Saint Clair,3,3
+High Mount Elem School,0.33,0.72,High Mount SD 116,Swansea,Saint Clair,3,3
+Franklin Elem School,0.55,0.88,Belleville SD 118,Belleville,Saint Clair,3,3
+Cahokia High School,0.91,0.84,Cahokia CUSD 187,Cahokia,Saint Clair,4,3
+Glenwood Middle School,0.06,0.2,Ball Chatham CUSD 5,Chatham,Sangamon,4,3
+Laketown Elem School,0.48,0.62,Springfield SD 186,Springfield,Sangamon,3,3
+William J Butler School,0.01,0.08,Homer CCSD 33C,Lockport,Will,3,3
+Thomas Jefferson Elem School,0.12,1.0,Joliet PSD 86,Joliet,Will,18,3
+Chaney-Monge School,0.11,0.68,Chaney-Monge SD 88,Crest Hill,Will,13,3
+Kelvin Grove Jr High School,0.01,0.27,Lockport SD 91,Lockport,Will,6,3
+Milne Grove Elem School,0.01,0.31,Lockport SD 91,Lockport,Will,4,3
+Drauden Point Middle School,0.1,0.28,Plainfield SD 202,Plainfield,Will,19,3
+Crystal Lawns Elem School,0.1,0.44,Plainfield SD 202,Joliet,Will,11,3
+Walkers Grove Elementary School,0.04,0.11,Plainfield SD 202,Plainfield,Will,10,3
+Wesmere Elementary School,0.1,0.27,Plainfield SD 202,Plainfield,Will,7,3
+Eagle Pointe Elementary School,0.06,0.12,Plainfield SD 202,Plainfield,Will,13,3
+Joliet Twp High Sch - Alternate,0.59,0.97,,Joliet,Will,4,3
+Lincoln-Way East High School,0.06,0.07,Lincoln Way CHSD 210,Frankfort,Will,10,3
+John J Lukancic Middle Sch,0.11,0.62,Valley View CUSD 365U,Romeoville,Will,17,3
+John R Tibbott Elem School,0.1,0.84,Valley View CUSD 365U,Bolingbrook,Will,22,3
+West 40 Reg Safe Sch Middle Prg,0.2,1.0,,Hillside,ROE,8,3
+Mt Vernon Alternative School,0.21,0.76,,Mount Vernon,ROE,5,3
+Regional Alop School,0.21,0.48,,Bloomington,ROE,3,3
+Il Mathematics & Science Academy,0.07,0.0,,Aurora,State Of Illinois,17,3
+Joseph Academy - Des Plaines,0.31,0.47,,Des Plaines,Cook,8,3
+Gerber School-Cunningham,0.2,0.85,,Urbana,Champaign,5,3
+Beacon Therapeutic-Main,0.84,0.93,,Chicago,Cook,3,3
+Guiding Light Education Center,NA,NA,,Woodridge,Dupage,4,3
+Lutherbrook Academy,0.5,0.8,,Addison,Dupage,10,3
+Arrowhead Academy,NA,NA,,Coal Valley,Rock Island,9,3
+Maryville Jen Unit B,NA,NA,,Des Plaines,Cook,5,3
+Quincy Jr High School,0.11,0.6,Quincy SD 172,Quincy,Adams,4,2
+Washington Elem School,0.13,0.71,Jacksonville SD 117,Jacksonville,Morgan,3,2
+Lincoln Elem School,0.28,0.89,Jacksonville SD 117,Jacksonville,Morgan,2,2
+Lincoln Elem School,0.01,0.69,Pana CUSD 8,Pana,Christian,2,2
+South Side Grade School,0.0,0.56,Effingham CUSD 40,Effingham,Effingham,4,2
+Madison Park Elem School,0.02,0.63,Litchfield CUSD 12,Litchfield,Montgomery,2,2
+Russell Elem School,0.02,0.6,Litchfield CUSD 12,Litchfield,Montgomery,2,2
+Belvidere High School,0.03,0.52,Belvidere CUSD 100,Belvidere,Boone,11,2
+Perry Elem School,0.06,0.66,Belvidere CUSD 100,Belvidere,Boone,2,2
+Eisenhower Middle School,0.12,0.32,Rockford SD 205,Rockford,Winnebago,8,2
+Roosevelt Center,0.43,0.46,,Rockford,Winnebago,9,2
+Pecatonica Elem School,0.01,0.08,Pecatonica CUSD 321,Pecatonica,Winnebago,2,2
+Plum Grove Jr High School,0.02,0.13,Palatine CCSD 15,Rolling Meadows,Cook,5,2
+Carl Sandburg Jr High School,0.02,0.49,Palatine CCSD 15,Rolling Meadows,Cook,7,2
+Jane Addams Elem School,0.02,0.75,Palatine CCSD 15,Palatine,Cook,14,2
+Kimball Hill Elem School,0.01,0.58,Palatine CCSD 15,Rolling Meadows,Cook,10,2
+Virginia Lake Elem School,0.05,0.73,Palatine CCSD 15,Palatine,Cook,36,2
+John G Conyers Learning Academy,0.03,0.08,,Rolling Meadows,Cook,4,2
+Jack London Middle School,0.02,0.59,Wheeling CCSD 21,Wheeling,Cook,11,2
+Robert Frost Elem School,0.01,0.69,Wheeling CCSD 21,Mt Prospect,Cook,16,2
+Joyce Kilmer Elem School,0.01,0.66,Wheeling CCSD 21,Buffalo Grove,Cook,8,2
+Mark Twain Elem School,0.02,0.81,Wheeling CCSD 21,Wheeling,Cook,24,2
+Euclid Elem School,0.03,0.56,River Trails SD 26,Mt Prospect,Cook,22,2
+Campanelli Elem School,0.03,0.1,Schaumburg CCSD 54,Schaumburg,Cook,7,2
+Michael Collins Elem School,0.02,0.09,Schaumburg CCSD 54,Schaumburg,Cook,10,2
+Nathan Hale Elem School,0.04,0.11,Schaumburg CCSD 54,Schaumburg,Cook,9,2
+Frederick Nerge Elem School,0.03,0.09,Schaumburg CCSD 54,Roselle,Cook,11,2
+Enders-Salk Elem School,0.06,0.37,Schaumburg CCSD 54,Schaumburg,Cook,12,2
+Brentwood Elem School,0.08,0.54,Comm Cons SD 59,Des Plaines,Cook,23,2
+Gemini Jr High School,0.04,0.56,East Maine SD 63,Niles,Cook,62,2
+Stevenson School,0.07,0.64,East Maine SD 63,Des Plaines,Cook,41,2
+Apollo Elem School,0.05,0.61,East Maine SD 63,Des Plaines,Cook,44,2
+Emerson Middle School,0.0,0.04,Park Ridge CCSD 64,Niles,Cook,44,2
+Orrington Elem School,0.12,0.2,Evanston CCSD 65,Evanston,Cook,15,2
+Dr ML King Jr Literary & Fine Arts Sch,0.32,0.41,Evanston CCSD 65,Evanston,Cook,14,2
+Devonshire Elem School,0.1,0.54,Skokie SD 68,Skokie,Cook,49,2
+John Middleton Elem School,0.07,0.32,Skokie SD 73-5,Skokie,Cook,55,2
+Rutledge Hall Elem School,0.01,0.12,Lincolnwood SD 74,Lincolnwood,Cook,47,2
+New Trier Township H S Winnetka,0.01,0.03,New Trier Twp HSD 203,Winnetka,Cook,9,2
+North Campus,0.28,0.85,,Palatine,Cook,5,2
+Wheeling High School,0.03,0.41,Township HSD 214,Wheeling,Cook,35,2
+Glenbrook South High School,0.02,0.2,Northfield Twp HSD 225,Glenview,Cook,32,2
+Julia S Molloy Education Center,0.1,0.26,,Morton Grove,Cook,16,2
+Mannheim Middle School,0.01,0.8,Mannheim SD 83,Melrose Park,Cook,71,2
+Westdale Elem School,0.01,0.78,Mannheim SD 83,Northlake,Cook,55,2
+North Elem School,0.0,0.45,Franklin Park SD 84,Franklin Park,Cook,21,2
+Whittier Elementary School,0.01,0.83,,Northlake,Cook,37,2
+Willard Elem School,0.06,0.06,River Forest SD 90,River Forest,Cook,12,2
+Piper School,0.04,0.77,Berwyn South SD 100,Berwyn,Cook,23,2
+Park Junior High School,0.07,0.19,La Grange SD 102,La Grange Park,Cook,14,2
+Congress Park Elem School,0.1,0.45,La Grange SD 102,Brookfield,Cook,29,2
+Home Elem School,0.02,0.69,Lyons SD 103,Stickney,Cook,23,2
+Lyons Twp High Sch,0.04,0.14,Lyons Twp HSD 204,La Grange,Cook,44,2
+West Leyden High School,0.02,0.58,Leyden CHSD 212,Northlake,Cook,76,2
+Elmwood Park High School,0.03,0.48,Elmwood Park CUSD 401,Elmwood Park,Cook,115,2
+Otis P Graves Elem School,0.03,0.79,Summit SD 104,Summit,Cook,25,2
+Maddock Elementary School,0.02,0.43,Burbank SD 111,Burbank,Cook,53,2
+F B Mccord Elem School,0.0,0.52,Burbank SD 111,Burbank,Cook,32,2
+Edward J Tobin Elem School,0.03,0.51,Burbank SD 111,Burbank,Cook,39,2
+Oakwood School,0.02,0.16,Lemont-Bromberek CSD 113A,Lemont,Cook,8,2
+J Covington Elem School,0.05,0.48,Oak Lawn-Hometown SD 123,Oak Lawn,Cook,46,2
+Sward Elem School,0.04,0.36,Oak Lawn-Hometown SD 123,Oak Lawn,Cook,30,2
+Navajo Heights Elem School,0.01,0.1,Palos Heights SD 128,Palos Heights,Cook,7,2
+Whittier Elementary School,0.16,0.8,Cook County SD 130,Blue Island,Cook,20,2
+Orland Park Elem School,0.04,0.21,Orland SD 135,Orland Park,Cook,9,2
+Orland Center School,0.09,0.14,Orland SD 135,Orland Park,Cook,6,2
+Jack Hille Middle School,0.06,0.36,Forest Ridge SD 142,Oak Forest,Cook,18,2
+Riley Preschool,0.61,1.0,,Harvey,Cook,5,2
+Speed Independence High School,0.75,0.54,,Chicago Heights,Cook,2,2
+Academy for Lifelong Learning (ALL),0.67,0.47,,Chicago Heights,Cook,2,2
+P R I D E School,0.23,0.66,,Oak Lawn,Cook,9,2
+River Ridge Middle School,0.05,0.42,River Ridge CUSD 210,Hanover,Jo Daviess,2,2
+Bottenfield Elem School,0.21,0.44,Champaign CUSD 4,Champaign,Champaign,4,2
+Urbana Early Childhood Ctr,0.45,0.95,,Urbana,Champaign,2,2
+Charleston Middle School,0.04,0.41,Charleston CUSD 1,Charleston,Coles,3,2
+Riddle Elementary School,0.03,0.64,Mattoon CUSD 2,Mattoon,Coles,2,2
+Dr Andy Hall Early Educ Ctr,0.24,0.98,,Mt Vernon,Jefferson,3,2
+Centralia High School,0.1,0.62,Centralia HSD 200,Centralia,Marion,4,2
+Bronzeville Lighthouse Charter School,0.99,0.93,Chicago Lighthouse Chtr Sch,Chicago,Cook,2,2
+Sycamore Middle School,0.02,0.25,Sycamore CUSD 427,Sycamore,Dekalb,3,2
+Jefferson Elem School,0.14,0.58,DeKalb CUSD 428,Dekalb,Dekalb,8,2
+Lincoln Elementary School,0.04,0.64,Pontiac CCSD 429,Pontiac,Livingston,3,2
+Chiddix Jr High School,0.08,0.23,McLean County USD 5,Normal,McLean,3,2
+Sugar Creek Elem School,0.25,0.57,McLean County USD 5,Normal,McLean,4,2
+Colene Hoose Elem School,0.08,0.24,McLean County USD 5,Normal,McLean,2,2
+Fullerton Elem School,0.01,0.71,Addison SD 4,Addison,Dupage,17,2
+Wesley Elem School,0.03,0.51,Addison SD 4,Addison,Dupage,10,2
+Glen Hill Primary,0.06,0.44,Queen Bee SD 16,Glendale Heights,Dupage,13,2
+Indian Knoll Elem School,0.04,0.51,West Chicago ESD 33,West Chicago,Dupage,5,2
+Wegner Elementary School,0.02,0.56,West Chicago ESD 33,West Chicago,Dupage,8,2
+Benjamin Franklin Elem School,0.02,0.13,Glen Ellyn SD 41,Glen Ellyn,Dupage,9,2
+Westmore Elem School,0.05,0.32,SD 45 DuPage County,Lombard,Dupage,6,2
+Westview Hills Middle School,0.09,0.35,Maercker SD 60,Willowbrook,Dupage,9,2
+Lakeview Jr High School,0.03,0.12,Center Cass SD 66,Downers Grove,Dupage,6,2
+Prairieview Elementary School,0.02,0.19,Center Cass SD 66,Downers Grove,Dupage,6,2
+Glenbard South High School,0.1,0.27,Glenbard Twp HSD 87,Glen Ellyn,Dupage,11,2
+Stratford Middle School,0.07,0.35,CCSD 93,Bloomingdale,Dupage,8,2
+Wheaton Warrenville South H S,0.06,0.24,CUSD 200,Wheaton,Dupage,10,2
+Hubble Middle School,0.05,0.33,CUSD 200,Warrenville,Dupage,11,2
+Washington Elementary School,0.08,0.36,CUSD 200,Wheaton,Dupage,7,2
+Washington Jr High School,0.03,0.17,Naperville CUSD 203,Naperville,Dupage,8,2
+Steeple Run Elem School,0.04,0.21,Naperville CUSD 203,Naperville,Dupage,5,2
+Gordon Gregory Middle School,0.05,0.08,Indian Prairie CUSD 204,Naperville,Dupage,2,2
+Scullen Middle School,0.07,0.1,Indian Prairie CUSD 204,Naperville,Dupage,4,2
+Gwendolyn Brooks Elementary,0.06,0.16,Indian Prairie CUSD 204,Aurora,Dupage,10,2
+Conrad Fischer Elem School,0.03,0.64,Elmhurst SD 205,Elmhurst,Dupage,6,2
+Harrisburg Middle School,0.05,0.6,Harrisburg CUSD 3,Harrisburg,Saline,2,2
+Center Street Elem School,0.04,0.61,Fairfield PSD 112,Fairfield,Wayne,5,2
+Metropolis Elem School,0.09,0.84,Massac UD 1,Metropolis,Massac,4,2
+Marion High School,0.1,0.33,Marion CUSD 2,Marion,Williamson,4,2
+Washington Elem School,0.06,0.48,Marion CUSD 2,Marion,Williamson,4,2
+Coal City Elem School,0.01,0.32,Coal City CUSD 1,Coal City,Grundy,4,2
+Morris Community High School,0.01,0.25,Morris CHSD 101,Morris,Grundy,6,2
+Minooka Community High School,0.04,0.01,Minooka CHSD 111,Minooka,Grundy,17,2
+Minooka Elem School,0.01,0.35,Minooka CCSD 201,Minooka,Grundy,6,2
+Bristol Grade School,0.05,0.05,Yorkville CUSD 115,Bristol,Kendall,3,2
+Bristol Bay Elem Sch,0.08,0.12,Yorkville CUSD 115,Yorkville,Kendall,5,2
+Traughber Jr High School,0.06,0.16,CUSD 308,Oswego,Kendall,9,2
+Thompson Jr High School,0.08,0.25,CUSD 308,Oswego,Kendall,12,2
+Homestead Elementary School,0.08,0.14,CUSD 308,Aurora,Kendall,5,2
+Churchill Elem School,0.07,0.14,CUSD 308,Oswego,Kendall,5,2
+Grande Park Elem Sch,0.08,0.09,CUSD 308,Plainfield,Kendall,7,2
+Bushnell-Prairie City High Sch,0.0,0.45,Bushnell Prairie City CUSD 170,Bushnell,McDonough,4,2
+Bushnell-Prairie City Elem Sch,0.01,0.61,Bushnell Prairie City CUSD 170,Bushnell,McDonough,5,2
+Central Junior High,0.1,0.75,Kewanee CUSD 229,Kewanee,Henry,3,2
+Cairo Jr/Sr High School,0.85,0.99,Cairo USD 1,Cairo,Alexander,2,2
+Cairo Elementary School,0.83,1.0,Cairo USD 1,Cairo,Alexander,2,2
+Tri-County South - Choate,0.56,0.75,,Anna,Jackson,3,2
+Tri-County Ward,0.17,0.77,,Du Quoin,Jackson,2,2
+Meridian Elementary School,0.53,0.99,Meridian CUSD 101,Mounds,Pulaski,4,2
+Hilltop Elementary School,0.06,0.49,SD U-46,Elgin,Kane,7,2
+Ridge Circle Elem School,0.05,0.67,SD U-46,Streamwood,Kane,13,2
+Otter Creek Elem School,0.06,0.59,SD U-46,Elgin,Kane,3,2
+Batavia Sr High School,0.03,0.13,Batavia USD 101,Batavia,Kane,4,2
+Herget Middle School,0.09,0.52,Aurora West USD 129,Aurora,Kane,7,2
+Schneider Elem School,0.09,0.61,Aurora West USD 129,North Aurora,Kane,10,2
+W S Beaupre Elem School,0.04,0.86,Aurora East USD 131,Aurora,Kane,5,2
+Anne Garcia Benavides Kindergarten Center,0.11,0.79,,Aurora,Kane,6,2
+Hampshire Middle School,0.02,0.22,CUSD 300,Hampshire,Kane,5,2
+Algonquin Lakes Elem Sch,0.06,0.37,CUSD 300,Algonquin,Kane,9,2
+Lake in the Hills Elem School,0.01,0.43,CUSD 300,Lake in the Hills,Kane,11,2
+Westfield Community School,0.03,0.23,CUSD 300,Algonquin,Kane,7,2
+Prairie View Grade School,0.01,0.07,Central CUSD 301,Elgin,Kane,9,2
+Harter Middle School,0.02,0.15,Kaneland CUSD 302,Sugar Grove,Kane,4,2
+St Charles North High School,0.01,0.06,St Charles CUSD 303,St Charles,Kane,3,2
+Bourbonnais Upper Grade Center,0.09,0.4,Bourbonnais SD 53,Bourbonnais,Kankakee,4,2
+Proegler School,0.57,0.55,,Kankakee,Kankakee,2,2
+St George Elem School,0.1,0.27,St George CCSD 258,Bourbonnais,Kankakee,6,2
+Silas Willard Elem School,0.1,0.6,Galesburg CUSD 205,Galesburg,Knox,5,2
+Mercer County Jr High School,0.01,0.45,Mercer County School District 404,Joy,Mercer,2,2
+Antioch Upper Grade School,0.03,0.24,Antioch CCSD 34,Antioch,Lake,14,2
+Big Hollow Primary School,0.04,0.25,Big Hollow SD 38,Ingleside,Lake,3,2
+River Trail School,0.12,0.23,Gurnee SD 56,Gurnee,Lake,4,2
+Jack Benny Middle School,0.13,0.6,Waukegan CUSD 60,Waukegan,Lake,12,2
+John S Clark Elem School,0.12,0.72,Waukegan CUSD 60,Waukegan,Lake,12,2
+Hawthorn Elem School North,0.01,0.42,Hawthorn CCSD 73,Vernon Hills,Lake,10,2
+Hawthorn Elem School South,0.02,0.18,Hawthorn CCSD 73,Vernon Hills,Lake,13,2
+Hawthorn Townline Elem Sch,0.05,0.2,Hawthorn CCSD 73,Vernon Hills,Lake,4,2
+Sarah Adams Elementary School,0.01,0.23,Lake Zurich CUSD 95,Lake Zurich,Lake,5,2
+Country Meadows Elem School,0.03,0.27,Kildeer Countryside CCSD 96,Long Grove,Lake,4,2
+Raymond Ellis Elem School,0.05,0.72,Round Lake CUSD 116,Round Lake Beach,Lake,31,2
+Robert Crown School,0.02,0.16,Wauconda CUSD 118,Wauconda,Lake,6,2
+Mundelein Cons High School,0.02,0.32,Mundelein Cons HSD 120,Mundelein,Lake,20,2
+Libertyville High School,0.01,0.05,CHSD 128,Libertyville,Lake,4,2
+Barrington Mdle Sch- Prairie Cmps,0.01,0.19,Barrington CUSD 220,Barrington,Lake,6,2
+Sunny Hill Elem School,0.03,0.9,Barrington CUSD 220,Carpentersville,Lake,6,2
+Harding Grade School,0.05,0.36,Serena CUSD 2,Earlville,La Salle,2,2
+Centennial Elem School,0.06,0.76,Streator ESD 44,Streator,La Salle,2,2
+Sherman Elem School,0.05,0.75,Streator ESD 44,Streator,La Salle,6,2
+Parkside Middle School,0.03,0.42,Peru ESD 124,Peru,La Salle,2,2
+Central Intermediate School,0.04,0.49,Ottawa ESD 141,Ottawa,La Salle,5,2
+Lincoln Elem School,0.02,0.47,Mendota CCSD 289,Mendota,La Salle,7,2
+Benjamin Franklin Elem School,0.62,0.74,Decatur SD 61,Decatur,Macon,3,2
+Alternative Education Center,0.85,0.0,,Decatur,Macon,2,2
+Summit Elementary School,0.17,0.46,Collinsville CUSD 10,Collinsville,Madison,2,2
+West Elementary School,0.29,0.61,Alton CUSD 11,Alton,Madison,2,2
+North Elem School,0.02,0.99,Crystal Lake CCSD 47,Crystal Lake,McHenry,6,2
+McHenry High School-West Campus,0.01,0.33,McHenry CHSD 156,McHenry,McHenry,7,2
+Huntley High School,0.02,0.14,Huntley Comm Sch Dist 158,Huntley,McHenry,5,2
+Woodstock High School,0.03,0.37,Woodstock CUSD 200,Woodstock,McHenry,8,2
+Creekside Middle School,0.02,0.42,Woodstock CUSD 200,Woodstock,McHenry,6,2
+Jefferson Elem School,0.04,0.59,Dixon USD 170,Dixon,Lee,6,2
+Jefferson Elem School,0.04,0.61,Sterling CUSD 5,Sterling,Whiteside,2,2
+Rock Falls Township High School,0.02,0.51,Rock Falls Twp HSD 301,Rock Falls,Whiteside,3,2
+Pleasant Valley Middle School,0.48,0.9,Pleasant Valley SD 62,Peoria,Peoria,3,2
+Pleasant Hill Elem School,0.22,0.81,Pleasant Hill SD 69,Peoria,Peoria,2,2
+Whittier Primary School,0.49,0.69,Peoria SD 150,Peoria,Peoria,2,2
+Peoria Heights Grade School,0.13,0.99,Peoria Heights CUSD 325,Peoria Heights,Peoria,4,2
+Bowlesburg Elem School,0.18,0.98,East Moline SD 37,Silvis,Rock Island,3,2
+Hillcrest Elem School,0.14,0.96,East Moline SD 37,East Moline,Rock Island,2,2
+Hamilton Elem School,0.06,0.51,Moline-Coal Valley CUSD 40,Moline,Rock Island,2,2
+George Washington Elem School,0.32,0.75,Moline-Coal Valley CUSD 40,Moline,Rock Island,2,2
+Willard Elem School,0.09,0.69,Moline-Coal Valley CUSD 40,Moline,Rock Island,2,2
+Moline High Sch at Coolidge Campus,0.15,0.82,,Moline,Rock Island,2,2
+Lebanon Elem School,0.27,0.51,Lebanon CUSD 9,Lebanon,Saint Clair,2,2
+Illini Elem School,0.39,0.55,Grant CCSD 110,Fairview Heights,Saint Clair,2,2
+Oliver Parks 6th Grade School,0.94,0.93,Cahokia CUSD 187,Cahokia,Saint Clair,2,2
+Gordon Bush Elementary,0.99,0.9,East St Louis SD 189,East Saint Louis,Saint Clair,4,2
+James Avant Elementary School,0.9,0.88,East St Louis SD 189,Washington Pk,Saint Clair,2,2
+Early Learning Center,0.37,0.66,,Springfield,Sangamon,2,2
+Pine Crest Elementary School,0.02,0.64,Georgetown-Ridge Farm CUD 4,Georgetown,Vermilion,3,2
+Troy Hofer Elem Sch,0.11,0.28,Troy CCSD 30C,Shorewood,Will,12,2
+Oak Valley Elem School,0.39,0.82,Laraway CCSD 70C,Joliet,Will,2,2
+Thompson Instructional Center,0.57,0.96,,Joliet,Will,4,2
+Hickory Creek Middle School,0.06,0.03,Frankfort CCSD 157C,Frankfort,Will,5,2
+Chelsea Elem School,0.06,0.04,Frankfort CCSD 157C,Frankfort,Will,11,2
+Walker Intermediate School,0.06,0.14,Summit Hill SD 161,Tinley Park,Will,9,2
+Richard Ira Jones Middle School,0.07,0.17,Plainfield SD 202,Plainfield,Will,8,2
+Grand Prairie Elem School,0.08,0.37,Plainfield SD 202,Joliet,Will,11,2
+River View Elementary School,0.07,0.27,Plainfield SD 202,Plainfield,Will,17,2
+Meadow View Elementary School,0.09,0.37,Plainfield SD 202,Plainfield,Will,14,2
+Lincoln Elementary,0.06,0.15,Plainfield SD 202,Plainfield,Will,13,2
+Freedom Elem School,0.06,0.14,Plainfield SD 202,Plainfield,Will,14,2
+Plainfield Academy,0.2,0.42,,Plainfield,Will,3,2
+Elwood C C School,0.04,0.26,Elwood CCSD 203,Elwood,Will,5,2
+Lincoln-Way Central High School,0.01,0.11,Lincoln Way CHSD 210,New Lenox,Will,7,2
+Harbor Academy Reg Safe Sch Prg,0.0,0.44,,Hillside,ROE,4,2
+Morton Alternative Schools,0.16,0.94,,Cicero,ROE,7,2
+SUCCESS Academy,0.18,0.59,,Aurora,ROE,2,2
+I Kan Regional Alternatve Att Ctr,0.52,0.79,,Kankakee,ROE,3,2
+ROE Alternative Prog of Lake Co,0.43,0.64,,Zion,ROE,5,2
+Greeley Alternative School,0.87,0.79,,Peoria,ROE,2,2
+Learning House,0.15,0.48,,Wheeling,Cook,4,2
+Innovations Academy,0.18,0.29,,Streamwood,Cook,6,2
+AAA Academy,NA,NA,,Blue Island,Cook,3,2
+Cunningham-Circle Academy,0.38,0.57,,Urbana,Champaign,3,2
+Circle Academy-Vermilion,0.26,0.74,,Rossville,Champaign,3,2
+Easter Seals Therapeutic-South,0.39,0.63,,Tinley Park,Cook,2,2
+Hammitt School-Day,0.14,0.59,,Normal,McLean,2,2
+Abraxas Meridian North,NA,NA,,Woodridge,Dupage,2,2
+School of Exp Arts & Learn - South,0.22,0.5,,Romeoville,Dupage,4,2
+U-46 More at Four Preschool,0.21,1.0,,Elgin,Kane,2,2
+Allendale-Stepping Stone-LINC,0.31,0.6,,Woodstock,Lake,2,2
+Allendale-Stepping Stone-Day,0.52,0.82,,Lake Villa,Lake,5,2
+Skip-a-Long Rock Island Campus,0.61,0.96,,Rock Island,,2,2
+Hope Learning Academy,0.07,0.53,,Springfield,Sangamon,3,2
+Ombudsman Programs,NA,NA,,Libertyville,Lake,6,2
+Kenneth D Bailey Academy,NA,NA,,Danville,Vermilion,2,2
+Maryville Jen Unit B - Invest,NA,NA,,Des Plaines,Cook,6,2
+CARE,NA,NA,,Lake Villa,Cook,2,2
+Monroe Elementary School,0.04,0.41,,Quincy,Adams,1,1
+Washington Elementary School,0.29,0.93,Quincy SD 172,Quincy,Adams,3,1
+Early Childhood,0.16,0.89,,Quincy,Adams,2,1
+Gard Elementary School,0.11,0.82,Beardstown CUSD 15,Beardstown,Cass,3,1
+North Elem School,0.01,0.66,Taylorville CUSD 3,Taylorville,Christian,2,1
+Pana Sr High School,0.0,0.48,Pana CUSD 8,Pana,Christian,2,1
+Pana Jr High School,0.0,0.65,Pana CUSD 8,Pana,Christian,1,1
+Washington Elem School,0.01,0.72,Pana CUSD 8,Pana,Christian,3,1
+Effingham Junior High School,0.0,0.45,Effingham CUSD 40,Effingham,Effingham,1,1
+Central Grade School,0.01,0.5,Effingham CUSD 40,Effingham,Effingham,1,1
+Belvidere Central Middle School,0.04,0.41,Belvidere CUSD 100,Belvidere,Boone,9,1
+Caledonia Elem School,0.03,0.42,Belvidere CUSD 100,Caledonia,Boone,4,1
+Meehan Elementary School,0.05,0.59,Belvidere CUSD 100,Belvidere,Boone,2,1
+Seth Whitman Elem Sch,0.03,0.42,Belvidere CUSD 100,Belvidere,Boone,4,1
+North Boone High School,0.02,0.49,North Boone CUSD 200,Poplar Grove,Boone,2,1
+Poplar Grove Elem School,0.01,0.22,North Boone CUSD 200,Poplar Grove,Boone,2,1
+Harlem Middle School,0.05,0.57,Harlem UD 122,Loves Park,Winnebago,8,1
+Loves Park Elem School,0.07,0.77,Harlem UD 122,Loves Park,Winnebago,3,1
+Marquette Elem School,0.05,0.64,Harlem UD 122,Machesney Park,Winnebago,2,1
+Machesney Elem School,0.04,0.57,Harlem UD 122,Machesney Park,Winnebago,3,1
+Rockton Elem School,0.01,0.28,Rockton SD 140,Rockton,Winnebago,1,1
+Whitman Post Elem School,0.03,0.34,Rockton SD 140,Rockton,Winnebago,2,1
+White Swan Elem School,0.13,0.4,Rockford SD 205,Rockford,Winnebago,1,1
+Dennis Early Childhood Center,0.54,0.85,,Rockford,Winnebago,1,1
+Fairview Center,0.23,0.39,,Rockford,Winnebago,3,1
+Hononegah High School,0.02,0.2,Hononegah CHD 207,Rockton,Winnebago,2,1
+South Beloit Sr High School,0.04,0.67,County of Winnebago SD 320,South Beloit,Winnebago,1,1
+Blackhawk Elementary School,0.02,0.76,County of Winnebago SD 320,South Beloit,Winnebago,1,1
+Stuart R Paddock School,0.02,0.42,Palatine CCSD 15,Palatine,Cook,16,1
+Winston Campus Elementary,0.02,0.45,Palatine CCSD 15,Palatine,Cook,7,1
+Cooper Middle School,0.01,0.35,Wheeling CCSD 21,Buffalo Grove,Cook,16,1
+Eugene Field Elem School,0.02,0.85,Wheeling CCSD 21,Wheeling,Cook,15,1
+J W Riley Elem School,0.01,0.23,Wheeling CCSD 21,Arlington Heights,Cook,3,1
+Booth Tarkington Elem School,0.02,0.53,Wheeling CCSD 21,Wheeling,Cook,7,1
+Nathaniel Hawthorne Early Childhood Sch,0.03,0.58,,Wheeling,Cook,1,1
+Dwight D Eisenhower Elem School,0.01,0.35,Prospect Heights SD 23,Prospect Heights,Cook,5,1
+Anne Sullivan Elem School,0.02,0.34,Prospect Heights SD 23,Prospect Heights,Cook,13,1
+Dryden Elem School,0.0,0.0,Arlington Heights SD 25,Arlington Heights,Cook,6,1
+Westgate Elem School,0.03,0.02,Arlington Heights SD 25,Arlington Heights,Cook,11,1
+Henry Winkelman Elem School,0.02,0.22,West Northfield SD 31,Glenview,Cook,20,1
+Glen Grove Elem School,0.03,0.32,Glenview CCSD 34,Glenview,Cook,13,1
+Henking Elem School,0.02,0.27,Glenview CCSD 34,Glenview,Cook,24,1
+Lyon Elem School,0.01,0.14,Glenview CCSD 34,Glenview,Cook,19,1
+Marie Murphy School,0.02,0.08,Avoca SD 37,Wilmette,Cook,7,1
+Avoca West Elem School,0.0,0.08,Avoca SD 37,Glenview,Cook,19,1
+Margaret Mead JHS,0.05,0.15,Schaumburg CCSD 54,Elk Grove Village,Cook,9,1
+Helen Keller JHS,0.04,0.26,Schaumburg CCSD 54,Schaumburg,Cook,12,1
+Adolph Link Elem School,0.04,0.13,Schaumburg CCSD 54,Elk Grove Village,Cook,13,1
+Elizabeth Blackwell Elem School,0.07,0.26,Schaumburg CCSD 54,Schaumburg,Cook,5,1
+Clearmont Elem School,0.01,0.43,Comm Cons SD 59,Elk Grove Village,Cook,22,1
+Devonshire School,0.03,0.56,Comm Cons SD 59,Des Plaines,Cook,31,1
+Algonquin Middle School,0.02,0.59,CCSD 62,Des Plaines,Cook,28,1
+V H Nelson Elem School,0.02,0.58,East Maine SD 63,Niles,Cook,64,1
+Franklin Elementary School,0.01,0.06,Park Ridge CCSD 64,Park Ridge,Cook,33,1
+Willard Elem School,0.07,0.22,Evanston CCSD 65,Evanston,Cook,20,1
+Park School,0.42,0.64,,Evanston,Cook,6,1
+Highland Elementary School,0.07,0.48,Skokie SD 68,Skokie,Cook,49,1
+Lincoln Jr High School,0.12,0.55,Skokie SD 69,Skokie,Cook,59,1
+Elizabeth Meyer School,0.06,0.18,Skokie SD 73-5,Skokie,Cook,10,1
+Todd Hall Elem School,0.02,0.11,Lincolnwood SD 74,Lincolnwood,Cook,31,1
+John Hersey High School,0.02,0.12,Township HSD 214,Arlington Heights,Cook,9,1
+Glenbrook North High School,0.01,0.06,Northfield Twp HSD 225,Northbrook,Cook,11,1
+Kirk School,0.08,0.19,,Palatine,Cook,7,1
+Miner School,0.05,0.18,,Arlington Heights,Cook,2,1
+Niles Twp District for Spec Educ,0.0,0.0,,Morton Grove,Cook,2,1
+Rosemont Elem School,0.01,0.33,Rosemont ESD 78,Rosemont,Cook,9,1
+John F Kennedy Elem School,0.01,0.54,Schiller Park SD 81,Schiller Park,Cook,57,1
+Washington Elem School,0.02,0.65,Schiller Park SD 81,Schiller Park,Cook,33,1
+Hester Jr High School,0.0,0.71,Franklin Park SD 84,Franklin Park,Cook,31,1
+Passow Elementary School,0.01,0.59,Franklin Park SD 84,Franklin Park,Cook,29,1
+Northlake Middle School,0.01,0.89,Berkeley SD 87,Northlake,Cook,34,1
+Roosevelt School,0.07,0.06,River Forest SD 90,River Forest,Cook,16,1
+S E Gross  Middle School,0.03,0.16,Brookfield Lagrange Park SD 95,Brookfield,Cook,15,1
+Central Elem School,0.03,0.23,Riverside SD 96,Riverside,Cook,23,1
+Columbus West Elementary School,0.01,0.88,Cicero SD 99,Cicero,Cook,67,1
+Emerson Elem School,0.04,0.69,Berwyn South SD 100,Berwyn,Cook,34,1
+Pershing Elem School,0.02,0.67,Berwyn South SD 100,Berwyn,Cook,53,1
+Edison Elem School,0.02,0.73,Lyons SD 103,Stickney,Cook,36,1
+Wm F Gurrie Middle School,0.02,0.41,La Grange SD 105 South,La Grange,Cook,15,1
+Ideal Elem School,0.05,0.67,La Grange SD 105 South,Countryside,Cook,21,1
+East Leyden High School,0.01,0.53,Leyden CHSD 212,Franklin Park,Cook,105,1
+Elm Middle School,0.03,0.49,Elmwood Park CUSD 401,Elmwood Park,Cook,69,1
+PAEC Education Center  EC,0.15,0.59,,Maywood,Cook,3,1
+W W Walker Elem School,0.11,0.82,Summit SD 104,Bedford Park,Cook,27,1
+Harry E Fry School,0.03,0.63,Burbank SD 111,Burbank,Cook,53,1
+Dorn Primary Center,0.03,0.67,North Palos SD 117,Hickory Hills,Cook,18,1
+Columbus Manor Elem School,0.03,0.65,Ridgeland SD 122,Oak Lawn,Cook,23,1
+Harnew Elem School,0.02,0.67,Ridgeland SD 122,Oak Lawn,Cook,37,1
+George W Lieb Elem School,0.02,0.68,Ridgeland SD 122,Bridgeview,Cook,29,1
+Southwest Elem School,0.08,0.19,Evergreen Park ESD 124,Evergreen Park,Cook,13,1
+Jerling Junior High School,0.02,0.17,Orland SD 135,Orland Park,Cook,12,1
+Century Junior High School,0.07,0.14,Orland SD 135,Orland Park,Cook,6,1
+Prairie Elem School,0.02,0.18,Orland SD 135,Orland Park,Cook,7,1
+Centennial School,0.02,0.13,Orland SD 135,Orland Park,Cook,5,1
+Meadow Ridge School,0.08,0.17,Orland SD 135,Orland Park,Cook,10,1
+Prairie View Middle School,0.02,0.11,Kirby SD 140,Tinley Park,Cook,8,1
+John A Bannes Elem School,0.02,0.13,Kirby SD 140,Tinley Park,Cook,5,1
+Ridge Early Childhood Center,0.09,0.41,Forest Ridge SD 142,Oak Forest,Cook,9,1
+Project Challenge,0.54,0.54,,Oak Forest,Cook,1,1
+Kimberly Heights Elem School,0.1,0.33,Arbor Park SD 145,Tinley Park,Cook,4,1
+Able Program,0.82,0.79,,Dolton,Cook,4,1
+Algonquin Primary Center,0.88,0.93,,Park Forest,Cook,1,1
+Highland School,0.23,0.99,,Chicago Heights,Cook,4,1
+Lemont Twp High School,0.01,0.13,Lemont Twp HSD 210,Lemont,Cook,9,1
+Speed SEJA #802,0.33,0.89,,Chicago Heights,Cook,1,1
+Southland College Prep Charter High School,0.94,0.56,Southland College Prep Chtr HS,Richton Park,Cook,3,1
+East Dubuque Jr High,0.01,0.28,East Dubuque USD 119,East Dubuque,Jo Daviess,1,1
+Galena Middle School,0.01,0.36,Galena USD 120,Galena,Jo Daviess,4,1
+Northwest Academy,0.05,0.76,,Elizabeth,Jo Daviess,1,1
+Mahomet-Seymour High School,0.01,0.18,Mahomet-Seymour CUSD 3,Mahomet,Champaign,1,1
+Mahomet-Seymour Jr High School,0.01,0.22,Mahomet-Seymour CUSD 3,Mahomet,Champaign,1,1
+Lincoln Trail Elem School,0.02,0.18,Mahomet-Seymour CUSD 3,Mahomet,Champaign,1,1
+Jefferson Middle School,0.35,0.58,Champaign CUSD 4,Champaign,Champaign,3,1
+Leal Elem School,0.09,0.57,Urbana SD 116,Urbana,Champaign,4,1
+Thomasboro Grade School,0.03,0.69,Thomasboro CCSD 130,Thomasboro,Champaign,2,1
+Marshall Jr High School,0.01,0.37,Marshall CUSD 2C,Marshall,Clark,1,1
+North Elem School,0.01,0.43,Marshall CUSD 2C,Marshall,Clark,1,1
+South Elem School,0.0,0.44,Marshall CUSD 2C,Marshall,Clark,1,1
+Sullivan Middle School,0.0,0.46,Sullivan CUSD 300,Sullivan,Moultrie,2,1
+Sullivan Elem School,0.01,0.51,Sullivan CUSD 300,Sullivan,Moultrie,3,1
+Central A & M High School,0.03,0.41,Central A & M CUD 21,Moweaqua,Shelby,1,1
+Robinson High School,0.01,0.39,Robinson CUSD 2,Robinson,Crawford,2,1
+Summersville Grade School,0.01,0.52,Summersville SD 79,Mount Vernon,Jefferson,1,1
+Oakland Education Center,0.4,0.93,,Mount Vernon,Jefferson,1,1
+Central City Elem School,0.02,0.93,Central City SD 133,Centralia,Marion,1,1
+Lincoln Elem School,0.19,0.98,Centralia SD 135,Centralia,Marion,2,1
+Indian Creek Elementary School,0.02,0.35,Indian Creek CUSD 425,Shabbona,Dekalb,5,1
+Hiawatha Elem Sch PreK-8,0.01,0.43,Hiawatha CUSD 426,Kirkland,Dekalb,3,1
+West Elem School,0.04,0.49,Sycamore CUSD 427,Sycamore,Dekalb,3,1
+DeKalb Early Learning and Development Center,0.18,0.65,,Dekalb,Dekalb,1,1
+Lincoln Elem School,0.01,0.48,Clinton CUSD 15,Clinton,Dewitt,3,1
+Prairie Central High School,0.01,0.35,Prairie Central CUSD 8,Fairbury,Livingston,2,1
+Prairie Central Jr High School,0.01,0.4,Prairie Central CUSD 8,Forrest,Livingston,1,1
+Prairie Central Primary East,0.0,0.57,Prairie Central CUSD 8,Chatsworth,Livingston,2,1
+Pontiac High School,0.03,0.39,Pontiac Twp HSD 90,Pontiac,Livingston,1,1
+Northwest Elem School,0.04,0.64,Lincoln ESD 27,Lincoln,Logan,2,1
+Evans Junior High School,0.08,0.3,McLean County USD 5,Bloomington,McLean,2,1
+Benjamin Elem School,0.05,0.08,McLean County USD 5,Bloomington,McLean,2,1
+Oakland Elementary School,0.11,0.36,Bloomington SD 87,Bloomington,McLean,3,1
+W A Johnson Sch,0.02,0.67,Bensenville SD 2,Bensenville,Dupage,28,1
+Lincoln Elem School,0.02,0.87,Addison SD 4,Addison,Dupage,11,1
+Ardmore Elem School,0.01,0.68,Addison SD 4,Addison,Dupage,8,1
+Oakbrook Elem School,0.03,0.53,Wood Dale SD 7,Wood Dale,Dupage,12,1
+Medinah Primary School,0.06,0.22,Medinah SD 11,Medinah,Dupage,4,1
+Evergreen Elementary School,0.01,0.07,Benjamin SD 25,Carol Stream,Dupage,3,1
+Hadley Junior High School,0.04,0.22,Glen Ellyn SD 41,Glen Ellyn,Dupage,7,1
+Wm Hammerschmidt Elem School,0.01,0.17,Lombard SD 44,Lombard,Dupage,7,1
+Manor Hill Elem School,0.08,0.38,Lombard SD 44,Lombard,Dupage,17,1
+Pleasant Lane Elem School,0.01,0.23,Lombard SD 44,Lombard,Dupage,3,1
+Salt Creek Elem School,0.11,0.38,Salt Creek SD 48,Elmhurst,Dupage,6,1
+Stella May Swartz Elem School,0.08,0.4,Salt Creek SD 48,Oakbrook Terrace,Dupage,9,1
+Highland Elem School,0.01,0.09,Downers Grove GSD 58,Downers Grove,Dupage,9,1
+Henry Puffer School,0.04,0.15,Downers Grove GSD 58,Downers Grove,Dupage,3,1
+Gower Middle School,0.04,0.16,Gower SD 62,Burr Ridge,Dupage,13,1
+Concord Elem School,0.05,0.14,Cass SD 63,Darien,Dupage,10,1
+Elizabeth Ide Elem School,0.04,0.16,Center Cass SD 66,Darien,Dupage,7,1
+William F Murphy Elem School,0.1,0.5,Woodridge SD 68,Woodridge,Dupage,5,1
+Arbor View Elem School,0.06,0.16,CCSD 89,Glen Ellyn,Dupage,2,1
+Park View Elem School,0.06,0.21,CCSD 89,Glen Ellyn,Dupage,8,1
+Roy De Shane Elementary School,0.07,0.48,CCSD 93,Carol Stream,Dupage,3,1
+Elsie C Johnson Elem Sch,0.06,0.49,CCSD 93,Hanover Park,Dupage,4,1
+Fenton High School,0.03,0.54,Fenton CHSD 100,Bensenville,Dupage,41,1
+Hinsdale Middle School,0.02,0.07,Hinsdale CCSD 181,Hinsdale,Dupage,7,1
+The Lane Elem School,0.0,0.03,Hinsdale CCSD 181,Hinsdale,Dupage,5,1
+Walker School,0.0,0.01,Hinsdale CCSD 181,Clarendon Hills,Dupage,7,1
+Edison Middle School,0.04,0.18,CUSD 200,Wheaton,Dupage,5,1
+Franklin Middle School,0.04,0.27,CUSD 200,Wheaton,Dupage,9,1
+Emerson Elem School,0.07,0.23,CUSD 200,Wheaton,Dupage,5,1
+Carl Sandburg Elem School,0.09,0.33,CUSD 200,Wheaton,Dupage,6,1
+Wiesbrook Elem School,0.03,0.09,CUSD 200,Wheaton,Dupage,6,1
+Westmont Jr High School,0.07,0.35,CUSD 201,Westmont,Dupage,3,1
+Lisle Jr High School,0.08,0.28,Lisle CUSD 202,Lisle,Dupage,4,1
+Schiesher Elem School,0.08,0.33,Lisle CUSD 202,Lisle,Dupage,7,1
+Kennedy Junior High School,0.01,0.08,Naperville CUSD 203,Lisle,Dupage,2,1
+Maplebrook Elem School,0.04,0.15,Naperville CUSD 203,Naperville,Dupage,5,1
+May Watts Elementary School,0.04,0.04,Indian Prairie CUSD 204,Naperville,Dupage,13,1
+White Eagle Elementary,0.07,0.12,Indian Prairie CUSD 204,Naperville,Dupage,8,1
+V Blanche Graham Elementary,0.11,0.09,Indian Prairie CUSD 204,Naperville,Dupage,3,1
+Peter M Gombert Elementary Sch,0.13,0.35,Indian Prairie CUSD 204,Aurora,Dupage,12,1
+Arlene Welch Elementary School,0.08,0.16,Indian Prairie CUSD 204,Naperville,Dupage,9,1
+Churchville Middle School,0.02,0.36,Elmhurst SD 205,Elmhurst,Dupage,5,1
+Field Elem School,0.01,0.09,Elmhurst SD 205,Elmhurst,Dupage,10,1
+Jefferson Elem School,0.01,0.06,Elmhurst SD 205,Elmhurst,Dupage,5,1
+Early Childhood,0.02,0.27,,Elmhurst,Dupage,5,1
+Albion Grade School,0.0,0.36,Edwards County CUSD 1,Albion,Edwards,1,1
+Pope County Elementary School,0.01,0.59,Pope Co CUD 1,Golconda,Pope,5,1
+East Side Intermediate School,0.04,0.66,Harrisburg CUSD 3,Harrisburg,Saline,1,1
+Mount Erie Elem School,0.0,0.44,North Wayne CUSD 200,Mount Erie,Wayne,1,1
+Fairfield Comm High School,0.01,0.42,Fairfield Comm H S Dist 225,Fairfield,Wayne,1,1
+Carmi-White County High School,0.01,0.51,Carmi-White County CUSD 5,Carmi,White,2,1
+Frankfort Community High School,0.0,0.48,Frankfort CUSD 168,West Frankfort,Franklin,2,1
+Zeigler-Royalton High School,0.0,0.59,Zeigler-Royalton CUSD 188,Zeigler,Franklin,1,1
+Vienna Elem School Dist 55,0.0,0.57,Vienna SD 55,Vienna,Johnson,1,1
+Massac County High School,0.06,0.54,Massac UD 1,Metropolis,Massac,1,1
+Jefferson Elem School,0.14,0.53,Marion CUSD 2,Marion,Williamson,1,1
+Lincoln Elem School,0.09,0.54,Marion CUSD 2,Marion,Williamson,3,1
+North Side Primary Center,0.05,0.64,Herrin CUSD 4,Herrin,Williamson,2,1
+Mazon-Verona-Kinsman Middle Sch,0.01,0.34,Mazon-Verona-Kinsman ESD 2C,Mazon,Grundy,1,1
+Shabbona Middle School,0.02,0.52,Morris SD 54,Morris,Grundy,2,1
+Minooka Intermediate School,0.05,0.25,Minooka CCSD 201,Minooka,Grundy,12,1
+Jones Elementary School,0.08,0.3,Minooka CCSD 201,Joliet,Grundy,4,1
+Autumn Creek Elem Sch,0.08,0.24,Yorkville CUSD 115,Yorkville,Kendall,7,1
+Bednarcik Junior High School,0.11,0.14,CUSD 308,Aurora,Kendall,7,1
+East View Elem School,0.11,0.23,CUSD 308,Oswego,Kendall,1,1
+Long Beach Elem School,0.09,0.37,CUSD 308,Montgomery,Kendall,4,1
+Fox Chase Elementary School,0.12,0.25,CUSD 308,Oswego,Kendall,6,1
+Lakewood Creek Elementary,0.07,0.21,CUSD 308,Montgomery,Kendall,7,1
+Canton High School,0.01,0.43,Canton Union SD 66,Canton,Fulton,1,1
+Ladd Comm Cons Sch,0.0,0.41,Ladd CCSD 94,Ladd,Bureau,3,1
+John F Kennedy Elem School,0.01,0.7,Spring Valley CCSD 99,Spring Valley,Bureau,3,1
+Gen John A Logan Attendance Cntr,0.17,0.98,Murphysboro CUSD 186,Murphysboro,Jackson,1,1
+Duquoin  Elementary School,0.04,0.55,Duquoin CUSD 300,Du Quoin,Perry,1,1
+Century Jr/Sr High School,0.19,0.6,Century CUSD 100,Ullin,Pulaski,1,1
+Century Elementary School,0.11,0.7,Century CUSD 100,Ullin,Pulaski,1,1
+Abbott Middle School,0.11,0.81,SD U-46,Elgin,Kane,9,1
+Larsen Middle School,0.05,0.75,SD U-46,Elgin,Kane,11,1
+Illinois Park Elem School,0.07,0.7,,Elgin,Kane,3,1
+Lowrie Elem School,0.07,0.86,SD U-46,Elgin,Kane,5,1
+Prairieview Elementary School,0.02,0.18,SD U-46,Bartlett,Kane,5,1
+Sycamore Trails Elementary School,0.02,0.21,SD U-46,Bartlett,Kane,5,1
+Nature Ridge Elem School,0.02,0.41,SD U-46,Bartlett,Kane,7,1
+Hawk Hollow Elem School,0.05,0.29,SD U-46,Bartlett,Kane,2,1
+J B Nelson Elem School,0.07,0.17,Batavia USD 101,Batavia,Kane,2,1
+Fearn Elementary School,0.08,0.26,Aurora West USD 129,North Aurora,Kane,7,1
+Todd  Early Childhood Center,0.14,0.45,,Aurora,Kane,1,1
+L D Brady Elem School,0.02,0.84,Aurora East USD 131,Aurora,Kane,9,1
+Oak Park Elem School,0.01,0.77,Aurora East USD 131,Aurora,Kane,8,1
+Child Service Center Preschool,0.16,0.74,,Aurora,Kane,1,1
+Hampshire High School,0.02,0.24,CUSD 300,Hampshire,Kane,5,1
+Harry D Jacobs High School,0.03,0.25,CUSD 300,Algonquin,Kane,12,1
+Algonquin Middle School,0.04,0.36,CUSD 300,Algonquin,Kane,4,1
+Dundee Middle School,0.04,0.28,CUSD 300,Dundee,Kane,9,1
+Liberty Elementary School,0.04,0.32,CUSD 300,Carpentersville,Kane,10,1
+Lincoln Prairie Elem School,0.03,0.28,CUSD 300,Lake In The Hills,Kane,5,1
+Eastview Elem School,0.02,0.47,CUSD 300,Algonquin,Kane,8,1
+Golfview Elem School,0.02,0.91,CUSD 300,Carpentersville,Kane,16,1
+Gilberts Elem Sch,0.03,0.18,CUSD 300,Gilberts,Kane,4,1
+Delacey Family Educ Ctr,0.04,0.62,,Carpentersville,Kane,3,1
+Oak Ridge School,0.11,0.68,,Carpentersville,Kane,1,1
+Howard B Thomas Grade School,0.01,0.15,Central CUSD 301,Burlington,Kane,3,1
+Kaneland John Stewart Elem Sch,0.0,0.24,Kaneland CUSD 302,Elburn,Kane,3,1
+Kaneland Blackberry Creek Elem,0.01,0.1,Kaneland CUSD 302,Elburn,Kane,1,1
+Kaneland McDole Elem School,0.04,0.16,Kaneland CUSD 302,Montgomery,Kane,3,1
+St Charles East High School,0.02,0.19,St Charles CUSD 303,St Charles,Kane,10,1
+Thompson Middle School,0.01,0.23,St Charles CUSD 303,St Charles,Kane,9,1
+Anderson Elem School,0.03,0.38,St Charles CUSD 303,St Charles,Kane,2,1
+Davis Primary School,0.01,0.42,St Charles CUSD 303,St Charles,Kane,6,1
+Lincoln Elem School,0.0,0.14,St Charles CUSD 303,St Charles,Kane,1,1
+Donovan Jr High School,0.06,0.44,Donovan CUSD 3,Donovan,Iroquois,2,1
+Central High School,0.01,0.36,Central CUSD 4,Clifton,Iroquois,1,1
+Iroquois West High School,0.0,0.51,Iroquois West CUSD 10,Gilman,Iroquois,3,1
+Momence High School,0.19,0.61,Momence CUSD 1,Momence,Kankakee,5,1
+Je-Neir Elem School,0.18,0.65,Momence CUSD 1,Momence,Kankakee,2,1
+Limestone Middle Sch,0.01,0.18,Herscher CUSD 2,Kankakee,Kankakee,2,1
+Manteno Middle School,0.02,0.38,Manteno CUSD 5,Manteno,Kankakee,5,1
+Manteno Elem School,0.02,0.36,Manteno CUSD 5,Manteno,Kankakee,5,1
+Bradley Central Middle School,0.09,0.6,Bradley SD 61,Bradley,Kankakee,5,1
+Bradley East Elem School,0.09,0.51,Bradley SD 61,Bradley,Kankakee,3,1
+Lincoln Cltrl Ctr-Montessori Elem,0.41,0.41,Kankakee SD 111,Kankakee,Kankakee,1,1
+St Anne Elem School,0.02,0.58,St Anne CCSD 256,Saint Anne,Kankakee,2,1
+Abingdon-Avon Middle Sch,0.01,0.49,Abingdon-Avon CUSD 276,Avon,Knox,1,1
+Mercer County Intermediate School,0.02,0.47,Mercer County School District 404,Aledo,Mercer,1,1
+Lincoln Early Childhood School,0.08,0.84,Monmouth-Roseville CUSD 238,Monmouth,Warren,2,1
+W C Petty Elementary School,0.04,0.3,Antioch CCSD 34,Antioch,Lake,8,1
+Big Hollow Middle School,0.05,0.3,Big Hollow SD 38,Ingleside,Lake,6,1
+Olive C Martin School,0.03,0.4,Lake Villa CCSD 41,Lake Villa,Lake,13,1
+B J Hooper Elem School,0.02,0.31,Lake Villa CCSD 41,Lindenhurst,Lake,3,1
+Woodland Intermediate Sch,0.07,0.37,Woodland CCSD 50,Gurnee,Lake,13,1
+Viking School,0.18,0.28,Gurnee SD 56,Gurnee,Lake,11,1
+Andrew Cooke Magnet Elem School,0.19,0.55,Waukegan CUSD 60,Waukegan,Lake,7,1
+Hyde Park Elem School,0.06,0.82,Waukegan CUSD 60,Waukegan,Lake,9,1
+Washington Elem School,0.1,0.76,Waukegan CUSD 60,Waukegan,Lake,7,1
+Hawthorn Middle School South,0.02,0.24,Hawthorn CCSD 73,Vernon Hills,Lake,5,1
+Hawthorn Middle School North,0.01,0.3,Hawthorn CCSD 73,Vernon Hills,Lake,7,1
+Diamond Lake Elem School,0.02,0.67,Diamond Lake SD 76,Mundelein,Lake,7,1
+Lake Zurich Middle - S Campus,0.01,0.11,Lake Zurich CUSD 95,Lake Zurich,Lake,4,1
+May Whitney Elem School,0.02,0.2,Lake Zurich CUSD 95,Lake Zurich,Lake,3,1
+Edgewood Middle School,0.02,0.08,North Shore SD 112,Highland Park,Lake,7,1
+Lotus School,0.03,0.58,Fox Lake GSD 114,Spring Grove,Lake,12,1
+Lake Forest High School,0.01,0.03,Lake Forest CHSD 115,Lake Forest,Lake,2,1
+Round Lake Middle School,0.06,0.6,Round Lake CUSD 116,Round Lake Heights,Lake,27,1
+Magee Middle School,0.08,0.7,Round Lake CUSD 116,Round Lake,Lake,17,1
+Round Lake Beach Elem School,0.03,0.73,Round Lake CUSD 116,Round Lake Beach,Lake,11,1
+Village Elementary School,0.06,0.68,Round Lake CUSD 116,Round Lake,Lake,11,1
+Antioch Comm High School,0.02,0.21,CHSD 117,Antioch,Lake,14,1
+Wauconda High School,0.02,0.25,Wauconda CUSD 118,Wauconda,Lake,4,1
+Wauconda Middle School,0.01,0.33,Wauconda CUSD 118,Wauconda,Lake,5,1
+Cotton Creek School,0.02,0.24,Wauconda CUSD 118,Island Lake,Lake,3,1
+Adlai E Stevenson High School,0.02,0.05,Adlai E Stevenson HSD 125,Lincolnshire,Lake,14,1
+Grayslake Central High School,0.04,0.11,Grayslake CHSD 127,Grayslake,Lake,3,1
+Grayslake North High School,0.03,0.11,Grayslake CHSD 127,Grayslake,Lake,5,1
+LEARN Charter Sch 6 North Chicago Campus,0.34,0.6,North Chicago SD 187,Great Lakes,Lake,2,1
+LEARN 10 Charter School,0.32,0.56,North Chicago SD 187,Great Lakes,Lake,4,1
+Green Bay Early Childhood Center,0.42,0.99,,North Chicago,Lake,2,1
+Countryside Elem School,0.02,0.09,Barrington CUSD 220,Barrington,Lake,7,1
+Hough Street Elem School,0.02,0.08,Barrington CUSD 220,Barrington,Lake,5,1
+Roslyn Road Elem School,0.01,0.16,Barrington CUSD 220,Barrington,Lake,4,1
+Arnett C Lines Elem School,0.02,0.15,Barrington CUSD 220,Barrington,Lake,7,1
+North Shore Academy,0.11,0.2,,Highland Park,Lake,1,1
+Laremont School,0.08,0.43,,Gages Lake,Lake,1,1
+Gages Lake School,0.3,0.66,,Gages Lake,Lake,2,1
+LEARN Charter 9 Campus in Waukegan,0.2,0.36,LEARN 9 Chtr  Campus in Waukegan,Waukegan,Lake,4,1
+Serena High School,0.03,0.33,Serena CUSD 2,Serena,La Salle,2,1
+Earlville Elem School,0.0,0.6,Earlville CUSD 9,Earlville,La Salle,1,1
+Grand Ridge School,0.0,0.37,Grand Ridge CCSD 95,Grand Ridge,La Salle,1,1
+Northview Elem School,0.01,0.48,Peru ESD 124,Peru,La Salle,6,1
+Lincoln Elem School,0.01,0.51,Oglesby ESD 125,Oglesby,La Salle,5,1
+Ottawa Township High School,0.02,0.32,Ottawa Twp HSD 140,Ottawa,La Salle,3,1
+Lincoln Elem School,0.02,0.63,Ottawa ESD 141,Ottawa,La Salle,1,1
+Seneca Elem School South Campus,0.0,0.31,Seneca CCSD 170,Seneca,La Salle,1,1
+Argenta-Oreana High School,0.04,0.4,Argenta-Oreana CUSD 1,Argenta,Macon,1,1
+Maroa-Forsyth Grade School,0.05,0.3,Maroa Forsyth CUSD 2,Maroa,Macon,4,1
+Warrensburg-Latham Elem Sch,0.02,0.42,Warrensburg-Latham CUSD 11,Warrensburg,Macon,1,1
+Oak Grove Accelerated School,0.4,0.67,Decatur SD 61,Decatur,Macon,3,1
+Robertson Charter School,0.89,0.02,Decatur SD 61,Decatur,Macon,2,1
+Stevenson Accelerated School,0.41,0.74,Decatur SD 61,Decatur,Macon,1,1
+Wolf Ridge Elementary,0.01,0.49,,Bunker Hill,Macoupin,1,1
+Central Intermediate School,0.04,0.55,Roxana CUSD 1,Roxana,Madison,1,1
+South Primary School,0.04,0.61,Roxana CUSD 1,South Roxana,Madison,1,1
+Highland Primary School,0.01,0.36,Highland CUSD 5,Highland,Madison,1,1
+Lincoln Middle School,0.07,0.19,Edwardsville CUSD 7,Edwardsville,Madison,3,1
+Grigsby Intermediate Sch,0.14,0.7,Granite City CUSD 9,Granite City,Madison,2,1
+Collinsville High School,0.11,0.51,Collinsville CUSD 10,Collinsville,Madison,4,1
+Alton High School,0.25,0.47,Alton CUSD 11,Alton,Madison,2,1
+Alton Middle School,0.32,0.58,Alton CUSD 11,Alton,Madison,4,1
+Gilson Brown Elem School,0.31,0.59,Alton CUSD 11,Godfrey,Madison,1,1
+North Elementary School,0.37,0.6,Alton CUSD 11,Godfrey,Madison,2,1
+Madison Senior High School,0.91,0.37,Madison CUSD 12,Madison,Madison,1,1
+East Alton-Wood River High Sch,0.03,0.62,East Alton-Wood River CHSD 14,Wood River,Madison,2,1
+Algonquin Road Elem School,0.01,0.19,Fox River Grove Cons SD 3,Fox River Grove,McHenry,4,1
+Johnsburg Jr High School,0.0,0.26,Johnsburg CUSD 12,Johnsburg,McHenry,4,1
+McHenry Middle School,0.01,0.39,McHenry CCSD 15,McHenry,McHenry,2,1
+Parkland School,0.01,0.39,McHenry CCSD 15,McHenry,McHenry,3,1
+Hilltop Elem School,0.01,0.47,McHenry CCSD 15,McHenry,McHenry,4,1
+Richard F Bernotas Middle Sch,0.03,1.0,Crystal Lake CCSD 47,Crystal Lake,McHenry,7,1
+South Elem School,0.01,0.99,Crystal Lake CCSD 47,Crystal Lake,McHenry,9,1
+Jefferson Elem School,0.01,0.99,Harvard CUSD 50,Harvard,McHenry,7,1
+Marlowe Middle School,0.03,0.17,Huntley Comm Sch Dist 158,Lake in the Hills,McHenry,12,1
+Martin Elementary School,0.02,0.17,Huntley Comm Sch Dist 158,Lake in the Hills,McHenry,7,1
+Mackeben Elementary School,0.02,0.16,Huntley Comm Sch Dist 158,Algonquin,McHenry,10,1
+Locust Elem School,0.02,0.58,Marengo-Union E Cons D 165,Marengo,McHenry,2,1
+Northwood Middle School,0.02,0.36,Woodstock CUSD 200,Woodstock,McHenry,7,1
+Olson Elementary School,0.02,0.5,Woodstock CUSD 200,Woodstock,McHenry,3,1
+Verda Dierzen Early Learning Ctr,0.02,0.38,Woodstock CUSD 200,Woodstock,McHenry,2,1
+Prairiewood Elem Sch,0.05,0.41,Woodstock CUSD 200,Woodstock,McHenry,4,1
+Clay Academy,0.05,0.52,,Woodstock,McHenry,2,1
+Sparta High School,0.17,0.61,Sparta CUSD 140,Sparta,Randolph,1,1
+Sparta-Lincoln Middle School,0.18,0.59,,Sparta,Randolph,1,1
+Reagan Middle School,0.02,0.5,Dixon USD 170,Dixon,Lee,2,1
+Madison School,0.01,0.54,Dixon USD 170,Dixon,Lee,1,1
+Washington Elem School,0.03,0.59,Dixon USD 170,Dixon,Lee,3,1
+Amboy Central Elem School,0.0,0.29,Amboy CUSD 272,Amboy,Lee,1,1
+Oregon Elem Sch,0.01,0.54,Oregon CUSD 220,Oregon,Ogle,5,1
+Rochelle Middle School,0.02,0.51,Rochelle CCSD 231,Rochelle,Ogle,3,1
+Central Elem School,0.01,0.75,Rochelle CCSD 231,Rochelle,Ogle,5,1
+May Elem School,0.01,0.56,Rochelle CCSD 231,Rochelle,Ogle,2,1
+Bi-County Special Educ Coop,0.04,0.52,,Sterling,Whiteside,2,1
+Washington Elem School,0.02,0.52,Sterling CUSD 5,Sterling,Whiteside,4,1
+Rock Falls Middle School,0.02,0.76,Rock Falls ESD 13,Rock Falls,Whiteside,1,1
+Dillon Elementary School,0.03,0.78,Rock Falls ESD 13,Rock Falls,Whiteside,2,1
+Peoria Cty Jvnl Det Ctr 6-8,0.83,0.17,,Peoria,Peoria,2,1
+Mark W Bills Middle School,0.57,0.67,Peoria SD 150,Peoria,Peoria,1,1
+Hines Primary School,0.52,0.75,Peoria SD 150,Peoria,Peoria,2,1
+Valeska Hinton Early Ch Ed Ctr,0.67,0.93,,Peoria,Peoria,2,1
+Dunlap High School,0.07,0.07,Dunlap CUSD 323,Dunlap,Peoria,3,1
+Dunlap Middle School,0.06,0.1,Dunlap CUSD 323,Dunlap,Peoria,3,1
+Butterworth Elem School,0.09,0.54,Moline-Coal Valley CUSD 40,Moline,Rock Island,2,1
+Denkmann Elem School,0.14,0.5,Rock Island SD 41,Rock Island,Rock Island,3,1
+Lebanon High School,0.21,0.42,Lebanon CUSD 9,Lebanon,Saint Clair,1,1
+Mascoutah Middle School,0.1,0.22,Mascoutah CUD 19,Mascoutah,Saint Clair,1,1
+Grant Middle School,0.42,0.48,Grant CCSD 110,Fairview Heights,Saint Clair,1,1
+Abraham Lincoln Elem School,0.62,0.76,Belleville SD 118,Belleville,Saint Clair,1,1
+Westhaven Elementary,0.4,0.48,Belleville SD 118,Belleville,Saint Clair,1,1
+Belle Valley School,0.54,0.66,Belle Valley SD 119,Belleville,Saint Clair,1,1
+Ellis Elem School,0.37,0.71,Harmony Emge SD 175,Belleville,Saint Clair,1,1
+Harmony Intermediate Center,0.47,0.69,Harmony Emge SD 175,Belleville,Saint Clair,1,1
+Signal Hill Elem School,0.45,0.48,Signal Hill SD 181,Belleville,Saint Clair,1,1
+Penniman Elem School,0.91,0.93,Cahokia CUSD 187,Cahokia,Saint Clair,1,1
+Mason/Clark Middle Sch,0.97,0.99,East St Louis SD 189,East Saint Louis,Saint Clair,1,1
+Belleville High School-East,0.4,0.42,Belleville Twp HSD 201,Belleville,Saint Clair,1,1
+Belleville Twp HS-Night/Alt Sch,0.34,0.22,,Belleville,Saint Clair,2,1
+O Fallon High School,0.2,0.24,O Fallon Twp HSD 203,O Fallon,Saint Clair,2,1
+Belleville Area Special Services,0.21,0.5,,Belleville,Saint Clair,1,1
+Ball Elementary School,0.07,0.23,Ball Chatham CUSD 5,Chatham,Sangamon,4,1
+Chatham Elem School,0.04,0.22,Ball Chatham CUSD 5,Chatham,Sangamon,1,1
+Glenwood Elementary School,0.05,0.19,Ball Chatham CUSD 5,Chatham,Sangamon,1,1
+Iles Elem School,0.14,0.19,Springfield SD 186,Springfield,Sangamon,1,1
+Douglas School,0.79,0.76,,Springfield,Sangamon,1,1
+Morton High School,0.02,0.13,Morton CUSD 709,Morton,Tazewell,1,1
+Morton Jr High School,0.02,0.15,Morton CUSD 709,Morton,Tazewell,2,1
+El Paso-Gridley Jr High School,0.0,0.31,El Paso-Gridley CUSD 11,Gridley,Woodford,3,1
+Centennial School,0.02,0.42,El Paso-Gridley CUSD 11,El Paso,Woodford,1,1
+John Greer Elem School,0.0,0.62,Hoopeston Area CUSD 11,Hoopeston,Vermilion,3,1
+Maple Elem School,0.01,0.77,Hoopeston Area CUSD 11,Hoopeston,Vermilion,2,1
+Three Rivers School,0.01,0.16,Channahon SD 17,Channahon,Will,2,1
+Troy Shorewood School,0.04,0.31,Troy CCSD 30C,Shorewood,Will,10,1
+Homer Jr High School,0.01,0.12,Homer CCSD 33C,Homer Glen,Will,6,1
+Forest Park Individual Ed School,0.19,0.85,Joliet PSD 86,Joliet,Will,5,1
+Sator Sanchez Elem School,0.04,1.0,Joliet PSD 86,Joliet,Will,13,1
+Marycrest Early Childhood Center,0.22,0.01,,Joliet,Will,3,1
+Anna McDonald Elem School,0.0,0.14,Manhattan SD 114,Manhattan,Will,4,1
+Liberty Junior High School,0.02,0.12,New Lenox SD 122,New Lenox,Will,2,1
+Haines Elem School,0.02,0.14,New Lenox SD 122,New Lenox,Will,3,1
+Nelson Prairie School,0.02,0.13,New Lenox SD 122,New Lenox,Will,2,1
+Arnold J Tyler School,0.01,0.16,New Lenox SD 122,New Lenox,Will,2,1
+Mokena Elem School,0.02,0.19,Mokena SD 159,Mokena,Will,2,1
+Mokena Intermediate School,0.02,0.19,Mokena SD 159,Mokena,Will,5,1
+Arbury Hills Elem School,0.04,0.21,Summit Hill SD 161,Mokena,Will,2,1
+Beecher Elem School,0.02,0.26,Beecher CUSD 200U,Beecher,Will,10,1
+Monee Education Center,0.68,0.95,,Monee,Will,1,1
+Central Elem School,0.08,0.29,Plainfield SD 202,Plainfield,Will,17,1
+Liberty Elementary School,0.13,0.16,Plainfield SD 202,Bolingbrook,Will,6,1
+Peotone High School,0.01,0.2,Peotone CUSD 207U,Peotone,Will,4,1
+Peotone Elem School,0.02,0.29,Peotone CUSD 207U,Peotone,Will,4,1
+Bruning Elem School,0.0,0.45,Wilmington CUSD 209U,Wilmington,Will,1,1
+Reed-Custer High School,0.0,0.36,Reed Custer CUSD 255U,Braidwood,Will,4,1
+Reed-Custer Middle School,0.01,0.38,Reed Custer CUSD 255U,Braidwood,Will,1,1
+Reed-Custer Intermediate School,0.02,0.46,,Braidwood,Will,6,1
+Il Youth Center - Pere Marquette,NA,NA,,Grafton,Dept Of Corrections,2,1
+The Lafayette Academy,0.06,0.83,,Jacksonville,ROE,1,1
+North Cook Young Adult Academy,0.42,0.58,,Des Plaines,ROE,13,1
+Proviso THSD 209 Dream School,0.53,0.53,,Forest Park,ROE,2,1
+Safe School Program,0.71,0.76,,Chicago Heights,ROE,6,1
+RAP Freeport,0.42,0.83,,Freeport,ROE,1,1
+Lerna Bridges,0.0,0.75,,Lerna,ROE,1,1
+KEC Central EFE 170,0.6,0.85,,Malta,ROE,1,1
+Safe School Program,0.37,0.45,,Bloomington,ROE,1,1
+Partners for Success-Old Mill Sch,0.25,0.69,,Addison,ROE,6,1
+DuPage Alop,0.25,0.5,,Wheaton,ROE,4,1
+ROE 20 Learning Alternative Branch School,0.12,0.88,,Carmi,ROE,1,1
+Premier Academy Morris TAOEP,0.06,0.36,,Morris,ROE,4,1
+Gifford St Regional Safe Sch Prog,0.21,0.79,,Elgin,ROE,1,1
+East Aurora HS RSSP,0.03,0.88,,Aurora,ROE,2,1
+Success Academy HS,0.12,0.79,,Carpentersville,ROE,1,1
+RAES RSSP,0.0,1.0,,Galesburg,ROE,1,1
+Futures Unlimited,0.52,0.12,,Decatur,ROE,2,1
+Evergreen Academy,0.0,0.38,,Union,ROE,1,1
+Lincoln School TAOEP,0.12,0.74,,Joliet,ROE,1,1
+John C Dunham STEM Partnership School,0.05,0.21,,Aurora,Kane,1,1
+Illinois School for the Deaf,0.35,0.55,,Jacksonville,State Of Illinois,4,1
+Chaddock,0.21,0.35,,Quincy,Adams,5,1
+DuPage Glenbard Plus,0.16,0.63,,Addison,Cook,2,1
+Jeanine Schultz Memorial School,0.45,0.48,,Park Ridge,Cook,4,1
+Little City - ChildBridge Center,NA,NA,,Palatine,Cook,1,1
+Maryville Jen Unit C,NA,NA,,Des Plaines,Cook,2,1
+South Campus,0.07,0.29,,Palatine,Cook,4,1
+Camelot Northwest Cntr forAutism,0.13,0.58,,DeKalb,Cook,1,1
+Camelot Northwest Cntr for Autism,0.2,0.54,,DeKalb,Cook,1,1
+Camelot Therap-Mt. Prospect-Int,0.18,0.5,,Mt Prospect,Cook,1,1
+Camelot Ther-Hoffman Estates,0.19,0.36,,Hoffman Estates,Cook,1,1
+Camelot Ther-Hoffman Estates Int,0.0,0.3,,Hoffman Estates,Cook,1,1
+Camelot of Belvidere-Int,NA,NA,,Garden Prairie,Cook,1,1
+Camelot Therapeutic-Mt. Prospect,0.16,0.44,,Mt Prospect,Cook,3,1
+Joseph Academy at Hometown,0.41,0.59,,Hometown,Cook,2,1
+Helping Hand School,0.26,0.42,,Countryside,Cook,1,1
+Childrens Habilitation Center,0.59,0.86,,Harvey,Cook,2,1
+Children's Home Center,0.95,1.0,,Calumet City,Cook,1,1
+Under Carreys Care,0.93,0.93,,Riverdale,Cook,1,1
+Tiny Town of Lansing Nursery Sch Inc,0.43,0.95,,Lansing,Cook,1,1
+Urbana Head Start,0.64,1.0,,Urbana,Champaign,1,1
+Easter Seals Therapeutic - Int,0.34,0.74,,Chicago,Cook,2,1
+Easter Seals Therap - Rockford,0.21,0.58,,Rockford,Cook,2,1
+Easter Seals South - Intensive,0.25,0.42,,Tinley Park,Cook,1,1
+Jerri Hoffmann Child & Family Center,0.1,0.97,,Carpentersville,Cook,1,1
+Jewish Bureau-Therapeutic,0.37,0.72,,Chicago,Cook,2,1
+Kiddie Kulture Child Care,0.48,1.0,,Harvey,Cook,1,1
+Hammitt Junior-Senior High Sch,0.06,0.55,,Normal,McLean,1,1
+Parkland Preparatory Academy-Int,0.25,0.38,,Streamwood,Dupage,1,1
+Little Friends-Krejci/Mansion,0.11,0.24,,Naperville,Dupage,2,1
+Parkland Prep Academy South,0.55,0.84,,Oak Lawn,Dupage,2,1
+The Yellow Brick Road,0.06,0.73,,Marion,Williamson,1,1
+Small World CDC Inc,0.08,0.77,,Marion,Williamson,1,1
+Hamilton Academy,0.18,0.27,,West Dundee,Kane,1,1
+Allendale Association,0.2,0.6,,Lake Villa,Lake,1,1
+Connections Day School,0.15,0.33,,Libertyville,Lake,1,1
+St Boniface,NA,NA,,Edwardsville,,1,1
+William M Bedell-Wood River,0.2,0.62,,Wood River,Madison,1,1
+Kiefer School - Madison,0.13,0.65,,Peoria,Peoria,2,1
+Juvenile Transitional Cntr - Int,1.0,1.0,,Centreville,Saint Clair,1,1
+Willowglen-Illinois,0.27,0.55,,Freeport,,2,1
+Gifford Street High School,NA,NA,,Elgin,Kane,1,1
+Maryville Academy,NA,NA,,Des Plaines,Cook,2,1
+Larkin Center,NA,NA,,Elgin,Kane,1,1
+Kishwaukee Educ Consortium,NA,NA,,Malta,,1,1
+Indian Valley Area Voc Ctr,NA,NA,,Sandwich,Dekalb,1,1
+Quincy Sr High School,0.07,0.47,Quincy SD 172,Quincy,Adams,2,0
+Adams Elementary School,0.08,0.75,Quincy SD 172,Quincy,Adams,2,0
+Madison School,0.04,0.46,Quincy SD 172,Quincy,Adams,2,0
+Beardstown Jr/Sr High School,0.09,0.78,Beardstown CUSD 15,Beardstown,Cass,6,0
+Waverly Elementary School,0.01,0.4,Waverly CUSD 6,Waverly,Morgan,1,0
+Jacksonville High School,0.06,0.48,Jacksonville SD 117,Jacksonville,Morgan,1,0
+Jonathan Turner Jr High School,0.07,0.57,,Jacksonville,Morgan,1,0
+Eisenhower Elem School,0.1,0.44,Jacksonville SD 117,Jacksonville,Morgan,2,0
+North Jacksonville School,0.05,0.6,Jacksonville SD 117,Jacksonville,Morgan,1,0
+Western Barry Elem,0.0,0.64,Western CUSD 12,Barry,Pike,1,0
+Mulberry Grove Sr High School,0.06,0.36,Mulberry Grove CUSD 1,Mulberry Grove,Bond,1,0
+Memorial Elem School,0.01,0.62,Taylorville CUSD 3,Taylorville,Christian,1,0
+Effingham High School,0.01,0.31,Effingham CUSD 40,Effingham,Effingham,1,0
+Early Learning Center,0.01,0.62,Effingham CUSD 40,Effingham,Effingham,1,0
+Hillsboro Jr High School,0.02,0.5,Hillsboro CUSD 3,Hillsboro,Montgomery,1,0
+Belvidere North High Sch,0.04,0.38,Belvidere CUSD 100,Belvidere,Boone,3,0
+Belvidere South Middle School,0.02,0.59,Belvidere CUSD 100,Belvidere,Boone,10,0
+Lincoln Elem School,0.04,0.59,Belvidere CUSD 100,Belvidere,Boone,10,0
+North Boone Upper Elem Sch,0.01,0.49,North Boone CUSD 200,Poplar Grove,Boone,2,0
+Maple Elem School,0.05,0.8,Harlem UD 122,Loves Park,Winnebago,5,0
+Windsor Elem School,0.05,0.71,Harlem UD 122,Loves Park,Winnebago,2,0
+Olson Park Elem School,0.07,0.47,Harlem UD 122,Machesney Park,Winnebago,1,0
+Roscoe Middle School,0.02,0.24,Kinnikinnick CCSD 131,Roscoe,Winnebago,4,0
+Kinnikinnick School,0.02,0.23,Kinnikinnick CCSD 131,Roscoe,Winnebago,1,0
+Stone Creek School,0.01,0.23,Kinnikinnick CCSD 131,Roscoe,Winnebago,2,0
+Prairie Hill Elem School,0.02,0.01,Prairie Hill CCSD 133,South Beloit,Winnebago,1,0
+Barbour Two-Way Lang Immersion,0.07,0.55,Rockford SD 205,Rockford,Winnebago,2,0
+Cherry Valley Elem School,0.08,0.31,Rockford SD 205,Cherry Valley,Winnebago,1,0
+Thurgood Marshall Elementary,0.06,0.15,Rockford SD 205,Rockford,Winnebago,3,0
+Durand Jr High School,0.02,0.3,Durand CUSD 322,Durand,Winnebago,1,0
+Durand Elem School,0.0,0.31,Durand CUSD 322,Durand,Winnebago,2,0
+Winnebago High School,0.06,0.23,Winnebago CUSD 323,Winnebago,Winnebago,1,0
+Winnebago Middle School,0.03,0.27,Winnebago CUSD 323,Winnebago,Winnebago,1,0
+Jean McNair Elementary School,0.03,0.28,Winnebago CUSD 323,Winnebago,Winnebago,1,0
+Marion Jordan Elem School,0.01,0.08,Palatine CCSD 15,Palatine,Cook,2,0
+Pleasant Hill Elem School,0.01,0.07,Palatine CCSD 15,Palatine,Cook,6,0
+Willow Bend Elem School,0.02,0.27,Palatine CCSD 15,Rolling Meadows,Cook,14,0
+Thomas Jefferson Elem School,0.01,0.38,Palatine CCSD 15,Hoffman Estates,Cook,4,0
+Frank C Whiteley Elem School,0.02,0.15,Palatine CCSD 15,Hoffman Estates,Cook,6,0
+Henry W Longfellow Elem School,0.02,0.17,Wheeling CCSD 21,Buffalo Grove,Cook,4,0
+Edgar A Poe Elem School,0.01,0.36,Wheeling CCSD 21,Arlington Heights,Cook,10,0
+Walt Whitman Elem School,0.01,0.84,Wheeling CCSD 21,Wheeling,Cook,19,0
+MacArthur Middle School,0.01,0.31,Prospect Heights SD 23,Prospect Heights,Cook,9,0
+Betsy Ross Elem School,0.02,0.34,Prospect Heights SD 23,Prospect Heights,Cook,11,0
+South Middle School,0.01,0.05,Arlington Heights SD 25,Arlington Heights,Cook,6,0
+Thomas Middle School,0.01,0.05,Arlington Heights SD 25,Arlington Heights,Cook,6,0
+Greenbrier Elem School,0.01,0.01,Arlington Heights SD 25,Arlington Heights,Cook,3,0
+Ivy Hill Elem School,0.01,0.0,Arlington Heights SD 25,Arlington Heights,Cook,4,0
+Olive-Mary Stitt School,0.01,0.01,Arlington Heights SD 25,Arlington Heights,Cook,2,0
+Patton Elem School,0.01,0.01,Arlington Heights SD 25,Arlington Heights,Cook,2,0
+Windsor Elementary School,0.0,0.01,Arlington Heights SD 25,Arlington Heights,Cook,7,0
+River Trails Middle School,0.03,0.38,River Trails SD 26,Mt Prospect,Cook,11,0
+Indian Grove Elem School,0.01,0.17,River Trails SD 26,Mt Prospect,Cook,21,0
+Wood Oaks Jr High School,0.0,0.03,Northbrook ESD 27,Northbrook,Cook,6,0
+Hickory Point Elem School,0.01,0.03,Northbrook ESD 27,Northbrook,Cook,9,0
+Shabonee School,0.0,0.03,Northbrook ESD 27,Northbrook,Cook,8,0
+Northbrook Junior High School,0.0,0.03,Northbrook SD 28,Northbrook,Cook,3,0
+Greenbriar Elem School,0.01,0.02,Northbrook SD 28,Northbrook,Cook,9,0
+Meadowbrook Elem School,0.01,0.02,Northbrook SD 28,Northbrook,Cook,9,0
+Westmoor Elem School,0.0,0.04,Northbrook SD 28,Northbrook,Cook,8,0
+Middlefork Primary School,0.0,0.01,Sunset Ridge SD 29,Northfield,Cook,7,0
+Sunset Ridge Elem School,0.0,0.03,Sunset Ridge SD 29,Northfield,Cook,9,0
+Maple School,0.01,0.03,Northbrook/Glenview SD 30,Northbrook,Cook,7,0
+Willowbrook Elem School,0.0,0.02,Northbrook/Glenview SD 30,Glenview,Cook,6,0
+Wescott Elementary School,0.0,0.03,Northbrook/Glenview SD 30,Northbrook,Cook,14,0
+Field School,0.05,0.22,West Northfield SD 31,Northbrook,Cook,9,0
+Attea Middle School,0.02,0.21,Glenview CCSD 34,Glenview,Cook,13,0
+Springman Middle School,0.01,0.28,Glenview CCSD 34,Glenview,Cook,16,0
+Hoffman Elem School,0.01,0.31,Glenview CCSD 34,Glenview,Cook,23,0
+Pleasant Ridge Elem School,0.01,0.15,Glenview CCSD 34,Glenview,Cook,21,0
+Westbrook Elementary School,0.03,0.34,Glenview CCSD 34,Glenview,Cook,14,0
+Central School,0.0,0.01,Glencoe SD 35,Glencoe,Cook,6,0
+West School,0.0,0.0,Glencoe SD 35,Glencoe,Cook,7,0
+South Elem School,0.0,0.0,Glencoe SD 35,Glencoe,Cook,8,0
+Carleton W Washburne School,0.0,0.0,Winnetka SD 36,Winnetka,Cook,2,0
+Crow Island Elem School,0.0,0.0,Winnetka SD 36,Winnetka,Cook,5,0
+Greeley Elem School,0.0,0.0,Winnetka SD 36,Winnetka,Cook,8,0
+Hubbard Woods Elem School,0.01,0.0,Winnetka SD 36,Winnetka,Cook,8,0
+The Skokie School,0.0,0.0,Winnetka SD 36,Winnetka,Cook,2,0
+The Joseph Sears School,0.01,0.0,Kenilworth SD 38,Kenilworth,Cook,5,0
+Wilmette Junior High School,0.01,0.05,Wilmette SD 39,Wilmette,Cook,13,0
+Central Elem School,0.0,0.01,Wilmette SD 39,Wilmette,Cook,19,0
+Harper Elem School,0.0,0.02,Wilmette SD 39,Wilmette,Cook,11,0
+McKenzie Elem School,0.01,0.02,Wilmette SD 39,Wilmette,Cook,22,0
+Romona Elem School,0.01,0.04,Wilmette SD 39,Wilmette,Cook,16,0
+Highcrest Middle School,0.01,0.04,Wilmette SD 39,Wilmette,Cook,15,0
+Everett Dirksen Elementary Sch,0.03,0.12,Schaumburg CCSD 54,Schaumburg,Cook,18,0
+Thomas Dooley Elem School,0.02,0.05,Schaumburg CCSD 54,Schaumburg,Cook,5,0
+Fairview Elem School,0.01,0.09,Schaumburg CCSD 54,Hoffman Estates,Cook,11,0
+MacArthur International Spanish Academy,0.02,0.27,Schaumburg CCSD 54,Hoffman Estates,Cook,8,0
+Hoover Math and Science Academy,0.04,0.14,Schaumburg CCSD 54,Schaumburg,Cook,13,0
+Lincoln Prairie School,0.03,0.06,Schaumburg CCSD 54,Hoffman Estates,Cook,1,0
+The District 54 Early Learning Center,0.05,0.21,,Schaumburg,Cook,1,0
+Lincoln Middle School,0.01,0.1,Mount Prospect SD 57,Mt Prospect,Cook,3,0
+Fairview Elem School,0.01,0.14,Mount Prospect SD 57,Mt Prospect,Cook,15,0
+Lions Park Elem School,0.0,0.07,Mount Prospect SD 57,Mt Prospect,Cook,11,0
+Westbrook Early Learning Cntr,0.01,0.08,Mount Prospect SD 57,Mt Prospect,Cook,14,0
+Adm Richard E Byrd Elem School,0.02,0.71,Comm Cons SD 59,Elk Grove Village,Cook,8,0
+Robert Frost Elem School,0.06,0.73,Comm Cons SD 59,Mt Prospect,Cook,10,0
+Salt Creek Elem School,0.01,0.63,Comm Cons SD 59,Elk Grove Village,Cook,17,0
+Ridge Family Center for Learning,0.02,0.34,Comm Cons SD 59,Elk Grove Village,Cook,4,0
+Iroquois Community School,0.03,0.27,CCSD 62,Des Plaines,Cook,8,0
+Central Elem School,0.03,0.38,CCSD 62,Des Plaines,Cook,17,0
+Forest Elem School,0.02,0.43,CCSD 62,Des Plaines,Cook,13,0
+Orchard Place Elem School,0.02,0.79,CCSD 62,Des Plaines,Cook,27,0
+Plainfield Elem School,0.02,0.72,CCSD 62,Des Plaines,Cook,20,0
+South Elem School,0.02,0.6,CCSD 62,Des Plaines,Cook,17,0
+Terrace Elem School,0.03,0.37,CCSD 62,Des Plaines,Cook,7,0
+Mark Twain Elem School,0.04,0.59,East Maine SD 63,Niles,Cook,22,0
+Washington Elem School,0.04,0.44,East Maine SD 63,Glenview,Cook,28,0
+Melzer School,0.0,0.4,East Maine SD 63,Morton Grove,Cook,25,0
+Lincoln Middle School,0.0,0.04,Park Ridge CCSD 64,Park Ridge,Cook,16,0
+George B Carpenter Elem School,0.02,0.03,Park Ridge CCSD 64,Park Ridge,Cook,14,0
+Eugene Field Elem School,0.01,0.05,Park Ridge CCSD 64,Park Ridge,Cook,44,0
+Theodore Roosevelt Elem School,0.01,0.02,Park Ridge CCSD 64,Park Ridge,Cook,22,0
+George Washington Elem School,0.0,0.02,Park Ridge CCSD 64,Park Ridge,Cook,26,0
+Jefferson School,0.01,0.01,,Niles,Cook,2,0
+Dr Bessie Rhodes Sch Global Studies,0.35,0.37,Evanston CCSD 65,Skokie,Cook,5,0
+Joseph E Hill Education Center,0.31,0.64,,Evanston,Cook,8,0
+Golf Middle School,0.02,0.29,Golf ESD 67,Morton Grove,Cook,13,0
+Hynes Elem School,0.04,0.26,Golf ESD 67,Morton Grove,Cook,28,0
+Jane Stenson School,0.11,0.44,Skokie SD 68,Skokie,Cook,54,0
+Park View Elem School,0.01,0.27,Morton Grove SD 70,Morton Grove,Cook,67,0
+Fairview South Elementary School,0.02,0.21,Fairview SD 72,Skokie,Cook,85,0
+East Prairie Elem School,0.05,0.24,East Prairie SD 73,Skokie,Cook,47,0
+Oliver McCracken Middle School,0.08,0.31,Skokie SD 73-5,Skokie,Cook,28,0
+Lincoln Hall Middle School,0.01,0.13,Lincolnwood SD 74,Lincolnwood,Cook,25,0
+New Trier Township H S Northfield,0.01,0.03,New Trier Twp HSD 203,Northfield,Cook,11,0
+Maine South High School,0.0,0.08,Maine Township HSD 207,Park Ridge,Cook,61,0
+Ralph J Frost Academy,0.0,0.61,,Park Ridge,Cook,2,0
+Higgins Education Center,0.07,0.61,,Hoffman Estates,Cook,1,0
+Prospect High School,0.01,0.09,Township HSD 214,Mt Prospect,Cook,20,0
+Young Adult Program,0.0,0.24,,Rolling Meadows,Cook,1,0
+Vanguard School,0.07,0.55,,Arlington Heights,Cook,1,0
+Niles Central,0.26,0.38,,Skokie,Cook,1,0
+Glenbrook Evening High School,0.04,0.3,,Glenview,Cook,3,0
+Deaf/Hard of Hearing (Dist 214),0.25,0.5,,Arlington Heights,Cook,1,0
+Pennoyer Elem School,0.0,0.23,Pennoyer SD 79,Norridge,Cook,44,0
+J Giles Elem School,0.01,0.27,Norridge SD 80,Norridge,Cook,86,0
+J Leigh Elem School,0.0,0.3,Norridge SD 80,Norridge,Cook,47,0
+Dan H Pietrini Elem School,0.0,0.68,Franklin Park SD 84,Franklin Park,Cook,21,0
+Union Ridge Elem School,0.0,0.37,Union Ridge SD 86,Harwood Heights,Cook,69,0
+Grant Primary,0.01,0.91,Bellwood SD 88,Stone Park,Cook,3,0
+Lincoln Elem School,0.06,0.05,River Forest SD 90,River Forest,Cook,9,0
+Blythe Park Elem School,0.02,0.09,Riverside SD 96,Riverside,Cook,4,0
+Hollywood Elem School,0.0,0.09,Riverside SD 96,Brookfield,Cook,5,0
+Horace Mann Elem School,0.06,0.05,Oak Park ESD 97,Oak Park,Cook,11,0
+Woodbine Elem School,0.0,0.91,Cicero SD 99,Cicero,Cook,46,0
+McClure Jr High School,0.01,0.0,Western Springs SD 101,Western Springs,Cook,3,0
+Field Park Elem School,0.0,0.0,Western Springs SD 101,Western Springs,Cook,1,0
+Forest Hills Elem School,0.01,0.0,Western Springs SD 101,Western Springs,Cook,1,0
+John Laidlaw Elem School,0.01,0.0,Western Springs SD 101,Western Springs,Cook,3,0
+Cossitt Ave Elem School,0.04,0.1,La Grange SD 102,La Grange,Cook,14,0
+Ogden Ave Elem School,0.01,0.04,La Grange SD 102,La Grange,Cook,17,0
+Barnsdale Road School,0.06,0.09,La Grange SD 102,La Grange Park,Cook,3,0
+Hodgkins Elem School,0.01,0.82,La Grange SD 105 South,Hodgkins,Cook,14,0
+Spring Ave Elem School,0.02,0.07,La Grange SD 105 South,La Grange,Cook,7,0
+Highlands Middle School,0.01,0.06,LaGrange Highlands SD 106,La Grange Highlands,Cook,1,0
+Highlands Elem School,0.0,0.06,LaGrange Highlands SD 106,La Grange Highlands,Cook,3,0
+Pleasantdale Middle Sch,0.01,0.13,Pleasantdale SD 107,Burr Ridge,Cook,6,0
+Pleasantdale Elementary School,0.01,0.11,Pleasantdale SD 107,La Grange,Cook,7,0
+Ridgewood Comm High School,0.0,0.32,Ridgewood CHSD 234,Norridge,Cook,95,0
+Early Childhood Center,0.01,0.42,Elmwood Park CUSD 401,Elmwood Park,Cook,15,0
+Old Quarry Middle Sch,0.01,0.12,Lemont-Bromberek CSD 113A,Lemont,Cook,5,0
+River Valley School,0.01,0.16,Lemont-Bromberek CSD 113A,Lemont,Cook,6,0
+Palos South Middle School,0.01,0.21,Palos CCSD 118,Palos Park,Cook,13,0
+Palos East Elementary School,0.01,0.34,Palos CCSD 118,Palos Heights,Cook,19,0
+Palos West Elementary School,0.01,0.23,Palos CCSD 118,Palos Park,Cook,9,0
+Hometown Elem School,0.05,0.62,Oak Lawn-Hometown SD 123,Hometown,Cook,39,0
+Worth Jr High School,0.02,0.52,Worth SD 127,Worth,Cook,19,0
+Independence Jr High School,0.02,0.16,Palos Heights SD 128,Palos Heights,Cook,6,0
+Chippewa Elem School,0.02,0.12,Palos Heights SD 128,Palos Heights,Cook,5,0
+Indian Hill,0.02,0.05,Palos Heights SD 128,Palos Heights,Cook,1,0
+Orland Jr High School,0.03,0.14,Orland SD 135,Orland Park,Cook,7,0
+Virgil I Grissom Middle School,0.03,0.14,Kirby SD 140,Tinley Park,Cook,1,0
+Fernway Park Elem School,0.02,0.2,Kirby SD 140,Orland Park,Cook,11,0
+Helen Keller Elem School,0.04,0.17,Kirby SD 140,Tinley Park,Cook,2,0
+Christa McAuliffe School,0.02,0.16,Kirby SD 140,Tinley Park,Cook,4,0
+Turner Elem School,0.4,0.96,Posen-Robbins ESD 143-5,Robbins,Cook,4,0
+Memorial Elem School,0.04,0.26,CCSD 146,Tinley Park,Cook,11,0
+Walter F Fierke Ed Center,0.01,0.26,CCSD 146,Oak Forest,Cook,5,0
+Arnold W Kruse Ed Center,0.06,0.38,CCSD 146,Orland Park,Cook,17,0
+Garfield Elem School,0.05,1.0,Chicago Heights SD 170,Chicago Heights,Cook,8,0
+Outlook Academy,0.93,0.41,,South Holland,Cook,1,0
+A E R O  Spec Educ Coop,0.0,0.5,,Burbank,Cook,1,0
+West Carroll High School,0.02,0.49,West Carroll CUSD 314,Savanna,Carroll,1,0
+West Carroll Middle School,0.03,0.53,West Carroll CUSD 314,Mount Carroll,Carroll,1,0
+West Carroll Primary,0.01,0.56,West Carroll CUSD 314,Savanna,Carroll,1,0
+Galena High School,0.03,0.37,Galena USD 120,Galena,Jo Daviess,3,0
+Warren Jr/Sr High School,0.0,0.31,Warren CUSD 205,Warren,Jo Daviess,1,0
+Warren Elementary School,0.0,0.28,Warren CUSD 205,Warren,Jo Daviess,1,0
+Stockton Middle School,0.0,0.01,Stockton CUSD 206,Stockton,Jo Daviess,1,0
+Dakota Jr Sr High School,0.01,0.29,Dakota CUSD 201,Dakota,Stephenson,2,0
+Fisher Jr/Sr High School,0.01,0.33,Fisher CUSD 1,Fisher,Champaign,2,0
+Fisher Grade School,0.03,0.32,Fisher CUSD 1,Fisher,Champaign,4,0
+Vernon L Barkstall Elementary Sch,0.27,0.46,Champaign CUSD 4,Champaign,Champaign,1,0
+International Prep Academy,0.1,0.71,Champaign CUSD 4,Champaign,Champaign,2,0
+Unity East,0.02,0.29,Tolono CUSD 7,Philo,Champaign,2,0
+Yankee Ridge Elem School,0.19,0.57,Urbana SD 116,Urbana,Champaign,3,0
+Prairieview-Ogden South Elem,0.0,0.24,Prairieview-Ogden CCSD 197,Ogden,Champaign,1,0
+GCMS Middle School,0.0,0.36,Gibson City-Melvin-Sibley CUSD 5,Gibson City,Ford,1,0
+GCMS Elementary School,0.0,0.42,Gibson City-Melvin-Sibley CUSD 5,Gibson City,Ford,1,0
+Paxton-Buckley-Loda Jr High Sch,0.02,0.44,Paxton-Buckley-Loda CUD 10,Paxton,Ford,1,0
+PBL Eastlawn,0.01,0.54,Paxton-Buckley-Loda CUD 10,Paxton,Ford,1,0
+Marshall High School,0.01,0.3,Marshall CUSD 2C,Marshall,Clark,1,0
+Charleston High School,0.03,0.4,Charleston CUSD 1,Charleston,Coles,2,0
+Villa Grove Elem School,0.01,0.44,Villa Grove CUSD 302,Villa Grove,Douglas,2,0
+Arcola Elementary School,0.01,0.45,Arcola CUSD 306,Arcola,Douglas,1,0
+Moulton Elementary School,0.0,0.44,Shelbyville CUSD 4,Shelbyville,Shelby,1,0
+Main Street Elementary School,0.01,0.41,Shelbyville CUSD 4,Shelbyville,Shelby,1,0
+Gregory Intermediate,0.01,0.46,Central A & M CUD 21,Moweaqua,Shelby,1,0
+North Clay Elem/Jr High Sch,0.0,0.4,North Clay CUSD 25,Louisville,Clay,1,0
+Washington Elem School,0.01,0.45,Robinson CUSD 2,Robinson,Crawford,1,0
+Richland County Middle School,0.01,0.51,Richland County CUSD 1,Olney,Richland,1,0
+Richland County Elementary School,0.0,0.63,Richland County CUSD 1,Olney,Richland,1,0
+Breese Elem School,0.0,0.35,Breese ESD 12,Breese,Clinton,2,0
+Central Comm High School,0.0,0.07,Central CHSD 71,Breese,Clinton,2,0
+Waltonville High School,0.01,0.34,Waltonville CUSD 1,Waltonville,Jefferson,1,0
+Centralia Jr High School,0.13,1.0,Centralia SD 135,Centralia,Marion,1,0
+Genoa-Kingston Middle School,0.01,0.36,Genoa Kingston CUSD 424,Genoa,Dekalb,2,0
+Kingston Elementary School,0.03,0.42,Genoa Kingston CUSD 424,Kingston,Dekalb,1,0
+Genoa Elementary School,0.02,0.42,Genoa Kingston CUSD 424,Genoa,Dekalb,1,0
+Sycamore High School,0.03,0.18,Sycamore CUSD 427,Sycamore,Dekalb,1,0
+South Prairie Elementary School,0.04,0.22,Sycamore CUSD 427,Sycamore,Dekalb,1,0
+North Grove Elementary School,0.02,0.14,Sycamore CUSD 427,Sycamore,Dekalb,1,0
+Hinckley-Big Rock Middle Sch,0.0,0.3,Hinckley Big Rock CUSD 429,Big Rock,Dekalb,2,0
+Hinckley-Big Rock Elem Sch,0.0,0.12,Hinckley Big Rock CUSD 429,Hinckley,Dekalb,2,0
+Sandwich Community High School,0.0,0.33,Sandwich CUSD 430,Sandwich,Dekalb,2,0
+Sandwich Middle School,0.0,0.39,Sandwich CUSD 430,Sandwich,Dekalb,1,0
+Lynn G Haskin Elementary School,0.0,0.35,Sandwich CUSD 430,Sandwich,Dekalb,3,0
+Prairie View Elem School,0.01,0.41,Sandwich CUSD 430,Sandwich,Dekalb,2,0
+Clinton High School,0.01,0.41,Clinton CUSD 15,Clinton,Dewitt,3,0
+Clinton Jr High School,0.0,0.51,Clinton CUSD 15,Clinton,Dewitt,2,0
+Clinton Elem School,0.01,0.53,Clinton CUSD 15,Clinton,Dewitt,4,0
+Livingston Co Crossroads Academy,0.04,0.74,,Pontiac,Livingston,1,0
+Tri-Point High School,0.01,0.53,Tri Point CUSD 6-J,Cullom,Livingston,7,0
+Tri Point Elementary School,0.0,0.59,Tri Point CUSD 6-J,Kempton,Livingston,1,0
+Tri-Point Jr High/Elementary,0.01,0.66,Tri Point CUSD 6-J,Piper City,Livingston,1,0
+Prairie Central Primary West,0.01,0.43,Prairie Central CUSD 8,Chenoa,Livingston,1,0
+Prairie Central Elem School,0.01,0.44,Prairie Central CUSD 8,Fairbury,Livingston,4,0
+Prairie Central Upper Elementary,0.01,0.43,Prairie Central CUSD 8,Forrest,Livingston,1,0
+Flanagan-Cornell High School,0.01,0.41,Flanagan-Cornell Dist 74,Flanagan,Livingston,1,0
+Dwight Common School,0.01,0.42,Dwight Common SD 232,Dwight,Livingston,2,0
+Central Elem School,0.02,0.62,Pontiac CCSD 429,Pontiac,Livingston,1,0
+Odell Grade School,0.01,0.45,Odell CCSD 435,Odell,Livingston,1,0
+Emden Elementary School,0.0,0.47,Hartsburg Emden CUSD 21,Emden,Logan,1,0
+Mount Pulaski High School,0.01,0.36,Mt Pulaski CUSD 23,Mount Pulaski,Logan,1,0
+Mount Pulaski Elem School,0.01,0.42,Mt Pulaski CUSD 23,Mount Pulaski,Logan,1,0
+Washington-Monroe Elem School,0.04,0.68,Lincoln ESD 27,Lincoln,Logan,1,0
+Heyworth Elem School,0.01,0.32,Heyworth CUSD 4,Heyworth,McLean,2,0
+Sarah A Raymond Sch of Early Educ,0.27,0.75,,Bloomington,McLean,1,0
+Lake Park Elem School,0.03,0.77,Addison SD 4,Addison,Dupage,11,0
+Stone Elem School,0.01,0.37,Addison SD 4,Addison,Dupage,5,0
+Addison Early Learning Center,0.02,0.68,,Addison,Dupage,1,0
+Wood Dale Jr High School,0.02,0.47,Wood Dale SD 7,Wood Dale,Dupage,14,0
+Westview Elem School,0.02,0.54,Wood Dale SD 7,Wood Dale,Dupage,11,0
+Early Childhood Education Center,0.03,0.5,,Wood Dale,Dupage,1,0
+F E Peacock Middle School,0.01,0.19,Itasca SD 10,Itasca,Dupage,5,0
+Elmer H Franzen Intermediate Sch,0.0,0.1,Itasca SD 10,Itasca,Dupage,2,0
+Raymond Benson Primary School,0.01,0.03,Itasca SD 10,Itasca,Dupage,4,0
+Medinah Middle School,0.05,0.3,Medinah SD 11,Roselle,Dupage,5,0
+Medinah Intermediate School,0.04,0.35,Medinah SD 11,Medinah,Dupage,6,0
+Roselle Middle School,0.01,0.26,Roselle SD 12,Roselle,Dupage,5,0
+Spring Hills Elem School,0.03,0.26,Roselle SD 12,Roselle,Dupage,6,0
+Westfield Middle School,0.0,0.06,Bloomingdale SD 13,Bloomingdale,Dupage,4,0
+Dujardin Elementary School,0.01,0.1,Bloomingdale SD 13,Bloomingdale,Dupage,7,0
+Erickson Elementary School,0.0,0.05,Bloomingdale SD 13,Bloomingdale,Dupage,8,0
+Currier Elementary School,0.02,0.61,West Chicago ESD 33,West Chicago,Dupage,3,0
+Early Learning Center,0.03,0.58,,West Chicago,Dupage,1,0
+Winfield Central School,0.03,0.14,Winfield SD 34,Winfield,Dupage,1,0
+Butler Junior High School,0.01,0.01,Butler SD 53,Oak Brook,Dupage,2,0
+Brook Forest Elem School,0.01,0.01,Butler SD 53,Oak Brook,Dupage,11,0
+Fairmount Elem School,0.03,0.06,Downers Grove GSD 58,Downers Grove,Dupage,1,0
+Hillcrest Elem School,0.03,0.09,Downers Grove GSD 58,Downers Grove,Dupage,3,0
+Lester Elem School,0.02,0.07,Downers Grove GSD 58,Downers Grove,Dupage,4,0
+Pierce Downer Elem School,0.01,0.03,Downers Grove GSD 58,Downers Grove,Dupage,4,0
+Gower West Elem School,0.04,0.12,Gower SD 62,Willowbrook,Dupage,16,0
+Cass Jr High School,0.04,0.17,Cass SD 63,Darien,Dupage,8,0
+Meadowview Elem School,0.09,0.43,Woodridge SD 68,Woodridge,Dupage,3,0
+Carol Stream Elem School,0.05,0.47,CCSD 93,Carol Stream,Dupage,1,0
+Heritage Lakes Elem School,0.04,0.28,CCSD 93,Carol Stream,Dupage,4,0
+Cloverdale  Elem School,0.05,0.29,CCSD 93,Carol Stream,Dupage,3,0
+Clarendon Hills Middle School,0.0,0.03,Hinsdale CCSD 181,Clarendon Hills,Dupage,1,0
+Elm Elem School,0.03,0.05,Hinsdale CCSD 181,Burr Ridge,Dupage,17,0
+Madison Elem School,0.01,0.02,Hinsdale CCSD 181,Hinsdale,Dupage,3,0
+Monroe Elem School,0.0,0.02,Hinsdale CCSD 181,Hinsdale,Dupage,6,0
+Oak Elem School,0.0,0.02,Hinsdale CCSD 181,Hinsdale,Dupage,4,0
+Prospect Elem School,0.01,0.05,Hinsdale CCSD 181,Clarendon Hills,Dupage,6,0
+Lincoln Elem School,0.04,0.3,CUSD 200,Wheaton,Dupage,6,0
+Longfellow Elem School,0.02,0.19,CUSD 200,Wheaton,Dupage,3,0
+Lowell Elem School,0.07,0.25,CUSD 200,Wheaton,Dupage,2,0
+Clifford Johnson School,0.04,0.7,CUSD 200,Warrenville,Dupage,3,0
+Jefferson Early Childhood Center,0.07,0.23,,Wheaton,Dupage,1,0
+J T Manning Elem School,0.07,0.3,CUSD 201,Westmont,Dupage,6,0
+Tate Woods Elem School,0.09,0.33,Lisle CUSD 202,Lisle,Dupage,2,0
+Lincoln Jr High School,0.04,0.13,Naperville CUSD 203,Naperville,Dupage,9,0
+Highlands Elem School,0.0,0.05,Naperville CUSD 203,Naperville,Dupage,10,0
+Naper Elem School,0.03,0.13,Naperville CUSD 203,Naperville,Dupage,1,0
+Prairie Elem School,0.03,0.08,Naperville CUSD 203,Naperville,Dupage,2,0
+Ranch View Elementary School,0.02,0.13,Naperville CUSD 203,Naperville,Dupage,8,0
+River Woods Elementary School,0.01,0.12,Naperville CUSD 203,Naperville,Dupage,2,0
+Meadow Glens Elementary School,0.02,0.09,Naperville CUSD 203,Naperville,Dupage,5,0
+Ann Reid Early Childhood Center,0.08,0.35,,Naperville,Dupage,3,0
+Clifford Crone Middle School,0.03,0.04,Indian Prairie CUSD 204,Naperville,Dupage,6,0
+Robert Clow Elem Sch,0.04,0.12,Indian Prairie CUSD 204,Naperville,Dupage,4,0
+Spring Brook Elementary School,0.03,0.06,Indian Prairie CUSD 204,Naperville,Dupage,8,0
+Reba O Steck Elementary School,0.09,0.12,Indian Prairie CUSD 204,Aurora,Dupage,10,0
+Patterson Elementary School,0.02,0.04,Indian Prairie CUSD 204,Naperville,Dupage,3,0
+Oliver Julian Kendall Elem School,0.03,0.05,Indian Prairie CUSD 204,Naperville,Dupage,3,0
+Wayne Builta Elementary School,0.05,0.12,Indian Prairie CUSD 204,Bolingbrook,Dupage,8,0
+Danielle-Joy Peterson Elem Sch,0.03,0.06,Indian Prairie CUSD 204,Naperville,Dupage,4,0
+Prairie Children Preschool,0.06,0.2,,Aurora,Dupage,4,0
+York Comm High School,0.03,0.15,Elmhurst SD 205,Elmhurst,Dupage,20,0
+Bryan Middle School,0.02,0.07,Elmhurst SD 205,Elmhurst,Dupage,4,0
+Edison Elem School,0.0,0.07,Elmhurst SD 205,Elmhurst,Dupage,2,0
+Hawthorne Elem School,0.01,0.06,Elmhurst SD 205,Elmhurst,Dupage,7,0
+Jackson Elem School,0.02,0.12,Elmhurst SD 205,Elmhurst,Dupage,8,0
+Lincoln Elem School,0.0,0.04,Elmhurst SD 205,Elmhurst,Dupage,11,0
+North DuPage Sp Ed Cooperative,0.4,0.4,,Roselle,Dupage,1,0
+Lincoln Academy,0.09,0.65,,Roselle,Dupage,4,0
+Southeast Alternative School,0.29,0.51,,Naperville,Dupage,1,0
+Deaf/Hard of Hearing/MN Prgrms,0.21,0.64,,Naperville,Dupage,1,0
+Gallatin Junior High School,0.0,0.64,Gallatin CUSD 7,Junction,Gallatin,1,0
+East Side Elementary School,0.01,0.55,Hamilton Co CUSD 10,Mc Leansboro,Hamilton,1,0
+Carrier Mills-Stonefort H S,0.1,0.54,Carrier Mills-Stonefort CUSD 2,Carrier Mills,Saline,1,0
+West Side Primary School,0.03,0.6,Harrisburg CUSD 3,Harrisburg,Saline,2,0
+Jasper Elem School,0.01,0.35,Jasper CCSD 17,Fairfield,Wayne,1,0
+Lincoln Attendance Center,0.0,0.58,Carmi-White County CUSD 5,Carmi,White,1,0
+Benton Grade Sch K-4,0.01,0.58,Benton CCSD 47,Benton,Franklin,2,0
+Christopher Elem School,0.0,0.13,Christopher USD 99,Christopher,Franklin,5,0
+Central Jr High School,0.02,0.52,Frankfort CUSD 168,West Frankfort,Franklin,2,0
+Frankfort Intermediate School,0.01,0.59,Frankfort CUSD 168,West Frankfort,Franklin,2,0
+Zeigler-Royalton Jr High School,0.01,0.65,Zeigler-Royalton CUSD 188,Zeigler,Franklin,1,0
+Sesser-Valier High School,0.0,0.44,Sesser-Valier CUSD 196,Sesser,Franklin,1,0
+Joppa Jr & Sr High School,0.01,0.62,Joppa-Maple Grove UD 38,Joppa,Massac,1,0
+Carterville Intermediate Sch,0.02,0.37,Carterville CUSD 5,Carterville,Williamson,1,0
+Coal City Middle School,0.01,0.29,Coal City CUSD 1,Coal City,Grundy,1,0
+Coal City Early Childhood Center,0.0,0.3,Coal City CUSD 1,Coal City,Grundy,2,0
+White Oak Elementary,0.02,0.47,Morris SD 54,Morris,Grundy,5,0
+Grundy County Spec Educ Coop,0.06,0.58,,Morris,Grundy,1,0
+Minooka Jr High School,0.05,0.24,Minooka CCSD 201,Minooka,Grundy,10,0
+Walnut Trails Elem School,0.04,0.12,Minooka CCSD 201,Shorewood,Grundy,1,0
+Aux Sable,0.02,0.22,Minooka CCSD 201,Minooka,Grundy,6,0
+Minooka Primary Center,0.03,0.24,,Minooka,Grundy,1,0
+Lisbon Grade School,0.01,0.12,Lisbon CCSD 90,Newark,Kendall,1,0
+Yorkville Intermediate School,0.03,0.17,Yorkville CUSD 115,Yorkville,Kendall,1,0
+Grande Reserve Elem Sch,0.04,0.09,Yorkville CUSD 115,Yorkville,Kendall,5,0
+Murphy Junior High School,0.09,0.11,CUSD 308,Plainfield,Kendall,3,0
+Boulder Hill Elem School,0.08,0.38,CUSD 308,Montgomery,Kendall,4,0
+Old Post Elementary School,0.06,0.18,CUSD 308,Oswego,Kendall,2,0
+Prairie Point Elem School,0.03,0.1,CUSD 308,Oswego,Kendall,1,0
+Hunt Club Elem,0.05,0.21,CUSD 308,Oswego,Kendall,3,0
+Brokaw Early Learning Center,0.08,0.23,,Oswego,Kendall,1,0
+Ingersoll Middle School,0.02,0.52,Canton Union SD 66,Canton,Fulton,1,0
+Project Insight,0.12,0.85,,Macomb,McDonough,1,0
+Washington Elem School,0.05,0.29,Schuyler-Industry CUSD 5,Rushville,Schuyler,1,0
+DePue High School,0.0,0.97,DePue USD 103,DePue,Bureau,1,0
+DePue Elem School,0.0,0.24,DePue USD 103,DePue,Bureau,2,0
+Jefferson Elem School,0.01,0.48,Princeton ESD 115,Princeton,Bureau,1,0
+Behavior Disorder Program Coop,0.0,0.65,,Cherry,Bureau,1,0
+Hall High School,0.01,0.48,Hall HSD 502,Spring Valley,Bureau,1,0
+Geneseo Middle School,0.0,0.24,Geneseo CUSD 228,Geneseo,Henry,1,0
+Millikin Elem School,0.0,0.27,Geneseo CUSD 228,Geneseo,Henry,1,0
+Northside Elem School,0.01,0.34,Geneseo CUSD 228,Geneseo,Henry,2,0
+Wethersfield Elem School,0.04,0.5,Wethersfield CUSD 230,Kewanee,Henry,1,0
+Excel Alternative Program,0.11,0.85,,Atkinson,Henry,1,0
+Bradford Jr High School,0.0,0.85,Bradford CUSD 1,Bradford,Stark,1,0
+Stark County High School,0.0,0.33,Stark County CUSD 100,Toulon,Stark,1,0
+Pinckneyville Elem School,0.0,0.42,Pinckneyville SD 50,Pinckneyville,Perry,2,0
+Pinckneyville Middle School,0.0,0.45,Pinckneyville SD 50,Pinckneyville,Perry,1,0
+Lincoln Elem School,0.01,0.6,Anna CCSD 37,Anna,Union,1,0
+Lincoln Elementary School,0.07,0.65,SD U-46,Hoffman Estates,Kane,9,0
+Timber Trails Elementary School,0.06,0.54,SD U-46,Hoffman Estates,Kane,4,0
+Ontarioville Elem School,0.01,0.91,SD U-46,Hanover Park,Kane,9,0
+Willard Elem School,0.07,0.61,SD U-46,South Elgin,Kane,5,0
+Centennial School,0.01,0.29,SD U-46,Bartlett,Kane,3,0
+Fox Meadow Elementary School,0.07,0.34,SD U-46,South Elgin,Kane,3,0
+Liberty Elem School,0.02,0.36,SD U-46,Bartlett,Kane,10,0
+Independence Preschool,0.05,0.53,,Bartlett,Kane,3,0
+Alice Gustafson Elem School,0.02,0.14,Batavia USD 101,Batavia,Kane,5,0
+Louise White Elem School,0.02,0.15,Batavia USD 101,Batavia,Kane,1,0
+Hope D Wall TMH Child Dev Ctr,0.11,0.76,,Aurora,Kane,1,0
+Fred Rodgers Magnet Acad,0.05,0.57,Aurora East USD 131,Aurora,Kane,2,0
+Early Childhood Dev Cntr,0.03,0.71,,Aurora,Kane,1,0
+Dundee Highlands Elem School,0.05,0.39,CUSD 300,West Dundee,Kane,9,0
+Hampshire Elem School,0.02,0.28,CUSD 300,Hampshire,Kane,5,0
+Sleepy Hollow Elem School,0.06,0.31,CUSD 300,Sleepy Hollow,Kane,5,0
+Cambridge Lakes Charter School,0.05,0.22,CUSD 300,Pingree Grove,Kane,4,0
+Kenneth E Neubert Elem School,0.05,0.32,CUSD 300,Algonquin,Kane,4,0
+Gary D Wright Elem Sch,0.03,0.23,CUSD 300,Hampshire,Kane,7,0
+Central High School,0.04,0.15,Central CUSD 301,Burlington,Kane,2,0
+Central Middle School,0.03,0.13,Central CUSD 301,Burlington,Kane,4,0
+Prairie Knolls Middle Sch,0.03,0.14,Central CUSD 301,Elgin,Kane,8,0
+Lily Lake Grade School,0.01,0.18,Central CUSD 301,Maple Park,Kane,1,0
+Country Trails Elem,0.03,0.12,Central CUSD 301,Elgin,Kane,1,0
+Kaneland Senior High School,0.02,0.15,Kaneland CUSD 302,Maple Park,Kane,1,0
+Kaneland John Shields Elem Sch,0.02,0.13,Kaneland CUSD 302,Sugar Grove,Kane,3,0
+Haines Middle School,0.01,0.07,St Charles CUSD 303,St Charles,Kane,2,0
+Wredling Middle School,0.01,0.18,St Charles CUSD 303,St Charles,Kane,5,0
+Munhall Elem School,0.0,0.15,St Charles CUSD 303,St Charles,Kane,1,0
+Wasco Elem School,0.0,0.08,St Charles CUSD 303,Wasco,Kane,4,0
+Wild Rose Elem School,0.03,0.08,St Charles CUSD 303,St Charles,Kane,1,0
+Ferson Creek School,0.01,0.07,St Charles CUSD 303,St Charles,Kane,2,0
+Fox Ridge School,0.01,0.21,St Charles CUSD 303,St Charles,Kane,1,0
+Bell-Graham Elementary School,0.0,0.04,St Charles CUSD 303,St Charles,Kane,3,0
+Geneva Community High School,0.01,0.05,Geneva CUSD 304,Geneva,Kane,3,0
+Geneva Middle Sch South,0.01,0.06,Geneva CUSD 304,Geneva,Kane,1,0
+Geneva Middle Sch North,0.01,0.05,Geneva CUSD 304,Geneva,Kane,5,0
+Heartland Elementary School,0.01,0.01,Geneva CUSD 304,Geneva,Kane,2,0
+Williamsburg Elem School,0.01,0.06,Geneva CUSD 304,Geneva,Kane,3,0
+Harrison Street Elem School,0.01,0.15,Geneva CUSD 304,Geneva,Kane,5,0
+Western Avenue Elem School,0.01,0.04,Geneva CUSD 304,Geneva,Kane,6,0
+Mill Creek School,0.0,0.02,Geneva CUSD 304,Geneva,Kane,1,0
+Donovan Elem School,0.03,0.56,Donovan CUSD 3,Donovan,Iroquois,1,0
+Chebanse Elem School,0.0,0.47,Central CUSD 4,Chebanse,Iroquois,1,0
+Watseka Comm High School,0.02,0.54,Iroquois County CUSD 9,Watseka,Iroquois,1,0
+Glenn Raymond Middle School,0.02,0.59,Iroquois County CUSD 9,Watseka,Iroquois,2,0
+Nettie Davis Elem School,0.01,0.69,Iroquois County CUSD 9,Watseka,Iroquois,1,0
+Iroquois West Middle School,0.0,0.98,Iroquois West CUSD 10,Onarga,Iroquois,2,0
+Iroquois West Elem School/Gilman,0.0,0.62,Iroquois West CUSD 10,Gilman,Iroquois,4,0
+Iroquois West Elem Sch/Danforth,0.0,0.35,Iroquois West CUSD 10,Danforth,Iroquois,1,0
+Iroquois West Elem Sch/Thawville,0.0,0.59,Iroquois West CUSD 10,Thawville,Iroquois,3,0
+Momence Jr High School,0.15,0.55,Momence CUSD 1,Momence,Kankakee,1,0
+Herscher High School,0.01,0.17,Herscher CUSD 2,Herscher,Kankakee,1,0
+Grant Park Elem School,0.0,0.39,Grant Park CUSD 6,Grant Park,Kankakee,1,0
+Noel Levasseur Elem School,0.09,0.39,Bourbonnais SD 53,Bourbonnais,Kankakee,6,0
+Bradley West Elem School,0.08,0.62,Bradley SD 61,Bradley,Kankakee,6,0
+Bright Futures Pre-K Prog,0.16,0.68,,Galesburg,Knox,3,0
+Central Intermediate School,0.05,1.0,Monmouth-Roseville CUSD 238,Monmouth,Warren,1,0
+North Prairie Jr High,0.06,0.35,Winthrop Harbor SD 1,Winthrop Harbor,Lake,3,0
+Westfield  School,0.06,0.38,Winthrop Harbor SD 1,Winthrop Harbor,Lake,1,0
+Oak Crest School,0.23,0.46,Beach Park CCSD 3,Beach Park,Lake,4,0
+Howe Elementary School,0.11,0.7,Beach Park CCSD 3,Beach Park,Lake,9,0
+Millburn Elem School,0.02,0.02,Millburn CCSD 24,Old Mill Creek,Lake,7,0
+Millburn Middle School,0.02,0.05,Millburn CCSD 24,Lindenhurst,Lake,4,0
+Emmons Grade School,0.02,0.1,Emmons SD 33,Antioch,Lake,1,0
+Oakland Elementary School,0.03,0.19,Antioch CCSD 34,Lake Villa,Lake,4,0
+Grass Lake Elem School,0.01,0.19,Grass Lake SD 36,Antioch,Lake,3,0
+Gavin South Middle School,0.01,0.57,Gavin SD 37,Ingleside,Lake,2,0
+Big Hollow Elem School,0.05,0.29,Big Hollow SD 38,Ingleside,Lake,5,0
+Peter J Palombi School,0.04,0.25,Lake Villa CCSD 41,Lake Villa,Lake,7,0
+William L Thompson School,0.04,0.26,Lake Villa CCSD 41,Lake Villa,Lake,10,0
+Grayslake Middle School,0.04,0.26,Grayslake CCSD 46,Grayslake,Lake,4,0
+Avon Center Elem School,0.04,0.52,Grayslake CCSD 46,Round Lake Beach,Lake,10,0
+Woodview School,0.03,0.26,Grayslake CCSD 46,Grayslake,Lake,8,0
+Meadowview School,0.04,0.19,Grayslake CCSD 46,Grayslake,Lake,3,0
+Frederick School,0.05,0.26,Grayslake CCSD 46,Grayslake,Lake,7,0
+Prairieview School,0.06,0.34,Grayslake CCSD 46,Hainesville,Lake,2,0
+Park East School,0.05,0.23,Grayslake CCSD 46,Round Lake,Lake,4,0
+Woodland Primary School,0.06,0.34,Woodland CCSD 50,Gages Lake,Lake,4,0
+Early Learning Center,0.15,0.66,,Waukegan,Lake,3,0
+Lake Bluff Elem Sch,0.02,0.08,Lake Bluff ESD 65,Lake Bluff,Lake,5,0
+Deer Path Middle Sch West,0.0,0.02,Lake Forest SD 67,Lake Forest,Lake,2,0
+Cherokee Elem School,0.0,0.02,Lake Forest SD 67,Lake Forest,Lake,1,0
+Everett Elem School,0.01,0.02,Lake Forest SD 67,Lake Forest,Lake,4,0
+Sheridan Elem School,0.0,0.02,Lake Forest SD 67,Lake Forest,Lake,1,0
+Oak Grove Elem School,0.02,0.0,Oak Grove SD 68,Libertyville,Lake,4,0
+Highland Middle School,0.01,0.05,Libertyville SD 70,Libertyville,Lake,3,0
+Butterfield School,0.01,0.05,Libertyville SD 70,Libertyville,Lake,3,0
+Copeland Manor Elem School,0.01,0.03,Libertyville SD 70,Libertyville,Lake,3,0
+Rockland Elem School,0.0,0.1,Libertyville SD 70,Libertyville,Lake,1,0
+Adler Park School,0.0,0.09,Libertyville SD 70,Libertyville,Lake,5,0
+Rondout Elem School,0.0,0.05,Rondout SD 72,Lake Forest,Lake,1,0
+Hawthorn Aspen Elem School,0.02,0.24,Hawthorn CCSD 73,Vernon Hills,Lake,4,0
+Hawthorn Sch of Dual Language,0.02,0.52,Hawthorn CCSD 73,Vernon Hills,Lake,1,0
+Carl Sandburg Middle School,0.03,0.27,Mundelein ESD 75,Mundelein,Lake,11,0
+Mechanics Grove Elem School,0.02,0.4,Mundelein ESD 75,Mundelein,Lake,9,0
+Washington Elem School,0.02,0.3,Mundelein ESD 75,Mundelein,Lake,3,0
+West Oak Middle School,0.01,0.58,Diamond Lake SD 76,Mundelein,Lake,7,0
+Fairhaven School,0.01,0.61,Diamond Lake SD 76,Mundelein,Lake,1,0
+Fremont Jr High/Middle School,0.02,0.08,Fremont SD 79,Mundelein,Lake,6,0
+Fremont Elem School,0.01,0.08,Fremont SD 79,Mundelein,Lake,5,0
+Fremont Intermediate School,0.02,0.08,Fremont SD 79,Mundelein,Lake,7,0
+Lake Zurich High School,0.01,0.12,Lake Zurich CUSD 95,Lake Zurich,Lake,4,0
+Lake Zurich Middle - N Campus,0.01,0.14,Lake Zurich CUSD 95,Hawthorn Woods,Lake,2,0
+Seth Paine Elem School,0.01,0.22,Lake Zurich CUSD 95,Hawthorn Woods,Lake,5,0
+Isaac Fox Elementary School,0.0,0.08,Lake Zurich CUSD 95,Lake Zurich,Lake,1,0
+Spencer Loomis Elementary School,0.02,0.1,Lake Zurich CUSD 95,Hawthorn Woods,Lake,7,0
+Twin Groves Middle School,0.01,0.05,Kildeer Countryside CCSD 96,Buffalo Grove,Lake,3,0
+Woodlawn Middle School,0.02,0.1,Kildeer Countryside CCSD 96,Long Grove,Lake,8,0
+Kildeer Countryside Elem School,0.01,0.05,Kildeer Countryside CCSD 96,Long Grove,Lake,7,0
+Prairie Elementary School,0.0,0.05,Kildeer Countryside CCSD 96,Buffalo Grove,Lake,2,0
+Ivy Hall Elementary School,0.01,0.09,Kildeer Countryside CCSD 96,Buffalo Grove,Lake,8,0
+Aptakisic Junior High School,0.02,0.11,Aptakisic-Tripp CCSD 102,Buffalo Grove,Lake,4,0
+Earl Pritchett School,0.02,0.07,Aptakisic-Tripp CCSD 102,Buffalo Grove,Lake,7,0
+Tripp School,0.0,0.09,Aptakisic-Tripp CCSD 102,Buffalo Grove,Lake,5,0
+Meridian Middle School,0.01,0.11,Aptakisic-Tripp CCSD 102,Buffalo Grove,Lake,9,0
+Daniel Wright Jr High School,0.01,0.01,Lincolnshire-Prairieview SD 103,Lincolnshire,Lake,3,0
+Laura B Sprague School,0.0,0.02,Lincolnshire-Prairieview SD 103,Lincolnshire,Lake,4,0
+Half Day School,0.01,0.01,Lincolnshire-Prairieview SD 103,Lincolnshire,Lake,2,0
+Bannockburn School,0.05,0.12,Bannockburn SD 106,Bannockburn,Lake,4,0
+Alan B Shepard Middle School,0.01,0.0,Deerfield SD 109,Deerfield,Lake,5,0
+Kipling Elem School,0.0,0.0,Deerfield SD 109,Deerfield,Lake,10,0
+Walden Elem School,0.01,0.01,Deerfield SD 109,Deerfield,Lake,10,0
+Wilmot Elem School,0.0,0.0,Deerfield SD 109,Deerfield,Lake,9,0
+South Park Elem School,0.0,0.0,Deerfield SD 109,Deerfield,Lake,2,0
+Northwood Jr High School,0.04,0.45,North Shore SD 112,Highland Park,Lake,3,0
+Elm Place School,0.02,0.17,North Shore SD 112,Highland Park,Lake,7,0
+Braeside Elem School,0.0,0.01,North Shore SD 112,Highland Park,Lake,4,0
+Indian Trail Elem School,0.03,0.24,North Shore SD 112,Highland Park,Lake,11,0
+Ravinia Elem School,0.01,0.04,North Shore SD 112,Highland Park,Lake,5,0
+Sherwood Elem School,0.0,0.19,North Shore SD 112,Highland Park,Lake,5,0
+Red Oak Elem School,0.03,0.26,North Shore SD 112,Highland Park,Lake,2,0
+Oak Terrace Elem School,0.01,0.66,North Shore SD 112,Highwood,Lake,4,0
+Wayne Thomas Elem School,0.03,0.14,North Shore SD 112,Highland Park,Lake,6,0
+Lincoln Elem School,0.01,0.04,North Shore SD 112,Highland Park,Lake,7,0
+Green Bay School,0.01,0.51,,Highland Park,Lake,1,0
+Deerfield High School,0.01,0.04,Twp HSD 113,Deerfield,Lake,4,0
+Stanton School,0.03,0.56,Fox Lake GSD 114,Fox Lake,Lake,1,0
+Pleviak Elem School,0.06,0.69,Round Lake CUSD 116,Lake Villa,Lake,4,0
+Lakes Community High School,0.02,0.14,CHSD 117,Lake Villa,Lake,5,0
+Matthews Middle School,0.01,0.22,Wauconda CUSD 118,Island Lake,Lake,1,0
+Wauconda Grade School,0.02,0.44,Wauconda CUSD 118,Wauconda,Lake,4,0
+Vernon Hills High School,0.03,0.13,CHSD 128,Vernon Hills,Lake,6,0
+Barrington High School,0.01,0.19,Barrington CUSD 220,Barrington,Lake,5,0
+Barrington Middle Sch Station,0.02,0.19,Barrington CUSD 220,Barrington,Lake,4,0
+Grove Avenue Elem School,0.01,0.14,Barrington CUSD 220,Barrington,Lake,5,0
+North Barrington Elem School,0.03,0.08,Barrington CUSD 220,North Barrington,Lake,7,0
+North Shore Academy Elem,0.02,0.16,,Northbrook,Lake,1,0
+Spec Educ Dist Lake County/Sedol,0.23,0.61,,Grayslake,Lake,1,0
+Cyd Lash Academy,0.32,0.59,,Gages Lake,Lake,1,0
+Circuit Breaker School,0.04,0.79,,Peru,La Salle,1,0
+Sheridan Elem School,0.01,0.41,Serena CUSD 2,Sheridan,La Salle,1,0
+Earlville Jr/Sr High School,0.0,0.44,Earlville CUSD 9,Earlville,La Salle,2,0
+Northlawn Jr High School,0.05,0.72,Streator ESD 44,Streator,La Salle,4,0
+Kimes Elem School,0.05,0.8,Streator ESD 44,Streator,La Salle,1,0
+Deer Park C C Elem School,0.0,0.21,Deer Park CCSD 82,Ottawa,La Salle,3,0
+Jackson  School,0.07,0.7,,La Salle,La Salle,2,0
+Washington Elem School,0.02,0.48,Oglesby ESD 125,Oglesby,La Salle,2,0
+Jefferson Elem School,0.03,0.65,Ottawa ESD 141,Ottawa,La Salle,2,0
+Marseilles Elementary School,0.01,0.6,Marseilles ESD 150,Marseilles,La Salle,5,0
+Wallace Elem School,0.03,0.22,Wallace CCSD 195,Ottawa,La Salle,5,0
+Mendota Twp High School,0.01,0.48,Mendota Twp HSD 280,Mendota,La Salle,7,0
+Henry-Senachwine High School,0.02,0.42,Henry-Senachwine CUSD 5,Henry,Marshall,1,0
+Putnam County Jr High School,0.01,0.36,Putnam County CUSD 535,Mc Nabb,Putnam,3,0
+Putnam Co Primary Sch,0.0,0.26,Putnam County CUSD 535,Granville,Putnam,2,0
+Johns Hill Magnet School,0.28,0.41,Decatur SD 61,Decatur,Macon,1,0
+White Heath Elem School,0.02,0.23,Monticello CUSD 25,White Heath,Piatt,1,0
+North Greene Jr/Sr High Sch,0.0,0.58,North Greene CUSD 3,White Hall,Greene,1,0
+Carlinville Primary School,0.01,0.53,Carlinville CUSD 1,Carlinville,Macoupin,4,0
+Carlinville Intermediate School,0.0,0.57,Carlinville CUSD 1,Carlinville,Macoupin,2,0
+Staunton Jr High School,0.0,0.41,Staunton CUSD 6,Staunton,Macoupin,1,0
+Triad High School,0.02,0.19,Triad CUSD 2,Troy,Madison,1,0
+Edwardsville High School,0.08,0.14,Edwardsville CUSD 7,Edwardsville,Madison,1,0
+Woodland Elementary School,0.1,0.17,Edwardsville CUSD 7,Edwardsville,Madison,1,0
+Frohardt Elem School,0.22,0.68,Granite City CUSD 9,Granite City,Madison,1,0
+Mitchell Elementary School,0.13,0.65,Granite City CUSD 9,Granite City,Madison,3,0
+Caseyville Elementary School,0.05,0.84,Collinsville CUSD 10,Caseyville,Madison,2,0
+Kreitner Elem School,0.01,0.91,Collinsville CUSD 10,Collinsville,Madison,4,0
+Dorris Intermediate Sch,0.13,0.5,Collinsville CUSD 10,Collinsville,Madison,1,0
+Fox River Grove Middle School,0.01,0.15,Fox River Grove Cons SD 3,Fox River Grove,McHenry,1,0
+Johnsburg High School,0.01,0.22,Johnsburg CUSD 12,Johnsburg,McHenry,2,0
+Johnsburg Elementary School,0.01,0.31,Johnsburg CUSD 12,Johnsburg,McHenry,2,0
+Chauncey H Duker School,0.01,0.45,McHenry CCSD 15,McHenry,McHenry,4,0
+Edgebrook Elem School,0.02,0.47,McHenry CCSD 15,Mchenry,McHenry,3,0
+Landmark Elem School,0.01,0.11,McHenry CCSD 15,McHenry,McHenry,1,0
+Riverwood Elementary School,0.01,0.47,McHenry CCSD 15,McHenry,McHenry,5,0
+Riley Comm Cons School,0.01,0.27,Riley CCSD 18,Marengo,McHenry,2,0
+Cary Jr High School,0.0,0.22,Cary CCSD 26,Cary,McHenry,1,0
+Briargate Elem School,0.01,0.19,Cary CCSD 26,Cary,McHenry,2,0
+Three Oaks School,0.01,0.4,Cary CCSD 26,Cary,McHenry,3,0
+Deer Path Elem School,0.01,0.19,Cary CCSD 26,Cary,McHenry,7,0
+Harrison Elem School,0.01,0.6,Harrison SD 36,Wonder Lake,McHenry,1,0
+Prairie Grove Elem School,0.01,0.19,Prairie Grove CSD 46,Crystal Lake,McHenry,4,0
+Hannah Beardsley Middle School,0.01,1.0,Crystal Lake CCSD 47,Crystal Lake,McHenry,4,0
+Canterbury Elem School,0.01,0.99,Crystal Lake CCSD 47,Crystal Lake,McHenry,3,0
+Husmann Elem School,0.02,1.0,Crystal Lake CCSD 47,Crystal Lake,McHenry,1,0
+Coventry Elem School,0.02,1.0,Crystal Lake CCSD 47,Crystal Lake,McHenry,8,0
+West Elem School,0.02,1.0,Crystal Lake CCSD 47,Crystal Lake,McHenry,12,0
+Indian Prairie Elem School,0.02,0.99,Crystal Lake CCSD 47,Crystal Lake,McHenry,7,0
+Woods Creek Elementary School,0.01,0.99,Crystal Lake CCSD 47,Crystal Lake,McHenry,6,0
+Glacier Ridge Elementary School,0.04,0.95,Crystal Lake CCSD 47,Crystal Lake,McHenry,2,0
+Harvard High School,0.0,0.99,Harvard CUSD 50,Harvard,McHenry,3,0
+Harvard Jr High School,0.01,0.99,Harvard CUSD 50,Harvard,McHenry,3,0
+Crosby Elem Sch,0.01,0.99,Harvard CUSD 50,Harvard,McHenry,8,0
+Marengo High School,0.01,0.31,Marengo CHSD 154,Marengo,McHenry,5,0
+Crystal Lake Central High School,0.01,0.27,CHSD 155,Crystal Lake,McHenry,10,0
+Cary-Grove Community High School,0.01,0.18,CHSD 155,Cary,McHenry,11,0
+Crystal Lake South High School,0.01,0.16,CHSD 155,Crystal Lake,McHenry,6,0
+Prairie Ridge High School,0.01,0.13,CHSD 155,Crystal Lake,McHenry,2,0
+McHenry  East High School,0.01,0.31,McHenry CHSD 156,McHenry,McHenry,5,0
+Richmond-Burton High School,0.0,0.12,Richmond-Burton CHSD 157,Richmond,McHenry,1,0
+Heineman Middle School,0.01,0.12,Huntley Comm Sch Dist 158,Algonquin,McHenry,3,0
+Chesak Elementary School,0.02,0.2,Huntley Comm Sch Dist 158,Lake in the Hills,McHenry,5,0
+Leggee Elementary School,0.03,0.13,Huntley Comm Sch Dist 158,Huntley,McHenry,10,0
+Conley Elementary School,0.0,0.17,Huntley Comm Sch Dist 158,Algonquin,McHenry,7,0
+Marengo Comm Middle School,0.01,0.47,Marengo-Union E Cons D 165,Marengo,McHenry,2,0
+Ulysses S Grant Intermediate Sch,0.01,0.48,Marengo-Union E Cons D 165,Marengo,McHenry,4,0
+Woodstock North High School,0.01,0.32,Woodstock CUSD 200,Woodstock,McHenry,5,0
+Greenwood Elem School,0.0,0.31,Woodstock CUSD 200,Woodstock,McHenry,1,0
+Dixon High School,0.02,0.38,Dixon USD 170,Dixon,Lee,2,0
+Ashton-Franklin Center HS,0.03,0.35,Ashton-Franklin Center CUSD 275,Ashton,Lee,3,0
+Rochelle Twp High School,0.02,0.26,Rochelle Twp HSD 212,Rochelle,Ogle,3,0
+Oregon High School,0.01,0.41,Oregon CUSD 220,Oregon,Ogle,1,0
+David L Rahn Jr High School,0.01,0.44,Oregon CUSD 220,Mount Morris,Ogle,3,0
+Forreston Jr/Sr High Sch,0.0,0.29,Forrestville Valley CUSD 221,Forreston,Ogle,1,0
+Forreston Grade School,0.01,0.34,Forrestville Valley CUSD 221,Forreston,Ogle,3,0
+Aplington Middle School,0.01,0.38,Polo CUSD 222,Polo,Ogle,2,0
+Stillman Valley High School,0.01,0.25,Meridian CUSD 223,Stillman Valley,Ogle,1,0
+Highland Elem School,0.0,0.32,Meridian CUSD 223,Stillman Valley,Ogle,1,0
+Byron High School 9-12,0.01,0.2,Byron CUSD 226,Byron,Ogle,2,0
+Byron Middle School,0.01,0.22,Byron CUSD 226,Byron,Ogle,2,0
+Mary Morgan Elem Sch,0.01,0.22,Byron CUSD 226,Byron,Ogle,1,0
+Lincoln Elem School,0.01,0.57,Rochelle CCSD 231,Rochelle,Ogle,3,0
+Tilton Elem School,0.03,0.27,Rochelle CCSD 231,Rochelle,Ogle,1,0
+Fulton High School,0.0,0.29,River Bend CUSD 2,Fulton,Whiteside,1,0
+River Bend Middle School,0.0,0.32,River Bend CUSD 2,Fulton,Whiteside,1,0
+Franklin Elem School,0.03,0.56,Sterling CUSD 5,Sterling,Whiteside,1,0
+Morrison High School,0.0,0.27,Morrison CUSD 6,Morrison,Whiteside,1,0
+Merrill Elem School,0.02,0.8,Rock Falls ESD 13,Rock Falls,Whiteside,2,0
+Rolling Acres Middle School,0.4,0.55,Peoria SD 150,Peoria,Peoria,1,0
+Charles A Lindbergh Middle School,0.32,0.47,Peoria SD 150,Peoria,Peoria,2,0
+Kellar Primary School,0.25,0.47,Peoria SD 150,Peoria,Peoria,2,0
+Northmoor Primary School,0.34,0.55,Peoria SD 150,Peoria,Peoria,2,0
+Charter Oak Primary School,0.45,0.61,Peoria SD 150,Peoria,Peoria,1,0
+Day Treatment,0.79,0.89,,Peoria,Peoria,3,0
+Brimfield High School,0.02,0.19,Brimfield CUSD 309,Brimfield,Peoria,3,0
+Elmwood Junior High School,0.03,0.19,Elmwood CUSD 322,Elmwood,Peoria,1,0
+John Deere Middle School,0.06,0.57,Moline-Coal Valley CUSD 40,Moline,Rock Island,1,0
+Woodrow Wilson Middle School,0.1,0.47,Moline-Coal Valley CUSD 40,Moline,Rock Island,1,0
+Lincoln-Irving Elem School,0.05,0.89,Moline-Coal Valley CUSD 40,Moline,Rock Island,1,0
+Bicentennial Elem School,0.01,0.26,Moline-Coal Valley CUSD 40,Coal Valley,Rock Island,1,0
+RICMS,0.34,0.63,Rock Island SD 41,Rock Island,Rock Island,4,0
+Matherville Intermediate School,0.01,0.34,Sherrard CUSD 200,Matherville,Rock Island,1,0
+Freeburg Primary Center,0.0,0.03,Freeburg CCSD 70,Freeburg,Saint Clair,1,0
+Fulton Jr High School,0.16,0.15,O Fallon CCSD 90,O Fallon,Saint Clair,1,0
+Marie Schaefer Elem School,0.23,0.2,O Fallon CCSD 90,O Fallon,Saint Clair,3,0
+Delores Moye Elem School,0.16,0.23,O Fallon CCSD 90,O Fallon,Saint Clair,2,0
+Joseph Arthur Middle School,0.36,0.6,Central SD 104,O Fallon,Saint Clair,1,0
+William Holliday Elem School,0.4,0.47,Pontiac-W Holliday SD 105,Fairview Heights,Saint Clair,2,0
+East St Louis-Lincoln Middle School,1.0,0.98,East St Louis SD 189,East St Louis,Saint Clair,1,0
+Dupo High School,0.04,0.51,Dupo CUSD 196,Dupo,Saint Clair,1,0
+Dupo Jr High School,0.04,0.62,Dupo CUSD 196,Dupo,Saint Clair,1,0
+Belleville High School-West,0.37,0.47,Belleville Twp HSD 201,Belleville,Saint Clair,1,0
+Pathways School,0.35,0.41,,Belleville,Saint Clair,2,0
+Tri-City Elem School,0.01,0.38,Tri City CUSD 1,Buffalo,Sangamon,1,0
+Springfield Ball Charter School,0.38,0.57,Springfield SD 186,Springfield,Sangamon,2,0
+Lincoln Grade School,0.02,0.26,Washington SD 52,Washington,Tazewell,4,0
+LaSalle Elem School,0.01,0.75,Creve Coeur SD 76,Creve Coeur,Tazewell,1,0
+Robein Elem School,0.04,0.3,Robein SD 85,East Peoria,Tazewell,1,0
+Central Jr High School,0.03,0.44,East Peoria SD 86,East Peoria,Tazewell,2,0
+Glendale Elem School,0.04,0.66,East Peoria SD 86,East Peoria,Tazewell,1,0
+Pekin Community High School,0.01,0.45,Pekin CSD 303,Pekin,Tazewell,1,0
+Grundy Elem School,0.01,0.16,Morton CUSD 709,Morton,Tazewell,2,0
+Fieldcrest High School,0.0,0.39,Fieldcrest CUSD 6,Minonk,Woodford,4,0
+Jefferson Park School,0.02,0.33,El Paso-Gridley CUSD 11,El Paso,Woodford,1,0
+Roanoke-Benson High School,0.01,0.28,Roanoke Benson CUSD 60,Roanoke,Woodford,1,0
+Eureka High School,0.0,0.2,Eureka CUD 140,Eureka,Woodford,1,0
+Eureka Middle School,0.01,0.23,Eureka CUD 140,Eureka,Woodford,1,0
+Davenport Elem School,0.01,0.29,Eureka CUD 140,Eureka,Woodford,4,0
+Bismarck-Henning Jr High School,0.0,0.32,Bismarck Henning CUSD,Bismarck,Vermilion,1,0
+Georgetown-Ridge Farm High School,0.02,0.52,Georgetown-Ridge Farm CUD 4,Georgetown,Vermilion,1,0
+Hoopeston Area High School,0.0,0.51,Hoopeston Area CUSD 11,Hoopeston,Vermilion,1,0
+Hoopeston Area Middle School,0.01,0.64,Hoopeston Area CUSD 11,Hoopeston,Vermilion,2,0
+Honeywell Elem School,0.0,0.64,Hoopeston Area CUSD 11,Hoopeston,Vermilion,2,0
+Oakwood Grade School,0.02,0.49,Oakwood CUSD 76,Oakwood,Vermilion,2,0
+Northeast Elem Magnet School,0.21,0.35,Danville CCSD 118,Danville,Vermilion,2,0
+Channahon Junior High School,0.02,0.12,Channahon SD 17,Channahon,Will,1,0
+Goodings Grove School,0.01,0.2,Homer CCSD 33C,Homer Glen,Will,7,0
+Hadley Middle School,0.01,0.13,Homer CCSD 33C,Homer Glen,Will,6,0
+Luther J Schilling School,0.02,0.14,Homer CCSD 33C,Homer Glen,Will,8,0
+William E Young School,0.01,0.08,Homer CCSD 33C,Homer Glen,Will,1,0
+Union Elementary School,0.21,0.93,Union SD 81,Joliet,Will,1,0
+Oak Prairie Jr High School,0.01,0.2,Will County SD 92,Homer Glen,Will,3,0
+Walsh Elem School,0.01,0.25,Will County SD 92,Lockport,Will,4,0
+Reed Elem School,0.01,0.26,Will County SD 92,Homer Glen,Will,5,0
+Manhattan Jr High School,0.01,0.14,Manhattan SD 114,Manhattan,Will,3,0
+Wilson Creek Elem Sch,0.01,0.1,Manhattan SD 114,Manhattan,Will,2,0
+Alex M Martino Jr High School,0.01,0.08,New Lenox SD 122,New Lenox,Will,1,0
+Nelson Ridge School,0.01,0.11,New Lenox SD 122,New Lenox,Will,3,0
+Bentley Elem School,0.01,0.21,New Lenox SD 122,New Lenox,Will,1,0
+Oster-Oakview  School,0.02,0.17,New Lenox SD 122,New Lenox,Will,2,0
+Spencer Trail,0.01,0.12,New Lenox SD 122,New Lenox,Will,1,0
+Spencer Pointe,0.01,0.07,New Lenox SD 122,New Lenox,Will,2,0
+Spencer Crossing,0.01,0.06,New Lenox SD 122,New Lenox,Will,5,0
+Cherry Hill Elem and EC Center,0.03,0.17,,New Lenox,Will,1,0
+Grand Prairie Elementary School,0.05,0.06,Frankfort CCSD 157C,Frankfort,Will,9,0
+Mokena Jr High School,0.02,0.16,Mokena SD 159,Mokena,Will,7,0
+Summit Hill Junior High School,0.06,0.11,Summit Hill SD 161,Frankfort,Will,4,0
+Frankfort Square Elem School,0.03,0.2,Summit Hill SD 161,Frankfort,Will,3,0
+Indian Trail Elem School,0.08,0.14,Summit Hill SD 161,Frankfort,Will,6,0
+Dr Julian Rogus School,0.05,0.12,Summit Hill SD 161,Frankfort,Will,1,0
+Beecher High School,0.01,0.18,Beecher CUSD 200U,Beecher,Will,4,0
+Beecher Junior High School,0.03,0.26,Beecher CUSD 200U,Beecher,Will,8,0
+Crete-Monee Early Childhood Cntr,0.43,0.56,,Crete,Will,1,0
+Thomas Jefferson Elem Sch,0.12,0.33,Plainfield SD 202,Joliet,Will,17,0
+Bonnie McBeth Learning Ctr,0.07,0.27,,Plainfield,Will,1,0
+Peotone Jr High School,0.01,0.2,Peotone CUSD 207U,Peotone,Will,1,0
+Peotone Intermediate Center,0.01,0.26,Peotone CUSD 207U,Frankfort,Will,2,0
+Wilmington Middle School,0.0,0.43,Wilmington CUSD 209U,Wilmington,Will,1,0
+L J Stevens Intermediate School,0.0,0.43,Wilmington CUSD 209U,Wilmington,Will,2,0
+Lincoln Way West,0.02,0.11,Lincoln Way CHSD 210,New Lenox,Will,2,0
+Reed-Custer Primary School,0.01,0.48,Reed Custer CUSD 255U,Custer Park,Will,1,0
+SOWIC Educ Center,0.04,0.43,,Wilmington,Will,1,0
+Robert C Hill Elem School,0.12,0.53,Valley View CUSD 365U,Romeoville,Will,23,0
+Valley View Early Childhood Cntr,0.13,0.65,,Romeoville,Will,1,0
+Pioneer Grove Educational Center,0.06,0.11,,Frankfort,Will,1,0
+Aspire Alternative High School,0.0,0.5,,Effingham,ROE,1,0
+Regl Learning Academy Star Boone,0.02,0.61,,Belvidere,ROE,1,0
+Regional Alternative School,0.1,0.59,,Rockford,ROE,1,0
+Freeport Alternative High Sch,0.42,0.81,,Freeport,ROE,2,0
+Premier Academy Morris,0.04,0.48,,Morris,ROE,2,0
+FLEX Program,0.0,1.0,,Plano,ROE,1,0
+Reg'l Safe School Program ROE #28,0.0,0.86,,Atkinson,ROE,1,0
+LaSalle County Detention Home,NA,NA,,Ottawa,ROE,1,0
+LMP ROE,0.06,0.76,,Peru,ROE,1,0
+Rock River Challenge,0.0,0.67,,Chana,ROE,1,0
+Peoria Regional High School,0.05,0.36,,Hanna City,ROE,1,0
+MLK A R T Program,NA,NA,,Rock Island,ROE,1,0
+Arlyn Day School,0.06,0.14,,Wilmette,Cook,1,0
+Challenger Day School,NA,NA,,Niles,Cook,2,0
+Cove School,0.1,0.12,,Northbrook,Cook,2,0
+Metropolitan Prep High School,0.1,0.4,,Arlington Heights,Cook,1,0
+Metropolitan Prep Grade School,0.07,0.45,,Arlington Heights,Cook,5,0
+Laureate Day School,0.0,0.33,,Arlington Heights,Cook,3,0
+NewHope Academy,0.04,0.06,,Niles,Cook,3,0
+Camelot Therapeutic-Naperville,0.16,0.49,,Naperville,Cook,2,0
+Camelot - Kankakee Campus,0.09,0.43,,Bourbonnais,Cook,3,0
+Camelot of Belvidere,0.43,0.68,,Garden Prairie,Cook,1,0
+Joseph Academy,NA,NA,,Des Plaines,Cook,1,0
+Children's Center PACT 0-3,0.07,0.78,,Berwyn,Cook,1,0
+Red Feather,0.12,0.88,,Cicero,Cook,1,0
+Clyde Park Street,0.03,0.72,,Cicero,Cook,1,0
+Oak Park and River Forest Day Nursery,0.45,0.47,,Oak Park,Cook,1,0
+ABC Toon Town Educational Center,0.76,1.0,,Oak Park,Cook,1,0
+Chicago Autism Academy,NA,NA,,Frankfort,Cook,1,0
+Pavilion Foundation School-Day,0.41,0.52,,Champaign,Champaign,2,0
+Misericordia School,0.43,0.57,,Chicago,Cook,2,0
+Chicago Lighthouse,0.5,0.82,,Chicago,Cook,1,0
+Easter Seals Therapeutic,0.42,0.88,,Chicago,Cook,1,0
+New Horizon Center,0.07,0.5,,Chicago,Cook,1,0
+Rush Day School,0.1,0.41,,Chicago,Cook,2,0
+Small World - Melrose,0.06,1.0,,Melrose Park,Cook,1,0
+Harvey Head Start,0.87,1.0,,Harvey,Cook,1,0
+Guiding Light Academy,0.11,0.57,,Woodridge,Dupage,1,0
+Abraxas Naperville Bridge Program,0.28,0.45,,Woodridge,Dupage,4,0
+Northern IL Academy,0.44,0.56,,Aurora,Dupage,1,0
+Soaring Eagle Academy,0.02,0.17,,Lombard,Dupage,1,0
+GlenOaks Therapeutic Day-North,0.07,0.36,,Glendale Heights,Dupage,1,0
+Giant Steps-Illinois,0.07,0.3,,Lisle,Dupage,1,0
+SEAL,0.33,0.67,,Lombard,Dupage,1,0
+School of Exp Arts & Learn (SEAL),0.18,0.45,,Lombard,Dupage,1,0
+Marklund Day School,0.24,0.52,,Bloomingdale,Kane,1,0
+Midstate Cornerstone Academy,0.02,0.89,,Nokomis,Kane,1,0
+Fox Tech Transition Program,0.22,0.59,,North Aurora,Kane,2,0
+Menta Academy North,0.67,0.81,,Waukegan,Kane,1,0
+Summit School,0.03,0.13,,Elgin,Kane,1,0
+Connections Academy East,0.21,0.54,,Lake Forest,Lake,1,0
+Catholic Childrens Home-Day,0.19,0.63,,Alton,Sangamon,1,0
+Swann Special Care-Secondary,0.0,0.17,,Champaign,,1,0
+Walter Lawson Childrens Home,0.22,0.59,,Loves Park,,1,0
+Notre Dame College Prep,NA,NA,,Niles,Cook,8,0
+St Francis Xavier,NA,NA,,Wilmette,Cook,1,0
+Centerview Therapeutic,NA,NA,,Northbrook,Cook,1,0
+Guerin College Prep High Sch,NA,NA,,River Grove,Cook,2,0
+St Johns Lutheran School,NA,NA,,La Grange,Cook,1,0
+St Giles School,NA,NA,,Oak Park,Cook,1,0
+Proviso Area Exceptional Child,NA,NA,,Maywood,Cook,1,0
+Des Plaines Valley EFE,NA,NA,,River Grove,Cook,2,0
+Mt Vernon Area Voc Center,NA,NA,,Mount Vernon,,1,0
+Wilco Area Career Center,NA,NA,,Romeoville,,7,0

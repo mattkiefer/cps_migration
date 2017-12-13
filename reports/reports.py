@@ -1,5 +1,5 @@
 from cps_migration.settings import BASE_DIR
-from transfers.models import School, Student, Transfer
+from transfers.models import School, Student, Transfer, IncomingTransfer, District
 from geos.models import CommArea
 import csv
 from tcr_tools.typify import intify, floatify
@@ -14,7 +14,8 @@ def get_transfers():
     """
     return all transfers with complete to/from home/serving info
     """
-    return Transfer.objects.filter(from_home_school__isnull=False).\
+    return Transfer.objects.\
+            filter(from_home_school__isnull=False).\
             filter(from_serving_school__isnull=False).\
             filter(to_home_school__isnull=False).\
             filter(to_serving_school__isnull=False)
@@ -24,7 +25,8 @@ def get_cps_transfers():
     """
     return all *complete* cps transfers out
     """
-    return [x for x in get_transfers() if x.from_home_school.cps_id]
+    return get_transfers() # can't trust that cps_id so punt
+    #return [x for x in get_transfers() if x.from_home_school.cps_id]
 
 
 def get_cps_schools():
@@ -65,8 +67,8 @@ def get_maj_race_schools(race='black',threshold=0.8):
     except:
         import ipdb; ipdb.set_trace()
 
-def get_district(rcdts):
-    return rcdts[5:9]
+def get_district(school):
+    return school.district.name if school.district else None
 
 def comms_to_burbs():
     """
@@ -107,21 +109,22 @@ def comms_to_burbs():
     return sorted_transfers
 
 
-def transfers_by_comm_area_by_year(connect=True):
+def transfers_by_comm_area_by_year(inbound=False,years=years):
     """
     list annual transfer counts by community area.
-    if connect = True, only count connecting transfers
+    if inbound = True, count transfers _in_ to comm area schools
     """
     # set up data
     data = dict()
+    if inbound:
+        years = sorted(list(set([x.school_year for x in IncomingTransfer.objects.all()])))
 
     # set up output file
     outfile_name = output_dir + 'transfers_by_commarea_by_year.csv'
-    if connect:
-        outfile_name = output_dir + 'connecting_transfers_by_commarea_by_year.csv'
+    if inbound:
+        outfile_name = output_dir + 'inbound_transfers_by_commarea_by_year.csv'
     outfile = open(outfile_name,'w')
-    out_headers = ['Comm Area','pct_black','pct_latino','pct_white','pct_poverty','pct_under_18']
-    out_headers +=  sorted(list(years))
+    out_headers = ['Comm Area','pct_black','pct_latino','pct_white','pct_poverty','pct_under_18'] + years + ['total']
     out_csv = csv.DictWriter(outfile, out_headers)
     out_csv.writeheader()
     
@@ -135,10 +138,10 @@ def transfers_by_comm_area_by_year(connect=True):
                 continue
             print('including',ca_school.from_home_school.__dict__)
             # ... get each school and its transfers ...
-            if connect:
-                school_transfers = Transfer.objects.filter(from_home_school=ca_school,to_serving_school__isnull=False)
+            if inbound:
+                school_transfers = IncomingTransfer.objects.filter(to_home_school=ca_school,from_serving_school__isnull=False)
             else:
-                school_transfers = Transfer.objects.filter(from_home_school=ca_school)
+                school_transfers = Transfer.objects.filter(from_home_school=ca_school,to_serving_school__isnull=False)
             for year in years:
                 # add year to ca data only if it doesn't exist
                 if year not in data[comm_area.name].keys():
@@ -147,19 +150,18 @@ def transfers_by_comm_area_by_year(connect=True):
                 this_years_transfers = [x for x in school_transfers if x.school_year == year]
                 data[comm_area.name][year] += len(this_years_transfers)
         # write results to file
-        try:
             row = {
                     'Comm Area': comm_area.name,
                     'pct_black': round(comm_area.pct_black,2),
                     'pct_latino': round(comm_area.pct_latino,2),
                     'pct_white': round(comm_area.pct_white,2),
                     'pct_poverty': round(comm_area.pct_poor,2),
-                    'pct_under_18': round(sum([intify(getattr(comm_area,x)) for x in ['age_under_5','age_5_to_9','age_10_to_14','age_15_to_17']])/floatify(comm_area.total_pop),2)
+                    'pct_under_18': round(sum([intify(getattr(comm_area,x)) for x in ['age_under_5','age_5_to_9','age_10_to_14','age_15_to_17']])/floatify(comm_area.total_pop),2),
+                    'total': 0
                   }
-        except Exception, e:
-            import ipdb; ipdb.set_trace()
         for year in years:
             row[year] = data[comm_area.name][year] if year in data[comm_area.name].keys() else 0
+        row['total'] = sum([row[year] for year in years])
         out_csv.writerow(row)
     outfile.close()
     return data
@@ -207,30 +209,50 @@ def transfers_by_comm_area_with_minor_pop():
     outfile.close()
 
 
-def transfer_counts_by_dest(geo='city',charters=False):
+def transfer_counts_by_dest(geos=['district']):
     """
-    Which cities/counties have taken in the highest number/percentage of out-of-district transfers from CPS?
-    headers = [city, count]
-    data = {'city': count}
-    specify city or county in geo param
-    specify charters or all in charters param
+    What are transfer counts by districts or city+county?
+    geos: either ['district'] or ['city','county']
     """
+    # output
+    outfile_name = output_dir + '-'.join(geos) + '_incoming_transfer_report.csv'
+    outfile = open(outfile_name,'w')
+    headers = geos + years + ['total','charter_total']
+    outcsv = csv.DictWriter(outfile,headers)
+    outcsv.writeheader()
+
+    # query
+    charters = get_charters() # for charter_total
     data = {}
-    if charters:
-        transfers = get_charter_transfers()
-    else:
-        transfers = get_cps_transfers()
-    for transfer in transfers:
-        if getattr(transfer.to_home_school,geo) not in data:
-            data[getattr(transfer.to_home_school,geo)] = 0
-        data[getattr(transfer.to_home_school,geo)] += 1
-    data_list = sorted([(x,data[x]) for x in data], key = lambda z: z[1], reverse = True)
-    outfile = open(output_dir + ('charter' if charters else 'cps') + '_transfer_counts_by_' + geo + '.csv','w')
-    outcsv = csv.writer(outfile)
-    outcsv.writerow([geo,'count'])
-    for row in data_list:
-        outcsv.writerow(row)
+    for transfer in get_transfers():
+        slug = [getattr(transfer.to_home_school,geo) for geo in geos]
+        if geos == ['district']:
+            slug = [x.name if x else 'no district listed' for x in slug]
+        slug = '|'.join([x for x in slug])
+        if slug not in data:
+            # first update total, charter_total if necessary
+            data[slug] = {'total':0,'charter_total':0}
+        data[slug]['total'] += 1
+        if transfer.from_serving_school in charters:
+            data[slug]['charter_total'] += 1
+        # then update the annual count
+        if transfer.school_year not in data[slug]:
+            data[slug][transfer.school_year] = 0
+        data[slug][transfer.school_year] += 1
+    data_list = sorted([(x,data[x]) for x in data], key = lambda z: z[1]['total'], reverse = True)
+    for item in data_list: 
+        slug = item[0].split('|')
+        row = item[1] # the dict part of the (key, dict) tuple
+        slug_index = 0 # oof. this is how you parse multiple geos into the report
+        for geo in geos:
+            row[geo] = slug[slug_index]
+            slug_index += 1 
+        try:
+            outcsv.writerow(row)
+        except Exception, e:
+            import ipdb; ipdb.set_trace()
     outfile.close()
+    print(outfile_name)
     
 
 def side_report(sides,name):
@@ -263,7 +285,7 @@ def side_report(sides,name):
 
     # output
     try:
-        outfile_path = output_dir + name + '_side_report.csv'
+        outfile_path = output_dir + 'side_reports/' + name + '_side_report.csv'
         outfile = open(outfile_path,'w')
         outheaders = ['city','county','transfer_count']
         outcsv = csv.DictWriter(outfile,outheaders)
@@ -310,7 +332,7 @@ def recv_schools_and_dists_by_cps_and_seg_school_transfers(race='black',threshol
     # outfile
     outfile_path = output_dir + 'receiving_schools_and_districts_with_cps_transfer_counts.csv'
     outfile = open(outfile_path,'w')
-    headers = ['school','district (RDCTS code)','city','county','CPS transfers','CPS transfers (maj ' + race + ' schools)']
+    headers = ['school','pct_black','pct_low_income','district','city','county','CPS transfers','CPS transfers (maj ' + race + ' schools)']
     outcsv = csv.DictWriter(outfile,headers)
     outcsv.writeheader()
             
@@ -326,9 +348,12 @@ def recv_schools_and_dists_by_cps_and_seg_school_transfers(race='black',threshol
         if not to_school:
             continue
         if to_school not in school_counts:
+            total = to_school.male + to_school.female if to_school.male and to_school.female else 0
             school_counts[to_school] = {
                                      'school':to_school.name,
-                                     'district (RDCTS code)': get_district(to_school.rcdts),
+                                     'pct_black': round(to_school.black/float(total),2) if total else 'NA',
+                                     'pct_low_income': round(to_school.low_income/float(total),2) if total else 'NA',
+                                     'district': get_district(to_school),
                                      'city': to_school.city,
                                      'county': to_school.county,
                                      'CPS transfers': 0,
@@ -341,7 +366,9 @@ def recv_schools_and_dists_by_cps_and_seg_school_transfers(race='black',threshol
     print('sorting')
     school_data = sorted([school_counts[school] for school in school_counts], key = lambda x: x['CPS transfers (maj ' + race + ' schools)'],reverse=True)
     print('writing')
+    for row in school_data:
         outcsv.writerow(row)
+    print(outfile_path)
 
     outfile.close()
 
@@ -351,7 +378,7 @@ def transfer_out_dests(school):
     # outfile
     outfile_path = output_dir + school.replace(' ','-').replace('.','') + '_transfer_out_destinations.csv'
     outfile = open(outfile_path,'w')
-    headers = ['school','district (RCDTS code)','city','county'] + years + ['total']
+    headers = ['school','district','city','county'] + years + ['total']
     outcsv = csv.DictWriter(outfile,headers)
     outcsv.writeheader()
 
@@ -366,7 +393,7 @@ def transfer_out_dests(school):
         if to_school not in destinations:
             destinations[to_school] = {
                                        'school': to_school.name,
-                                       'district (RCDTS code)': get_district(to_school.rcdts),
+                                       'district': get_district(to_school),
                                        'city': to_school.city,
                                        'county': to_school.county,
                                        'total': 0
@@ -416,21 +443,93 @@ def charter_school_report():
     print outfile_path
 
 
+def transfer_in_origins():
+    # output
+    outfile_path = output_dir + 'cps_inbound_transfer_origins.csv'
+    outfile = open(outfile_path,'w')
+    headers = ['district','count']
+    outcsv = csv.DictWriter(outfile,headers)
+    outcsv.writeheader()
+
+    # query
+    data = {}
+    its = [x for x in IncomingTransfer.objects.all()]
+    for it in its:
+        if not it.from_serving_school or not it.from_serving_school.district:
+            continue
+        if it.from_serving_school.district not in data:
+            data[it.from_serving_school.district] = []
+        data[it.from_serving_school.district].append(it)
+
+    # writeout
+    for district in data:
+        outcsv.writerow({
+                         'district': district.name,
+                         'count': len(data[district])
+                       })
+    print(outfile_path)
+    outfile.close()
+
+
+def all_district_transfers(district_name):
+    # output
+    outfile_path = output_dir + district_name.replace(' ','-') + '_report.csv'
+    outfile = open(outfile_path,'w')
+    headers = ['from_home_rcdts','from_home_school','from_serving_rcdts','from_serving_school',\
+            'to_home_rcdts','to_home_school','to_home_district','to_serving_rcdts','to_serving_school','to_serving_district',\
+            'student_id_no','school_year','enrollment_date','exit_date','exit_code','exit_desc']
+    outcsv = csv.DictWriter(outfile,headers)
+    outcsv.writeheader()
+
+    # query
+    district = District.objects.get(name=district_name)
+    schools = district.school_set.all()
+    rows = []
+    for school in schools:
+        transfers = Transfer.objects.filter(to_home_school=school) | Transfer.objects.filter(to_serving_school=school)
+        transfers = set(transfers)
+        if transfers:
+            for transfer in transfers:
+                row = {
+                        'from_home_rcdts': transfer.from_home_rcdts,
+                        'from_home_school': transfer.from_home_school.name if transfer.from_home_school else None,
+                        'from_serving_rcdts': transfer.from_serving_rcdts,
+                        'from_serving_school': transfer.from_serving_school.name if transfer.from_serving_school else None,
+                        'to_home_rcdts': transfer.to_home_rcdts,
+                        'to_home_school': transfer.to_home_school.name if transfer.to_home_school else None,
+                        'to_home_district': transfer.to_home_school.district.name if transfer.to_home_school and transfer.to_home_school.district else None,
+                        'to_serving_rcdts': transfer.to_serving_rcdts,
+                        'to_serving_school': transfer.to_serving_school.name if transfer.to_serving_school else None,
+                        'to_serving_district': transfer.to_serving_school.district.name if transfer.to_serving_school and transfer.to_serving_school.district else None,
+                        'student_id_no': transfer.student.student_id if transfer.student else None,
+                        'school_year': transfer.school_year,
+                        'enrollment_date': transfer.enrollment_date.strftime('%m/%d/%y') if transfer.enrollment_date else None,
+                        'exit_date': transfer.exit_date.strftime('%m/%d/%y') if transfer.exit_date else None,
+                        'exit_code': transfer.exit_code,
+                        'exit_desc': transfer.exit_desc
+                      }
+                rows.append(row)
+    sorted_rows = sorted(rows,key = lambda x: (x['school_year'],x['to_serving_school'],x['student_id_no']))
+    for row in sorted_rows:
+        outcsv.writerow(row)
+    outfile.close()
+
+
 def report_runner(): 
     print('comms_to_burbs()')
     comms_to_burbs()
-    
-    print('transfers_by_comm_area_by_year()')
-    transfers_by_comm_area_by_year()
+   
+    print('transfer_counts_by_dest(geos=["district"])')
+    transfer_counts_by_dest(geos=['district'])
 
-    print('transfers_by_comm_area_with_minor_pop()')
-    transfers_by_comm_area_with_minor_pop()
-    
-    print('cps_transfer_counts_by_city()')
-    cps_transfer_counts_by_city()
+    print('transfer_counts_by_dest(geos=["city","county"])')
+    transfer_counts_by_dest(geos=["city","county"])
 
-    print('cps_transfer_counts_by_county()')
-    cps_transfer_counts_by_county()
+    print('recv_schools_and_dists_by_cps_and_seg_school_transfers()')
+    recv_schools_and_dists_by_cps_and_seg_school_transfers()
+ 
+    print('transfer_out_dests("Depriest Elem School")')
+    transfer_out_dests('Depriest Elem School')
 
     for side in ['West Side','South Side','Far Southeast Side']:
         print('side_report(',side,')')
@@ -439,10 +538,16 @@ def report_runner():
     print('transfer_counts_maj_race_schools()')
     transfer_counts_maj_race_schools()
 
-    print('recv_schools_and_dists_by_cps_and_seg_school_transfers()')
-    recv_schools_and_dists_by_cps_and_seg_school_transfers()
-    
-    print('transfer_out_dests("Depriest Elem School")')
-    transfer_out_dests('Depriest Elem School')
+    print('transfers_by_comm_area_with_minor_pop()')
+    transfers_by_comm_area_with_minor_pop()
+
+    print('charter_school_report()')
+    charter_school_report()
+
+    print('transfer_in_origins()')
+    transfer_in_origins()
+
+    print('transfers_by_comm_area_by_year()')
+    transfers_by_comm_area_by_year()
 
 

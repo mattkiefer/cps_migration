@@ -1,0 +1,183 @@
+CountyName,RecType,"Region-2 County-3 District-4",Type,School,FacilityName,Administrator,Address,City,Zip,Telephone,GradeServed,StRep,StSen,FedCong,Cat,NCES ID
+,,,,,,,,,,,,,,,,
+Adams,Dist,010011720,61,6100,Spec Educ Assoc of Adams County,Eryn Beswick,1416 Maine St,Quincy,62301 4261,217223-8700,,94,47,18,6,1736920
+Morgan,Dist,010698010,60,6000,Four Rivers Spec Educ Dist,Ms. Christiane Pennell,936 W Michigan Ave,Jacksonville,62650 3113,217245-7174,3-12,100,50,18,6,1700080
+Morgan,Coop (Sch),010698010,60,6001,Educational Daycare,Ms. Christiane Pennell,330 W Michigan Ave,Jacksonville,62650 3223,217245-7174,,,,,7,(Pending)
+Morgan,Coop (Sch),010698010,60,6008,Ivan K Garrison Center,Rhonda Massey,936 W Michigan Ave,Jacksonville,62650 3113,217245-7174,3-12,100,50,18,7,170008005349
+Christian,Dist,030118010,60,6000,Mid-State Spec Educ Jnt Agr,Ms. Angela Armour,PO Box 46,Morrisonville,62546 0046,217526-8121,,95,48,13,6,1700201
+Boone,Dist,040041000,61,6100,Boone County Spec Educ Coop,Mr. Matthew Ross,1201 5th Ave,Belvidere,61008 5125,815547-4309,P,69,35,16,6,1700018
+Boone,Coop (Sch),040041000,61,6101,Boone County Center,Steve Simard,1320 East Ave,Belvidere,61008 4559,815544-9851,P,70,35,16,7,170001804538
+Winnebago,Dist,041011400,61,6100,Winnebago County Spec Educ Coop,Ms. Kimberly Moore,11971 Wagon Wheel Rd,Rockton,61072 3322,815624-2615,,69,35,16,6,1742810
+Cook,Dist,050160390,61,6100,Wilmette Community Sp Ed Agreement,Denise Thrasher,615 Locust Rd,Wilmette,60091 2237,847256-2450,,17,9,9,6,1701391
+Cook,Dist,050160650,61,6100,Evanston Dists 65/202 Jnt Agr,Dr. Paul D Goren,1500 McDaniel Ave,Evanston,60201 3976,847492-5986,,18,9,9,6,1700246
+Cook,Coop (Sch),050160650,61,6101,Park School,Marlene Grossman,828 Main St,Evanston,60202 1706,847859-8590,,18,9,9,7,170024604578
+Cook,Dist,050168050,60,6000,NW Suburban Spec Educ Org,Judith A Hackett,799 W Kensington Rd,Mt Prospect,60056 1111,847463-8100,,53,27,9,6,1700032
+Cook,Coop (Sch),050168050,60,6002,Kirk School,Kim Dungan,520 S Plum Grove Rd,Palatine,60067 6933,847463-8500,,54,27,6,7,170003205094
+Cook,Coop (Sch),050168050,60,6004,Miner School,Mr. Hassan Von Schlegell,1101 E Miner St,Arlington Heights,60004 6337,847463-8400,,53,27,9,7,170003205095
+Cook,Coop (Sch),050168050,60,6010,James Whitcomb Riley School,Carrie McCulley,1209 E Burr Oak Dr,Arlington Heights,60004 1660,847670-3400,,53,27,8,7,170003201603
+Cook,Coop (Sch),050168050,60,6012,Timber Ridge School,Hassan Von Schlegell,201 S Evanston Ave,Arlington Heights,60004 6832,847463-8300,,53,27,9,7,170003203950
+Cook,Coop (Sch),050168050,60,6013,Deaf/Hard of Hearing (Dist 62),Sheryl Goldman,1375 S 5th Ave,Des Plaines,60018 1430,847463-8174,,55,28,9,7,170003206204
+Cook,Coop (Sch),050168050,60,6014,Deaf/Hard of Hearing (Dist 23),Sheryl Goldman,700 N Schoenbeck Rd,Prospect Heights,60070 1231,847463-8174,,53,27,9,7,170003206216
+Cook,Coop (Sch),050168050,60,6015,Deaf/Hard of Hearing (Dist 214),Sheryl Goldman,1900 E Thomas St,Arlington Heights,60004 4320,847463-8174,,53,27,9,7,170003206222
+Cook,Dist,050168070,60,6000,Niles Twp District for Spec Educ,Tarin Kendrick,8701 Menard Ave,Morton Grove,60053 3052,847965-9040,"P-12,U",16,8,9,6,1700255
+Cook,Coop (Sch),050168070,60,6001,Julia S Molloy Education Center,Michael A Meyers,8701 Menard Ave,Morton Grove,60053 3052,847966-8600,"P-12,U",16,8,9,7,170025504690
+Cook,Dist,060160830,61,6100,Leyden Area Spec Educ Coop,Ms. Melinda McGuffin,10401 Grand Ave,Franklin Park,60131 2208,847455-3143,,77,39,5,6,1722730
+Cook,Dist,060162040,61,6100,Lagrange Area Dept Spec Ed-Ladse,Dr. Sheri Wernsing,1301 W Cossitt Ave,La Grange,60525 2145,708354-5730,P,8,4,3,6,1721590
+Cook,Coop (Sch),060162040,61,6103,Ladse Learning Center,Deb Hurley-Bularzik,7302 Clarendon Hills Rd,Darien,60561 4285,708482-1174,P,82,41,11,7,172159005927
+Cook,Dist,060168030,60,6000,Proviso Area Exceptional Child,Ms. Mary Boeh,1000 Van Buren St,Maywood,60153 1970,708450-2100,,7,4,7,6,1700030
+Cook,Coop (Sch),060168030,60,6004,PAEC Alternative Elementary,Mr. Michael James,1636 S 10th Ave,Maywood,60153 1978,708338-3250,,7,4,7,7,170003004485
+Cook,Coop (Sch),060168030,60,6005,Proviso Area Except Child Center,Cheryl Wagemann,1000 Van Buren St,Maywood,60153 1970,708450-2129,,7,4,7,7,170003004490
+Cook,Coop (Sch),060168030,60,6009,PAEC Alternative High School,Mr. Shaylon Walker,1636 S 10th Ave,Maywood,60153 1978,708450-1515,,7,4,7,7,170003004486
+Cook,Coop (Sch),060168030,60,6010,PAEC Education Center  EC,Ms. Consuelo Martinez,1636 S 10th Ave,Maywood,60153 1978,708338-3250,,7,4,7,7,170003001966
+Cook,Coop (Sch),060168030,60,6011,PAEC Academy,Ms. Laura Mayer,607 N Hillside Ave,Hillside,60162,708236-5153,,7,4,7,7,170003006266
+Cook,Dist,070161275,61,6100,Eisenhower Cooperative,Ms. Angela Zajac,5318 135th St,Crestwood,60445 1504,708389-7580,P-8,27,14,1,6,1700312
+Cook,Coop (Sch),070161275,61,6101,Care Program,Laura Wolf,5318 135th St,Crestwood,60445 1504,708389-9955,,27,14,1,7,170031205028
+Cook,Coop (Sch),070161275,61,6102,Developmental Learning Pgm   DLP,Stacy LaMarca,14801 Turner Ave,Midlothian,60445 3628,708371-6340,P-8,30,15,1,7,170031205037
+Cook,Dist,070161420,61,6100,Southwest Cook Coop Spec Ed,Gineen M ONeil,6020 151st St,Oak Forest,60452 1841,708687-0900,,28,14,1,6,1701392
+Cook,Coop (Sch),070161420,61,6101,Braun Educational Center,Kristine Jones,6020 151st St,Oak Forest,60452 1841,708687-4971,,28,14,1,7,170139205775
+Cook,Coop (Sch),070161420,61,6103,Transition,Jennifer Wlodarski,14535 John Humphrey Dr,Orland Park,60462 6210,708873-1600,,35,18,3,7,170139206038
+Cook,Coop (Sch),070161420,61,6105,Project Challenge,Kristine Jones,6020 151st St,Oak Forest,60452 1841,708873-1600,,28,14,1,7,170139205777
+Cook,Dist,070161500,61,6100,Exc Children Have Opportunities,Dr. Lea Anne Frost,350 W 154th St,South Holland,60473 1229,708985-4402,"K-6,9-12",29,15,2,6,1701383
+Cook,Coop (Sch),070161500,61,6101,Echo School,Jennifer Cowan,350 W 154th St,South Holland,60473 1229,708596-3200,,29,15,2,7,170138305911
+Cook,Coop (Sch),070161500,61,6102,Academy for Learning,Wayne Dendler,306 E 144th St,Dolton,60419 1119,708841-1063,9-12,30,15,2,7,170138305900
+Cook,Coop (Sch),070161500,61,6104,MacArthur/Echo Elementary,Melissa Mendoza,640 E 168th Pl,South Holland,60473 3018,708333-7812,,29,15,2,7,170138305906
+Cook,Coop (Sch),070161500,61,6105,Able Program,Shannon Horton,333 E 142nd St,Dolton,60419 1109,708597-4250,,30,15,2,7,170138305899
+Cook,Coop (Sch),070161500,61,6107,Pace Elementary,Victoria Williams,14419 S Atlantic Ave,Riverdale,60827 2780,708841-0432,K-6,30,15,2,7,170138305898
+Cook,Dist,070168020,60,6000,Speed SEJA #802,Mr. Al Travaglini,1125 Division St,Chicago Heights,60411 2419,708481-6100,,80,40,2,6,1700029
+Cook,Coop (Sch),070168020,60,6001,Speed Early Learning Center,Ms. Felice Hybert,1125 Division St,Chicago Heights,60411 2419,708481-6101,,80,40,2,7,170002904498
+Cook,Coop (Sch),070168020,60,6004,Speed Program for Adaptive Learn,Ms. Linda Wilson,1125 Division St,Chicago Heights,60411 2419,708481-6102,,80,40,2,7,170002901305
+Cook,Coop (Sch),070168020,60,6005,Speed Independence High School,Ms. Shari Demiltrowicz,1125 Division St,Chicago Heights,60411 2419,708481-6103,,80,40,2,7,170002901314
+Cook,Coop (Sch),070168020,60,6006,Speed Independence Elem Sch,Ms. Shari Demitrowicz,1125 Division St,Chicago Heights,60411 2419,708481-6103,,80,40,2,7,170002901323
+Cook,Coop (Sch),070168020,60,6009,Academy for Lifelong Learning (ALL),Mrs. Jessica Chen,410 Ashland Ave,Chicago Heights,60411 1665,708481-3600,,80,40,2,7,170002906337
+Cook,Dist,070168060,60,6000,A E R O  Spec Educ Coop,Dr. James W Gunnell,7600 Mason Ave,Burbank,60459 1200,708496-3330,,23,12,3,6,1700024
+Cook,Coop (Sch),070168060,60,6001,A E R O Educational Center,Angela Zajac,7600 Mason Ave,Burbank,60459 1200,708496-3330,,23,12,3,7,170002404632
+Cook,Coop (Sch),070168060,60,6002,P R I D E School,Mary Meehan,4201 W 93rd St,Oak Lawn,60453 1998,708598-4530,,36,18,3,7,170002404633
+Jo Daviess,Dist,080432100,61,6100,Northwest Sp Ed Cooperative,Dr. Christy Hopper,310 N West St,Elizabeth,61028 8017,815599-1947,,,,,6,
+Jo Daviess,Coop (Sch),080432100,61,6101,Northwest Academy,Dr. Christy Hopper,310 N West St,Elizabeth,61028 8017,815599-1947,,,,,7,
+Champaign,Dist,090108010,60,6000,Rural Champaign Co Spec Ed Coop,Ms. Jennifer Armstrong,807 N Mattis Ave,Champaign,61821 2448,217892-8877,,104,52,15,6,1701414
+Ford,Dist,090270050,61,6100,Ford Special Education Coop,Mr. Jesse McFarling,307 N Sangamon Ave,Gibson City,60936 1255,217784-5470,,106,53,16,6,1700239
+Coles,Dist,110158010,60,6000,Eastern IL Area of Spec Educ,Tony Reeley,5837 Park Dr Ste 1,Charleston,61920 9465,217348-7700,P-12,110,55,15,6,1700023
+Coles,Coop (Sch),110158010,60,6001,Diagnostic & Developmental Ctr,Ms. Jennifer Weber,1201 S 6th St,Mattoon,61938 5830,217258-5286,"P-9,11-12",110,55,15,7,170002304731
+Coles,Coop (Sch),110158010,60,6002,Treatment & Learning Center-H,Mr. David Logsdon,PO Box 97,Humboldt,61931 0097,217856-2223,,110,55,15,7,170002304730
+Coles,Coop (Sch),110158010,60,6003,Treatment & Learning Center,Jerri Gregory,PO Box 259,Kansas,61933 0259,217948-5751,,110,55,15,7,170002305042
+Coles,Coop (Sch),110158010,60,6005,H E L P  Marshall,Ms. Laura Shull,815 S 9th St,Marshall,62441 1630,217826-5805,P,110,55,15,7,170002300685
+Coles,Coop (Sch),110158010,60,6008,H E L P  Sullivan,Ms. Laura Shull,10 Hawthorne Ln,Sullivan,61951 9489,217728-2105,P,102,51,15,7,170002300700
+Coles,Coop (Sch),110158010,60,6009,Fresh Start Treatment & Learning,Greg Petty,215 N 1st St,Effingham,62401 3424,217342-6161,K-12,107,54,15,7,170002301922
+Crawford,Dist,120178010,60,6000,South Eastern Sp Ed Program,Ms. Jill Keller-Weems,PO Box 185,Sainte Marie,62459 0185,618455-3396,,109,55,15,6,1700311
+Crawford,Coop (Sch),120178010,60,6001,SESE School,Ms. Jill Keller-Weems,PO Box 185,Sainte Marie,62459 0185,618455-3396,,109,55,15,7,170031106351
+Jefferson,Dist,130418010,60,6000,Franklin-Jefferson Co Sp Ed Dist,Kimberly Byars,PO Box 1027,Benton,62812 5027,618439-7231,,117,59,12,6,1700048
+Jefferson,Coop (Sch),130418010,60,6005,Oakland Education Center,Kimberly Byars,1722 Oakland Ave,Mount Vernon,62864 2885,618244-5720,,115,58,12,7,170004805562
+Marion,Dist,130588010,60,6000,Kaskaskia Spec Educ District,Ms. Cassandra K Clark,224 S Locust St,Centralia,62801 3509,618532-4721,,107,54,15,6,1700074
+Marion,Coop (Sch),130588010,60,6002,Hoyleton Education Center,Cynthia L Sanders,350 N Main St,Hoyleton,62803 2006,618493-7510,,108,54,15,7,170007405110
+Marion,Coop (Sch),130588010,60,6004,Kaskaskia Education Center,LaVonda Nichols,2100 E Calumet St,Centralia,62801 6511,618532-4721,,107,54,15,7,170007405111
+Marion,Coop (Sch),130588010,60,6005,Bridges Learning Center,Jacob Purcell,226 Chicago Ave,Centralia,62801 6193,618545-0126,,107,54,15,7,170007403419
+Dekalb,Dist,160194270,61,6100,Northwestern Illinois Assn,Mr. Jon C Malone,245 W Exchange St Ste 4,Sycamore,60178 1495,815895-9227,,70,35,14,6,1729020
+Livingston,Dist,170530000,61,6100,Livingston Co Spec Services Unit,Dawn E Conway,920 W Custer Ave Ste A,Pontiac,61764 1067,815844-7115,,106,53,16,6,1700229
+Livingston,Coop (Sch),170530000,61,6101,Livingston County Academy,Thomas Proctor,920 W Custer Ave Ste B,Pontiac,61764 1067,815844-7115,,106,53,16,7,170022904332
+Livingston,Coop (Sch),170530000,61,6102,Livingston Co Crossroads Academy,Thomas Proctor,1305 E Indiana Ave,Pontiac,61764 1207,815844-5749,,106,53,16,7,170022904334
+McLean,Dist,170640000,63,6300,Heart of IL Low Incidence  Hilia,Hon. Mark E Jontry,905 N Main St Ste 1,Normal,61761 1591,309888-5120,,105,53,13,6,1700262
+McLean,Dist,170640070,61,6100,Tri-County Spec Educ Assoc,Scott Hogan,105 E Hamilton Rd,Bloomington,61704 7574,309828-5231,,88,44,13,6,1739460
+Dupage,Dist,190220150,61,6100,Coop Assoc for Spec Educ,Ms. Mary Furbush,22W600 Butterfield Rd,Glen Ellyn,60137 6901,630942-5600,,48,24,6,6,1701396
+Dupage,Dist,190220200,63,6300,Philip J Rock Center and School,Ms. Bonnie Jordan,818 Du Page Blvd,Glen Ellyn,60137 5810,630790-2474,,48,24,6,6,1700039
+Dupage,Coop (Sch),190220200,63,6301,Philip J Rock Center and School,Mr. Seth B Harkins,818 Du Page Blvd,Glen Ellyn,60137 5810,630790-2474,,48,24,6,7,170003905229
+Dupage,Dist,190220930,61,6100,Coop Assoc for Spec Educ,Ms. Mary Furbush,22W600 Butterfield Rd,Glen Ellyn,60137 6901,630942-5600,"1-2,4-12",48,24,6,6,
+Dupage,Dist,190228020,60,6000,North DuPage Sp Ed Cooperative,Mr. James T Nelson,132 E Pine Ave,Roselle,60172 2252,630894-0490,,45,23,8,6,1700152
+Dupage,Coop (Sch),190228020,60,6001,Lincoln Academy,Kelly Gould,320 Lincoln St,Roselle,60172 1127,630894-0490,,56,28,8,7,170015201401
+Dupage,Coop (Sch),190228020,60,6002,Transition Learning Center,Brett Sharkey,6 S Addison St,Bensenville,60106 2126,630980-3949,,77,39,8,7,170015206206
+Dupage,Dist,190228030,60,6000,School Assn For Special Educ,Mr. Michael Volpe,2900 Ogden Ave,Lisle,60532 1631,630778-4500,,,,,6,
+Dupage,Coop (Sch),190228030,60,6001,Southeast Alternative School,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6002,Multi Needs Program,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6003,Visually Impaired Programs,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6004,Deaf/Hard of Hearing/MN Prgrms,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6005,STARS Autism Program,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6006,Connections Program,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6007,Directions Program,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+Dupage,Coop (Sch),190228030,60,6008,Transition Program,Nan Diamond,6S331 Cornwall Rd,Naperville,60540 3635,630778-4524,,,,,7,
+White,Dist,200978010,60,6000,Wabash & Ohio Valley Sp Ed Dist,Mr. David Kaytor,800 S Division St,Norris City,62869 1634,618378-2131,,109,55,15,6,1740480
+White,Coop (Sch),200978010,60,6002,Norris City Annex,Mr. Shain Crank,PO Box 246,Norris City,62869 0246,618378-3324,,109,55,15,7,174048005809
+Williamson,Dist,211008010,60,6000,Williamson Co Spec Educ District,Ms. Jami Hodge,411 S Court St,Marion,62959 2711,618993-2138,,117,59,12,6,1700118
+Williamson,Coop (Sch),211008010,60,6003,Williamson Co Learning Cntr,Melissa Cockburn,409 S Court St,Marion,62959 2711,618993-2138,,117,59,12,7,170011805810
+Williamson,Coop (Sch),211008010,60,6004,School for Hearing Impaired,John Belcher,801 E Reeves St,Marion,62959 3366,618997-2472,,117,59,12,7,170011805811
+Grundy,Dist,240321010,61,6100,Grundy County Spec Educ Coop,Neil Sanburg,725 School St,Morris,60450 1218,815942-5780,,75,38,16,6,1701393
+Kendall,Dist,240470880,61,6100,Plano Area Special Ed Coop,Ms. Amy Lee,800 S Hale St,Plano,60545 2000,630552-8978,,,,,6,
+Kendall,Coop (Sch),240470880,61,6101,Newark CHSD 18,Mrs. Amy B Smith,413 Chicago Rd,Newark,60541 8900,815695-5164,,,,,7,
+Kendall,Coop (Sch),240470880,61,6102,Newark CCSD 66,Mrs. Demetra Turman,503 Chicago Rd,Newark,60541 9501,815695-5143,,,,,7,
+Kendall,Coop (Sch),240470880,61,6103,Plano CUSD 88,Dr. Hector Garcia,800 S Hale St,Plano,60545 2000,815695-5143,,,,,7,
+Kendall,Coop (Sch),240470880,61,6104,Lisbon CCSD 90,Dr. Michael Rustman,127 S Canal St,Newark,60541 9776,815736-6324,,,,,7,
+McDonough,Dist,260620000,61,6100,West Central IL Spec Educ Coop,Ms. Leyona Wiley,130 S Lafayette St Ste 201,Macomb,61455 2239,309837-3911,,93,47,18,6,1700272
+McDonough,Coop (Sch),260620000,61,6101,New Horizons,Melissa Robinson,315 S Illinois St,Lewistown,61542 1554,309547-7323,,91,46,17,7,170027205699
+McDonough,Coop (Sch),260620000,61,6102,Project Insight,Elizabeth Wujek,330 N McArthur St,Macomb,61455 1427,309837-5685,,93,47,18,7,170027205700
+Henry,Dist,280378010,60,6000,Henry-Stark County Spec Ed Dist,T Gregory Wertheim,PO Box 597,Kewanee,61443 0597,309852-5696,,74,37,17,6,1700322
+Henry,Coop (Sch),280378010,60,6002,Excel Alternative Program,Zach Crowl,105 S State St,Atkinson,61235 9788,309936-7790,,74,37,17,7,170032205824
+Jackson,Dist,300391860,61,6100,Tri-County Sp Ed Jnt Agreement,Ms. Jan Pearcy,1725 Shomaker Dr,Murphysboro,62966 2507,618684-2109,,115,58,12,6,1700052
+Jackson,Coop (Sch),300391860,61,6104,Tri-County South - Choate,Gina Stokes,PO Box 379,Anna,62906 0379,618833-4541,,118,59,12,7,170005204759
+Jackson,Coop (Sch),300391860,61,6107,Tri-County Ward,Staci Hood,120 E Spring St,Du Quoin,62832 1762,618542-5954,,115,58,12,7,170005203643
+Jackson,Coop (Sch),300391860,61,6109,Tri-County Center,Jan Pearcy,1725 Shomaker Dr,Murphysboro,62966 2507,618684-2109,,115,58,12,7,170005205825
+Pulaski,Dist,300778010,60,6000,Jamp Spec Educ Services,Doug Edwards,PO Box 107,Grand Chain,62941 0107,618634-9800,6-12,118,59,12,6,1700329
+Pulaski,Coop (Sch),300778010,60,6004,Grand Chain Alternative Center,Mary K Finley,251 W 2nd St,Grand Chain,62941 3404,618634-2200,6-12,118,59,12,7,170032905757
+Kane,Dist,310453030,61,6100,Mid-Valley Special Ed Coop,Ms. Marianne Fidishin,1304 Ronzheimer Ave,St Charles,60174 4450,331228-4873,,49,25,14,6,1700054
+Kane,Coop (Sch),310453030,61,6101,Mades-Johnstone Center,Maura Burns,1304 Ronzheimer Ave,St Charles,60174 4450,331228-4858,,49,25,14,7,170005404841
+Iroquois,Dist,320388010,60,6000,Iroquois Special Education,Ms. Nicole Bullington,PO Box 400,Crescent City,60928 0400,815683-2662,,106,53,16,6,1700051
+Iroquois,Coop (Sch),320388010,60,6007,Bryce Ash Grove Ed Ctr,William Searby,1101 N 1800 East Rd,Milford,60953 6264,815889-4120,,106,53,16,7,170005105565
+Kankakee,Dist,320468500,60,6000,Kankakee Area Spec Educ Coop,Debra Quain,PO Box 71,Saint Anne,60964 0071,815939-3651,4-12,79,40,2,6,1700056
+Kankakee,Coop (Sch),320468500,60,6003,Kankakee Area Co-Op Day School,Debra Quain,1 Stuart Dr,Kankakee,60901 8947,815939-3651,4-12,79,40,2,7,170005605105
+Kankakee,Coop (Sch),320468500,60,6004,The Communications Program,Ms. Debra Quain,5200 E Center St,Bourbonnais,60914 4464,815933-1503,,,,,7,
+Knox,Dist,330488010,60,6000,Knox Warren Special Education Districts,Ms. Kim Deschamps,311 E Main St Ste 632,Galesburg,61401 4884,309351-7224,,,,,6,(Pending)
+Lake,Dist,340498010,60,6000,Exceptional Learners,Ms. Megan Clarke,601 Deerfield Pkwy,Buffalo Grove,60089 7500,224513-6444,,,,,6,
+Lake,Dist,340498040,60,6000,Northern Suburban Spec Ed Dist,Dr. Kurt A Schneider,760 Red Oak Ln,Highland Park,60035 3816,847831-5100,K-6,58,29,10,6,1700031
+Lake,Coop (Sch),340498040,60,6001,North Shore Academy,Dr. Douglas Bolton,760 Red Oak Ln,Highland Park,60035 3816,847831-0603,,58,29,10,7,170003104501
+Lake,Coop (Sch),340498040,60,6003,North Shore Academy Elem,Timothy Scotellaro,255 Revere Dr,Northbrook,60062 1564,847291-7905,K-6,58,29,10,7,170003105831
+Lake,Coop (Sch),340498040,60,6005,Ed & Life Skills Transition,Ms. Danielle Carter,1330 Shermer Rd,Northbrook,60062 4539,847847-5590,,57,29,10,7,170003105832
+Lake,Coop (Sch),340498040,60,6006,Arbor Academy,Ms. Nancy Kind,776 Red Oak Ln,Highland Park,60035 3816,847831-5100,,58,29,10,7,170003105833
+Lake,Dist,340498250,60,6000,Spec Educ Dist Lake County/Sedol,Dr. Thomas Moline,18160 W Gages Lake Rd,Grayslake,60030 1819,847548-8470,"P-12,U",62,31,10,6,1700059
+Lake,Coop (Sch),340498250,60,6001,Laremont School,Kendyl Buckley,17934 W Gages Lake Rd,Gages Lake,60030 2836,847223-8191,"P-12,U",61,31,10,7,170005904472
+Lake,Coop (Sch),340498250,60,6002,Transition Center,Pam Evans,330 N Ridgemoor Ave,Mundelein,60060,847388-6065,,51,2,8,7,170005906153
+Lake,Coop (Sch),340498250,60,6004,John Powers Center,Terri Nilson-Bugella,201 W Hawthorn Pkwy,Vernon Hills,60061 1430,847680-8320,,59,30,10,7,170005904468
+Lake,Coop (Sch),340498250,60,6008,Gages Lake School,Michelle Curtin,18180 W Gages Lake Rd,Gages Lake,60030 1819,847223-5586,,62,31,10,7,170005904440
+Lake,Coop (Sch),340498250,60,6011,Cyd Lash Academy,Michael OBrien,18042 W Gages Lake Rd,Gages Lake,60030 2839,847231-5570,,61,31,10,7,170005905106
+Lake,Coop (Sch),340498250,60,6020,SEDOL Sector Programs,Dr. Thomas Moline,18160 W Gages Lake Rd,Gages Lake,60030 1819,847548-8470,,62,31,10,7,170005906317
+La Salle,Dist,350500000,61,6100,LaSalle Putnam Alliance,Mary Jane Chapman,1009 Boyce Memorial Dr,Ottawa,61350 2500,815433-6433,,76,38,16,6,1700228
+La Salle,Coop (Sch),350500000,61,6101,Circuit Breaker School,Ms. Susan Bruner,2233 6th St Ste 1,Peru,61354 2516,815357-6633,,76,38,16,7,170022804420
+Marshall,Dist,350590050,61,6100,BMP Tri County Special Ed Coop,Ms. Gwen Garver,PO Box 239,Tiskilwa,61368 0239,815646-8031,,74,37,16,6,1700164
+Macon,Dist,390550610,61,6100,Macon-Piatt Spec Educ Jnt Agr,Ms. Kathleen Horath,335 E Cerro Gordo St,Decatur,62523 1013,217424-3030,,96,48,13,6,1700069
+Macon,Coop (Sch),390550610,61,6105,Social-Emotional Alt Program,Ms. Jessica Ellison,1900 E Cleveland Ave,Decatur,62521 3656,217424-3106,K-12,,,,7,
+Macoupin,Dist,400568010,60,6000,South Macoupin Association,Alison Storm,701 N Deneen St,Staunton,62088 1015,618635-8230,,95,48,13,6,1701408
+Madison,Dist,410570000,63,6300,Madison County Voc Adj Counseling,Hon. Robert Daiber,157 N Main St Rm 438,Edwardsville,62025 1966,618692-6200,,112,56,13,6,1723990
+Madison,Dist,410570090,61,6100,Madison Co Reg I Spec Educ Coop,Paula Hubbard,3201 E 23rd St,Granite City,62040 5914,618452-7864,,112,56,12,6,1723985
+Madison,Dist,410578010,60,6000,Region III Spec Ed Coop,Ms. Messina Lenger,1800 Storey Ln,Cottage Hills,62018 1346,618462-1031,7-12,111,56,12,6,1700325
+Madison,Coop (Sch),410578010,60,6001,Journeys School,Mary Pearson,28968 Delhi Rd,Jerseyville,62052 6960,618885-5613,7-12,100,50,13,7,170032506220
+Madison,Coop (Sch),410578010,60,6002,Journeys South,Ms. Mary Pearson,101 School St,Bethalto,62010 1005,618210-6485,6-12,,,,7,
+McHenry,Dist,440638010,60,6000,Spec Ed Dist of McHenry Co-Sedom,Mr. Timothy Burns,1200 Claussen Dr,Woodstock,60098 2139,815338-3622,,63,32,14,6,1700207
+Randolph,Dist,450791320,61,6100,Perandoe Spec Educ District,Ms. Carol A Root,PO Box 169,Red Bud,62278 0169,618282-6251,,116,58,12,6,1731310
+Randolph,Coop (Sch),450791320,61,6101,Perandoe Educational Program,Mary Jo Renzaglia-Weir,540 Pine St,Tilden,62292 0394,618587-2326,,116,58,12,7,173131005845
+Lee,Dist,470521700,61,6100,Lee County Spec Educ Assoc,Corena Steinmeyer,1335 Franklin Grove Rd,Dixon,61021 9257,815284-6651,,90,45,16,6,1722360
+Ogle,Dist,470718010,60,6000,Ogle Co Education Cooperative,Mr. Matt Zilm,PO Box 582,Byron,61010 0582,815234-2722,K-12,90,45,16,6,1700081
+Ogle,Coop (Sch),470718010,60,6004,Chana Educ Center/Rock River,Terry Camplain,204 Main St,Chana,61015 8700,815732-4664,K-12,90,45,16,7,170008106042
+Whiteside,Dist,470980000,61,6100,Bi-County Special Educ Coop,Ms. Laurie A Heston,2317 E Lincolnway Ste A,Sterling,61081 3059,815622-0858,K-12,71,36,17,6,1700227
+Whiteside,Coop (Sch),470980000,61,6103,Thome Ed School,Barb Burger,500 E 5th St,Rock Falls,61071 1804,815625-1026,K-12,71,36,17,7,170022706292
+Whiteside,Coop (Sch),470980000,61,6105,Bi-County Sp Ed Preschool Program,Ms. Laurie A Heston,506 W 4th St Ste B,Sterling,61081 3412,815622-0858,,71,36,17,7,170022706115
+Peoria,Dist,480720000,61,6100,Spec Educ Assoc of Peoria County,Ms. Lora Haas,6000 S Adams St,Bartonville,61607 2580,309697-0880,,92,46,17,6,1700225
+Peoria,Coop (Sch),480720000,61,6101,SEAPCO Academy,Ms. Brooke Mair,7225 W Plank Rd,Peoria,61604 5252,309687-6688,,91,46,18,7,170022506134
+Rock Island,Dist,490818650,60,6000,Black Hawk Area Sp Ed District,Mrs. Christan Schrader,4670 11th St,East Moline,61244 4428,309796-2500,,71,36,17,6,1700084
+Rock Island,Coop (Sch),490818650,60,6001,Phoenix Program,Michelle Hammond,PO Box 100,Carbon Cliff,61239 0100,309796-9000,,71,36,17,7,170008405113
+Rock Island,Coop (Sch),490818650,60,6003,Black Hawk Area Special Education Center,Mrs. Kristi Loy,4680 / 11th St,East Moline,61244 4428,309796-2500,,71,36,17,7,170008406326
+Saint Clair,Dist,500820000,61,6100,St Clair ROE Special Education,Susan Sarfaty,1000 S Illinois St,Belleville,62220 2537,618825-3900,,113,57,12,6,1700147
+Saint Clair,Dist,500821890,61,6100,E St Louis Area Joint Agreement,Ms. Kimberly Hopkins,1005 State St,East Saint Louis,62201 1907,618646-3053,,114,57,12,6,1712900
+Saint Clair,Dist,500828010,60,6000,Belleville Area Special Services,Jeff Daugherty,2411 Pathways Xing,Belleville,62221 5885,618355-4700,,114,57,12,6,1743963
+Saint Clair,Coop (Sch),500828010,60,6001,Pathways School,Diane Warfield,2401 Pathways Xing,Belleville,62221,618355-4410,,114,57,12,7,174396305592
+Saint Clair,Coop (Sch),500828010,60,6002,PALS (Progression & Advancement of Life Skills),Ms. Diane Warfield,205 W B St,Belleville,62220 1331,618355-4700,,,,,7,
+Sangamon,Dist,510840100,61,6100,Sangamon Area Spec Ed Dist,Mr. Mark Strawn,2500 Taylor Ave,Springfield,62703 4390,217786-3250,,96,48,13,6,1700116
+Sangamon,Coop (Sch),510840100,61,6101,SASED Central-Proj Ican & Pace,Julie Hoylland,2500 Taylor Ave,Springfield,62703 4390,217529-8849,,96,48,13,7,170011605397
+Tazewell,Dist,530903090,61,6100,Tazewell-Mason Cntys Sp Ed Assoc,Ms. Kristina D Neville,300 Cedar St,Pekin,61554 7009,309347-5164,,91,46,17,6,1700091
+Tazewell,Coop (Sch),530903090,61,6104,Schramm Education Center,Mr. Tim Kennedy,300 Cedar St,Pekin,61554 7009,309346-1186,,91,46,17,7,170009104616
+Woodford,Dist,531020690,61,6100,Woodford County Spec Educ Assn,Mr. Eric Scroggs,205 S Englewood Dr,Metamora,61548 8781,309367-4901,,73,37,18,6,1743070
+Woodford,Coop (Sch),531020690,61,6101,WCSEA Black Partridge Pub Day Prog,Andrea Hartnett,110 Fandel Rd,Germantown Hills,61548 9354,309367-4901,K-12,73,37,18,7,(Pending)
+Vermilion,Dist,540928010,60,6000,Vermilion Assoc for Spec Educ,Ms. Kristin Dunker,15009 Catlin Tilton Rd,Danville,61834 5176,217443-8273,,104,52,15,6,1740220
+Vermilion,Coop (Sch),540928010,60,6001,Middle Fork School,Lindsey Nixon,15009 Catlin Tilton Rd,Danville,61834 5176,217443-8273,,104,52,15,7,174022002205
+Will,Dist,560990880,61,6100,Lockport Area Spec Educ Coop,Thomas Brim,1343 E 7th St,Lockport,60441 3823,815838-8080,,85,43,3,6,1723340
+Will,Dist,56099255U,61,6100,S Will Co Coop for Spec Ed,William Roseland,1207 N Larkin Ave,Joliet,60435 3436,815741-7777,K-8,98,49,11,6,1701389
+Will,Coop (Sch),56099255U,61,6102,Joseph E Fisher School,Deborah Plott,1205 N Larkin Ave,Joliet,60435 3436,815741-7777,K-8,98,49,11,7,170138905964
+Will,Coop (Sch),56099255U,61,6103,SOWIC Educ Center,Tina Pitkin,209 Wildcat Ct,Wilmington,60481 4500,815926-1722,,80,40,16,7,170138905962
+Will,Dist,560998430,60,6000,Lincoln-Way Area Spec Ed JA Dist,Ms. Sarah Rexroad,601 Willow St,Frankfort,60423 1140,815806-4600,P-2,37,19,1,6,1700097
+Will,Coop (Sch),560998430,60,6002,Martin P McKay Education Center,Ms. Marie Goulet,516 S Cedar Rd,New Lenox,60451 1754,815463-8068,,37,19,11,7,170009704503
+Will,Coop (Sch),560998430,60,6003,Pioneer Grove Educational Center,Ms. Sue Kaczmarczyk,601 Willow St,Frankfort,60423 1140,815806-4685,P-2,37,19,1,7,170009705864

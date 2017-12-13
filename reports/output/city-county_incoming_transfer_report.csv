@@ -1,0 +1,534 @@
+city,county,2010,2011,2012,2013,2014,2015,2016,2017,total,charter_total
+Cicero,Cook,207,211,237,250,206,174,210,266,1761,88
+Calumet City,Cook,134,105,136,142,124,116,130,202,1089,125
+Berwyn,Cook,117,124,123,168,98,98,135,176,1039,115
+Rockford,Winnebago,119,118,76,123,114,112,138,189,989,50
+Skokie,Cook,89,112,101,135,89,88,74,155,843,55
+Evanston,Cook,92,100,72,127,86,81,90,150,798,65
+Joliet,Will,102,112,72,120,100,83,83,116,788,41
+Harvey,Cook,120,94,71,138,83,74,76,103,759,49
+Dolton,Cook,79,74,70,124,68,76,83,120,694,78
+Waukegan,Lake,50,65,65,110,67,86,94,133,670,45
+Oak Lawn,Cook,63,72,56,97,60,62,84,159,653,68
+Burbank,Cook,63,56,63,100,71,42,70,151,616,54
+Maywood,Cook,75,61,68,85,71,66,70,67,563,52
+Springfield,Sangamon,67,83,66,65,57,73,84,59,554,45
+Lansing,Cook,61,57,34,80,71,58,72,92,525,74
+Chicago Heights,Cook,72,72,53,64,49,54,71,89,524,65
+Bolingbrook,Will,60,69,64,66,47,41,59,116,522,60
+Des Plaines,Cook,61,67,67,73,43,60,61,84,516,21
+Oak Park,Cook,60,67,42,89,34,43,62,88,485,58
+Aurora,Kane,66,44,69,81,41,49,67,64,481,34
+Danville,Vermilion,66,64,63,63,47,45,80,45,473,19
+Riverdale,Cook,61,87,50,71,49,37,53,61,469,20
+Plainfield,Will,49,52,55,52,45,61,65,87,466,51
+South Holland,Cook,60,59,43,84,53,41,50,75,465,73
+Elmwood Park,Cook,46,49,43,78,49,36,47,114,462,25
+Naperville,Dupage,45,42,31,43,40,50,49,86,386,36
+Elgin,Kane,60,32,71,42,39,32,45,62,383,32
+Bellwood,Cook,48,47,42,63,35,26,45,70,376,35
+Carpentersville,Kane,67,49,45,34,47,47,32,48,369,29
+Country Club Hills,Cook,52,26,28,62,31,38,53,74,364,39
+Summit,Cook,45,51,37,68,34,21,41,54,351,23
+Blue Island,Cook,52,35,40,69,27,28,39,57,347,43
+Park Ridge,Cook,38,35,25,46,33,24,40,72,313,15
+Northlake,Cook,31,34,43,52,27,22,40,62,311,6
+Melrose Park,Cook,29,20,36,42,35,23,52,70,307,14
+Park Forest,Cook,38,24,33,51,35,36,27,48,292,36
+Norridge,Cook,27,30,41,47,36,31,31,33,276,2
+Palatine,Cook,39,33,32,28,33,26,24,60,275,24
+Matteson,Cook,32,36,24,22,43,35,33,46,271,29
+Niles,Cook,32,27,33,44,27,22,31,53,269,13
+Chicago,Cook,3,8,11,50,29,23,41,95,260,35
+Calumet Park,Cook,58,31,37,36,23,28,17,30,260,14
+Midlothian,Cook,17,25,21,45,29,30,48,42,257,25
+Evergreen Park,Cook,20,25,25,38,21,23,41,64,257,38
+Peoria,Peoria,23,30,31,40,29,31,38,31,253,17
+Glenview,Cook,31,15,31,31,30,28,25,58,249,9
+Markham,Cook,19,24,16,36,12,34,37,67,245,15
+Elk Grove Village,Cook,24,30,19,40,30,26,26,47,242,11
+Sauk Village,Cook,24,23,24,30,24,40,30,47,242,21
+Flossmoor,Cook,30,32,16,41,21,18,31,49,238,36
+Justice,Cook,31,43,23,32,12,26,25,44,236,26
+Alsip,Cook,19,20,22,40,18,31,35,50,235,17
+Mt Prospect,Cook,13,29,17,33,25,18,44,53,232,11
+Hoffman Estates,Cook,23,28,26,34,19,12,28,59,229,14
+Romeoville,Will,29,28,18,29,28,31,30,36,229,17
+River Grove,Cook,26,26,28,26,17,12,36,45,216,8
+Morton Grove,Cook,22,29,16,29,15,25,34,45,215,10
+Franklin Park,Cook,17,32,20,28,31,9,25,48,210,20
+Hillside,Cook,44,30,31,35,19,15,26,9,209,28
+Addison,Dupage,18,29,19,32,35,22,24,29,208,9
+Zion,Lake,26,13,31,34,24,24,27,27,206,13
+Chicago,Dept Of Corrections,15,25,29,28,47,18,21,22,205,8
+Aurora,Dupage,27,11,14,32,34,21,37,27,203,31
+Hazel Crest,Cook,22,31,19,32,15,15,28,40,202,19
+Dixmoor,Cook,29,22,30,33,20,24,15,27,200,9
+Schaumburg,Cook,26,23,15,17,31,13,28,46,199,23
+Streamwood,Kane,16,19,17,24,18,19,24,55,192,13
+Kankakee,Kankakee,28,36,17,26,19,16,14,32,188,8
+Lombard,Dupage,41,13,16,28,24,15,18,31,186,11
+Crete,Will,16,13,22,29,26,17,22,38,183,41
+Bloomington,McLean,14,28,16,14,8,29,40,31,180,19
+Oak Forest,Cook,21,26,9,25,24,20,21,29,175,17
+Richton Park,Cook,17,15,17,34,20,19,18,32,172,30
+Glendale Heights,Dupage,32,22,23,26,10,13,21,25,172,5
+Decatur,Macon,19,17,29,17,16,45,13,15,171,13
+Champaign,Champaign,24,13,13,13,20,21,20,42,166,15
+Downers Grove,Dupage,17,34,17,22,11,5,20,36,162,16
+Darien,Dupage,15,22,28,23,13,13,16,31,161,27
+Bridgeview,Cook,22,29,15,18,23,12,23,19,161,9
+Palos Hills,Cook,22,16,13,29,18,15,22,23,158,15
+Palos Heights,Cook,16,11,10,38,24,13,7,36,155,23
+Bensenville,Dupage,25,7,17,24,15,9,28,26,151,13
+Olympia Fields,Cook,20,21,15,24,8,13,17,33,151,27
+Orland Park,Cook,14,9,16,22,20,10,14,40,145,11
+Wheeling,Cook,14,26,17,18,13,16,15,22,141,12
+Lyons,Cook,14,23,17,15,16,14,17,24,140,5
+Rock Island,Rock Island,15,9,14,16,21,12,27,24,138,11
+Freeport,Stephenson,12,17,19,11,10,17,25,26,137,15
+Saint Charles,Dept Of Corrections,42,25,20,25,,10,7,6,135,4
+Dekalb,Dekalb,11,15,18,32,17,13,11,17,134,16
+Forest Park,Cook,24,8,18,19,16,15,10,24,134,9
+Normal,McLean,23,12,20,17,10,19,18,14,133,6
+Schiller Park,Cook,15,21,12,24,9,17,11,23,132,1
+Tinley Park,Cook,14,9,10,17,18,21,16,26,131,16
+Broadview,Cook,19,15,12,11,8,17,17,31,130,21
+North Chicago,Lake,8,11,12,23,17,18,16,22,127,13
+Wheaton,Dupage,9,21,19,15,17,13,15,18,127,15
+Galesburg,Knox,14,14,24,31,9,15,10,7,124,7
+La Grange,Cook,13,4,13,22,15,14,16,25,122,10
+Lockport,Will,19,9,19,18,13,15,19,8,120,5
+Villa Park,Dupage,13,14,8,16,16,10,15,28,120,12
+Hickory Hills,Cook,15,20,10,11,11,9,17,24,117,7
+Woodridge,Dupage,15,12,16,18,10,7,14,19,111,10
+Glen Ellyn,Dupage,13,23,12,19,8,9,14,12,110,10
+Lincolnwood,Cook,22,12,12,18,9,14,7,14,108,1
+Glenwood,Cook,12,20,9,13,11,10,21,12,108,11
+Elmhurst,Dupage,14,8,9,19,13,4,11,28,106,5
+Wilmette,Cook,7,11,12,7,20,4,17,27,105,0
+Arlington Heights,Cook,8,13,12,16,15,7,13,16,100,5
+Gurnee,Lake,16,7,17,9,9,10,12,19,99,9
+Carbondale,Jackson,8,21,11,12,11,6,10,18,97,11
+Crystal Lake,McHenry,15,8,11,14,9,10,4,25,96,5
+Berkeley,Cook,16,11,11,11,3,13,16,15,96,10
+Northbrook,Cook,13,12,10,9,16,8,10,17,95,0
+DeKalb,Dekalb,2,7,16,18,12,10,11,18,94,7
+Posen,Cook,18,12,14,4,8,18,7,13,94,7
+Urbana,Champaign,15,14,12,13,11,3,8,17,93,6
+Rolling Meadows,Cook,8,10,12,18,12,3,9,15,87,1
+Chicago Ridge,Cook,6,9,23,6,13,7,12,11,87,6
+Willowbrook,Dupage,15,11,11,9,6,3,11,20,86,9
+Riverside,Cook,11,8,8,12,11,6,10,20,86,8
+Lake Villa,Lake,12,17,9,11,7,6,7,16,85,5
+Oswego,Kendall,12,1,11,17,6,7,11,20,85,14
+Brookfield,Cook,10,11,7,12,13,12,6,13,84,6
+Carol Stream,Dupage,14,8,9,18,5,3,13,12,82,6
+Burr Ridge,Dupage,15,5,6,9,6,4,12,24,81,3
+Robbins,Cook,9,10,4,6,16,11,5,18,79,7
+South Elgin,Kane,14,10,8,11,9,4,5,18,79,3
+Mundelein,Lake,6,4,6,11,3,15,16,16,77,9
+West Chicago,Dupage,16,9,13,16,4,,6,10,74,4
+Bartlett,Kane,8,6,8,14,10,4,7,17,74,9
+Rantoul,Champaign,10,7,7,10,2,2,20,16,74,9
+Worth,Cook,6,11,10,15,8,11,2,11,74,3
+Steger,Cook,7,3,3,11,9,7,19,14,73,7
+Round Lake,Lake,10,11,9,7,11,6,4,13,71,7
+Westchester,Cook,6,6,6,9,10,7,10,17,71,16
+Harwood Heights,Cook,15,4,11,5,6,6,8,15,70,0
+University Park,Will,10,6,2,5,3,9,13,21,69,5
+Highland Park,Lake,6,8,3,12,10,4,11,14,68,4
+Belvidere,Boone,9,8,12,8,8,8,8,6,67,6
+Crestwood,Cook,10,3,6,7,11,9,7,12,65,2
+Roselle,Dupage,9,9,4,17,2,6,5,11,63,3
+Stickney,Cook,6,6,3,12,9,5,10,11,62,3
+Homewood,Cook,8,8,8,7,4,4,7,16,62,5
+Hanover Park,Dupage,12,10,7,5,3,6,6,11,60,2
+Willow Springs,Cook,12,4,8,4,6,9,4,13,60,0
+Hanover Park,Cook,4,9,5,6,10,10,7,6,57,6
+Buffalo Grove,Cook,6,9,5,7,9,6,5,10,57,3
+Manteno,Kankakee,6,8,4,5,11,9,10,4,57,3
+De Kalb,Dekalb,14,7,7,3,7,5,2,11,56,7
+La Grange Park,Cook,9,8,7,7,2,7,9,7,56,1
+Antioch,Lake,6,14,5,7,5,2,5,12,56,5
+Hanover Park,Kane,7,5,9,5,6,5,6,12,55,1
+Minooka,Grundy,3,8,6,11,3,4,7,12,54,5
+Mount Vernon,Jefferson,2,11,10,14,5,2,6,3,53,3
+Frankfort,Will,9,3,3,7,2,1,12,14,51,3
+La Salle,La Salle,5,4,4,8,5,9,2,14,51,2
+Round Lake Beach,Lake,5,7,3,5,9,6,10,6,51,0
+Vernon Hills,Lake,,8,6,5,11,9,8,4,51,3
+Phoenix,Cook,5,8,9,8,6,6,4,4,50,3
+Round Lake Heights,Lake,6,6,5,12,5,8,2,6,50,2
+Crest Hill,Will,4,2,3,7,6,8,5,15,50,8
+Woodstock,McHenry,6,4,5,7,17,4,2,4,49,3
+Kewanee,Henry,6,7,5,6,9,2,9,4,48,1
+St Charles,Kane,3,7,8,3,7,3,9,7,47,5
+East Moline,Rock Island,2,3,1,4,8,15,8,5,46,6
+Yorkville,Kendall,4,1,13,3,5,2,7,9,44,6
+Barrington,Lake,1,7,3,8,10,3,2,9,43,3
+Plano,Kendall,6,,2,8,3,4,8,11,42,2
+Westmont,Dupage,6,5,2,1,8,2,7,10,41,6
+Deerfield,Lake,5,2,5,6,3,3,5,12,41,0
+North Aurora,Kane,2,11,7,5,3,3,4,5,40,2
+Algonquin,Kane,8,3,2,7,2,3,5,10,40,2
+Mattoon,Coles,,2,3,1,6,9,12,7,40,2
+Prospect Heights,Cook,6,10,5,3,1,6,5,3,39,0
+Beach Park,Lake,4,2,9,4,4,5,7,4,39,3
+Wood Dale,Dupage,5,2,6,3,6,1,7,9,39,0
+Ford Heights,Cook,1,4,11,2,8,,4,8,38,0
+Shorewood,Will,3,7,8,2,2,5,3,8,38,3
+Burnham,Cook,,10,5,2,6,4,2,9,38,4
+Hinsdale,Dupage,6,6,8,5,3,,5,5,38,2
+Hometown,Cook,,7,1,5,7,3,4,10,37,4
+Buffalo Grove,Lake,2,7,1,7,2,6,6,6,37,1
+River Forest,Cook,2,4,1,7,6,5,5,7,37,1
+Kewanee,Dept Of Corrections,4,4,5,3,11,9,,,36,2
+Macomb,McDonough,6,1,2,4,2,9,9,3,36,1
+Homer Glen,Will,2,5,,2,4,7,6,10,36,1
+Winnetka,Cook,1,4,5,5,5,1,1,13,35,1
+Bloomingdale,Dupage,1,2,5,2,2,9,3,11,35,0
+North Riverside,Cook,3,5,4,3,4,3,4,9,35,2
+Merrionette Park,Cook,2,2,8,2,3,5,5,8,35,1
+New Lenox,Will,2,6,3,2,4,4,3,10,34,1
+Lynwood,Cook,4,4,2,2,5,2,3,12,34,9
+Quincy,Adams,3,2,2,6,10,6,3,2,34,0
+McHenry,McHenry,5,4,5,2,2,3,5,7,33,1
+Park Forest,Will,2,5,4,3,1,1,5,12,33,2
+Clarendon Hills,Dupage,3,7,7,2,1,,6,7,33,1
+Bradley,Kankakee,8,9,2,2,4,,3,4,32,2
+Bourbonnais,Kankakee,,3,5,2,2,6,4,9,31,1
+Wadsworth,Lake,2,6,2,4,4,,9,4,31,1
+Ottawa,La Salle,6,5,7,,1,5,6,1,31,2
+Grayslake,Lake,2,3,6,3,3,1,5,7,30,0
+Gages Lake,Lake,2,1,2,1,4,5,9,6,30,2
+Warrenville,Dept Of Corrections,5,5,2,3,5,5,4,1,30,1
+Chatham,Sangamon,3,,3,6,2,6,6,3,29,3
+Lemont,Cook,3,2,2,2,2,2,3,12,28,1
+Batavia,Kane,7,,7,1,3,1,7,2,28,1
+Northfield,Cook,7,,3,3,,4,2,9,28,0
+Mendota,La Salle,3,3,1,6,4,2,3,6,28,5
+Aurora,Kendall,2,1,1,1,6,4,7,5,27,6
+Bedford Park,Cook,7,2,6,2,4,,4,2,27,3
+Moline,Rock Island,2,1,7,2,1,3,5,5,26,0
+Geneva,Kane,3,,3,3,6,3,4,4,26,1
+Morris,Grundy,4,3,1,5,3,2,4,4,26,2
+Lake in the Hills,McHenry,,5,2,3,2,3,5,5,25,3
+Cary,McHenry,1,1,4,4,4,5,3,2,24,0
+East Saint Louis,Saint Clair,,1,,3,3,3,9,5,24,2
+Lisle,Dupage,5,3,3,2,,3,1,7,24,0
+Lincolnshire,Lake,4,,1,3,3,4,3,6,24,1
+Ingleside,Lake,3,6,,4,3,3,,5,24,0
+Sterling,Whiteside,7,4,2,3,1,1,6,,24,1
+Great Lakes,Lake,,,,2,3,7,5,6,23,4
+Palos Park,Cook,1,2,3,5,1,4,3,4,23,3
+Libertyville,Lake,3,,2,5,3,4,,6,23,3
+Belleville,Saint Clair,2,6,2,2,,4,1,6,23,2
+Marion,Williamson,1,,2,3,3,2,4,8,23,0
+Machesney Park,Winnebago,1,3,1,4,6,3,2,3,23,2
+Silvis,Rock Island,7,2,,,1,,6,7,23,2
+Beecher,Will,2,3,,,6,2,4,5,22,5
+Countryside,Cook,3,4,1,2,2,4,3,3,22,0
+Monee,Will,2,,1,4,2,2,3,8,22,4
+Harvard,McHenry,1,2,6,4,2,1,1,4,21,0
+Warrenville,Dupage,5,3,2,1,,,6,4,21,1
+Glencoe,Cook,,1,3,5,2,2,3,5,21,0
+Hampshire,Kane,1,3,,6,1,2,2,5,20,0
+Wauconda,Lake,1,,2,4,3,2,2,6,20,2
+Orland Hills,Cook,2,1,,7,2,,3,5,20,4
+Charleston,Coles,,,,3,6,,5,5,19,2
+Algonquin,McHenry,1,4,,1,2,3,1,7,19,3
+Long Grove,Lake,2,,2,2,3,2,2,6,19,3
+Streator,La Salle,6,1,1,,,2,7,2,19,2
+Winfield,Dupage,2,3,4,,2,,3,5,19,3
+Loves Park,Winnebago,4,3,1,2,1,1,1,6,19,1
+Round Lake Park,Lake,3,2,3,2,2,2,,4,18,2
+Mokena,Will,1,2,1,,1,3,4,6,18,1
+Galena,Jo Daviess,1,,,4,,8,4,1,18,0
+Hodgkins,Cook,1,1,6,2,2,3,1,2,18,0
+Rochelle,Ogle,,1,1,8,,,1,7,18,2
+West Peoria,Peoria,,1,1,1,7,3,5,,18,4
+Hopkins Park,Kankakee,5,3,4,3,2,,,,17,2
+Pontiac,Livingston,2,3,,,4,,3,5,17,2
+Aurora,State Of Illinois,2,2,3,1,,4,2,3,17,1
+Lake Zurich,Lake,,1,2,1,2,1,4,6,17,0
+Harrisburg,Dept Of Corrections,4,5,,4,,1,3,,17,0
+Marengo,McHenry,1,,2,3,4,2,3,2,17,0
+Montgomery,Kendall,1,2,2,3,3,1,,4,16,1
+Fox Lake,Lake,2,2,1,1,2,1,3,4,16,2
+Hawthorn Woods,Lake,2,3,4,1,,1,1,3,15,0
+Mchenry,McHenry,,2,,5,4,,3,1,15,0
+Hoffman Estates,Kane,3,,1,2,2,,1,6,15,3
+Collinsville,Madison,2,1,,4,1,,5,2,15,0
+Malta,Dekalb,,2,1,,5,2,5,,15,0
+Huntley,McHenry,1,2,,4,4,1,2,1,15,0
+South Chicago Heights,Cook,1,,1,,1,1,3,7,14,3
+Dixon,Lee,1,3,1,,4,,2,3,14,1
+Momence,Kankakee,1,2,,2,4,1,1,3,14,0
+Saint Charles,Kane,1,,1,1,,1,5,5,14,1
+Gilman,Iroquois,,3,3,1,2,1,,4,14,0
+Cortland,Dekalb,,3,1,1,2,,6,1,14,1
+Thornton,Cook,2,3,1,,1,1,,5,13,1
+Herrin,Williamson,3,4,,2,,,,4,13,0
+Oak Brook,Dupage,,4,,1,2,,2,4,13,0
+Lake in the Hills,Kane,1,,,,3,3,1,5,13,0
+Montgomery,Kane,1,,1,2,,1,4,4,13,0
+Clinton,Dewitt,1,,1,2,1,1,1,5,12,1
+Rock Falls,Whiteside,2,1,2,2,2,,,3,12,0
+Fairfield,Wayne,4,1,,1,3,,1,2,12,4
+Spring Grove,Lake,,3,2,1,3,1,,2,12,0
+Jacksonville,Morgan,3,,,1,,3,2,2,11,0
+Medinah,Dupage,1,,1,6,2,,,1,11,1
+Hoopeston,Vermilion,,4,3,2,,2,,,11,0
+Centralia,Marion,3,,1,2,1,1,2,1,11,0
+Lake Forest,Lake,,,,3,1,3,4,,11,0
+Lincoln,Logan,,,1,2,,2,5,,10,0
+Itasca,Dupage,,3,2,1,1,,,3,10,0
+Plainfield,Kendall,,1,2,2,2,,,3,10,2
+Rockdale,Will,,2,,,5,,1,2,10,0
+Roselle,Cook,,,1,2,3,1,,3,10,2
+Saint Anne,Kankakee,1,1,2,1,2,1,1,1,10,1
+Carol Stream,Kane,,2,,,1,3,,4,10,0
+Alton,Madison,1,,,2,3,2,,2,10,1
+Effingham,Effingham,,,2,2,1,,1,3,9,0
+Braidwood,Will,1,1,2,1,,1,2,1,9,0
+Peotone,Will,,,1,,1,1,1,5,9,0
+Dundee,Kane,4,1,,1,1,1,,1,9,0
+Rosemont,Cook,2,1,,4,1,1,,,9,0
+Manhattan,Will,2,1,,1,3,1,,1,9,0
+O Fallon,Saint Clair,1,4,1,1,1,1,,,9,0
+West Dundee,Kane,2,1,,,3,,1,2,9,1
+Bushnell,McDonough,,,2,,,,3,4,9,0
+Burlington,Kane,,,1,,1,4,2,1,9,0
+Sycamore,Dekalb,3,,1,1,2,1,1,,9,0
+Beardstown,Cass,2,2,1,1,,,3,,9,0
+Tinley Park,Will,,,,,1,2,1,5,9,1
+Oakbrook Terrace,Dupage,3,,1,,2,2,,1,9,2
+Marseilles,La Salle,,,,1,,1,1,5,8,0
+Peru,La Salle,1,,,1,,1,3,2,8,0
+Cullom,Livingston,1,2,1,1,1,2,,,8,1
+Western Springs,Cook,1,1,1,,1,1,,3,8,0
+Bolingbrook,Dupage,,,2,,2,,3,1,8,1
+Moweaqua,Shelby,1,5,,,,1,1,,8,0
+Lindenhurst,Lake,1,,1,1,3,1,1,,8,0
+Orion,Henry,,,,3,2,2,1,,8,1
+Nashville,Washington,,,,1,1,,2,4,8,1
+Sandwich,Dekalb,3,1,,2,,,1,1,8,0
+Edwardsville,Madison,,4,3,,,,,1,8,0
+Pana,Christian,,4,,,1,,3,,8,1
+Johnsburg,McHenry,,1,2,,,2,2,1,8,0
+Roscoe,Winnebago,,,,3,,,1,3,7,0
+Carlinville,Macoupin,,,4,,1,2,,,7,0
+Litchfield,Montgomery,,,,2,2,,,3,7,0
+North Barrington,Lake,,,1,,,1,1,4,7,0
+Old Mill Creek,Lake,,1,2,1,,1,,2,7,0
+Sugar Grove,Kane,,1,3,1,,2,,,7,0
+Oglesby,La Salle,,1,2,,1,,,3,7,0
+Cahokia,Saint Clair,2,,3,,1,,,1,7,1
+Christopher,Franklin,,,,,6,,,,6,0
+Poplar Grove,Boone,1,2,,,,2,,1,6,1
+Fisher,Champaign,1,,,5,,,,,6,5
+Eureka,Woodford,1,1,,3,1,,,,6,0
+Murphysboro,Jackson,,3,,,,2,1,,6,0
+West Frankfort,Franklin,,1,,,,1,2,2,6,1
+Granite City,Madison,3,,,,,1,1,1,6,0
+Dunlap,Peoria,,4,,,,1,1,,6,1
+Rockton,Winnebago,,1,1,2,,,2,,6,2
+Oregon,Ogle,,1,1,1,1,,,2,6,0
+Coal City,Grundy,2,,1,,2,1,,,6,2
+Fairbury,Livingston,,,1,,,3,1,1,6,0
+Highwood,Lake,,,,3,1,,,2,6,0
+Burr Ridge,Cook,2,1,1,,,1,,1,6,0
+Carpentersville,Lake,1,2,1,1,,1,,,6,0
+Earlville,La Salle,3,2,,,,,,,5,0
+Gilberts,Kane,1,,1,1,,1,,1,5,0
+Metropolis,Massac,1,,,2,2,,,,5,0
+Savoy,Champaign,1,1,1,2,,,,,5,0
+Golconda,Pope,,,4,,,,,1,5,0
+Fox River Grove,McHenry,,,,2,1,,1,1,5,0
+Harrisburg,Saline,,,,,1,1,3,,5,2
+Elwood,Will,,2,1,1,1,,,,5,0
+Wayne,Kane,,,3,,1,1,,,5,0
+Kenilworth,Cook,,1,,,,,2,2,5,0
+Milan,Rock Island,1,,1,,,,,3,5,0
+Fairview Heights,Saint Clair,2,,,1,1,,,1,5,0
+Lake In The Hills,Kane,,,2,,,,1,2,5,0
+Wilmington,Will,,2,2,,,,,1,5,0
+Shabbona,Dekalb,,1,1,,3,,,,5,0
+Morton,Tazewell,,,,,,,5,,5,1
+Lake Bluff,Lake,,2,1,1,,,,1,5,0
+Sullivan,Moultrie,,,,,,,3,2,5,0
+Byron,Ogle,1,,,,,3,1,,5,0
+Winthrop Harbor,Lake,1,,1,1,,,1,,4,0
+Wasco,Kane,,4,,,,,,,4,0
+Geneseo,Henry,,,,2,1,1,,,4,0
+Maroa,Macon,1,,,1,,2,,,4,0
+Mounds,Pulaski,,,,1,,1,2,,4,2
+Spring Valley,Bureau,1,,,1,,1,1,,4,0
+Pingree Grove,Kane,,,,,1,,,3,4,0
+East Peoria,Tazewell,,,,,,,,4,4,0
+Peoria Heights,Peoria,,,1,1,1,,,1,4,0
+Channahon,Will,,,3,,1,,,,4,0
+La Grange Highlands,Cook,,,,1,1,,1,1,4,0
+Mazon,Grundy,4,,,,,,,,4,0
+Island Lake,Lake,,,1,,,1,1,1,4,1
+Breese,Clinton,4,,,,,,,,4,1
+Caledonia,Boone,,,,1,,1,1,1,4,0
+Marshall,Clark,,,,2,2,,,,4,0
+Cairo,Alexander,,1,2,,,1,,,4,0
+Forreston,Ogle,,3,,1,,,,,4,0
+Joliet,Grundy,,,,2,,,2,,4,2
+Sleepy Hollow,Kane,2,,,,,,1,1,4,0
+Washington,Tazewell,,,,,3,,,1,4,0
+Georgetown,Vermilion,,,,2,,,2,,4,1
+Bannockburn,Lake,,1,,,1,1,1,,4,0
+Watseka,Iroquois,1,,,,1,,2,,4,0
+Mount Morris,Ogle,,2,,,,1,,,3,0
+Donovan,Iroquois,1,,,,1,,,1,3,1
+Ashton,Lee,,1,1,,,,,1,3,1
+Lebanon,Saint Clair,1,2,,,,,,,3,0
+Godfrey,Madison,1,,,,1,,,1,3,0
+Bristol,Kendall,,,2,,,,,1,3,0
+Kirkland,Dekalb,,2,,,,,,1,3,0
+Elburn,Kane,2,,,,,,1,,3,0
+Robinson,Crawford,,,1,1,,1,,,3,0
+Genoa,Dekalb,,,1,,,1,1,,3,0
+Stone Park,Cook,,2,1,,,,,,3,0
+Ladd,Bureau,1,,,,,1,1,,3,0
+Thawville,Iroquois,,,1,,,1,,1,3,1
+Monmouth,Warren,2,,,,,,1,,3,0
+Taylorville,Christian,,1,,,1,1,,,3,0
+Brimfield,Peoria,,1,,2,,,,,3,0
+Gridley,Woodford,,,,,,,1,2,3,0
+DePue,Bureau,,1,,,,,2,,3,0
+Swansea,Saint Clair,,,,,,1,1,1,3,0
+Mt Vernon,Jefferson,,2,,,1,,,,3,0
+South Beloit,Winnebago,,,,1,,2,,,3,0
+Hanover,Jo Daviess,,,,,,2,1,,3,0
+Mahomet,Champaign,,,,2,,,1,,3,0
+Winnebago,Winnebago,,,,,,,3,,3,0
+Serena,La Salle,,1,,,1,,1,,3,0
+Pinckneyville,Perry,,,3,,,,,,3,0
+Mc Nabb,Putnam,,,,3,,,,,3,0
+Onarga,Iroquois,,,1,,,,,2,3,0
+Carmi,White,1,,,2,,,,,3,1
+Minonk,Woodford,,,1,1,,1,,,3,0
+Durand,Winnebago,1,2,,,,,,,3,0
+Paxton,Ford,1,1,,,,,,,2,0
+Maple Park,Kane,,,,,,1,,1,2,1
+Wood River,Madison,,,,,1,1,,,2,0
+Olney,Richland,,1,,1,,,,,2,0
+Hainesville,Lake,,,,,,,1,1,2,0
+Chatsworth,Livingston,,,,,,1,1,,2,0
+Gibson City,Ford,2,,,,,,,,2,0
+Grafton,Dept Of Corrections,,,1,,,,1,,2,0
+Stillman Valley,Ogle,1,,1,,,,,,2,0
+Sparta,Randolph,,,1,,,1,,,2,0
+Hinckley,Dekalb,,2,,,,,,,2,0
+Dakota,Stephenson,,,1,,,1,,,2,0
+Du Quoin,Perry,,,,1,,,1,,2,0
+Canton,Fulton,1,,,,,,,1,2,0
+Shelbyville,Shelby,,1,,,,,,1,2,0
+Caseyville,Madison,,,,,,,,2,2,0
+Warren,Jo Daviess,,,,,,2,,,2,2
+Pecatonica,Winnebago,,,,,,,,2,2,0
+Forrest,Livingston,,1,,,,1,,,2,1
+Joy,Mercer,,,,,,2,,,2,0
+Villa Grove,Douglas,,,,2,,,,,2,0
+Zeigler,Franklin,,2,,,,,,,2,0
+Dwight,Livingston,,,,2,,,,,2,0
+Thomasboro,Champaign,,,,,,1,1,,2,1
+El Paso,Woodford,,,,,,,1,1,2,0
+Philo,Champaign,,,,1,1,,,,2,0
+Anna,Union,,,,,,2,,,2,0
+Fulton,Whiteside,,,,,2,,,,2,0
+Polo,Ogle,,,,,,,,2,2,0
+Washington Pk,Saint Clair,,,,,,,1,1,2,0
+Heyworth,McLean,,,,,,,,2,2,0
+Oakwood,Vermilion,,1,,,,,,1,2,0
+Ullin,Pulaski,,,,,1,,1,,2,0
+Mount Pulaski,Logan,,,,,,,,2,2,0
+Big Rock,Dekalb,1,1,,,,,,,2,0
+Savanna,Carroll,2,,,,,,,,2,0
+Carrier Mills,Saline,1,,,,,,1,,2,1
+Benton,Franklin,2,,,,,,,,2,0
+Bradford,Stark,,,2,,,,,,2,0
+Granville,Putnam,,,,1,,,,1,2,0
+Dupo,Saint Clair,,,,,2,,,,2,0
+Toulon,Stark,,,1,1,,,,,2,0
+Rock Island,,1,,1,,,,,,2,0
+White Heath,Piatt,,,,1,,,,,1,0
+Junction,Gallatin,,1,,,,,,,1,0
+Assumption,Shelby,1,,,,,,,,1,0
+East Dubuque,Jo Daviess,,,,,1,,,,1,0
+Cherry Valley,Winnebago,1,,,,,,,,1,0
+Carpentersville,Cook,,,,,,,,1,1,0
+East St Louis,Saint Clair,,,,,1,,,,1,0
+Kempton,Livingston,,,,,,1,,,1,0
+Ogden,Champaign,,,,,,,1,,1,0
+Roanoke,Woodford,,,1,,,,,,1,0
+Custer Park,Will,,,,,,1,,,1,0
+Clifton,Iroquois,,,,,,1,,,1,0
+Freeburg,Saint Clair,,,,1,,,,,1,0
+Joppa,Massac,,,,,,,1,,1,1
+Bismarck,Vermilion,,,,,,,,1,1,0
+Mc Leansboro,Hamilton,,,,,1,,,,1,0
+Mulberry Grove,Bond,,,1,,,,,,1,0
+Roxana,Madison,,,,,,,1,,1,0
+Chenoa,Livingston,,,,,,1,,,1,0
+Danforth,Iroquois,,,,,1,,,,1,0
+Creve Coeur,Tazewell,,1,,,,,,,1,0
+Lostant,La Salle,,,,,1,,,,1,0
+Albion,Edwards,1,,,,,,,,1,0
+Arcola,Douglas,,,,,,1,,,1,0
+Pekin,Tazewell,,,,,,,,1,1,0
+Piper City,Livingston,,1,,,,,,,1,0
+Elmwood,Peoria,,,,,,1,,,1,0
+Rushville,Schuyler,,,,,,,,1,1,0
+Herscher,Kankakee,,,,1,,,,,1,0
+Warrensburg,Macon,,,,,,,1,,1,0
+Grant Park,Kankakee,,1,,,,,,,1,0
+Dix,Jefferson,,,,1,,,,,1,0
+Rochester,Sangamon,,,1,,,,,,1,0
+Coal Valley,Rock Island,,,,1,,,,,1,0
+Odell,Livingston,,,,,,1,,,1,0
+Grand Ridge,La Salle,,,,,,1,,,1,0
+White Hall,Greene,,,,,,,1,,1,0
+Emden,Logan,,,,,,,,1,1,0
+Highland,Madison,,,,1,,,,,1,0
+Madison,Madison,,,,1,,,,,1,0
+Bunker Hill,Macoupin,,,,,,,,1,1,1
+Hillsboro,Montgomery,1,,,,,,,,1,0
+Mount Carroll,Carroll,1,,,,,,,,1,0
+Amboy,Lee,,,1,,,,,,1,0
+Aledo,Mercer,,,,,,1,,,1,0
+Stockton,Jo Daviess,,,,,,,,1,1,0
+Seneca,La Salle,,,,,,,,1,1,0
+Louisville,Clay,1,,,,,,,,1,0
+Mount Erie,Wayne,,1,,,,,,,1,0
+Princeton,Bureau,1,,,,,,,,1,0
+Avon,Knox,,,,,,,,1,1,1
+Mascoutah,Saint Clair,1,,,,,,,,1,0
+Buda,Bureau,,,,,,,1,,1,0
+Carterville,Williamson,,,,,,,1,,1,0
+Morrison,Whiteside,,,,,,,1,,1,0
+South Roxana,Madison,,,,,,,1,,1,0
+Sheridan,La Salle,,,,,,,1,,1,0
+Argenta,Macon,,,,1,,,,,1,0
+Waltonville,Jefferson,,,1,,,,,,1,1
+Staunton,Macoupin,,,,,,,,1,1,0
+Wonder Lake,McHenry,,,,,,1,,,1,0
+Chebanse,Iroquois,,,,,,1,,,1,0
+Barry,Pike,,,,,,1,,,1,0
+Shorewood,Grundy,,,,,,,1,,1,0
+Troy,Madison,,,,,,,1,,1,0
+Vienna,Johnson,,,,,,1,,,1,1
+Kingston,Dekalb,,,,,,1,,,1,0
+Henry,Marshall,,,,1,,,,,1,0
+Newark,Kendall,,,,,,,1,,1,0
+Sesser,Franklin,,,,1,,,,,1,0
+Waverly,Morgan,,,,,1,,,,1,1
+Richmond,McHenry,,,,1,,,,,1,0
+Matherville,Rock Island,,,,1,,,,,1,0
+Flanagan,Livingston,1,,,,,,,,1,0
+Buffalo,Sangamon,,,,1,,,,,1,0

@@ -1,0 +1,1427 @@
+CountyName,RecType,"Region-2 County-3 District-4",Type,School,FacilityName,Administrator,Address,City,Zip,Telephone,GradeServed,StRep,StSen,FedCong,Cat
+,,,,,,,,,,,,,,,
+Adams,Non Pub Sch,01001002X,6,0,St James Lutheran,Mr. Nathan L Landskroener,900 S 17th St,Quincy,62301 5542,217222-8267,P-8,94,47,18,3
+Adams,Non Pub Sch,01001005X,10,0,St Dominic School,Mrs. Susan E Kelley,4100 Columbus Rd,Quincy,62305 4715,217224-0041,P-8,94,47,18,3
+Adams,Non Pub Sch,01001006X,10,0,St Francis Solanus,Ms. Lori L Shepard,1720 College Ave,Quincy,62301 2641,217222-4077,P-8,94,47,18,3
+Adams,Non Pub Sch,01001007X,10,0,Blessed Sacrament Catholic School,Christie Dickens,1115 S 7th St,Quincy,62301 5369,217228-1477,P-8,94,47,18,3
+Adams,Non Pub Sch,01001009X,10,0,St Peter School,Mrs. Cindy Venvertloh,2500 Maine St,Quincy,62301 4404,217223-1120,P-8,94,47,18,3
+Adams,Non Pub Sch,01001012Y,10,0,Quincy Notre Dame High School,Mr. Mark McDowell,1400 S 11th St,Quincy,62301 7252,217223-2479,9-12,94,47,18,3
+Adams,Non Pub Sch,01001021S,19,0,Transitions of Western IL,Mr. J Michael Rein,PO Box 3646,Quincy,62305 3646,217223-0413,"K,2,6,8-9,11-12",94,47,18,3
+Adams,Non Pub Sch,01001025Z,26,0,Quincy Christian School,Mr. Randy Peterson,PO Box 3643,Quincy,62305 3643,217223-5698,P-12,94,47,18,3
+Brown,Non Pub Sch,01005001X,10,0,St Mary School,Martha Hogge,408 W Washington St,Mount Sterling,62353 1023,217773-2825,P-8,93,47,18,3
+Cass,Non Pub Sch,01009002X,6,0,Trinity Lutheran,Ms. Lynne Schone,PO Box 118,Arenzville,62611 0118,217997-5535,P-6,93,47,18,3
+Cass,Non Pub Sch,01009003Z,26,0,Beardstown Christian Academy,Mr. Jeremy Norton,1421 Beard St,Beardstown,62618 1773,217323-1685,P-8,93,47,18,3
+Morgan,Non Pub Sch,01069003X,10,0,Our Saviour School,Mrs. Stephanie VanDeVelde,455 E State St,Jacksonville,62650 2125,217243-8621,P-8,100,50,18,3
+Morgan,Non Pub Sch,01069004Y,10,0,Routt Catholic High School,Mr. Nick W Roscetti,500 E College Ave,Jacksonville,62650 2524,217243-8563,9-12,100,50,18,3
+Morgan,Non Pub Sch,01069005X,6,0,Salem Lutheran,Mrs. Lisa Aring,222 E Beecher Ave,Jacksonville,62650 2513,217243-3419,P-8,100,50,18,3
+Morgan,Non Pub Sch,01069007Z,2,0,Westfair Christian Academy,Randy Cooper,14 Clarke Dr,Jacksonville,62650 1702,217243-7100,P-12,100,50,18,3
+Morgan,Non Pub Sch,01069018S,19,0,Pathway Services Unlimited,Nancy Logsdon,1905 W Morton Ave,Jacksonville,62650 2620,217271-1552,K-12,100,50,18,3
+Pike,Non Pub Sch,01075001X,14,0,Pike County Christian Academy,Rev. Jim Jacques,PO Box 72,Pittsfield,62363 0072,217285-5722,K-12,100,50,18,3
+Christian,Non Pub Sch,03011001X,10,0,Sacred Heart,Mrs. Terry Trader,3 E 4th St,Pana,62557 1601,217562-2425,P-8,95,48,13,3
+Christian,Non Pub Sch,03011003Z,2,0,First Baptist Christian Academy,Larry Gruis,114 Maple St,Pana,62557 1457,217562-5054,P-12,95,48,13,3
+Christian,Non Pub Sch,03011004X,10,0,St Mary School,Cathy Robertson,422 S Washington St,Taylorville,62568 2562,217824-6501,K-6,95,48,13,3
+Christian,Non Pub Sch,03011007X,26,0,Visionway Christian School,Mrs. Glenna Tolliver,1124 N Webster St,Taylorville,62568 1276,217824-6722,P-8,95,48,13,3
+Effingham,Non Pub Sch,03025002X,6,0,Altamont Lutheran Interparish,Mrs. Robinette Flach,7 S Edwards St,Altamont,62411 1203,618483-6296,K-8,107,54,15,3
+Effingham,Non Pub Sch,03025003X,10,0,Sacred Heart School,Mrs. Vicki Wenthe,407 S Henrietta St,Effingham,62401 1984,217342-4060,P-8,107,54,15,3
+Effingham,Non Pub Sch,03025004Y,10,0,St Anthony High School,Mr. Greg Fearday,304 E Roadway Ave,Effingham,62401 3208,217342-6969,9-12,107,54,15,3
+Effingham,Non Pub Sch,03025007X,10,0,St Anthony Grade School,Matt Sturgeon,405 N 2nd St,Effingham,62401 3351,217347-7129,P-8,107,54,15,3
+Fayette,Non Pub Sch,03026003X,6,0,St Peter Lutheran,Mr. Dan Yagow,701 E 3rd St,Saint Peter,62880 1220,618349-8888,P-8,107,54,15,3
+Fayette,Non Pub Sch,03026007X,2,0,Vandalia Christian Academy,Matthew R Philbrick,PO Box 395,Vandalia,62471 0395,618283-9901,K-8,107,54,15,3
+Montgomery,Non Pub Sch,03068002X,10,0,St Louis Catholic School,Mrs. Elaine Wagner,509 E Union St,Nokomis,62075 1418,217563-7445,P-8,95,48,13,3
+Montgomery,Non Pub Sch,03068005X,6,0,Zion Lutheran School,Mr. John Schaff,1301 N State St,Litchfield,62056 1105,217324-3166,P-8,95,48,13,3
+Boone,Non Pub Sch,04004001X,6,0,Immanuel Lutheran School,Judy Schaefer,1225 E 2nd St,Belvidere,61008 4523,815547-5346,P-8,70,35,16,3
+Boone,Non Pub Sch,04004002X,10,0,St James School,Dr. Kathleen E Miller,320 Logan Ave,Belvidere,61008 3727,815547-7633,P-8,69,35,16,3
+Winnebago,Non Pub Sch,04101001Z,2,0,Berean Baptist Christian School,Douglas E Swanson,5626 Safford Rd,Rockford,61101 2259,815962-4841,P-12,68,34,17,3
+Winnebago,Non Pub Sch,04101002Y,10,0,Boylan Central Catholic High Sch,Mr. Chris Rozanski,4000 Saint Francis Dr,Rockford,61103 1661,815877-0531,9-12,67,34,17,3
+Winnebago,Non Pub Sch,04101003X,10,0,Holy Family School,Ms. Corine A Gendron,4407 Highcrest Rd,Rockford,61107 1401,815398-5331,P-8,68,34,16,3
+Winnebago,Non Pub Sch,04101004X,6,0,Concordia Lutheran School,Mr. Joel Koehler,7424 N 2nd St,Machesney Park,61115 2814,815633-6450,P-5,68,34,16,3
+Winnebago,Non Pub Sch,04101005Z,1,0,Keith Country Day School,Dr. James Norris,1 Jacoby Pl,Rockford,61107 1817,815399-8850,P-12,68,34,16,3
+Winnebago,Non Pub Sch,04101007X,10,0,St Bernadette,Mrs. Renee Payne,2300 Bell Ave,Rockford,61103 3602,815968-2288,P-8,67,34,17,3
+Winnebago,Non Pub Sch,04101008X,10,0,St Bridget School,Mrs. Mary C Toldo,604 Clifford Ave,Loves Park,61111 4698,815633-8255,P-8,68,34,16,3
+Winnebago,Non Pub Sch,04101009X,10,0,St Edward,Pat Wackenhut,3020 11th St,Rockford,61109 1210,815398-2631,P-8,67,34,17,3
+Winnebago,Non Pub Sch,04101010X,10,0,St James School,Renee Payne,409 N 1st St,Rockford,61107 3903,815962-8515,P-8,67,34,17,3
+Winnebago,Non Pub Sch,04101013X,6,0,St Paul Lutheran,Tara Jepsen,811 Locust St,Rockford,61101 6618,815965-3335,P-8,67,34,17,3
+Winnebago,Non Pub Sch,04101014X,10,0,St Peter Cathedral School,James Burns,1231 N Court St,Rockford,61103 6201,815963-3620,P-8,67,34,17,3
+Winnebago,Non Pub Sch,04101016X,1,0,Kindercare Learning Center,Dawn Allen,6473 E Riverside Blvd,Rockford,61114 4421,815636-2200,P-2,68,34,16,3
+Winnebago,Non Pub Sch,04101017X,11,0,Alpine Christian School,Ms. Teresa L Smith,325 N Alpine Rd,Rockford,61107 4905,815399-0880,P-8,68,34,16,3
+Winnebago,Non Pub Sch,04101019Z,1,0,Sacred Heart Classical Center,Michael Brunner,411 Sunrise Ln,Rockford,61107 4947,815543-1193,6-12,68,34,16,3
+Winnebago,Non Pub Sch,04101020X,10,0,St Rita School,Patrick Flanagan,6284 Valley Knoll Dr,Rockford,61109 1825,815398-3466,P-8,68,34,16,3
+Winnebago,Non Pub Sch,04101021X,10,0,St Peters School,Ms. Erica Schwartz,320 Elmwood Ave,South Beloit,61080 1929,779475-0560,P-8,69,35,16,3
+Winnebago,Non Pub Sch,04101022Z,6,0,Rockford Lutheran School,Donald E Kortze,3411 N Alpine Rd,Rockford,61114 4801,815877-9551,P-12,68,34,16,3
+Winnebago,Non Pub Sch,04101023Z,26,0,Rockford Christian Schools,Randy Taylor,1401 N Bell School Rd,Rockford,61107 2872,815399-3465,P-12,69,35,16,3
+Winnebago,Non Pub Sch,04101025X,2,0,Cathedral Baptist School,Pastor Thomas Freeman,5622 35th St,Rockford,61109 3908,815874-3883,P-4,67,34,16,3
+Winnebago,Non Pub Sch,04101026X,14,0,Kingdom Authority House of Grace Learning Cntr,Shelia Brown,518 N Court St,Rockford,61103 6808,815964-3117,"P,K",67,34,17,3
+Winnebago,Non Pub Sch,04101027X,1,0,Spectrum School,Theodora Middleton,2909 N Main St,Rockford,61103 3100,815877-1600,P-8,68,34,16,3
+Winnebago,Non Pub Sch,04101030Z,20,0,North Love Christian School,Mr. Tony Cotelleso,5301 E Riverside Blvd,Rockford,61114 7008,815877-6021,P-12,68,34,16,3
+Winnebago,Non Pub Sch,04101032Z,14,0,Christian Life Center School,Mr. Mike Hoekstra,5950 Spring Creek Rd,Rockford,61114 6448,815877-5749,P-12,68,34,16,3
+Winnebago,Non Pub Sch,04101055S,19,0,Walter Lawson Childrens Home,Mrs. Katie J Johnson,1820 Walter Lawson Dr,Loves Park,61111 2757,815633-6636,K-12,68,34,16,3
+Winnebago,Non Pub Sch,04101069X,20,0,Rainbow Academy,Jean Marie McCormack,6413 Forest Hills Rd,Rockford,61114 4759,815877-1489,K-8,68,34,16,3
+Winnebago,Non Pub Sch,04101070X,16,0,Montessori Private Academy Inc,Mr. Jeffrey Katz,8101 Sayer Rd,Rockford,61108 4546,815332-8101,P-9,69,35,16,3
+Winnebago,Non Pub Sch,04101072X,14,0,Wee Care Day Care,Patricia Baker,623 E Jefferson St,Rockford,61107 4025,815968-9366,"P,K",67,34,17,3
+Winnebago,Non Pub Sch,04101073X,16,0,Montessori Learning Path,Holly Adrowski,200 N 1st St,Rockford,61107 3901,815964-1700,"P,K",67,34,17,3
+Winnebago,Non Pub Sch,04101081X,25,0,St Paul C O G I C Academy,Ruthella Pettiway,1001 Bishop Washington Ave,Rockford,61102 3366,815965-4308,P-1,67,34,17,3
+Winnebago,Non Pub Sch,04101085X,2,0,Mt Sinai Learning Academy,Sylvia Lumpkins,1901 W State St,Rockford,61102 1956,815964-5852,"P,K",67,34,17,3
+Winnebago,Non Pub Sch,04101088X,23,0,Rockford Iqra School,Ms. Donna Dooley,5925 Darlene Dr,Rockford,61109 1858,815397-6899,P-6,68,34,16,3
+Winnebago,Non Pub Sch,04101094Z,10,0,Our Lady Sacred Heart Acad,Lou Bageanis,3218 11th St,Rockford,61109 2204,815399-3021,5-12,67,34,17,3
+Winnebago,Non Pub Sch,04101095Y,14,0,Lydia Urban Academy-Rockford,Mr. Chad Carty,223 S Winnebago St,Rockford,61102 2259,815966-0039,9-12,67,34,17,3
+Winnebago,Non Pub Sch,04101096X,6,0,Alpine Academy,Mr. Robert W McVinnie,5001 Forest View Ave,Rockford,61108 6553,815227-8894,P-6,68,34,16,3
+Winnebago,Non Pub Sch,04101097Z,14,0,Crossroads Learning Center,Alice Sorenson,625 Adams St,Rockford,61107 4203,815489-0560,1-10,67,34,17,3
+Winnebago,Non Pub Sch,04101099X,1,0,The Ryan Jury Child Dev Learning Cntr,Carol Mittel,122 Williams Park,Rockford,61104 2312,815489-9502,K,67,34,17,3
+Winnebago,Non Pub Sch,04101100X,25,0,Abounding Grace Christian Acad,Brenda Burch,518 N Court St,Rockford,61103 6808,815315-3244,K-6,67,34,17,3
+Cook,Non Pub Sch,05016001Y,1,0,Beacon Academy,Mr. Jeff Bell,1574 Sherman Avenue,Evanston,60201,224999-1177,9-12,18,9,9,3
+Cook,Non Pub Sch,05016005X,16,0,Glencoe Montessori,Carol Lee,556 Vernon Ave,Glencoe,60022 1647,847687-0724,"P,K",18,9,10,3
+Cook,Non Pub Sch,05016006S,5,0,Yeshiva High School of Chicago,Gavriel Kark,3050 W Touhy Ave,Chicago,60645 2834,773649-5353,9-12,16,8,9,3
+Cook,Non Pub Sch,05016007Z,14,0,Sterling Central - Chicago Campus,Garth Taylor,404 E Devon Ave,Elk Grove Village,60007 4637,847593-4120,3-12,55,28,8,3
+Cook,Non Pub Sch,05016008Z,1,0,North Shore Country Day School,Thomas Flemma,310 Green Bay Rd,Winnetka,60093 4009,847446-0674,P-12,18,9,9,3
+Cook,Non Pub Sch,05016047X,1,0,Angel Town Private School,Anthony Morelli,1920 E Touhy Ave,Des Plaines,60018 3631,847827-8203,"P,K",55,28,9,3
+Cook,Non Pub Sch,05016049Y,14,0,Loyola Academy,Dr. Kathryn Baal,1100 Laramie Ave,Wilmette,60091 1021,847920-2404,9-12,18,9,9,3
+Cook,Non Pub Sch,05016059X,16,0,Park View Montessori Inc,George N Petkovich,805 N Burning Bush Ln,Mt Prospect,60056 1913,847296-3044,U,57,29,10,3
+Cook,Non Pub Sch,05016069Y,10,0,Notre Dame College Prep,Mr. Daniel Tully,7655 W Dempster St,Niles,60714 2033,847965-2900,9-12,15,8,9,3
+Cook,Non Pub Sch,05016071X,16,0,Glenview Montessori School,Mr. Tony Kambich,305 Waukegan Rd,Northfield,60093 2719,847446-7584,"P,K",18,9,9,3
+Cook,Non Pub Sch,05016076Y,10,0,Regina Dominican High School,Meg Bigane,701 Locust Rd,Wilmette,60091 2217,847256-7660,9-12,17,9,9,3
+Cook,Non Pub Sch,05016078X,5,0,Cheder Lubavitch,Rabbi Ilan Heifetz,5201 Howard St,Skokie,60077 2808,847675-6777,P-8,16,8,9,3
+Cook,Non Pub Sch,05016091Z,20,0,Brentwood Baptist Christian Acad,James R Hines,588 Dara James Rd,Des Plaines,60016 2711,847298-3399,P-12,55,28,9,3
+Cook,Non Pub Sch,05016100X,16,0,Chiaravalle Montessori School,Robyn McCloud-Springer,425 Dempster St,Evanston,60201 4706,847864-2190,P-8,18,9,9,3
+Cook,Non Pub Sch,05016102X,6,0,St Peter Lutheran School,Bruce Rudi,111 W Olive St,Arlington Heights,60004 4766,847253-6638,P-8,53,27,9,3
+Cook,Non Pub Sch,05016106Z,20,0,Logos Christian Academy,Larry Murg,7280 N Caldwell Ave,Niles,60714 4502,847647-9456,P-12,15,8,9,3
+Cook,Non Pub Sch,05016113Y,10,0,St Viator High School,Karen Love,1213 E Oakton St,Arlington Heights,60004 5041,847392-4050,9-12,53,27,9,3
+Cook,Non Pub Sch,05016115X,16,0,Skokie Montessori School,Joji A Escanilla,8401 Karlov Ave,Skokie,60076 2102,847679-4614,P-6,17,9,9,3
+Cook,Non Pub Sch,05016122X,16,0,Kripa Montessori Sch H E,T R Raveendran,1015 W Golf Rd,Hoffman Estates,60169 1339,847882-7727,"P,K",44,22,8,3
+Cook,Non Pub Sch,05016123Y,5,0,Fasman Yeshiva High School,Rabbi Moshe Wender,7135 Carpenter Rd,Skokie,60077 3248,847982-2500,9-12,16,8,9,3
+Cook,Non Pub Sch,05016124X,1,0,A Mothers Touch Learning Academy,Laurie Gashkoff,1666 Rand Rd,Des Plaines,60016 3552,847823-1020,"P,K",55,28,10,3
+Cook,Non Pub Sch,05016125X,1,0,A Mothers Touch Creative Learning Center,Laurie Gashkoff,125 N Dryden Ave,Arlington Heights,60004 5703,847577-7600,"P,K",53,27,9,3
+Cook,Non Pub Sch,05016128X,6,0,Immanuel Lutheran,Mrs. Gail Spero,832 Lee St,Des Plaines,60016 6408,847390-0990,P-2,55,28,9,3
+Cook,Non Pub Sch,05016130X,1,0,Barbereux School,Ms. Cathy Kurtz,3333 Culver St,Evanston,60201 1113,847864-3215,"P,K",17,9,9,3
+Cook,Non Pub Sch,05016131S,5,0,ATT-P Tach Special Education  Prog,Rabbi Avrohom S Moller,3531 Madison St,Skokie,60076,773973-2828,1-8,16,8,9,3
+Cook,Non Pub Sch,05016133X,25,0,Kingsway Preparatory School,Ms. Tamara Stewart Hadaway,2010 Dewey Ave,Evanston,60201 3021,224208-8282,P-5,18,9,9,3
+Cook,Non Pub Sch,05016134Y,5,0,Ida Crown Jewish Academy,Rabbi Leonard Matanky,8233 Central Park Ave,Skokie,60076 2908,773973-1450,9-12,16,8,9,3
+Cook,Non Pub Sch,05016143Y,10,0,J Slowacki School,Renata Rudnicki,181 W Dundee Rd,Wheeling,60090 4861,847912-4193,P-10,59,30,10,3
+Cook,Non Pub Sch,05016146X,6,0,St Paul Lutheran School,Jennifer Heinze,18 S School St,Mt Prospect,60056 3304,847255-6733,P-8,53,27,9,3
+Cook,Non Pub Sch,05016148X,16,0,Buffalo Grove Montessori,Deborah Laporte,950 Ellen Dr,Buffalo Grove,60089 3707,847541-8111,"P,K",57,29,8,3
+Cook,Non Pub Sch,05016154X,6,0,Immanuel Lutheran School,Mrs. Delaine Schiestel,200 N Plum Grove Rd,Palatine,60067 5233,847359-1936,P-8,54,27,6,3
+Cook,Non Pub Sch,05016156X,6,0,St Andrews Lutheran School,Laura Boggs,260 N Northwest Hwy,Park Ridge,60068 3376,847823-9308,P-8,20,10,9,3
+Cook,Non Pub Sch,05016160X,6,0,St Peter Lutheran School,Steve Zielke,208 E Schaumburg Rd,Schaumburg,60194 3517,847885-7636,P-8,56,28,8,3
+Cook,Non Pub Sch,05016161X,6,0,St Paul Lutheran Academy,Dale W Luksha,5201 Galitz St,Skokie,60077 2737,847673-5030,P-8,16,8,9,3
+Cook,Non Pub Sch,05016170X,23,0,Hadi School of Excellence,Ms. Azra Naqvi,375 S Roselle Rd,Schaumburg,60193 5544,630605-3587,P-6,56,28,8,3
+Cook,Non Pub Sch,05016171Z,14,0,Christian Liberty Academy,Dr. Philip Bennett,502 W Euclid Ave,Arlington Heights,60004 5402,847259-4444,K-12,53,27,9,3
+Cook,Non Pub Sch,05016188X,1,0,Mosaic Early Childhood Ctr Inc,Noorjahan Bhojani,4023 Dempster St,Skokie,60076 2127,847675-7030,"P,K",17,9,9,3
+Cook,Non Pub Sch,05016212X,5,0,Arie Crown Hebrew Day School,Rabbi Eli Samber,4600 Main St,Skokie,60076 2034,847982-9191,P-8,17,9,9,3
+Cook,Non Pub Sch,05016213X,16,0,Childrens Lrning Path Montessori,Kanchan Rai,1133 Pfingsten Rd,Northbrook,60062 4449,847498-1533,"P,K",57,29,10,3
+Cook,Non Pub Sch,05016218X,5,0,Hillel Torah North Suburban Day Sch,Rabbi Menachem Linzer,7120 Laramie Ave,Skokie,60077 3445,847674-6533,P-8,16,8,9,3
+Cook,Non Pub Sch,05016219X,16,0,Northwest Suburban Montessori Sch,Jan Howland,800 N Fernandez Ave,Arlington Hts,60004 5336,847259-6044,"P,K",54,27,9,3
+Cook,Non Pub Sch,05016222X,17,0,Plato Academy,Dr. Marian Koritsaris,733 Lee St # 110,Des Plaines,60016 6580,847768-7188,P-8,55,28,9,3
+Cook,Non Pub Sch,05016230X,5,0,Sager Solomon Schechter Day Sch,Dr. Lena Kushnir,3210 Dundee Rd,Northbrook,60062 2341,847412-5600,K-8,58,29,10,3
+Cook,Non Pub Sch,05016233X,14,0,Childrens Land,Oxana Anisimov,1814 Waukegan Rd,Glenview,60025 2112,847998-9358,"P,K",18,9,9,3
+Cook,Non Pub Sch,05016244X,16,0,Childrens Learning World,Rosemary A Fish,8101 W Golf Rd,Niles,60714 1110,847470-0370,U,15,8,10,3
+Cook,Non Pub Sch,05016246X,25,0,Faith Christian Academy,Mrs. Tamara Stewart-Hadaway,1932 Dewey Ave,Evanston,60201 3408,847328-3808,"P,K",18,9,9,3
+Cook,Non Pub Sch,05016255X,16,0,Montessori Learning Center Inc,Rochelle Gutstadt,1819 N Yale Ave,Arlington Heights,60004 3656,847394-1315,"P,K",54,27,9,3
+Cook,Non Pub Sch,05016275X,1,0,Science Academy of Chicago,Brianna Bartucci,501 Midway Dr,Mount Prospect,60056 7000,847258-5254,P-8,55,28,8,3
+Cook,Non Pub Sch,05016276X,10,0,St Faith Hope & Charity,Kathleen Carden,180 Ridge Ave,Winnetka,60093 3839,847446-0031,P-8,18,9,9,3
+Cook,Non Pub Sch,05016277X,10,0,St Joseph,Mr. Laszlo Katona,1740 Lake Ave,Wilmette,60091 1574,847256-7870,P-8,17,9,9,3
+Cook,Non Pub Sch,05016278X,10,0,St Francis Xavier,Ms. Colleen Barrett,808 Linden Ave,Wilmette,60091 2711,847256-0644,P-8,18,9,9,3
+Cook,Non Pub Sch,05016287X,1,0,Baker Demonstration School,Mr. Dan Schwartz,201 Sheridan Rd,Wilmette,60091 3452,847425-5869,P-8,18,9,9,3
+Cook,Non Pub Sch,05016298X,10,0,St Joan of Arc School-Skokie,Craig R Scanlon,9245 Lawndale Ave,Evanston,60203 1508,847679-0660,P-8,17,9,9,3
+Cook,Non Pub Sch,05016303X,10,0,St Colette School,Valerie Zemko,3900 Pheasant Dr,Rolling Meadows,60008 2637,847392-4098,P-8,54,27,8,3
+Cook,Non Pub Sch,05016309X,10,0,St Alphonsus Liguori,Ms. Linda Chorazy,411 N Wheeling Rd,Prospect Heights,60070 1322,847255-5538,P-8,53,27,9,3
+Cook,Non Pub Sch,05016311X,10,0,St Paul of the Cross School,Nell Fisher Agnew,140 S Northwest Hwy,Park Ridge,60068 4253,847825-6366,P-8,55,28,9,3
+Cook,Non Pub Sch,05016312X,10,0,Mary Seat of Wisdom,Julie Due,1352 S Cumberland Ave,Park Ridge,60068 5240,847825-2500,P-8,55,28,9,3
+Cook,Non Pub Sch,05016320Y,5,0,Rochelle Zell Jewish High School,Bruce Scher,1095 Lake Cook Rd,Deerfield,60015 5221,847470-6700,P-12,58,29,10,3
+Cook,Non Pub Sch,05016322X,23,0,Al Huda Academy,Mrs. Samia A Mufti,435 Springsouth Rd,Schaumburg,60193 3547,630270-3130,P-6,56,28,8,3
+Cook,Non Pub Sch,05016380X,17,0,Hellenic American Academy,Mrs. Mary Giannetos,1085 Lake Cook Rd,Deerfield,60015 5221,847317-1063,P-8,58,29,10,3
+Cook,Non Pub Sch,05016387X,2,0,Childrens Christian Learning Ctr,Sarah Plotena,1900 Nerge Rd,Elk Grove Village,60007 2907,847352-1968,"P,K",56,28,8,3
+Cook,Non Pub Sch,05016414X,17,0,Guardian Angel Orthodox Day Sch,Irene Robaidek,2350 E Dempster St,Des Plaines,60016 4839,847827-5519,P-4,20,10,10,3
+Cook,Non Pub Sch,05016419X,10,0,St Theresa School,Ms. Mary J Keenley,445 N Benton St,Palatine,60067 3501,847359-1820,P-8,54,27,6,3
+Cook,Non Pub Sch,05016420X,10,0,St Thomas of Villanova,Mary Brinkman,1141 E Anderson Dr,Palatine,60074 4146,847358-2110,P-8,54,27,8,3
+Cook,Non Pub Sch,05016469X,10,0,St Norbert School,Geralyn Lawler,1817 Walters Ave,Northbrook,60062 4534,847272-0051,P-8,18,9,9,3
+Cook,Non Pub Sch,05016479Z,20,0,Schaumburg Christian School,Jim Toth,200 N Roselle Rd,Schaumburg,60194 3523,847885-3230,P-12,56,28,8,3
+Cook,Non Pub Sch,05016494X,10,0,Holy Family Catholic Academy,Mrs. Kate OBrien,2515 Palatine Rd,Inverness,60067 4567,847907-3419,P-4,54,27,6,3
+Cook,Non Pub Sch,05016503X,10,0,St Emily School,Mary Hemmelman,1400 E Central Rd,Mt Prospect,60056 2650,847296-3490,P-8,57,29,10,3
+Cook,Non Pub Sch,05016504X,10,0,St Raymond School,Ms. Mary Eileen Ward,300 S Elmhurst Ave,Mt Prospect,60056 3129,847253-8555,P-8,53,27,9,3
+Cook,Non Pub Sch,05016508X,10,0,St John Brebeuf School,Elise Matson,8301 N Harlem Ave,Niles,60714 2616,847966-3266,P-8,15,8,9,3
+Cook,Non Pub Sch,05016512X,10,0,St Catherine Laboure,Jodi Reuter,3425 Thornwood Ave,Glenview,60026 1555,847724-2240,P-8,17,9,10,3
+Cook,Non Pub Sch,05016523X,10,0,St Hubert School,Ms. Kelly Bourrell,255 Flagstaff Ln,Hoffman Estates,60169 3252,847885-7702,P-8,56,28,8,3
+Cook,Non Pub Sch,05016526X,10,0,Sacred Heart School,Ms. Kristen Fink,1095 Gage St,Winnetka,60093 1704,847446-0005,P-8,18,9,9,3
+Cook,Non Pub Sch,05016553X,10,0,Queen of the Rosary School,Kathleen McGinn,690 W Elk Grove Blvd,Elk Grove Village,60007 4262,847437-3322,P-8,55,28,8,3
+Cook,Non Pub Sch,05016556X,10,0,St Athanasius School,Carol McClay,2510 Ashland Ave,Evanston,60201 2319,847864-2650,K-8,18,9,9,3
+Cook,Non Pub Sch,05016558X,10,0,Pope John XXIII School,Mrs. Gail Hulse,1120 Washington St,Evanston,60202 1620,847475-5678,P-8,18,9,9,3
+Cook,Non Pub Sch,05016574X,16,0,Three Oaks Montessori School,Mrs. Elizabeth C Marton,12 S Linden Ave,Palatine,60074 6341,847358-2345,"P,K",54,27,6,3
+Cook,Non Pub Sch,05016594X,1,0,Creative Childrens Academy,Dr. Khalek Kirkland,500 N Benton St,Palatine,60067 3564,847202-8035,P-8,54,27,6,3
+Cook,Non Pub Sch,05016611S,19,0,NewHope Academy,Ms. Brandy M Larrance,3250 N Arlington Heights Rd Ste 200,Arlington Heights,60004,847588-0463,6-12,15,8,9,3
+Cook,Non Pub Sch,05016621S,19,0,Centerview Therapeutic,Dr. Bonita Simon,3444 Dundee Rd,Northbrook,60062 2201,847559-0110,1-12,58,29,10,3
+Cook,Non Pub Sch,05016658X,10,0,St Zachary School,Caroline Forestor,567 W Algonquin Rd,Des Plaines,60016 5702,847437-4022,P-8,55,28,8,3
+Cook,Non Pub Sch,05016661S,19,0,Metropolitan Preparatory Schools,Kathryn Dunlap,2525 E Oakton St # STED47,Arlington Heights,60005 4881,847956-7912,K-12,55,28,8,3
+Cook,Non Pub Sch,05016666X,10,0,St James School,Judith M Pappas,821 N Arlington Heights Rd,Arlington Heights,60004 5665,224345-7145,P-8,53,27,9,3
+Cook,Non Pub Sch,05016667X,10,0,Our Lady of the Wayside,David Wood,432 S Mitchell Ave,Arlington Heights,60005 1810,847255-0050,P-8,53,27,9,3
+Cook,Non Pub Sch,05016670S,19,0,Arlyn Day School,Judith F Goldstein,3013 Illinois Rd,Wilmette,60091 1118,847256-7117,5-12,17,9,9,3
+Cook,Non Pub Sch,05016671S,10,0,St Bernadettes Sch for Spec Educ,Diane Gorman,7429 N Milwaukee Ave,Niles,60714 3707,847647-0235,"P,1-3,10",15,8,9,3
+Cook,Non Pub Sch,05016674X,16,0,Ronald Knox Montessori School,Blythe Silva,2031 Elmwood Ave,Wilmette,60091 1431,847256-2922,"P,K",17,9,9,3
+Cook,Non Pub Sch,05016675X,26,0,Christian Heritage Academy,Dr. David L Roth,315 Waukegan Rd,Northfield,60093 2719,847446-5252,P-12,18,9,9,3
+Cook,Non Pub Sch,05016679Z,27,0,Glenview New Church School,Mr. Philip J Parker,74 Park Dr,Glenview,60025 2721,847724-0057,"P-6,8-10",17,9,9,3
+Cook,Non Pub Sch,05016681X,16,0,Midwest Montessori School,Linda Bechtle,926 Noyes St,Evanston,60201 2706,847328-6630,"P,K",18,9,9,3
+Cook,Non Pub Sch,05016688X,16,0,Pk Ridge Intl Mont,Charlene Alderete,418 W Touhy Ave,Park Ridge,60068 4207,847298-7740,K-6,20,10,9,3
+Cook,Non Pub Sch,05016708Z,14,0,Valeo Academy,Mrs. Grace Dickow,2500 Beverly Rd,Hoffman Estates,60192 3302,847645-9300,K-12,52,26,8,3
+Cook,Non Pub Sch,05016734X,5,0,Gesher Hatorah,Shana Schuman,5130 Touhy Ave,Skokie,60077 3474,847674-6740,1-7,15,8,9,3
+Cook,Non Pub Sch,05016742X,6,0,Jerusalem Evangelical Lutheran,Michael Naumann,6218 Capulina Ave,Morton Grove,60053 2809,847965-4750,P-8,15,8,9,3
+Cook,Non Pub Sch,05016754X,16,0,Alexander Graham Bell Montessori,Ms. Karla Giese,9300 Capitol Dr,Wheeling,60090 7207,847850-5490,P-8,57,29,10,3
+Cook,Non Pub Sch,05016756X,16,0,Acarath Montessori Center,Judith M Budinger,22 Kristin Dr,Schaumburg,60195 3302,847397-0111,P-4,44,22,8,3
+Cook,Non Pub Sch,05016771S,19,0,Bridge View/Challenger Schools,Chris Raspante,6935 W Touhy Ave,Niles,60714 4521,847588-2038,,15,8,9,3
+Cook,Non Pub Sch,05016777X,16,0,Countryside Montessori School,Ms. Wendy Calise,1985 Pfingsten Rd,Northbrook,60062 5853,847498-1105,P-8,57,29,10,3
+Cook,Non Pub Sch,05016783X,10,0,Embers Elementary School,Gladys Davis,2000 W Sibley St,Park Ridge,60068 5902,847518-1185,P-5,55,28,9,3
+Cook,Non Pub Sch,05016793X,1,0,Poko Loko Nursery School,Bonnie L Clatch,300 Waukegan Rd,Glenview,60025 5161,847729-4433,"P,K",15,8,9,3
+Cook,Non Pub Sch,05016834X,23,0,MCC Academy,Mr. Habeeb Quadri,8601 Menard Ave,Morton Grove,60053 3049,847470-8801,P-8,16,8,9,3
+Cook,Non Pub Sch,05016841X,16,0,Montessori Academy of North Hoffman,Sara N Motlagh,1200 Freeman Rd,Hoffman Estates,60192 1727,847705-1234,P-12,54,27,6,3
+Cook,Non Pub Sch,05016876S,19,0,Cove School,Dr. Sally L Sover,350 Lee Rd,Northbrook,60062 1521,847562-2100,K-12,58,29,10,3
+Cook,Non Pub Sch,05016896S,19,0,Jeanine Schultz Memorial School,Jody Rubin,2101 Oakton St,Park Ridge,60068 1819,847696-3315,"1,4-5,7-12",20,10,9,3
+Cook,Non Pub Sch,05016904X,16,0,Dayspring Montessori Sch,Karis Larson,950 Northbrook Ave,Northbrook,60062 3940,847714-9002,"P,K",18,9,10,3
+Cook,Non Pub Sch,05016907Z,1,0,Science and Arts Academy,Mr. Timothy Costello,1825 Miner St,Des Plaines,60016 4778,847827-7880,"P-8,12",55,28,9,3
+Cook,Non Pub Sch,05016908X,16,0,Montessori Academy of Illinois Ltd,Charlene Alderete,418 W Touhy Ave,Park Ridge,60068 4207,847292-1229,K-6,20,10,9,3
+Cook,Non Pub Sch,05016909X,16,0,Arlington Montessori Sch,Afsaneh Karimian,431 S Arlington Heights Rd,Arlington Heights,60005 1932,847322-4267,"P,K",53,27,9,3
+Cook,Non Pub Sch,05016918S,5,0,Keshet Day School,Dr. Melinda Remaly,3531 Madison St,Skokie,60076 2958,773973-2828,"K-11,U",58,29,10,3
+Cook,Non Pub Sch,05016925Z,1,0,Roycemore School,Mr. Kevin M Smith,1200 Davis St,Evanston,60201 4118,847866-6055,P-12,18,9,9,3
+Cook,Non Pub Sch,05016979X,10,0,Our Lady of Perpetual Help,Amy Mills,1123 Church St,Glenview,60025 2980,847724-6990,P-8,17,9,9,3
+Cook,Non Pub Sch,05016982Z,19,0,Willows Academy,Mrs. Cameron Czarnik,1015 Rose Ave,Des Plaines,60016 3345,847824-6900,6-12,55,28,9,3
+Cook,Non Pub Sch,05016987Z,1,0,Chicago Futabakai Japanese School,Mr. Hiroyuki Kosuge,2550 N Arlington Heights Rd,Arlington Heights,60004 2531,847590-5700,P-9,53,27,9,3
+Cook,Non Pub Sch,05016989Z,10,0,Northridge Preparatory School,Mr. Niall Fagan,8320 W Ballard Rd,Niles,60714 1533,847375-0600,6-12,15,8,10,3
+Cook,Non Pub Sch,06016001X,16,0,The Childrens House Montessori School,Jamie N Archer,1015 E 31st St,La Grange Park,60526 1218,708325-8246,"P,K",8,4,4,3
+Cook,Non Pub Sch,06016002Z,1,0,Tallgrass Sudbury School,Peter Tulloch,82 Woodside Rd,Riverside,60546 1903,708777-1037,K-12,24,12,4,3
+Cook,Non Pub Sch,06016003Y,25,0,Tru-Source ALF,Beverly Davis,1040 North Blvd Ste 250,Oak Park,60301 1191,708386-1219,12,78,39,7,3
+Cook,Non Pub Sch,06016026X,1,0,The Childrens School,Christina Martin,1428 Wesley Ave,Berwyn,60402 1219,708484-8033,P-8,23,12,7,3
+Cook,Non Pub Sch,06016027Z,2,0,Eagles Vision Academy,Dr. Lynette L Danley,1405 Madison St,Maywood,60153 1821,708344-0704,3-12,7,4,7,3
+Cook,Non Pub Sch,06016028Y,10,0,Fenwick High School,Peter Groom,505 Washington Blvd,Oak Park,60302 4005,708386-0127,9-12,78,39,7,3
+Cook,Non Pub Sch,06016063Y,10,0,Guerin College Prep High Sch,Karen Booth,8001 Belmont Ave,River Grove,60171 1012,708437-4702,9-12,19,10,5,3
+Cook,Non Pub Sch,06016094Y,10,0,St Joseph High School,Dr. Ronald Hoover,10900 W Cermak Rd,Westchester,60154 4170,708562-4433,9-12,7,4,4,3
+Cook,Non Pub Sch,06016115X,6,0,Concordia Univ E C Educ Center,Aimee J Walsh,7400 Augusta St,River Forest,60305 1402,708209-3099,"P,K",7,4,7,3
+Cook,Non Pub Sch,06016119Y,10,0,Trinity High School,Deborah Murphy,7574 Division St,River Forest,60305 1153,708771-8383,9-12,7,4,4,3
+Cook,Non Pub Sch,06016121Y,6,0,Walther Lutheran High School,Mr. Paul A Goffron,900 Chicago Ave,Melrose Park,60160 4120,708344-0404,9-12,77,39,4,3
+Cook,Non Pub Sch,06016125X,6,0,St Paul Lutheran,Joel A Brondos,9035 Grant Ave,Brookfield,60513 1625,708485-0650,K-8,23,12,4,3
+Cook,Non Pub Sch,06016133X,6,0,Immanuel Lutheran School,Mr. Matthew Kamien,2329 S Wolf Rd,Hillside,60162 2211,708562-5580,P-8,7,4,5,3
+Cook,Non Pub Sch,06016134X,6,0,Trinity Lutheran,Mr. Andrew R DeWitt,11503 German Church Rd,Burr Ridge,60527 0831,708839-1444,P-8,82,41,11,3
+Cook,Non Pub Sch,06016136X,6,0,St Johns Lutheran School,Mrs. Teri Lyn Mannes,505 S Park Rd,La Grange,60525 6112,708354-1690,P-8,82,41,3,3
+Cook,Non Pub Sch,06016149X,16,0,Montessori Childrens Community,Rocio Smith,3424 Maple Ave,Brookfield,60513 1243,708485-9542,"P,K",23,12,4,3
+Cook,Non Pub Sch,06016151X,16,0,Forest Prk Montessori Chd Dev Ctr,Lenore J Dean,16 Lathrop Ave,Forest Park,60130 1009,708771-8337,"P,K",7,4,7,3
+Cook,Non Pub Sch,06016157X,6,0,Grace Lutheran School,William A Koehne,7300 Division St,River Forest,60305 1224,708366-6900,P-8,7,4,7,3
+Cook,Non Pub Sch,06016159X,16,0,Oak Park Montessori School,Luisa Raja,937 Garfield St,Oak Park,60304 1848,708358-6000,P-3,8,4,7,3
+Cook,Non Pub Sch,06016176X,16,0,Our Lady Montessori,David Prince,27 N Lavergne Ave,Northlake,60164 1664,708836-1007,K,77,39,5,3
+Cook,Non Pub Sch,06016225X,16,0,Morningside Montessori Academy,Zafar Mawani,1192 S Cuyler Ave,Oak Park,60304 2240,708386-3979,"P,K",8,4,4,3
+Cook,Non Pub Sch,06016232X,1,0,First Circle Ed for Young Child,Haegyung K Weisbrod,56 Lake St,Oak Park,60302 2635,708848-9422,"P,K",78,39,7,3
+Cook,Non Pub Sch,06016242Z,14,0,Word of God Christian Acad,Mr. Valentin Chavez,800 N 18th Ave,Melrose Park,60160 3835,708344-4995,K-10,77,39,4,3
+Cook,Non Pub Sch,06016261X,10,0,Our Lady of Charity,Mrs. Lynn LeTourneau,3620 S 57th Ct,Cicero,60804 4235,708652-0262,P-8,24,12,3,3
+Cook,Non Pub Sch,06016264X,10,0,St Frances of Rome,Mr. Glenn Purpura,1401 S Austin Blvd,Cicero,60804 1004,708652-2277,P-8,23,12,4,3
+Cook,Non Pub Sch,06016266X,6,0,Concordia Little Lambs,Sharon Yff,3144 Home Ave,Berwyn,60402 2910,708795-7563,"P,K",24,12,4,3
+Cook,Non Pub Sch,06016280X,10,0,St John of the Cross,Kathleen Gorman,708 51st St,Western Springs,60558 1925,708246-4454,P-8,82,41,3,3
+Cook,Non Pub Sch,06016281X,10,0,Divine Providence,Mrs. Karen M Foleno,2500 Mayfair Ave,Westchester,60154 5006,708562-2258,P-8,7,4,5,3
+Cook,Non Pub Sch,06016282X,10,0,Divine Infant Jesus School,Leonard Gramarossa,1640 Newcastle Ave,Westchester,60154 4447,708865-0122,P-8,7,4,7,3
+Cook,Non Pub Sch,06016283X,10,0,St Leonard School,Veronica Skelton Cash,3322 Clarence Ave,Berwyn,60402 3752,708749-3666,P-8,24,12,4,3
+Cook,Non Pub Sch,06016285X,10,0,St Odilo School,William Donegan,6617 23rd St,Berwyn,60402 2400,708484-0755,P-8,24,12,4,3
+Cook,Non Pub Sch,06016299X,10,0,St Maria Goretti School,Mrs. Claudia Mendez,10050 Ivanhoe Ave,Schiller Park,60176 2008,847678-2560,P-8,20,10,5,3
+Cook,Non Pub Sch,06016304X,10,0,St Mary School,Mrs. Barbara Rasinski,97 Herrick Rd,Riverside,60546 2014,708442-5747,P-8,24,12,4,3
+Cook,Non Pub Sch,06016305X,10,0,St Cyprian,Joseph Quinlan,2561 Clinton St,River Grove,60171 1703,708453-6300,P-8,78,39,5,3
+Cook,Non Pub Sch,06016306X,10,0,St Vincent Ferrer,Mr. John A Glimco,1515 Lathrop Ave,River Forest,60305 1121,708771-5905,P-8,7,4,4,3
+Cook,Non Pub Sch,06016307X,10,0,St Luke Catholic School,Mr. Timothy Wesley,519 Ashland Ave,River Forest,60305 1824,708366-8587,P-8,7,4,7,3
+Cook,Non Pub Sch,06016315X,10,0,St William School,Peggy Forglone,2559 N Sayre Ave,Chicago,60707 2135,773637-5130,P-8,3,2,4,3
+Cook,Non Pub Sch,06016473X,10,0,St John Vianney School,Mr. Paul Kirk,27 N Lavergne Ave,Northlake,60164 1664,708562-1466,P-8,77,39,5,3
+Cook,Non Pub Sch,06016482X,10,0,Ascension,Mary Jo Burns,601 Van Buren St,Oak Park,60304 1310,708386-7282,P-8,8,4,7,3
+Cook,Non Pub Sch,06016483X,10,0,St Catherine of Siena-St Lucy,Sr. Marion Cypser RSM,27 Washington Blvd,Oak Park,60302 4308,708386-5286,P-8,78,39,7,3
+Cook,Non Pub Sch,06016484X,10,0,St Edmund School,Mrs. Karen L Rebhan-Csuk,200 S Oak Park Ave,Oak Park,60302 3202,708386-5131,P-8,78,39,7,3
+Cook,Non Pub Sch,06016485X,10,0,St Giles School,Mrs. Nancy M Zver,1034 Linden Ave,Oak Park,60302 1351,708383-6279,P-8,78,39,7,3
+Cook,Non Pub Sch,06016498X,10,0,Acad of St Priscilla at Divine Savior,Jennifer Hodge,7750 W Montrose Ave,Norridge,60706 7211,708452-0323,P-2,20,10,5,3
+Cook,Non Pub Sch,06016500X,10,0,Sacred Heart School,Barbara J Ciconte,815 N 16th Ave,Melrose Park,60160 3828,708681-0240,P-8,77,39,4,3
+Cook,Non Pub Sch,06016510X,10,0,St Bernardine School,Ms. Veronica A Skelton Cash,815 Elgin Ave,Forest Park,60130 2056,708366-6890,P-8,7,4,7,3
+Cook,Non Pub Sch,06016528X,10,0,St Cletus School,Mr. Tom Chinske,700 W 55th St,La Grange,60525 6612,708352-4820,P-8,82,41,3,3
+Cook,Non Pub Sch,06016529X,10,0,St Francis Xavier,Mrs. Sharon Garcia,145 N Waiola Ave,La Grange,60525 1866,708352-2175,P-8,8,4,3,3
+Cook,Non Pub Sch,06016530X,10,0,St Louise De Marillac School,Ms. AnnMarie Mahay,1125 Harrison Ave,La Grange Park,60526 1334,708352-2202,P-8,8,4,4,3
+Cook,Non Pub Sch,06016554X,10,0,St Celestine School,Jeanine Rocchi,3017 N 77th Ave,Elmwood Park,60707 1110,708453-8234,P-8,19,10,5,3
+Cook,Non Pub Sch,06016700X,16,0,Montessori Language Academy,Yoko Avramov,314 Circle Ave,Forest Park,60130 1610,708771-5030,"P,K",7,4,7,3
+Cook,Non Pub Sch,06016744X,16,0,Alcuin Montessori School,Shawn Edwards,324 N Oak Park Ave,Oak Park,60302 2121,708366-1882,P-6,78,39,7,3
+Cook,Non Pub Sch,06016758X,26,0,Meca Elementary School,Mrs. Pam Lawrence,425 Bohland Ave,Bellwood,60104 1833,708547-9980,P-8,7,4,7,3
+Cook,Non Pub Sch,06016779Z,1,0,Acacia Academy,Kathryn Fouks,6425 Willow Springs Rd,La Grange Highlands,60525 4468,708579-9040,3-12,31,16,3,3
+Cook,Non Pub Sch,06016786X,14,0,DCN Christian Academy,Jose A Hernandez,3205 S Austin Blvd,Cicero,60804 3732,708222-1909,P-8,24,12,4,3
+Cook,Non Pub Sch,06016809Y,10,0,Nazareth Academy,Deborah Tracy,1209 W Ogden Ave,La Grange Park,60526 1700,708387-8511,9-12,7,4,5,3
+Cook,Non Pub Sch,06016811X,16,0,Grace Montessori Sch,Lynette Butuyan,1112 N 9th Ave,Melrose Park,60160 3502,708344-7257,"P-1,3-5",77,39,4,3
+Cook,Non Pub Sch,06016818X,16,0,Intercultural Montessori Oak Park,Edina Mcgivern,301 S Ridgeland Ave,Oak Park,60302 3519,708848-6626,"P,K",78,39,7,3
+Cook,Non Pub Sch,06016826Y,14,0,Prairie Lake School,Mr. Garth Taylor,10217 Franklin Ave,Franklin Park,60131 1527,847671-1814,6-12,77,39,5,3
+Cook,Non Pub Sch,06016856X,16,0,Hillside Montessori School,Carol Hofbauer,4600 Frontage Rd,Hillside,60162 1761,708547-8909,"P,K",7,4,7,3
+Cook,Non Pub Sch,06016859X,16,0,Mosaic Montessori Academy,Maria Carandang-Ramos,7970 Lake St,River Forest,60305 1648,312351-0074,"P,K",7,4,7,3
+Cook,Non Pub Sch,06016873Z,2,0,H McNelty Sch of First Baptist,Pastor John Z Belser,2100 Main St,Melrose Park,60160 3626,708343-9100,P-8,77,39,4,3
+Cook,Non Pub Sch,06016906X,16,0,Childrens Garden Montessori Sch,Roshan Mawani,165 N Lombard Ave,Oak Park,60302 2501,708383-6570,"P,K,U",78,39,7,3
+Cook,Non Pub Sch,06016938Z,10,0,Our Lady Immaculate Academy,Fr. Charles Ward,410 Washington Blvd,Oak Park,60302 4004,708524-2408,"2-5,7-8",78,39,7,3
+Cook,Non Pub Sch,06016943X,16,0,Keystone Montessori School,Mrs. Victoria G Shea,PO Box 5548,River Forest,60305 5548,708366-1080,P-8,78,39,4,3
+Cook,Non Pub Sch,06016966X,16,0,Sunflower Montessori School,Karen B Hohman,5129 Wolf Rd,Western Springs,60558 1817,708246-3757,"P,K",82,41,3,3
+Cook,Non Pub Sch,06016969X,16,0,Creative World Montessori School,Gudrun Olson,1200 W Goodman Ave,La Grange,60525 6124,708354-5255,"P,K",82,41,3,3
+Cook,Non Pub Sch,06016981X,16,0,Montessori Sch of Western Springs,Elizabeth A Sorrells,1500 Walker St,Western Springs,60558 1374,708246-9696,"P,K",47,24,3,3
+Cook,Non Pub Sch,06016990X,1,0,JFH Educational Academy Inc,Mrs. Georgia Gail Bowie,7559 W Addison St,Chicago,60634 3234,847456-1612,"P,K",19,10,5,3
+Cook,Non Pub Sch,06016993Z,27,0,Westchester Christian School,Pastor Julian,10600 W Cermak Rd,Westchester,60154 5203,708562-3040,K-10,7,4,4,3
+Cook,Non Pub Sch,06016999X,16,0,West Suburban Montessori School,Patricia S Eggerding,1039 S East Ave,Oak Park,60304 2103,708848-2662,P-5,8,4,7,3
+Cook,Non Pub Sch,07016002Z,14,0,Abundant Grace College Preparatory,Bryon Gibbs,17516 Butternut Rd,Hazel Crest,60429 2123,708833-6309,P-12,38,19,2,3
+Cook,Non Pub Sch,07016003X,14,0,Higher Heights Christian Academy,LaDell Jones,1207 E Lincoln Hwy,Ford Heights,60411 3005,708833-7691,P-8,29,15,2,3
+Cook,Non Pub Sch,07016004Z,14,0,New Direction College Preparatory,Dr. John Henton,2750 W Columbus Ave,Chicago,60652 1727,773918-1556,P-12,32,16,1,3
+Cook,Non Pub Sch,07016005Z,14,0,Coras Career Academy,Rene Chandler,299 Luella Ave,Calumet City,60409 1804,708862-4499,K-12,29,15,2,3
+Cook,Non Pub Sch,07016006Z,14,0,Abundant Living Christian Academy,William Fleshman,14540 Lincoln Ave,Dolton,60419 1810,708969-3371,K-12,29,15,2,3
+Cook,Non Pub Sch,07016007Y,3,0,Chicago Christian High,Sue Tameling,12001 S Oak Park Ave,Palos Heights,60463 1687,708388-7650,9-12,27,14,1,3
+Cook,Non Pub Sch,07016008X,16,0,Branches of Montessori,Duwana Branch,18036 Gottschalk Ave,Homewood,60430 1712,773330-4792,"P,1-8",30,15,2,3
+Cook,Non Pub Sch,07016012X,6,0,Immanuel Lutheran Crossroads,Mrs. Lasea Kusbel,4800 Sauk Trl,Richton Park,60471 1018,708748-7023,P-2,38,19,2,3
+Cook,Non Pub Sch,07016013X,14,0,Junior Achievers Christian Academy,Mrs. Tyneckia Richards,15536 Canterbury Ln,Orland Park,60462 4992,708200-2136,K-8,28,14,1,3
+Cook,Non Pub Sch,07016014Z,14,0,Carra Academy,LaShawn McCree,17504 E Carriageway Dr,Hazel Crest,60429 2087,708991-7281,P-12,38,19,2,3
+Cook,Non Pub Sch,07016015X,23,0,CMECCA School,Dr. Bambade Shakoor-Abdullah,15455 S Park Ave,South Holland,60473 1302,708339-0287,P-8,29,15,2,3
+Cook,Non Pub Sch,07016016X,1,0,Word Made Flesh Academy,Gloria Jenkins,3709 147th Pl,Midlothian,60445 3507,708663-2200,K-3,30,15,1,3
+Cook,Non Pub Sch,07016017Z,14,0,New Directions Empowerment Acad,Mrs. Ruby Morris,15446 Lexington Ave,Harvey,60426 3611,708785-5088,P-12,30,15,2,3
+Cook,Non Pub Sch,07016018X,27,0,Eagle Academy Christian School,Medina Bailey,2750 Glenwood Lansing Rd,Lansing,60438 3776,708418-3000,P-3,33,17,2,3
+Cook,Non Pub Sch,07016019X,27,0,Outreach Exceptional Learning Academy,Vanessa Sims,15251 Dixie Hwy,Harvey,60426 2952,708331-8740,P-3,30,15,2,3
+Cook,Non Pub Sch,07016020X,2,0,Standberry Christian Academy,Dr. Herman L Standberry,536-538 W Sibley Blvd,South Holland,60473,708223-2680,P-12,30,15,2,3
+Cook,Non Pub Sch,07016021Y,1,0,Academic Mastery Academy,Margaret A Williams,16341 S Park Ave,South Holland,60473 2279,708566-1600,P-8,80,40,2,3
+Cook,Non Pub Sch,07016023Z,1,0,Abundant Model College Preparatory,Beatrice F Arowolaju,16299 Wallace St,Harvey,60426 5955,708331-4009,P-12,30,15,2,3
+Cook,Non Pub Sch,07016024X,14,0,Worldwide Christian Academy,Deidre Jackson,327 Central Ave,Matteson,60443 1441,708590-4688,"K,2,4",38,19,2,3
+Cook,Non Pub Sch,07016025Z,1,0,Fidley De Fidley Do Academy,Beverly C Hill,15019 Ashland Ave,Harvey,60426 2125,708333-2002,"P,K,3-4,10",30,15,2,3
+Cook,Non Pub Sch,07016027X,27,0,Little Scholars Christian Academy,Ms. Lisa Mahoney,7910 163rd Pl,Tinley Park,60477 1444,708969-9822,P-5,28,14,1,3
+Cook,Non Pub Sch,07016028X,23,0,Noor Elementary Academy,Amena Ramahi,7245 W 87th St,Bridgeview,60455 1821,708598-5018,"P,K",32,16,3,3
+Cook,Non Pub Sch,07016029X,1,0,Glenwood Academy,Dr. Colleen Conlan-Carter,500 W 187th St,Glenwood,60425 1317,708756-6101,2-8,80,40,2,3
+Cook,Non Pub Sch,07016030X,14,0,Lighthouse Christian Academy,Silvella Strain,18144 Glen Ter,Lansing,60438 2152,708474-8539,P-8,33,17,2,3
+Cook,Non Pub Sch,07016031X,14,0,Farm and Nature Discovery Preschool,Kristin L Hale,12700 Southwest Hwy,Palos Park,60464 1812,708361-8933,1,35,18,3,3
+Cook,Non Pub Sch,07016039Y,3,0,Illiana Christian High School,Peter Boonstra,2261 Indiana Ave,Lansing,60438 2106,708474-0515,9-12,34,17,2,3
+Cook,Non Pub Sch,07016040X,14,0,South Suburban Christian Academy,Ms. Linda D Pearson,4200 Maple Ave,Matteson,60443 2812,708748-0327,P-5,38,19,2,3
+Cook,Non Pub Sch,07016055Y,10,0,Marian Catholic High School,Mr. Steve Tortorello,700 Ashland Ave,Chicago Heights,60411 2073,708755-7565,9-12,80,40,2,3
+Cook,Non Pub Sch,07016073Y,10,0,Queen of Peace High School,Ms. Catherine Klod,7659 Linder Ave,Burbank,60459 1359,708458-7600,9-12,22,11,3,3
+Cook,Non Pub Sch,07016080X,26,0,Valley Kingdom Christian Academy,Pamela Jeffers,20820 Western Ave,Olympia Fields,60461 1927,708535-2222,P-8,28,14,1,3
+Cook,Non Pub Sch,07016081Z,2,0,Jordan Baptist School,Thomas Griffin,5040 W 87th St,Burbank,60459 2812,708636-8635,P-12,32,16,3,3
+Cook,Non Pub Sch,07016089Z,1,0,Aquinas Academy,Randolph J Thomas,9003 S Kostner Ave,Hometown,60456 1007,630625-2092,9,31,16,3,3
+Cook,Non Pub Sch,07016095Y,10,0,St Laurence High School,James Muting,5556 W 77th St,Burbank,60459 1300,708458-6900,9-12,22,11,3,3
+Cook,Non Pub Sch,07016114X,25,0,Lots of Love Plus,Bessie Brown,1701 167th St,Hazel Crest,60429 1481,708335-0556,K-1,30,15,2,3
+Cook,Non Pub Sch,07016137X,6,0,St John Lutheran School,Mr. Jared Griesemer,18100 Wentworth Ave,Lansing,60438 3900,708895-9280,P-8,33,17,2,3
+Cook,Non Pub Sch,07016147X,6,0,Zion Lutheran Early Childhood Center,Mrs. Jane Wilk,17100 69th Ave,Tinley Park,60477 3412,708532-1656,"P,K",38,19,1,3
+Cook,Non Pub Sch,07016152X,6,0,St Paul Lutheran School,Angela Schlie,4660 W 94th St,Oak Lawn,60453 2513,708423-1058,P-8,36,18,3,3
+Cook,Non Pub Sch,07016163X,6,0,St John Lutheran,Mrs. Lois A Stewart,4231 183rd St,Country Club Hills,60478 5337,708799-7491,P-8,38,19,2,3
+Cook,Non Pub Sch,07016164X,6,0,Trinity Ev Lutheran,Mr. Gerard Gliege,6850 159th St,Tinley Park,60477 2311,708532-3529,P-8,28,14,1,3
+Cook,Non Pub Sch,07016168X,1,0,Grandma Jones Day Care,Cherae Brooks-Hill,777 Sibley Blvd,Calumet City,60409 2523,708862-0366,"P,K",33,17,2,3
+Cook,Non Pub Sch,07016173X,6,0,Gloria Dei Lutheran,Virginia Terrell,5259 S Major Ave,Chicago,60638 1503,773581-5259,P-8,1,1,3,3
+Cook,Non Pub Sch,07016180X,14,0,Heritage of Life Covenant,Lancer DeLashment,16779 Trapet Ave,Hazel Crest,60429 1315,708756-1678,P-8,30,15,2,3
+Cook,Non Pub Sch,07016193Y,14,0,Mary-Grace Educational Center,Durogbayi A Ogunbameru,14446 University Ave,Dolton,60419 1904,708654-8892,6-12,29,15,2,3
+Cook,Non Pub Sch,07016195X,2,0,Zion Buds of Promise Christian Acad,Gerrie Shepard,PO Box 413,South Holland,60473 0413,708331-7337,P-6,29,15,2,3
+Cook,Non Pub Sch,07016200X,1,0,Nurturing Dev & Learning Ctr,Dr. Medina Bailey,835 E Sibley Blvd,South Holland,60473 1165,708333-1355,"P,K",29,15,2,3
+Cook,Non Pub Sch,07016208X,16,0,Hope Montessori Inc,Ms. Patricia A Tyszka,17007 Oak Park Ave,Tinley Park,60477 2721,708614-7577,"P,K",38,19,1,3
+Cook,Non Pub Sch,07016209X,3,0,Southwest Chicago Christian Sch,Mr. Nate Pettinga,10110 S Central Ave,Oak Lawn,60453 3799,708636-8550,P-8,36,18,3,3
+Cook,Non Pub Sch,07016214X,3,0,Calvin Christian School,Randy Moes,528 E 161st Pl,South Holland,60473 1617,708331-5027,P-8,29,15,2,3
+Cook,Non Pub Sch,07016216X,3,0,Lansing Christian School,Mr. Jon Postma,3660 Randolph St,Lansing,60438 2406,708474-1700,P-8,33,17,2,3
+Cook,Non Pub Sch,07016227Z,10,0,LHTBM School of The Saints,Elizabeth Dunn,20W227 Pleasantdale Dr,Lemont,60439 8809,773745-0011,"P-1,4-7,9,11-12",82,41,11,3
+Cook,Non Pub Sch,07016237X,14,0,Pathways to Learning Academy,Dr. Patricia McCracklin,15323 Turlington Ave,Harvey,60426 3310,708339-7787,P-8,30,15,2,3
+Cook,Non Pub Sch,07016240Y,1,0,Forum H S for Creative Study,Janine Favia,2755 York St,Blue Island,60406 1958,708293-0777,9-12,27,14,1,3
+Cook,Non Pub Sch,07016243X,26,0,Calvary Academy,Mrs. Karen M Pender,16300 State St,South Holland,60473 2041,708333-5471,K-8,29,15,2,3
+Cook,Non Pub Sch,07016254X,1,0,Beacon Hill Prep Academy,Pamela Strain,16511 S Park Ave,South Holland,60473 2257,708596-9999,P-8,30,15,2,3
+Cook,Non Pub Sch,07016268X,10,0,Our Lady of the Ridge,Sr. Stephanie Kondik,10859 Ridgeland Ave,Chicago Ridge,60415 2154,708424-4409,K-8,36,18,3,3
+Cook,Non Pub Sch,07016272Y,1,0,American School,Mr. Timothy A Pivarnik,2200 E 170th St,Lansing,60438 1002,708418-2800,6-12,34,17,2,3
+Cook,Non Pub Sch,07016274X,1,0,Altntve Academic Acheivemnt Acad,Mrs. Freda McArthur,13801 Chatham St,Blue Island,60406 3219,708206-0000,7-8,30,15,1,3
+Cook,Non Pub Sch,07016286X,10,0,St Benedict,Melissa Wilson,2324 New St,Blue Island,60406 2402,708385-2016,P-8,28,14,1,3
+Cook,Non Pub Sch,07016290X,10,0,St George School,Mrs. Charlotte A Pratl,6700 176th St,Tinley Park,60477 4084,708532-2626,P-8,38,19,1,3
+Cook,Non Pub Sch,07016291X,10,0,St Joseph,Lawrence Manetti,5641 S 73rd Ave,Summit,60501 1363,708458-2927,P-8,21,11,3,3
+Cook,Non Pub Sch,07016337X,25,0,Christian Hills Church School,Mr. Laurence B Beadle,9001 159th St,Orland Hills,60487 5978,708349-7166,P-8,35,18,1,3
+Cook,Non Pub Sch,07016343Y,25,0,Marion H Blakely Christian Acad,Dr. Catherine Gross,4137 Sauk Trl,Richton Park,60471 1253,708328-4150,9-12,38,19,2,3
+Cook,Non Pub Sch,07016355X,1,0,Oladiji Day Care,Patricia Oladiji,3333 W 159th St,Markham,60428 4007,708331-7902,"P,K",30,15,2,3
+Cook,Non Pub Sch,07016363X,20,0,Future Scholar Comm Dev Cntr,Deloris Morris,3115 Lawrence Cres,Flossmoor,60422 2054,708717-0799,K,80,40,2,3
+Cook,Non Pub Sch,07016376X,10,0,St Florian,Ms. Crystal J Grankowski,13110 S Baltimore Ave,Chicago,60633 1396,773646-2868,P-8,33,17,2,3
+Cook,Non Pub Sch,07016426X,1,0,Bobbie Noonans Child Care,Ms. Mary Novosad,4951 W 115th St,Alsip,60803 5144,708385-2288,"P,K",35,18,1,3
+Cook,Non Pub Sch,07016427X,1,0,Bobbie Noonans Child Care,Mrs. Sue Johnson,10155 S Roberts Rd,Palos Hills,60465 1542,708599-0101,"P,K",31,16,3,3
+Cook,Non Pub Sch,07016428X,16,0,Hello Montessori Presch & Kinder,Jennifer Mish,18850 Riegel Rd,Homewood,60430 4027,708647-8054,"P,K",30,15,2,3
+Cook,Non Pub Sch,07016429X,1,0,Bobbie Noonans Child Care,Mrs. Christine Spiecker,17051 Grissom Dr,Tinley Park,60477 2316,708532-5566,"P,K",28,14,3,3
+Cook,Non Pub Sch,07016446X,1,0,Bobbie Noonans Child Care,Mrs. Karen Bazant,7901 167th St,Tinley Park,60477 2359,708532-7676,"P,K",38,19,1,3
+Cook,Non Pub Sch,07016455X,10,0,Christ Our Savior Catholic School,Mrs. Karen Brodzik,900 E 154th St,South Holland,60473 1106,708333-8173,P-8,29,15,2,3
+Cook,Non Pub Sch,07016466X,10,0,St Jane De Chantal School,Nancy Ann Andrasco,5201 S McVicker Ave,Chicago,60638 1445,773767-1130,P-8,1,1,3,3
+Cook,Non Pub Sch,07016475X,10,0,St Damian School,Dr. Marian M Stockhausen,5300 155th St,Oak Forest,60452 3321,708687-4230,K-8,30,15,1,3
+Cook,Non Pub Sch,07016476X,10,0,St Albert the Great School,Mrs. Jodi McLawhorn,5535 State Rd,Burbank,60459 2049,708424-7757,P-8,23,12,3,3
+Cook,Non Pub Sch,07016477X,10,0,St Catherine of Alexandria,Mrs. Michelle T Edwards,10621 Kedvale Ave,Oak Lawn,60453 4927,708425-5547,P-8,36,18,3,3
+Cook,Non Pub Sch,07016478X,10,0,St Germaine School,Mr. Kevin Reedy,9735 S Kolin Ave,Oak Lawn,60453 3581,708425-6063,P-8,36,18,3,3
+Cook,Non Pub Sch,07016480X,10,0,St Linus School,Ms. Margaret M Hayes,10400 Lawler Ave,Oak Lawn,60453 4717,708425-1656,P-8,36,18,3,3
+Cook,Non Pub Sch,07016481X,10,0,St Louis De Montfort School,Mrs. Melissa M Wilson,8840 Ridgeland Ave,Oak Lawn,60453 1003,708599-5781,P-8,32,16,3,3
+Cook,Non Pub Sch,07016486X,10,0,St Michael School,Mr. Paul Smith,14355 Highland Ave,Orland Park,60462 2433,708349-0068,K-8,35,18,3,3
+Cook,Non Pub Sch,07016488X,10,0,St Ann School,Mrs. Bonnie Hall,3014 Ridge Rd,Lansing,60438 3020,708895-1661,P-8,33,17,2,3
+Cook,Non Pub Sch,07016490X,10,0,St Cyril & Methodius,Shirley A Tkachuk,607 Sobieski St,Lemont,60439 4049,630257-6488,P-8,82,41,3,3
+Cook,Non Pub Sch,07016491X,10,0,St Alphonsus - St Patrick,Robert Priest,20W145 Davey Rd,Lemont,60439 9009,630783-2220,P-8,85,43,11,3
+Cook,Non Pub Sch,07016509X,10,0,Infant Jesus of Prague,Ms. Natalie Formica,1101 Douglas Ave,Flossmoor,60422 1460,708799-5200,P-8,80,40,2,3
+Cook,Non Pub Sch,07016519X,10,0,St Patricia School,Mrs. Jamie L Nowinkski,9000 S 86th Ave,Hickory Hills,60457 1351,708598-8200,P-8,32,16,3,3
+Cook,Non Pub Sch,07016520X,14,0,Cornerstone Christian School,Alison Donald,PO Box 9,Chicago Heights,60412 0009,708756-3566,P-8,80,40,2,3
+Cook,Non Pub Sch,07016525X,10,0,St Joseph School,Mr. Daniel Fleming,17949 Dixie Hwy,Homewood,60430 1703,708798-0467,P-8,30,15,2,3
+Cook,Non Pub Sch,07016533X,16,0,Flossmoor Montessori School,Mrs. Bansari Modi,740 Western Ave,Flossmoor,60422 1375,708798-4600,"P,K",80,40,2,3
+Cook,Non Pub Sch,07016541X,10,0,St Symphorosa School,Ms. Kathy Berry,6125 S Austin Ave,Chicago,60638 4349,773585-6888,P-8,22,11,3,3
+Cook,Non Pub Sch,07016545X,6,0,St Mark Lutheran School,Paul Bloedel,22012 Torrence Ave,Sauk Village,60411 5706,708758-6222,1-7,33,17,2,3
+Cook,Non Pub Sch,07016551X,10,0,St Alexander School,Mrs. Cathy Biel,12600 S 71st Ct,Palos Heights,60463 1552,708448-0408,P-8,27,14,1,3
+Cook,Non Pub Sch,07016552X,10,0,Incarnation School,Cynthia Ann Zabilka,5705 W 127th St,Palos Heights,60463 2402,708385-6250,P-8,27,14,1,3
+Cook,Non Pub Sch,07016555X,25,0,Promise Christian Academy,Dr. Margaret L White,PO Box 705,Matteson,60443 0705,708743-8323,P-8,28,14,2,3
+Cook,Non Pub Sch,07016559X,10,0,St Bernadette School,Arlene A Baumann,9311 S Francisco Ave,Evergreen Park,60805 2536,708422-6429,P-8,36,18,1,3
+Cook,Non Pub Sch,07016560X,10,0,Most Holy Redeemer School,Mrs. Nancy A Harmening,9536 S Millard Ave,Evergreen Park,60805 2129,708422-8280,P-8,36,18,1,3
+Cook,Non Pub Sch,07016564X,1,0,Nurturing Dev & Learning Acad,Dr. Medina Bailey,525 Wentworth Ave,Calumet City,60409 2729,708868-5343,"P,K",33,17,2,3
+Cook,Non Pub Sch,07016566X,1,0,Epitome of Excellence,Dr. Samuel Hinkle III,20401 Western Ave,Olympia Fields,60461 1530,708679-3960,P-1,80,40,2,3
+Cook,Non Pub Sch,07016577X,10,0,Cardinal J Bernardin Catholic Sch,Mary Iannucilli,9250 W 167th St,Orland Hills,60487 5933,708403-6525,P-8,35,18,3,3
+Cook,Non Pub Sch,07016582X,10,0,Our Lady of the Snows School,Ms. Joyce Willenborg,4810 S Leamington Ave,Chicago,60638 2150,773735-4810,P-8,1,1,3,3
+Cook,Non Pub Sch,07016583X,16,0,Laren Montessori,Mrs. Kelly Martinez,425 E 164th St,South Holland,60473 2216,708339-4274,P-3,29,15,2,3
+Cook,Non Pub Sch,07016589Z,27,0,Homewood Community Academy,Mrs. Lannaea Alexander,20820 Western Ave,Olympia Fields,60461 1927,708535-1524,P-8,80,40,2,3
+Cook,Non Pub Sch,07016593X,1,0,Mary Sears Childrens Academy,John F Sears,16807 108th Ave,Orland Park,60467 5465,708460-4414,P-2,37,19,3,3
+Cook,Non Pub Sch,07016609X,10,0,St Rene Goupil,Mr. Robert Gawlik,6340 S New England Ave,Chicago,60638 4836,773586-4414,P-8,22,11,3,3
+Cook,Non Pub Sch,07016629Z,20,0,Southside Baptist School,Robert J Burckart,5220 W 105th St,Oak Lawn,60453 4789,708425-3435,P-12,36,18,3,3
+Cook,Non Pub Sch,07016641X,10,0,St Agnes School,Matthew Lungaro,1501 Chicago Rd,Chicago Heights,60411 3424,708756-2333,P-8,80,40,2,3
+Cook,Non Pub Sch,07016654X,10,0,St Gerald School,Mr. Al Theis,9320 S 55th Ct,Oak Lawn,60453 1694,708422-0121,P-8,36,18,3,3
+Cook,Non Pub Sch,07016659X,1,0,First Step Preschool,Ms. Marilyn A Seaton,PO Box 471,South Holland,60473 0471,708331-9393,"P,K",29,15,2,3
+Cook,Non Pub Sch,07016683X,17,0,Koraes Elementary School,Beth Lind,11025 S Roberts Rd,Palos Hills,60465 2317,708974-3402,P-8,36,18,3,3
+Cook,Non Pub Sch,07016703X,1,0,Lupees Day Care & Learning Ctr,Irene Fisher,14209 S Halsted St,Riverdale,60827 2329,708841-7576,P-1,30,15,2,3
+Cook,Non Pub Sch,07016724X,14,0,Apostolic Kingdom,Chanan Dozier,16511 S Park Ave,South Holland,60473 2257,708331-8206,P-7,29,15,2,3
+Cook,Non Pub Sch,07016729Z,23,0,Aqsa School,Tammie Ismail,7361 W 92nd St,Bridgeview,60455 2133,708598-2700,P-12,32,16,3,3
+Cook,Non Pub Sch,07016732X,3,0,Southwest Christian School,Terry Huizenga,17171 84th Ave,Tinley Park,60477 2266,708429-7171,K-8,37,19,3,3
+Cook,Non Pub Sch,07016739X,10,0,St Christopher School,Carol Pretkelis,14611 Keeler Ave,Midlothian,60445 2726,708385-8776,P-8,30,15,1,3
+Cook,Non Pub Sch,07016751Z,2,0,New Covenant Christian Academy,Rev. Richard D McCreary,15213 5th Ave,Phoenix,60426 2615,708331-3661,P-12,30,15,2,3
+Cook,Non Pub Sch,07016755X,14,0,Anointed Word International,Dr. Jacqueline Anderson,3434 W 159th St,Markham,60428 4046,708210-1767,P-2,30,15,1,3
+Cook,Non Pub Sch,07016768X,1,0,Triple R Child Care Inc,Diane Kirkpatrick,5500 147th St,Oak Forest,60452 1002,708385-7474,K,28,14,1,3
+Cook,Non Pub Sch,07016784X,6,0,Palos Lutheran School,Mrs. Kiara Potempa,12428 S 71st Ct,Palos Heights,60463 1570,708448-2260,"P,K",27,14,1,3
+Cook,Non Pub Sch,07016790X,16,0,Montessori Elem School Southwest,Therese Colby,16427 135th St,Lemont,60439 4743,815834-0607,"P,K,U",82,41,3,3
+Cook,Non Pub Sch,07016804X,1,0,South Subrbn Acadmy of Early Lrng,Dawn Soukup,14311 S 82nd Ave,Orland Park,60462 2901,708349-7732,"P,K",35,18,1,3
+Cook,Non Pub Sch,07016814X,26,0,New Life C C Academy,Dr. Michael D Reynolds,14243 Dante Ave,Dolton,60419 1348,708849-2787,P-8,29,15,2,3
+Cook,Non Pub Sch,07016829X,14,0,Landmark Christian Academy,Mr. Ken Darnell,6330 W 127th St,Palos Heights,60463 2300,708623-0332,K-8,27,14,1,3
+Cook,Non Pub Sch,07016833Z,23,0,Universal School,Mrs. Hanen Abdallah,7350 W 93rd St,Bridgeview,60455 2138,708599-4100,P-12,32,16,3,3
+Cook,Non Pub Sch,07016840X,16,0,Oak Lawn Montessori School,Donna Martin,4625 W 110th St,Oak Lawn,60453 5605,708499-1574,"P,K",36,18,3,3
+Cook,Non Pub Sch,07016860S,19,0,Blue Cap School,Mrs. Jill D Pertchi,2155 Broadway St,Blue Island,60406 3050,708389-6578,P-12,28,14,1,3
+Cook,Non Pub Sch,07016872S,19,0,Childrens Habilitation Center,Ms. Jane L Lurquin,121 W 154th St,Harvey,60426 3552,708596-2220,P-12,30,15,2,3
+Cook,Non Pub Sch,07016875S,19,0,Beacon Therapeutic Adolescent Prg,Dr. Joan Gross,12440 S Ada St,Calumet Park,60827 5802,708388-3183,6-12,28,14,1,3
+Cook,Non Pub Sch,07016878X,11,0,South Suburban SDA Christian Sch,Kathryn Kyle,119 Chestnut St,Park Forest,60466 2139,708481-8909,P-8,80,40,2,3
+Cook,Non Pub Sch,07016880S,3,0,Elim Christian School,Michael Otte,13020 S Central Ave,Palos Heights,60463 2410,708389-0555,"1,3-4,6-12",27,14,1,3
+Cook,Non Pub Sch,07016889X,16,0,Southwest Suburban Montessori Sch,Kathy Jo Williams,8800 W 119th St,Palos Park,60464 1081,708448-5332,"P,K",36,18,3,3
+Cook,Non Pub Sch,07016903S,19,0,Lt Joseph P Kennedy Jr School,Ms. Cynthia A James,18350 Crossing Dr,Tinley Park,60487 6294,708342-5278,P-12,37,19,1,3
+Cook,Non Pub Sch,07016911X,1,0,Peckwas Preparatory Academy,Kim Strzelczyk,5714 S Harlem Ave,Summit Argo,60501 1338,708594-6857,"K-5,7-8",21,11,3,3
+Cook,Non Pub Sch,07016964X,1,0,Safe Care Academy,Tawaski Jones,2926 W 147th St,Posen,60469 1435,708597-5700,"P,K",30,15,1,3
+Cook,Non Pub Sch,07016983X,10,0,Everest Academy of Lemont,Ms. Lori Broncato,11550 Bell Rd,Lemont,60439 8722,630243-1995,P-8,82,41,3,3
+Cook,Non Pub Sch,07016991X,16,0,Mi Sol Montessori Pre-Sch,Maria Camarena,14249 Wolf Rd,Orland Park,60467 1977,708226-9850,P-6,35,18,3,3
+Jo Daviess,Non Pub Sch,08043001X,10,0,St Marys School,Ms. Angela Jones,701 IL Route 35 N,East Dubuque,61025 9604,815747-3010,P-8,89,45,17,3
+Jo Daviess,Non Pub Sch,08043004X,10,0,Nativity B V M,Dianne Makovec,15406 W Creek Valley Rd,East Dubuque,61025 9426,815747-3670,1-8,89,45,17,3
+Jo Daviess,Non Pub Sch,08043008Z,26,0,Tri-State Christian School,Mr. Tad Nuce,11084 W US Highway 20,Galena,61036 9368,815777-3800,P-12,89,45,17,3
+Stephenson,Non Pub Sch,08089001Z,10,0,Aquin Catholic Jr-Sr High School,Mrs. Rosemarie Brubaker,1419 S Galena Ave,Freeport,61032 6021,815235-3154,7-12,89,45,17,3
+Stephenson,Non Pub Sch,08089002X,6,0,Immanuel Lutheran School,Mr. Dan Green,1964 W Pearl City Rd,Freeport,61032 9332,815232-3511,P-8,89,45,17,3
+Stephenson,Non Pub Sch,08089004X,10,0,Aquin Elementary Campus,Mr. Jeremy Keesee,202 W Pleasant St,Freeport,61032 5526,815232-6416,P-6,89,45,17,3
+Stephenson,Non Pub Sch,08089010X,26,0,Tri-County Christian School,Mrs. Wendy Schardt,2900 Loras Dr,Freeport,61032 6924,815233-1876,P-8,89,45,17,3
+Champaign,Non Pub Sch,09010001X,10,0,Holy Cross School,Mrs. Christina Ellis,410 W White St,Champaign,61820 4808,217356-9521,P-8,103,52,13,3
+Champaign,Non Pub Sch,09010002X,10,0,St Malachy,Mrs. Anastacia Gianessi,340 E Belle Ave,Rantoul,61866 1843,217892-2011,P-8,104,52,15,3
+Champaign,Non Pub Sch,09010004X,10,0,St Thomas School,Mrs. Lisa Doughan,311 E Madison St,Philo,61864 9652,217684-2309,P-8,102,51,13,3
+Champaign,Non Pub Sch,09010006X,10,0,St Matthews School,Petrece Klein,1307 Lincolnshire Dr,Champaign,61821 5505,217359-4114,K-8,103,52,13,3
+Champaign,Non Pub Sch,09010007X,1,0,Campus Middle Sch for Girls,Ms. Tami Adams,108 S Webber St,Urbana,61802 3449,217344-8279,6-8,103,52,13,3
+Champaign,Non Pub Sch,09010011Z,2,0,Calvary Baptist Christian Academy,Rev. Gary A Gritton,2106 E Windsor Ln,Urbana,61802 9572,217367-2262,"K-5,7-12",104,52,13,3
+Champaign,Non Pub Sch,09010013Z,26,0,Judah Christian School,Michael Chitty,908 N Prospect Ave,Champaign,61820 2817,217359-1701,P-12,103,52,13,3
+Champaign,Non Pub Sch,09010014X,6,0,St John Lutheran School,Ms. Faith Block,509 S Mattis Ave,Champaign,61821 3630,217359-1714,P-8,103,52,13,3
+Champaign,Non Pub Sch,09010021S,19,0,Swann School,John A Lawrence,2418 W Springfield Ave,Champaign,61821 2812,217398-9270,U,103,52,13,3
+Champaign,Non Pub Sch,09010024X,1,0,University Primary School,Dr. Ali Lewis,51 Gerty Dr,Champaign,61820 7453,217333-3996,P-1,103,52,13,3
+Champaign,Non Pub Sch,09010027Z,15,0,The Academy,Jewel Wm Kelly,1625 Golfview Rd,Rantoul,61866 3548,217893-0845,"3-4,7,9,11,U",104,52,15,3
+Champaign,Non Pub Sch,09010028X,16,0,Montessori Sch Champaign-Urbana,George Cook,1403 Regency Dr E,Savoy,61874 9500,217356-1818,P-6,104,52,13,3
+Champaign,Non Pub Sch,09010029X,1,0,Countryside School,Mrs. Binky Bognar,4301 W Kirby Ave,Champaign,61822 6164,217355-1253,K-8,102,51,13,3
+Champaign,Non Pub Sch,09010032Z,7,0,Kingswood,M W Jones,PO Box 834,Urbana,61803 0834,217344-5540,"1-3,5-10",103,52,13,3
+Champaign,Non Pub Sch,09010034X,26,0,Canaan Academy,Bryant Tatum,207 N Central Ave,Urbana,61801 2605,217367-6590,P-5,103,52,13,3
+Champaign,Non Pub Sch,09010035X,1,0,First School,E Jane Stubblefield,1403 E Oak St,Mahomet,61853 8530,217586-9990,"P,K",101,51,15,3
+Champaign,Non Pub Sch,09010038X,1,0,Next Generation,Mrs. Chris Bronowski,2521 Galen Dr,Champaign,61821 7005,217356-6995,P-8,104,52,13,3
+Champaign,Non Pub Sch,09010043Y,10,0,The High School of Saint Thomas More,Mr. Jason Schreder,3901 N Mattis Ave,Champaign,61822 1001,217352-7210,9-12,104,52,13,3
+Champaign,Non Pub Sch,09010044S,1,0,Pavilion Foundation School,Ms. Mary Lanoue,810 W Church St,Champaign,61820 3321,217373-1889,1-12,103,52,13,3
+Champaign,Non Pub Sch,09010148X,1,0,Chesterbrook Academy,Kristen Miller,2001 S Oak St,Champaign,61820 0911,217344-4863,,103,52,13,3
+Ford,Non Pub Sch,09027003Z,14,0,Heritage Preparatory Academy,Tamara S Kendrick,PO Box 96,Roberts,60962 0096,217249-2282,1-9,106,53,16,3
+Coles,Non Pub Sch,11015003X,10,0,St Mary School,Mrs. Nicole Durbin,2000 Richmond Ave,Mattoon,61938 2846,217235-0431,P-5,110,55,15,3
+Coles,Non Pub Sch,11015022X,6,0,St Johns Lutheran Parochial Sch,Mr. Trent Duckett,100 Broadway Ave,Mattoon,61938 4512,217234-4911,P-8,110,55,15,3
+Coles,Non Pub Sch,11015028S,19,0,Bright Minds Educational Program,Vivian Skelley,7704 Deerpath Rd,Charleston,61920 8735,217508-7171,"P,K",110,55,15,3
+Edgar,Non Pub Sch,11023001X,10,0,St Mary School,Cheryl Zuiker,507 Connelly St,Paris,61944 1544,217463-3005,P-8,102,51,15,3
+Moultrie,Non Pub Sch,11070001Z,2,0,Heritage Baptist Academy,Layne Lashley,717 Front St,Gays,61928 9770,217752-6672,P-11,102,51,15,3
+Moultrie,Non Pub Sch,11070004Z,22,0,Arthur Christian School,Greg Mast,1710 State Highway 133,Arthur,61911 6016,217543-2397,K-12,110,55,15,3
+Shelby,Non Pub Sch,11087002X,10,0,St Michael School,Mr. Nicholas B Niemerg,PO Box 8,Sigel,62462 0008,217844-2231,K-8,102,51,15,3
+Shelby,Non Pub Sch,11087004X,6,0,Trinity Lutheran School,Mr. Kent F Rincker,PO Box 307,Stewardson,62463 0307,217682-3881,P-8,102,51,15,3
+Shelby,Non Pub Sch,11087006Z,25,0,Mid-America Preparatory School,Mr. Rick Allen,PO Box 300,Herrick,62431 0300,618428-5620,K-12,102,51,15,3
+Crawford,Non Pub Sch,12017002X,14,0,New Hebron Christian School,Susan Wassel,10755 E 700th Ave,Robinson,62454 5217,618544-7619,P-8,110,55,15,3
+Crawford,Non Pub Sch,12017003Z,25,0,Westside Christian Academy,Barbara Dunlap,8635 E 1050th Ave,Robinson,62454 7402,618544-8924,"K-1,3-5,7-9,12",110,55,15,3
+Jasper,Non Pub Sch,12040001X,10,0,St Thomas,Mrs. Jill Bierman,306 W Jourdan St,Newton,62448 1920,618783-3517,K-8,109,55,15,3
+Richland,Non Pub Sch,12080001X,10,0,St Joseph Grade School,Carol M Potter,520 E Chestnut St,Olney,62450 2700,618395-3081,P-8,109,55,15,3
+Clinton,Non Pub Sch,13014001Y,10,0,Mater Dei High School,Dennis A Litteken,900 Mater Dei Dr,Breese,62230 1077,618526-7216,9-12,108,54,15,3
+Clinton,Non Pub Sch,13014004X,10,0,All Saints Academy,Robin Booth,295 N Clinton St,Breese,62230 1518,618526-4323,P-8,108,54,15,3
+Clinton,Non Pub Sch,13014008X,6,0,Trinity Lutheran School,Mrs. Beth Boester,PO Box 200,Hoffman,62250 0200,618495-2246,P-8,108,54,15,3
+Clinton,Non Pub Sch,13014011Y,6,0,Christ Our Rock Lutheran HS,Don W Duensing,9545 Shatuc Rd,Centralia,62801 5833,618226-3315,9-12,108,54,15,3
+Jefferson,Non Pub Sch,13041002X,10,0,St Marys,Brett Heinzman,1416 Main St,Mount Vernon,62864 3729,618242-5353,K-8,115,58,12,3
+Jefferson,Non Pub Sch,13041003Z,20,0,Mt Vernon Christian School,Tim Reynolds,817 Woodland Dr,Mount Vernon,62864 6145,618244-5404,"K,2-4,6-12",115,58,12,3
+Jefferson,Non Pub Sch,13041006Z,14,0,Victory Christian Academy,Bonnie Payne,1719 Broadway St,Mount Vernon,62864 2929,618241-0427,"K-3,5-12",115,58,12,3
+Marion,Non Pub Sch,13058002X,10,0,St Mary School,Mr. Jason Swann,424 E Broadway,Centralia,62801 3255,618532-3473,P-8,107,54,15,3
+Marion,Non Pub Sch,13058004X,6,0,Trinity Lutheran School,Mrs. Pam Bierbaum,203 S Pleasant Ave,Centralia,62801 3657,618532-5434,K-8,107,54,15,3
+Marion,Non Pub Sch,13058010X,10,0,St Theresa of Avila,Ms. Marcia Stinde,190 N Ohio Ave,Salem,62881 1316,618548-3492,P-8,107,54,15,3
+Marion,Non Pub Sch,13058011X,26,0,New Horizon Christian School,Penny Sparks,12 Greenview Church Rd,Centralia,62801 6158,618533-6910,K-8,107,54,15,3
+Washington,Non Pub Sch,13095001X,6,0,Immanuel Lutheran,Lynn C Lukomski,606 S Hanover St,Okawville,62271 2208,618243-6142,P-8,108,54,15,3
+Washington,Non Pub Sch,13095006X,6,0,Trinity Lutheran,Mr. Brett Jones,PO Box 57,Hoyleton,62803 0057,618493-7754,P-8,108,54,15,3
+Washington,Non Pub Sch,13095008X,10,0,St Ann Elementary School,Mr. Pierre Nic Antoine,675 S Mill St,Nashville,62263 1830,618327-8741,P-8,108,54,15,3
+Washington,Non Pub Sch,13095009X,6,0,Trinity-St John Lutheran,Mrs. Amy Kurtz,680 W Walnut St,Nashville,62263 1158,618327-8561,P-8,108,54,15,3
+Cook,Non Pub Sch,15016001Z,1,0,Harriet Jamison College Preparatory Academy,Dr. Harriet Jamison,1225 W 108th Pl,Chicago,60643 3702,773238-3551,P-12,27,14,1,3
+Cook,Non Pub Sch,15016002X,1,0,Tots Express Learning Center/Express Academy,Roshonda Furlow,8950 S Cottage Grove Ave,Chicago,60619 6932,773723-8687,"P,K",34,17,1,3
+Cook,Non Pub Sch,15016003Y,10,0,Leo High School,Mr. Shaka A Rawls,7901 S Sangamon St,Chicago,60620 2532,773224-9600,9-12,31,16,1,3
+Cook,Non Pub Sch,15016004X,1,0,Catherine Cook School,Dr. Michael Roberts,226 W Schiller St,Chicago,60610 1808,312266-3381,P-8,12,6,5,3
+Cook,Non Pub Sch,15016005Y,10,0,St Patrick High School,Joseph G Schmidt,5900 W Belmont Ave,Chicago,60634 5107,773282-8844,9-12,39,20,5,3
+Cook,Non Pub Sch,15016007Y,14,0,Legacy Connections Vocational School,Mr. Leon Johnson,6360 S Minerva Ave Rm 1012,Chicago,60637 3638,773707-8229,9-12,26,13,1,3
+Cook,Non Pub Sch,15016009Z,1,0,Stevens Academy of Life,Latoya Lenoir,8432 S King Dr,Chicago,60619 6034,773870-8533,P-12,27,14,1,3
+Cook,Non Pub Sch,15016011X,1,0,Creme de la Creme,Andrew Saucedo,2230 N Dominick St,Chicago,60614 7801,773598-5462,P,11,6,5,3
+Cook,Non Pub Sch,15016012Z,14,0,Pass It On Academy,Teresa Coleman,2914 W 63rd St,Chicago,60629 3165,773315-2777,P-12,1,1,7,3
+Cook,Non Pub Sch,15016014X,1,0,Resourceful Center Academy of Scholars,Stefanie D Griffin,11361 S Forrestville Ave,Chicago,60628 5107,708629-5610,P-6,34,17,2,3
+Cook,Non Pub Sch,15016015Z,14,0,Reaching Out Career Acad,Lafayette McGary,1950 S Saint Louis Ave,Chicago,60623 3119,708843-0206,P-12,9,5,7,3
+Cook,Non Pub Sch,15016016Y,1,0,Latino Youth High School,Mr. James Joseph Hurlburt,2001 S California Ave,Chicago,60608 2486,773648-2130,10-12,9,5,4,3
+Cook,Non Pub Sch,15016017Y,10,0,Brother Rice High School,James P Antos,10001 S Pulaski Rd,Chicago,60655 3356,773429-4300,9-12,36,18,3,3
+Cook,Non Pub Sch,15016020Y,8,0,Lake View Academy,Deborah E Bayly,716 W Addison St,Chicago,60613 4416,773281-3065,,12,6,5,3
+Cook,Non Pub Sch,15016023Z,11,0,Hinsdale Adventist Academy,Johanna Seralde,631 E Hickory St,Hinsdale,60521 2412,630323-9211,P-12,47,24,5,3
+Cook,Non Pub Sch,15016024Y,10,0,De La Salle Institute,Diane L Brown,3455 S Wabash Ave,Chicago,60616,312842-7355,9-12,6,3,1,3
+Cook,Non Pub Sch,15016025Z,23,0,Hajirah Education Program,Mohammed Muqeem,6400 N Artesian Ave,Chicago,60645 5302,773381-0600,K-12,16,8,9,3
+Cook,Non Pub Sch,15016027X,1,0,Faulkner School,Toby J Jackson,1750 E 78th St,Chicago,60649 4514,773221-3578,P-6,5,3,1,3
+Cook,Non Pub Sch,15016028Z,14,0,John Amos George College Preparatory,Dr. Kristee Davis,8736 S Blackstone Ave,Chicago,60619 7116,708955-8291,P-12,33,17,1,3
+Cook,Non Pub Sch,15016029Z,14,0,Worship Academy College Preparatory,Henry Petty,1400 S Kolin Ave,Chicago,60623 1149,708955-5432,K-12,9,5,7,3
+Cook,Non Pub Sch,15016031Y,10,0,DePaul College Prep,Dr. James Quaid,3633 N California Ave,Chicago,60618 4602,773539-3600,9-12,11,6,5,3
+Cook,Non Pub Sch,15016032Y,10,0,Hales Franciscan High School,Mr. Anthony Daniels Halisi,4930 S Cottage Grove Ave,Chicago,60615 2616,773285-8400,9-12,26,13,1,3
+Cook,Non Pub Sch,15016033Z,2,0,Liberty School of Christrian Educ,Pastor James C May,6207 S University Ave,Chicago,60637 2729,773643-0123,K-12,25,13,1,3
+Cook,Non Pub Sch,15016035X,19,0,G & L Johnson Career Academy,Gloria Johnson,10648 S Michigan Ave,Chicago,60628 2708,773828-1385,P-6,28,14,2,3
+Cook,Non Pub Sch,15016036X,1,0,Stepping Stones Early Childhood,Dr. Nelda Jones,1300 E 75th St,Chicago,60619 1420,773493-0000,"P,K",5,3,1,3
+Cook,Non Pub Sch,15016037X,14,0,Chance after Chance College Preparatory,Belinda Martin,309 N Cicero Ave,Chicago,60644 2602,773287-8121,P-8,10,5,7,3
+Cook,Non Pub Sch,15016038Y,10,0,Holy Trinity High School,Marianne Lynch,1443 W Division St,Chicago,60642 3324,773278-4212,9-12,10,5,7,3
+Cook,Non Pub Sch,15016039X,1,0,Together in Love Academy,Willie F Richardson,10237 S State St,Chicago,60628,708715-5189,P-8,28,14,2,3
+Cook,Non Pub Sch,15016040X,27,0,Robert T Walker Leadership Int,Pamela Walker,1808 W 99th St,Chicago,60643 1812,773233-7500,P-1,35,18,1,3
+Cook,Non Pub Sch,15016041Z,14,0,Rehoboth Educational Academy,Olaitan Balogun,11705 S Michigan Ave,Chicago,60628 5646,708699-1694,P-12,29,15,2,3
+Cook,Non Pub Sch,15016042Z,10,0,Josephinum Academy,Mary Rose Guerin,1501 N Oakley Blvd,Chicago,60622 1850,773276-1261,9-12,4,2,5,3
+Cook,Non Pub Sch,15016043Z,1,0,University of Chicago Lab Schs,Mr. Charles Abelmann,1362 E 59th St,Chicago,60637 1793,773702-9450,P-12,25,13,1,3
+Cook,Non Pub Sch,15016046Z,1,0,Poetic Praize Youth Academy,Melvin Blackmon,845 W 69th St,Chicago,60621 1709,773610-2960,K-12,32,16,1,3
+Cook,Non Pub Sch,15016047Z,1,0,Greater Pleasant Valley College Preparatory,Robert Skinner Sr,910 E 83rd St,Chicago,60619 5404,773891-3104,P-12,33,17,1,3
+Cook,Non Pub Sch,15016049Z,14,0,Mountain of Hope College Preparatory,Mary A Butler,8004 S May St,Chicago,60620 3004,773655-9981,P-12,34,16,1,3
+Cook,Non Pub Sch,15016050Z,6,0,Luther North College Prep,Mr. Wayne K Wenzel,5700 W Berteau Ave,Chicago,60634 1717,773286-3600,9-12,19,10,5,3
+Cook,Non Pub Sch,15016053Y,10,0,Maria High School,Margaret Hayes,6727 S California Ave,Chicago,60629 1816,773925-8686,10-12,6,3,1,3
+Cook,Non Pub Sch,15016054X,10,0,Immaculate Conception,Catherine Sullivan,1431 N North Park Ave,Chicago,60610 1226,312944-0304,P-3,12,6,5,3
+Cook,Non Pub Sch,15016055X,16,0,South Loop Montessori School,Mahdi Dadrass,47 W Polk St Ste G15,Chicago,60605 2768,312804-0702,P-1,6,3,7,3
+Cook,Non Pub Sch,15016056Y,10,0,Marist High School,Larry Tucker,4200 W 115th St,Chicago,60655 4306,773881-5300,9-12,35,18,1,3
+Cook,Non Pub Sch,15016057Z,1,0,Ambassadors of Tech and Performing Arts Acad,Mattie Johnson,7859 S Ashland Ave,Chicago,60620 4253,312498-5321,P-12,31,16,1,3
+Cook,Non Pub Sch,15016058Y,1,0,The Shirley Deer Education and Technology Institute,Dennis Deer,3936 W Roosevelt Rd Fl 2,Chicago,60624 4389,773826-0398,9-10,9,5,7,3
+Cook,Non Pub Sch,15016060Y,10,0,Mother Mcauley Liberal Arts H S,Ms. Eileen Boyce,3737 W 99th St,Chicago,60655 3133,773881-6500,9-12,36,18,3,3
+Cook,Non Pub Sch,15016061Z,1,0,Morgan Park Academy,Mercedes Z Sheppard,2153 W 111th St,Chicago,60643 3917,773881-6700,P-12,27,14,1,3
+Cook,Non Pub Sch,15016062X,10,0,Immaculate Conception,Sr. Katia Alcantar,8739 S Exchange Ave,Chicago,60617 3120,773375-4674,K-7,26,13,2,3
+Cook,Non Pub Sch,15016064Z,14,0,Christ Light World Academy,Olapeju Hughes,2405 E 75th St,Chicago,60649 3715,312286-8553,"P,K,6,12",25,13,2,3
+Cook,Non Pub Sch,15016065Y,10,0,Mt Carmel High School,Fr. Tony Mazurkiewicz,6410 S Dante Ave,Chicago,60637 3810,773324-1020,9-12,26,13,1,3
+Cook,Non Pub Sch,15016066X,14,0,Chicago Friends School,Karen Carney,1246 W Thorndale Ave,Chicago,60660 3348,773442-2371,P-6,14,7,9,3
+Cook,Non Pub Sch,15016069X,16,0,All Day Montessori,Quinn Mcavoy,1819 W 99th St,Chicago,60643 1811,773239-8248,"P,K",35,18,1,3
+Cook,Non Pub Sch,15016071X,1,0,New Jerusalem Scholars Acad,Lawrence Skinner Sr,7123 S Halsted St,Chicago,60621 1727,773874-9950,"K,3,5-6",32,16,1,3
+Cook,Non Pub Sch,15016072Z,1,0,Providence - St Mel School,Jeanette Butala,119 S Central Park Blvd,Chicago,60624 2941,773722-4600,K-12,10,5,7,3
+Cook,Non Pub Sch,15016073Z,25,0,Beginners Enrichment Academy,Stephanie Ramsey,4258 W Iowa St,Chicago,60651 3521,773814-4103,P-8,10,5,7,3
+Cook,Non Pub Sch,15016075S,19,0,South Central Comm Serv Inc,Geneva B Reynolds,1021 E 83rd St,Chicago,60619 5505,773483-0900,3-8,33,17,1,3
+Cook,Non Pub Sch,15016076Z,1,0,Wisdom Learning Academy,Mr. Upendo Parker,12245 S Perry Ave,Chicago,60628 6826,708516-3618,P-12,29,15,2,3
+Cook,Non Pub Sch,15016077Y,10,0,Resurrection High School,Maria Hawk,7500 W Talcott Ave,Chicago,60631 3705,773775-6616,9-12,20,10,9,3
+Cook,Non Pub Sch,15016078Z,1,0,John Raymond Parker Life House Academy,Kirk L Gayton,900 N Waller Ave,Chicago,60651 2649,708834-8468,P-12,78,39,7,3
+Cook,Non Pub Sch,15016079Y,1,0,Prologue,Mr. Baboucarr Ousman Joof,1135 N Cleaver St,Chicago,60642 4002,773935-9925,9-12,10,5,7,3
+Cook,Non Pub Sch,15016080X,1,0,Excellence in Academic Achievement Academy,Kausar Rahmah,9612 S Charles St,Chicago,60643 1216,773443-0006,K-12,35,18,1,3
+Cook,Non Pub Sch,15016082Y,1,0,Comm Christian Alternative Acad,Dr. Myra Sampson,1231 S Pulaski Rd,Chicago,60623 1234,773762-2272,U,9,5,7,3
+Cook,Non Pub Sch,15016085Y,10,0,St Benedict High School,Ericka Mickelburgh,3900 N Leavitt St,Chicago,60618 3810,773539-0066,9-12,11,6,5,3
+Cook,Non Pub Sch,15016086Y,10,0,Our Lady of Tepeyac High School,Ms. Sharee Onyezia,2228 S Whipple St,Chicago,60623 3425,773522-0023,9-12,21,11,4,3
+Cook,Non Pub Sch,15016088Y,10,0,St Francis De Sales High School,Mr. John Kimec,10155 S Ewing Ave,Chicago,60617 6022,773731-7272,9-12,25,13,2,3
+Cook,Non Pub Sch,15016089X,25,0,Enliven Christian Academy,Vivian L Harris,4503 W Harrison St,Chicago,60624 3004,773722-1273,K-2,10,5,7,3
+Cook,Non Pub Sch,15016090X,14,0,St Sava Academy,Mr. Marko Bojovic,5701 N Redwood Dr,Chicago,60631 2933,773714-0299,P-8,20,10,9,3
+Cook,Non Pub Sch,15016091X,25,0,Judah Foundational Comm Sch,Jeanette Williams,856 N Pulaski Rd,Chicago,60651 3608,773844-0194,P,10,5,7,3
+Cook,Non Pub Sch,15016092Y,10,0,St Ignatius College Prep,Ms. Brianna K Latko,1076 W Roosevelt Rd,Chicago,60608 1531,312421-5900,9-12,9,5,7,3
+Cook,Non Pub Sch,15016093X,5,0,Chicago Jewish Day School,Ms. Judy Finkelstein-Taft,5959 N Sheridan Rd,Chicago,60660 3643,773271-2700,P-8,14,7,9,3
+Cook,Non Pub Sch,15016094Z,14,0,Center of Life Learning Academy,Mark Henton,6643 S Ashland Ave,Chicago,60636 3021,773563-2555,P-12,32,16,7,3
+Cook,Non Pub Sch,15016095X,1,0,Sprout Academy,Kiara Martin,6738 S Throop St,Chicago,60636 2931,773964-2377,P-6,32,16,7,3
+Cook,Non Pub Sch,15016096Z,14,0,Another Chance Learning Center,Dietra McKamey,1641 W 79th St,Chicago,60620 4212,773998-1641,"P-12,U",31,16,1,3
+Cook,Non Pub Sch,15016098X,6,0,Bethel Christian School,Tonia Taylor,4215 W West End Ave,Chicago,60624 2245,773533-3636,K-8,10,5,7,3
+Cook,Non Pub Sch,15016099X,1,0,Searcie Smith Learning Academy,Yolanda Brown,5627 W Division St,Chicago,60651 1140,773530-4732,K-6,78,39,7,3
+Cook,Non Pub Sch,15016100X,1,0,Chicago Grammar School,Phillip D Jackson II,900 N Franklin St Ste 104,Chicago,60610 8108,312944-5600,P-8,9,5,7,3
+Cook,Non Pub Sch,15016101X,1,0,HOPE Excel Reaching the World Acad,Chrystal Kyles,4821 W Chicago Ave,Chicago,60651 3224,773362-1076,"P,K",8,4,7,3
+Cook,Non Pub Sch,15016102X,1,0,Philadelphia School of Arts,Sandra Campbell,3335 W Washington Blvd,Chicago,60624 2454,773480-1884,P-5,10,5,7,3
+Cook,Non Pub Sch,15016106Y,25,0,Excel Institute,Amie L Brown,6240 S Bishop St,Chicago,60636 2316,773639-7002,12,6,3,7,3
+Cook,Non Pub Sch,15016107X,1,0,Northwest Inst for Contemp Acad,Shirley A Allison,5108 W Division St,Chicago,60651 1436,773921-2800,P-8,8,4,7,3
+Cook,Non Pub Sch,15016108Y,10,0,St Rita High School,Brendan J Conroy,7740 S Western Ave,Chicago,60620 5820,773925-6600,9-12,31,16,1,3
+Cook,Non Pub Sch,15016111S,19,0,PACTT Learning Center,Paula Jablonski,7101 N Greenview Ave,Chicago,60626 2628,773338-9102,U,14,7,9,3
+Cook,Non Pub Sch,15016112X,14,0,Masters Academy,Delilah Brooks,6620 S King Dr,Chicago,60637 3210,773326-4206,K-8,5,3,1,3
+Cook,Non Pub Sch,15016113X,1,0,German School Chicago,Ms. Petra Obritzberger,1447 W Montrose Ave,Chicago,60613 1348,773880-8812,P-7,13,7,5,3
+Cook,Non Pub Sch,15016114X,16,0,Futureworld NFP,Charisse Parham,1744 E 55th St,Chicago,60615 5966,312719-4907,P-6,25,13,2,3
+Cook,Non Pub Sch,15016115X,1,0,Intercultural Montessori of Chicago,Edina McGivern,114 S Racine Ave Ste 100,Chicago,60607 2954,312265-1514,P-6,9,5,7,3
+Cook,Non Pub Sch,15016116Z,1,0,Chicago Waldorf School,Mr. Leukos Goodwin,1300 W Loyola Ave,Chicago,60626 5104,773465-2662,P-12,14,7,9,3
+Cook,Non Pub Sch,15016117Y,1,0,Puerto Rican H S - Pedro A Campos,Danette T Sokacich,2739 W Division St,Chicago,60622 2854,773342-8022,9-12,4,2,4,3
+Cook,Non Pub Sch,15016118Y,5,0,Telshe High School,Rabbi Shmuel Adler,3535 W Foster Ave,Chicago,60625 5526,773463-7738,9-12,15,8,5,3
+Cook,Non Pub Sch,15016119Z,1,0,Children of the City College Prep,Mrs. Curtissa Brown,5411 S Halsted St,Chicago,60609,773668-4447,P-11,6,3,7,3
+Cook,Non Pub Sch,15016121X,2,0,Sweet Angels Learning Academy,Linn C Williams,4247-49 W Division,Chicago,60651,708299-4483,K,10,5,7,3
+Cook,Non Pub Sch,15016122Y,1,0,Wolcott School,Dr. Miriam Pike,524 N Wolcott Ave,Chicago,60622 6256,312610-4900,9-12,4,2,5,3
+Cook,Non Pub Sch,15016123Y,14,0,Changing Oasis,Audrey L Woodley,2532 W Warren Blvd Fl 2,Chicago,60612 2124,708595-9105,9-12,10,5,7,3
+Cook,Non Pub Sch,15016124X,1,0,Freedom International School,Charlotte Rollings,208-210 S Cicero,Chicago,60644,773417-3405,"P,K",10,5,7,3
+Cook,Non Pub Sch,15016125X,1,0,Fizer Temple Academy,Ladarian Hasley,3926 W Roosevelt Rd,Chicago,60624 4233,773302-7978,P-5,9,5,7,3
+Cook,Non Pub Sch,15016126X,2,0,Mount Ebenezer,Ms. Laura Bass,3555 W Huron St,Chicago,60624 1346,773826-5733,"P,K",10,5,7,3
+Cook,Non Pub Sch,15016127X,1,0,Morgan Street Learning Academy,Bernice Wilson,5524 S Morgan St,Chicago,60621 1534,773458-3597,P-5,6,3,7,3
+Cook,Non Pub Sch,15016128X,2,0,Greater Rock Gifted Learning Academy,Sonja Bellephant,718 S Independence Blvd,Chicago,60624 3626,773722-7791,"P,K",9,5,7,3
+Cook,Non Pub Sch,15016130X,2,0,Peaceful New Beginings Academy,Sharon Thompson,345 S Cicero Ave,Chicago,60644 4905,773626-2114,P-1,10,5,7,3
+Cook,Non Pub Sch,15016132Z,6,0,New Hope Lutheran School,Judith S Anderson,6416 S Washtenaw Ave,Chicago,60629 1734,773776-9849,P-9,6,3,7,3
+Cook,Non Pub Sch,15016133X,1,0,Altus Academy,John P Heybach,751 S Sacramento Blvd,Chicago,60612 3365,312374-3148,2-8,9,5,7,3
+Cook,Non Pub Sch,15016136X,14,0,Anointed Heirs Kingdom Academy,Mr. Edward Anderson,7601 S Kostner Ave Ste 400,Chicago,60652 1120,773633-3290,K-4,22,11,3,3
+Cook,Non Pub Sch,15016137X,16,0,Gateway Montessori School,Shelley Torres Aldeen,3748 W Montrose Ave,Chicago,60618 1027,773539-3025,P-3,40,20,4,3
+Cook,Non Pub Sch,15016138X,2,0,Loving Spirit Community Outreach and Development Center,Dr. John H Robinson Jr,424 W 103rd St,Chicago,60628 2402,773881-3747,K,27,14,2,3
+Cook,Non Pub Sch,15016139X,2,0,JLM Academy,Rev. Johnny Miller,2622 W Jackson Blvd,Chicago,60612 2807,773826-3064,"P,K",10,5,7,3
+Cook,Non Pub Sch,15016141X,2,0,Mind Shapers Christian Academy,Guineivere Thomas,1845 W 95th St,Chicago,60643 1103,773779-8146,P-6,35,18,3,3
+Cook,Non Pub Sch,15016142Z,2,0,1st Holy Zion Center for Learning,Dave A Jordan,6110 S Ashland Ave,Chicago,60636 2322,773678-8491,"P,K,7,9",6,3,7,3
+Cook,Non Pub Sch,15016143X,1,0,Chicago Free School,Lauren Beitler,1100 E Hyde Park Blvd,Chicago,60615 2810,312375-3673,P-8,25,13,1,3
+Cook,Non Pub Sch,15016144X,1,0,New Dimensions Academy,Lamont Smothers,6450 S Ashland Ave # 52,Chicago,60636 2717,773367-2304,K-6,6,3,7,3
+Cook,Non Pub Sch,15016145X,27,0,Christian S.T.E.M. Scholars Academy,Rev. Lonnie Newman,9406 S Perry Ave,Chicago,60620 1423,773468-1030,P-8,27,14,1,3
+Cook,Non Pub Sch,15016146X,2,0,Gospel Quartets Academy,Mr. Joseph Towe,7915 S Halsted St,Chicago,60620 2541,872800-9424,P-8,31,16,1,3
+Cook,Non Pub Sch,15016147Y,1,0,The Hunter Lab Academy,Dr. Hayley Gilmore,5946 S Prairie Ave Unit 1,Chicago,60637 1336,312513-2122,12,5,3,1,3
+Cook,Non Pub Sch,15016148X,2,0,Performing Christ Christian Academy,Mr. T A Treadwell,5209 W Lake St,Chicago,60644 2421,708271-0993,"P,K",7,4,8,3
+Cook,Non Pub Sch,15016149X,1,0,CS Academy II,Mrs. Domonique Ziegler,1443 W 63rd St,Chicago,60636 2353,773434-5453,P-8,7,3,6,3
+Cook,Non Pub Sch,15016151X,1,0,Everlasting Love Academy,Mr. Larry Tabron,124 S Cicero Ave,Chicago,60644 4460,708770-9638,P-5,10,5,7,3
+Cook,Non Pub Sch,15016152S,19,0,City Elementary,Ms. Penny S Visser,1100 E Hyde Park Blvd,Chicago,60615 2810,847282-0450,K-2,26,13,1,3
+Cook,Non Pub Sch,15016153X,1,0,City Garden Waldorf School,Ms. Jone Hellesoy,920 W 19th St,Chicago,60608 3412,312421-3050,"P,K",2,1,4,3
+Cook,Non Pub Sch,15016154X,1,0,Bennett Day School,Kate Cicchelli,955 W Grand Ave,Chicago,60642 6511,312236-6388,P-2,10,5,7,3
+Cook,Non Pub Sch,15016155Z,14,0,Living Free Center,Timothy Wright,5467 W Chicago Ave,Chicago,60651 2858,773499-6941,"5,9,11",10,5,7,3
+Cook,Non Pub Sch,15016156X,2,0,Faith Walk Community Christian Academy,Wendy Young,8001 S Racine Ave,Chicago,60620 3012,773846-6155,"K,2,4",31,16,1,3
+Cook,Non Pub Sch,15016157X,2,0,Greater New Mt Moriah MBC School,Ms. Andrea Abrams,5453 W North Ave,Chicago,60639 4346,773793-5193,P-7,9,5,7,3
+Cook,Non Pub Sch,15016157X,23,0,Guidance Education Academy,Manzoor Haq,7045 N Western Ave,Chicago,60645 3491,773764-8274,P-8,16,8,9,3
+Cook,Non Pub Sch,15016160Y,1,0,A.S.B. Educational Institute,Ms. Marlene P Murphy,5726 S Stony Island Ave,Chicago,60637 2000,708720-4547,6-12,25,13,1,3
+Cook,Non Pub Sch,15016161X,14,0,A Step Ahead Academy,Netonia Burrell,7955 S Western Ave,Chicago,60620 5941,773392-8845,P-2,31,16,1,3
+Cook,Non Pub Sch,15016163Y,5,0,Yeshiva Derech Hatorah of Chicago,Sholom Rupp,3555 W Peterson Ave Ste 300,Chicago,60659,773251-6583,11-12,15,8,5,3
+Cook,Non Pub Sch,15016164Y,1,0,No Adults Left Behind High School,Andre Ellis,7739 S Halsted St,Chicago,60620 2412,773982-7204,9-12,31,16,1,3
+Cook,Non Pub Sch,15016165X,1,0,Little Angels,Stacy Katsibaros,5117 N Lincoln Ave,Chicago,60625 2501,773334-1414,"P,K,7",13,7,5,3
+Cook,Non Pub Sch,15016168S,19,0,Thresholds Loren Juhl School  YAP,Mr. Tom Moore,4219 N Lincoln Ave,Chicago,60618 2901,773537-3029,12,11,6,5,3
+Cook,Non Pub Sch,15016169X,16,0,Humboldt Park Montessori School,Kristen Ediger,1235 N Rockwell St,Chicago,60622 2862,312613-7115,P-1,4,2,4,3
+Cook,Non Pub Sch,15016170X,14,0,Destiny Christian Elementary School,Dr. Aaron Mckenzie,8221 S State St,Chicago,60619 4720,773488-8788,P-8,34,17,1,3
+Cook,Non Pub Sch,15016171X,14,0,Heart of God Academy,Walter Page,7422 S Vincennes Ave,Chicago,60621 3438,773707-9993,P-1,31,16,1,3
+Cook,Non Pub Sch,15016172X,5,0,Dr. Chaim Cember Shaarei Chinuch Day School,Daniella Adar,2717 W Touhy Ave,Chicago,60645 3007,847477-8441,P-2,16,8,9,3
+Cook,Non Pub Sch,15016175X,6,0,Grace Christian Academy,Mr. Carlo Giannotta,4106 W 28th St,Chicago,60623 4358,773762-1234,P-8,24,12,4,3
+Cook,Non Pub Sch,15016177X,27,0,Eslup Rapid Learning Center,Gloria Davis,710 W 61st Pl,Chicago,60621 2022,773994-4390,"K,2,8-12",6,3,7,3
+Cook,Non Pub Sch,15016178X,6,0,Jehovah Lutheran School,Mrs. JoEllen T Hoffmann,3740 W Belden Ave,Chicago,60647 2348,773342-5854,P-8,4,2,4,3
+Cook,Non Pub Sch,15016180Z,27,0,Mount of Transformation Christian Sch,Ajayi Abiodun,4747 S Princeton Ave,Chicago,60609 4544,773886-4312,P-12,6,3,7,3
+Cook,Non Pub Sch,15016181X,6,0,Our Saviour,Rev. Christopher C Browne,7151 W Cornelia Ave,Chicago,60634 3628,773736-1157,"P,K",19,10,5,3
+Cook,Non Pub Sch,15016182X,1,0,Village Leadership Academy,Mrs. Nakisha Hobbs,800 S Wells St Ste 90,Chicago,60607 4530,312675-0056,K-8,6,3,7,3
+Cook,Non Pub Sch,15016183X,1,0,Mosaic Early Childhood Academy,Nisha Bhojani,5334 W Addison St,Chicago,60641 3356,773777-7411,"P,K",39,20,4,3
+Cook,Non Pub Sch,15016185X,6,0,St James Lutheran,Sheri Meyer,2101 N Fremont St,Chicago,60614 4305,773525-4990,P-8,11,6,5,3
+Cook,Non Pub Sch,15016186X,6,0,St John Ev Lutheran School,Mr. Douglas W Markworth,4939 W Montrose Ave,Chicago,60641 1525,773736-1196,P-8,19,10,5,3
+Cook,Non Pub Sch,15016187X,6,0,St Luke Academy,Donna Beck,1500 W Belmont Ave,Chicago,60657 3108,773472-3837,P-8,11,6,5,3
+Cook,Non Pub Sch,15016189X,6,0,St Paul Lutheran School,Mr. Glen Kuck,846 N Menard Ave,Chicago,60651 2663,773378-6644,P-8,78,39,7,3
+Cook,Non Pub Sch,15016190X,6,0,St Paul Lutheran School,Dr. Robyn Jacks-DuBose,7621 S Dorchester Ave,Chicago,60619 3425,773721-1438,P-8,5,3,1,3
+Cook,Non Pub Sch,15016191X,10,0,Corcoran Elementary,Shana Corcoran,5909 W 63rd Pl,Chicago,60638 5415,630532-1690,1-8,22,11,3,3
+Cook,Non Pub Sch,15016192X,6,0,Lutheran Unity School,Debra Townsend,5650 N Canfield Ave,Chicago,60631 3318,708867-5044,P-8,20,10,9,3
+Cook,Non Pub Sch,15016194X,6,0,St Philip Lutheran,Mr. Charles Asche,2500 W Bryn Mawr Ave,Chicago,60659 5104,773561-9830,P-8,13,7,5,3
+Cook,Non Pub Sch,15016197Z,14,0,Gods Battle Axe Prayer Academy,Wilson Igbinosa,6969 N Western Ave,Chicago,60645 4710,773640-6708,P-12,16,8,9,3
+Cook,Non Pub Sch,15016201X,6,0,Bethesda International Academy,Ms. Patricia Grunde,6803 N Campbell Ave,Chicago,60645 4679,773743-0800,P-8,16,8,9,3
+Cook,Non Pub Sch,15016203X,6,0,Grace English Lutheran School,Mrs. Vicki J Helmling,2725 N Laramie Ave,Chicago,60639 1615,773637-2250,P-8,39,20,4,3
+Cook,Non Pub Sch,15016206X,6,0,Pilgrim Lutheran School,Mr. Anthony C Comella,4300 N Winchester Ave,Chicago,60613 1016,773477-4824,P-8,13,7,5,3
+Cook,Non Pub Sch,15016210X,5,0,Akiba-Schechter Day School,Miriam Schiller,5235 S Cornell Ave,Chicago,60615 4211,773493-8880,P-8,25,13,1,3
+Cook,Non Pub Sch,15016211X,5,0,Bernard Zell Anshe Emet Day Sch,Mr. Noah Hartman,3751 N Broadway St,Chicago,60613 4104,773281-1858,P-8,12,6,5,3
+Cook,Non Pub Sch,15016215X,25,0,Chicago Christian Academy,Ms. Robin P Berryhill,3101 N Parkside Ave,Chicago,60634 5326,773205-5102,P-8,3,2,4,3
+Cook,Non Pub Sch,15016217X,26,0,Midwestern Christian Academy,Mr. Joseph Scifo,3465 N Cicero Ave,Chicago,60641 3719,773685-1106,P-8,39,20,4,3
+Cook,Non Pub Sch,15016221Z,2,0,Operation Restoration Development Sch,Michael Bonds,8758 S Peoria St,Chicago,60620 3258,708557-3182,P-12,27,14,1,3
+Cook,Non Pub Sch,15016224Y,1,0,Comm Youth Development Institute,Aaron L Royster,7836 S Union Ave,Chicago,60620 2409,773224-2273,U,31,16,1,3
+Cook,Non Pub Sch,15016228X,10,0,Augustus Tolton Catholic Academy,Pamela Edwards Sherley,7120 S Calumet Ave,Chicago,60619 1119,773224-3811,P-8,32,16,1,3
+Cook,Non Pub Sch,15016231X,5,0,Joan Dachs Bais Yaakov Yeshivas Tiferes Tzvi,Rabbi Yehoshua Pinkus,6122 N California Ave,Chicago,60659 2616,773465-8889,P-8,16,8,9,3
+Cook,Non Pub Sch,15016238Y,10,0,Christ the King Jesuit College Preparatory School,Mrs. Temple Payne,5088 W Jackson Blvd,Chicago,60644 4324,773261-7505,9-12,8,4,7,3
+Cook,Non Pub Sch,15016241X,1,0,North Park Elementary School,Dr. Randall S Needlman,2017 W Montrose Ave,Chicago,60618 1713,773327-3144,P-8,13,7,5,3
+Cook,Non Pub Sch,15016248Y,5,0,Bnos Rabbeinu High School,Mrs. Tsyrl Turen,6236 N Sacramento Ave,Chicago,60659 1616,847338-3214,9-12,16,8,9,3
+Cook,Non Pub Sch,15016251Z,2,0,Woodlawn Academy College Preparatory,Kentay Duncan,4817 W Chicago Ave,Chicago,60651 3224,708704-3429,P-12,8,4,7,3
+Cook,Non Pub Sch,15016256Y,14,0,Sullivan House H S,Dr. Thomas J Gattuso,8164 S South Chicago Ave,Chicago,60617 1041,773978-8680,9-12,33,17,1,3
+Cook,Non Pub Sch,15016267X,20,0,Lordanchild Christian Daycare,Sophia S Cherry,3344 W 79th St,Chicago,60652 1528,773434-4918,"P,K",32,16,1,3
+Cook,Non Pub Sch,15016269X,16,0,Sauganash Montessori Sch,Kathleen M Higgins,5750 N Rogers Ave,Chicago,60646 5955,773330-3353,"P,K",15,8,5,3
+Cook,Non Pub Sch,15016270X,6,0,Lutheran Day Nursery,Illa M Doss,1802 N Fairfield Ave,Chicago,60647 4214,773486-4222,"P,K",4,2,4,3
+Cook,Non Pub Sch,15016271X,10,0,Academy Sacred Heart/Hardey Prep,Nat Wilburn,6250 N Sheridan Rd,Chicago,60660 1730,773262-4446,K-8,14,7,9,3
+Cook,Non Pub Sch,15016273Y,27,0,Alpha Omega Ministries,Creola Thomas,1251 N Parkside Ave,Chicago,60651 1144,773921-3079,9-12,78,39,7,3
+Cook,Non Pub Sch,15016279Z,2,0,New Life Community Zone Sch,Clarence J Smith,3540 W Cermak Rd,Chicago,60623 3164,773312-2892,P-12,9,5,7,3
+Cook,Non Pub Sch,15016293Z,14,0,Greater Helping Hand Christian Acad,Glendora Harris,555 E 87th St,Chicago,60619 6005,773793-4376,P-12,34,17,1,3
+Cook,Non Pub Sch,15016294Z,14,0,Love Faith and Praise Academy,Ronald Richardson,6948 S Stewart Ave,Chicago,60621 2403,773732-5163,P-12,32,16,1,3
+Cook,Non Pub Sch,15016317X,10,0,St Walter School,Sharon OToole,11741 S Western Ave,Chicago,60643 4731,773445-8850,P-8,27,14,1,3
+Cook,Non Pub Sch,15016319X,10,0,Visitation Catholic School,Sr. Jean Matijosaitis,900 W Garfield Blvd,Chicago,60609 6165,773373-5200,P-8,6,3,7,3
+Cook,Non Pub Sch,15016321X,10,0,St Viator School,Colleen Brewer,4140 W Addison St,Chicago,60641 3913,773545-2173,P-8,40,20,5,3
+Cook,Non Pub Sch,15016323Y,1,0,Hunter-Bolden Academy,Dr. Vernita M Williams,5946 S Prairie Ave,Chicago,60637 1336,773960-2070,12,5,3,1,3
+Cook,Non Pub Sch,15016324X,10,0,St Barbara,Mrs. Nicole Nolazco,2867 S Throop St,Chicago,60608 5922,312326-6243,P-8,2,1,3,3
+Cook,Non Pub Sch,15016325X,10,0,St Barnabas School,Elaine Gaffney,10121 S Longwood Dr,Chicago,60643 2097,773445-7711,P-8,35,18,1,3
+Cook,Non Pub Sch,15016326X,10,0,St Bartholomew School,Karen Rebhan Csuk,4941 W Patterson Ave,Chicago,60641 3512,773282-9373,P-8,39,20,4,3
+Cook,Non Pub Sch,15016327Z,1,0,British School of Chicago,Michael Horton,814 W Eastman St,Chicago,60642 2609,773506-2097,P-12,10,5,5,3
+Cook,Non Pub Sch,15016328X,10,0,St Bede the Venerable,Leanne Hodur,4440 W 83rd St,Chicago,60652 2111,773884-2020,P-8,32,16,3,3
+Cook,Non Pub Sch,15016329X,10,0,St Benedict Elem School,Rachel Gemo,3920 N Leavitt St,Chicago,60618 3810,773463-6797,P-8,11,6,5,3
+Cook,Non Pub Sch,15016331X,10,0,St Agnes of Bohemia,Ms. Kaitlin Kysiak,2643 S Central Park Ave,Chicago,60623 4631,773522-0143,P-8,24,12,4,3
+Cook,Non Pub Sch,15016333X,16,0,Chicagoland Montessori Academy,Mrs. Gwen Ku,5644 N Pulaski Rd,Chicago,60646 6717,773509-1296,1-6,15,8,5,3
+Cook,Non Pub Sch,15016339X,10,0,St Bruno School,Colleen Schrantz,4839 S Harding Ave,Chicago,60632 3630,773847-0697,P-8,1,1,4,3
+Cook,Non Pub Sch,15016340X,10,0,St Cajetan,Mrs. Michelle Nitsche,2447 W 112th St,Chicago,60655 1351,773474-7820,P-8,35,18,3,3
+Cook,Non Pub Sch,15016344X,10,0,Our Lady of Tepeyac,Ms. Patricia Krielaart,2235 S Albany Ave,Chicago,60623 3414,773522-0024,P-8,21,11,4,3
+Cook,Non Pub Sch,15016346X,1,0,Ridge Academy,Ken Koll,2501 W 103rd St,Chicago,60655 1003,773233-0033,1-8,35,18,3,3
+Cook,Non Pub Sch,15016348X,10,0,Christ the King,Ann Marie Riordan,9240 S Hoyne Ave,Chicago,60643 6303,773779-3329,P-8,35,18,3,3
+Cook,Non Pub Sch,15016349X,10,0,St Christina,Mary Stokes,3333 W 110th St,Chicago,60655 2735,773445-2969,P-8,35,18,3,3
+Cook,Non Pub Sch,15016350X,3,0,Humboldt Comm Christian School,Mrs. Debra Flores,1847 N Humboldt Blvd,Chicago,60647 5003,773278-6330,P-8,4,2,4,3
+Cook,Non Pub Sch,15016352X,10,0,St Clement School,Ms. Mari Jo Hanson,2524 N Orchard St,Chicago,60614 2536,773348-8212,P-8,11,6,5,3
+Cook,Non Pub Sch,15016356X,10,0,St Constance School,Eva M Panczyk,5841 W Strong St,Chicago,60630 2026,773283-2311,P-8,19,10,5,3
+Cook,Non Pub Sch,15016362X,10,0,St Daniel the Prophet School,Holly Gross,5337 S Natoma Ave,Chicago,60638 1223,773586-1225,P-8,1,1,3,3
+Cook,Non Pub Sch,15016366X,10,0,St Edward,Sr. Marie M Hackett,4343 W Sunnyside Ave,Chicago,60630 4147,773736-9133,P-8,15,8,5,3
+Cook,Non Pub Sch,15016368X,10,0,Epiphany School,Scott Ernst,4223 W 25th St,Chicago,60623 3638,773762-1542,P-8,24,12,4,3
+Cook,Non Pub Sch,15016369X,10,0,St Ethelreda School,Denise Spells,8734 S Paulina St,Chicago,60620 4815,773238-1757,P-8,35,18,1,3
+Cook,Non Pub Sch,15016370X,10,0,St Eugene,Ms. Catherine M Scotkovsky,7930 W Foster Ave,Chicago,60656 1651,773763-2235,P-8,20,10,5,3
+Cook,Non Pub Sch,15016372X,10,0,St Ferdinand School,Ms. Denise Akana,3131 N Mason Ave,Chicago,60634 5114,773622-3022,P-8,3,2,4,3
+Cook,Non Pub Sch,15016375X,10,0,Pope John Paul II Catholic School,Mrs. Deborah Coffey,4325 S Richmond St,Chicago,60632 2504,773523-6161,P-8,1,1,4,3
+Cook,Non Pub Sch,15016378X,10,0,St Francis Borgia School,Mrs. Susan Betzolt,3535 N Panama Ave,Chicago,60634 2927,773589-1000,P-8,20,10,5,3
+Cook,Non Pub Sch,15016381X,5,0,Cheder Lubavitch Hebrew Day Sch,Rabbi Isaac Wolf,2809 W Jarvis Ave,Chicago,60645 1205,773465-0863,1-8,16,8,9,3
+Cook,Non Pub Sch,15016382X,10,0,St Gabriel,Mr. Steve Adams,4500 S Wallace St,Chicago,60609 3536,773268-6636,P-8,6,3,3,3
+Cook,Non Pub Sch,15016383X,10,0,St Gall,Jacqueline Chiaramonte,5515 S Sawyer Ave,Chicago,60629 3125,773737-3454,P-8,22,11,4,3
+Cook,Non Pub Sch,15016384X,10,0,St Genevieve School,Mary McKenna Corrigan,4854 W Montana St,Chicago,60639 2500,773237-7131,P-8,39,20,4,3
+Cook,Non Pub Sch,15016392X,10,0,St Helen School,Marianne Johnson,2347 W Augusta Blvd,Chicago,60622 4841,773486-1055,P-8,10,5,7,3
+Cook,Non Pub Sch,15016395X,10,0,St Hilary School,Mrs. Kathleen Donovan,5614 N Fairfield Ave,Chicago,60659 4817,773561-5885,P-8,13,7,5,3
+Cook,Non Pub Sch,15016396X,10,0,Holy Angels School,Mr. Sean Stalling,750 E 40th St,Chicago,60653 2804,773624-0727,P-8,26,13,1,3
+Cook,Non Pub Sch,15016397X,10,0,Chicago Jesuit Academy,Matthew G Lynch,5058 W Jackson Blvd,Chicago,60644 4324,773638-6103,5-8,8,4,7,3
+Cook,Non Pub Sch,15016405X,26,0,Pui Tak Christian School,Mrs. Bonnie Ho,2301 S Wentworth Ave,Chicago,60616 2013,312842-8546,P-8,2,1,7,3
+Cook,Non Pub Sch,15016409S,10,0,Misericordia Mcauley Residence,Ms. Deborah L Hays,2060 W Granville Ave,Chicago,60659 3097,773273-4744,P-12,13,7,9,3
+Cook,Non Pub Sch,15016412X,10,0,Northside Catholic Academy,Mrs. Christine Huzenis,5525 N Magnolia Ave,Chicago,60640 1306,773271-2008,P-5,14,7,9,3
+Cook,Non Pub Sch,15016415X,1,0,Little Hands Learning Center,Michelle Brent,2324 W 111th St,Chicago,60643 3933,312925-0689,"P,K",27,14,1,3
+Cook,Non Pub Sch,15016417X,10,0,Immaculate Conception School,Rosanne Hendricks,7263 W Talcott Ave,Chicago,60631 3012,773775-0545,P-8,20,10,9,3
+Cook,Non Pub Sch,15016422X,10,0,St Thomas of Canterbury,Christine Boyd,5525 N Magnolia Ave,Chicago,60640 1306,773271-8655,P-8,13,7,9,3
+Cook,Non Pub Sch,15016434X,10,0,Annunciata School,Edward Renas,3750 E 112th St,Chicago,60617 7096,773375-5711,P-8,25,13,2,3
+Cook,Non Pub Sch,15016436X,10,0,St Ann,Mr. Benny Morten,2211 W 18th Pl,Chicago,60608 2506,312829-4153,P-8,2,1,4,3
+Cook,Non Pub Sch,15016437X,10,0,St Angela School,Mr. Kurt Wittenberg,1332 N Massasoit Ave,Chicago,60651 1108,773626-2655,P-8,78,39,7,3
+Cook,Non Pub Sch,15016439X,10,0,St Andrew School,Allen Ackermann,1710 W Addison St,Chicago,60613 3501,773248-2500,P-8,11,6,5,3
+Cook,Non Pub Sch,15016441X,10,0,Alphonsus Acad & Cntr for Arts,Dr. Casimer Badynee,1439 W Wellington Ave,Chicago,60657 4121,773348-4629,P-8,11,6,5,3
+Cook,Non Pub Sch,15016445X,10,0,St Ailbe School,Alyssa Mostyn,9037 S Harper Ave,Chicago,60619 7990,773734-1386,P-8,33,17,1,3
+Cook,Non Pub Sch,15016453X,10,0,St Josaphat,Mrs. Marinel Mullins,2245 N Southport Ave,Chicago,60614 3175,773549-0909,P-8,11,6,5,3
+Cook,Non Pub Sch,15016456X,10,0,St John Fisher,Sr. Jean Mcgrath,10200 S Washtenaw Ave,Chicago,60655 1654,773445-4737,P-8,35,18,3,3
+Cook,Non Pub Sch,15016459X,10,0,St John Berchmans School,Margaret Roketenetz,2511 W Logan Blvd,Chicago,60647 1926,773486-1334,P-8,40,20,4,3
+Cook,Non Pub Sch,15016460X,10,0,St John De La Salle School,Mr. Philip Mesina,10212 S Vernon Ave,Chicago,60628 2216,773785-2331,P-8,28,14,2,3
+Cook,Non Pub Sch,15016463X,10,0,St Jerome School,Mr. John P Segvich,2801 S Princeton Ave,Chicago,60616 2602,312842-7668,P-8,2,1,7,3
+Cook,Non Pub Sch,15016492X,10,0,St Margaret of Scotland School,Mr. Kevin Powers,9833 S Throop St,Chicago,60643 1490,773238-1088,P-8,27,14,1,3
+Cook,Non Pub Sch,15016501X,16,0,Montessori Dela Citta,Tracy Armstrong,1501 W Fullerton Ave,Chicago,60614 9021,773348-7340,"P,K",11,6,5,3
+Cook,Non Pub Sch,15016506X,10,0,St Malachy School,Ms. Bridgid Miller,2252 W Washington Blvd,Chicago,60612 2236,312733-2252,P-8,10,5,7,3
+Cook,Non Pub Sch,15016507X,14,0,Just For Kids,Cassandra Taylor,5036 S Blackstone Ave,Chicago,60615 3006,773841-3730,"P,K",25,13,1,3
+Cook,Non Pub Sch,15016521X,10,0,Santa Lucia,Eileen C Sheedy,3017 S Wells St,Chicago,60616 2739,312326-1839,P-8,2,1,7,3
+Cook,Non Pub Sch,15016535X,10,0,Sacred Heart School,Dr. Lisa Griffiths,2926 E 96th St,Chicago,60617 5010,773768-3728,K-8,25,13,2,3
+Cook,Non Pub Sch,15016539X,10,0,St Stanislaus Kostka School,Ms. Michele L Alday Engelman,1255 N Noble St,Chicago,60642 3336,773278-4560,P-8,10,5,5,3
+Cook,Non Pub Sch,15016540X,10,0,St Sylvester School,Martin Masterson,3027 W Palmer Blvd,Chicago,60647 2816,773772-5222,P-8,39,20,4,3
+Cook,Non Pub Sch,15016542X,10,0,Pope Francis Global Academy North Campus,Mr. Terrence ORourke,6040 W Ardmore Ave,Chicago,60646 5320,773763-7080,P-8,19,10,5,3
+Cook,Non Pub Sch,15016544X,10,0,St Thecla,Ms. Catherine DeFrancesca,6323 N Newcastle Ave,Chicago,60631 2026,773763-3380,P-8,20,10,5,3
+Cook,Non Pub Sch,15016546X,10,0,St Therese School,Phyllis Cavallone Jurek,247 W 23rd St,Chicago,60616 1903,312326-2837,P-8,2,1,7,3
+Cook,Non Pub Sch,15016547X,10,0,St Thomas the Apostle Elementary,Mr. Timothy Gallo,5467 S Woodlawn Ave,Chicago,60615 5209,773667-1142,P-8,25,13,1,3
+Cook,Non Pub Sch,15016548X,10,0,St Juliana School,Marjorie Marshall,7400 W Touhy Ave,Chicago,60631 4300,773631-2256,P-8,20,10,9,3
+Cook,Non Pub Sch,15016561X,10,0,St Richard School,Mrs. Michelle Napier,5025 S Kenneth Ave,Chicago,60632 4535,773582-8083,P-8,1,1,3,3
+Cook,Non Pub Sch,15016563X,10,0,St Robert Bellarmine School,Carrie A Mijal,6036 W Eastwood Ave,Chicago,60630 3118,773725-5133,K-8,19,10,5,3
+Cook,Non Pub Sch,15016567X,10,0,St Sabina Academy,Helen A Dumas,7801 S Throop St,Chicago,60620 3758,773483-5620,P-8,31,16,1,3
+Cook,Non Pub Sch,15016571X,10,0,Our Lady of Grace School,Sr. Rita Marie Range,2446 N Ridgeway Ave,Chicago,60647 2325,773342-0170,P-8,4,2,4,3
+Cook,Non Pub Sch,15016572X,10,0,Our Lady of Guadalupe,Carl M Ploense,9050 S Burley Ave,Chicago,60617 4404,773768-0999,P-8,25,13,2,3
+Cook,Non Pub Sch,15016575X,10,0,Our Lady of Lourdes,Christine M Boyd,4641 N Ashland Ave,Chicago,60640 4785,773561-9346,P-8,13,7,5,3
+Cook,Non Pub Sch,15016578X,10,0,Mount Carmel Academy,Shane P Staszcuk,720 W Belmont Ave,Chicago,60657 4513,773525-8779,P-8,12,6,5,3
+Cook,Non Pub Sch,15016588X,10,0,Pope Francis Global Academy South Campus,Mr. Terrence ORourke,6143 W Irving Park Rd,Chicago,60634 2564,773736-8806,P-8,19,10,5,3
+Cook,Non Pub Sch,15016590X,16,0,Ezzard Charles School,Eldora Davis,7946 S Ashland Ave,Chicago,60620 4335,773487-0227,"P,K",31,16,1,3
+Cook,Non Pub Sch,15016591X,10,0,St Paul - Our Lady of Vilna,Dr. Roy J Pletsch,2114 W 22nd Pl,Chicago,60608 4004,773847-6078,P-8,2,1,4,3
+Cook,Non Pub Sch,15016595X,10,0,Old St Marys School,Mrs. Julie Martin,1474 S Michigan Ave,Chicago,60605 4836,312386-1560,P-8,5,3,7,3
+Cook,Non Pub Sch,15016596X,10,0,St Philip Neri School,Linda Sanders,2110 E 72nd St,Chicago,60649 3010,773288-1138,P-8,26,13,2,3
+Cook,Non Pub Sch,15016598X,10,0,St Pius V School,Nancy Cullinan Nasko,1919 S Ashland Ave,Chicago,60608 2903,312226-1590,P-8,2,1,4,3
+Cook,Non Pub Sch,15016602X,10,0,St Procopius Elem School,Mr. Brian ORourke,1625 S Allport St,Chicago,60608 2131,312421-5135,P-8,2,1,4,3
+Cook,Non Pub Sch,15016603X,1,0,Just for Kids,Cassandra Taylor,11024 S Bell Ave,Chicago,60643 3926,773779-9070,"P,K",27,14,1,3
+Cook,Non Pub Sch,15016604X,10,0,Queen of All Saints School,Mrs. Kristina Reyes,6230 N Lemont Ave,Chicago,60646 4910,773736-0567,P-8,15,8,5,3
+Cook,Non Pub Sch,15016605X,10,0,Queen of Angels School,Julia Byrns Kelly,4520 N Western Ave,Chicago,60625 2117,773769-4211,P-8,11,6,5,3
+Cook,Non Pub Sch,15016606X,10,0,Queen of Martyrs,Kathleen Tomaszewski,3550 W 103rd St,Evergreen Park,60805 2417,708422-1540,P-8,36,18,1,3
+Cook,Non Pub Sch,15016607X,10,0,Queen of the Universe,Mary F Porod,7130 S Hamlin Ave,Chicago,60629 4321,773582-4266,P-8,22,11,1,3
+Cook,Non Pub Sch,15016608X,10,0,Academy of St Benedict,Patricia A Murphy,6020 S Laflin St,Chicago,60636 2310,773776-3316,P-8,6,3,7,3
+Cook,Non Pub Sch,15016612X,26,0,Oak Park Christian Academy,Gregory Chadaranek,3105 N Oak Park Ave,Chicago,60634 4633,708445-3030,K-8,3,2,5,3
+Cook,Non Pub Sch,15016613X,10,0,St Mary of the Angels,Elizabeth Dolack,1810 N Hermitage Ave,Chicago,60622 1101,773486-0119,P-8,11,6,5,3
+Cook,Non Pub Sch,15016614X,10,0,St Mary of the Lake School,Christine M Boyd,1026 W Buena Ave,Chicago,60613 2009,773281-0018,P-8,12,6,9,3
+Cook,Non Pub Sch,15016618X,10,0,St Mary Star of the Sea,Candice M Usauskas,6424 S Kenneth Ave,Chicago,60629 5525,773767-6160,P-8,22,11,3,3
+Cook,Non Pub Sch,15016619X,10,0,St Mary of the Woods School,Mrs. Mary Yamoah,6959 N Hiawatha Ave,Chicago,60646,773763-7577,P-8,15,8,5,3
+Cook,Non Pub Sch,15016620X,10,0,Maternity B V M School,Christina Molina,1537 N Lawndale Ave,Chicago,60651 2105,773227-1140,P-8,4,2,4,3
+Cook,Non Pub Sch,15016622X,10,0,St Matthias/Transfiguration Sch,Mrs. Sheila Klich,4910 N Claremont Ave,Chicago,60625 1972,773784-0999,P-8,13,7,5,3
+Cook,Non Pub Sch,15016624X,10,0,St Nicholas of Tolentine School,Mariagnes Menden,3741 W 62nd St,Chicago,60629 4014,773735-0772,P-8,22,11,3,3
+Cook,Non Pub Sch,15016626X,14,0,St Nicholas Cathedral,Ms. Anna Cirilli,2200 W Rice St,Chicago,60622 4811,773384-7243,P-8,10,5,7,3
+Cook,Non Pub Sch,15016627X,10,0,Bridgeport Catholic - S Campus,Mrs. Caroline W Koster,3700 S Lowe Ave,Chicago,60609 1643,773376-6223,P-8,6,3,3,3
+Cook,Non Pub Sch,15016630X,10,0,St Monica School,Mr. Raymond L Coleman,5115 N Mont Clare Ave,Chicago,60656 3601,773631-7880,P-8,20,10,5,3
+Cook,Non Pub Sch,15016632X,10,0,St Michael School,Ms. Vikki O Stokes,8231 S South Shore Dr,Chicago,60617 2152,773221-0212,P-8,25,13,2,3
+Cook,Non Pub Sch,15016643X,16,0,Chicago Montessori,Jennifer L Hanna,1713 W Cullom Ave,Chicago,60613 1101,773525-4358,"P,K",11,6,5,3
+Cook,Non Pub Sch,15016647X,10,0,St Ladislaus,Linda L Brusky,3330 N Lockwood Ave,Chicago,60641 4184,773545-5600,P-8,39,20,4,3
+Cook,Non Pub Sch,15016662X,26,0,United Educational Cultural Acad,Ms. Gretchen Jackson,1236 W 103rd St # 42,Chicago,60643 2361,773238-2707,P-8,27,14,1,3
+Cook,Non Pub Sch,15016665S,5,0,Jewish Child and Family Services,Ms. Sandra P Spicher,3145 W Pratt Blvd,Chicago,60645 4125,773467-3900,K-12,16,8,9,3
+Cook,Non Pub Sch,15016682X,1,0,Lake Shore Preparatory School,Laura Jordan,300 W Hill St,Chicago,60610 2549,312266-2020,P-3,9,5,7,3
+Cook,Non Pub Sch,15016685X,1,0,A-Karrasel,Anthony P Morelli,5510 W Fullerton Ave,Chicago,60639 1329,773637-1022,"P,K,U",3,2,4,3
+Cook,Non Pub Sch,15016686Z,11,0,Chicago S D A Academy,Mrs. Marie Smith,7008 S Michigan Ave,Chicago,60637 4512,773873-3005,P-12,32,16,1,3
+Cook,Non Pub Sch,15016692X,1,0,Lake Shore School,Mrs. Farah Essa,6759 N Greenview Ave,Chicago,60626 4207,773561-6707,P-8,14,7,9,3
+Cook,Non Pub Sch,15016693X,3,0,Daystar School,Mrs. Tami Doig,1550 S State St,Chicago,60605 7805,312791-0001,P-8,6,3,7,3
+Cook,Non Pub Sch,15016697S,19,0,Hyde Park Day School,Mr. Jay Alan Smith,6254 S Ellis Ave,Chicago,60637 2616,773420-2554,1-8,25,13,1,3
+Cook,Non Pub Sch,15016699X,1,0,Institute of Positive Education,Ms. Kimberly Taylor,7825 S Ellis Ave,Chicago,60619 3294,773651-9599,P,5,3,1,3
+Cook,Non Pub Sch,15016705X,6,0,Holy Family School,Mrs. Cheryl Collins,3415 W Arthington St,Chicago,60624 4104,773265-0550,K-8,9,5,7,3
+Cook,Non Pub Sch,15016712X,16,0,Brickton Montessori School,Ms. Cheryl LaCost,8622 W Catalpa Ave,Chicago,60656 1116,773714-0646,P-8,55,28,9,3
+Cook,Non Pub Sch,15016725X,1,0,Urban Prairie Waldorf School,Ms. Peggy Lofgren,1220 W Lexington St,Chicago,60607 4111,312733-5337,1-8,9,5,7,3
+Cook,Non Pub Sch,15016727S,19,0,Rush Day School,Jean Heideman,2150 W Harrison St,Chicago,60612 3706,312942-6627,3-8,9,5,7,3
+Cook,Non Pub Sch,15016735X,16,0,Beverly Montessori School,Kelley Ciraulo,9916 S Walden Pkwy,Chicago,60643 1806,773239-7635,"P,K",35,18,1,3
+Cook,Non Pub Sch,15016738X,16,0,Rogers Park Montessori School,Debra Senoff Langford,1800 W Balmoral Ave,Chicago,60640 1002,773271-1700,P-8,13,7,5,3
+Cook,Non Pub Sch,15016743Z,1,0,Francis W Parker School,Dr. Daniel B Frank,330 W Webster Ave,Chicago,60614 3820,773353-3000,P-12,12,6,5,3
+Cook,Non Pub Sch,15016757S,14,0,Uhlich Academy,Ms. Cherilyn D Thomas,3110 W Grand Ave,Chicago,60622 4324,773722-3097,K-12,4,2,7,3
+Cook,Non Pub Sch,15016761Y,1,0,ASPIRA Antonia Pantoja Alt H S,Hugo Campuzano,3121 N Pulaski Rd,Chicago,60641 5447,773252-0970,9-12,39,20,4,3
+Cook,Non Pub Sch,15016763X,6,0,Christ the King Lutheran School,Mrs. Geraldine L Brazeal,3701 S Lake Park Ave,Chicago,60653 2012,773536-1984,P-8,26,13,7,3
+Cook,Non Pub Sch,15016770S,19,0,So Central Comm Serv-So Shore,Geneva B Reynolds,7550 S Phillips Ave,Chicago,60649 3724,773374-2223,9-12,25,13,2,3
+Cook,Non Pub Sch,15016778Z,14,0,CS Academy,Ms. Domonique Dionn Ziegler,6014 S Racine Ave,Chicago,60636 1918,773778-0818,P-12,6,3,7,3
+Cook,Non Pub Sch,15016780X,1,0,Latin School of Chicago Lower,Mr. Randall Dunn,1531 N Dearborn Pkwy,Chicago,60610 2472,312582-6014,P-4,12,6,5,3
+Cook,Non Pub Sch,15016781X,5,0,Yeshiva Ohr Boruch,Rabbi Moshe Unger,2620 W Touhy Ave,Chicago,60645 3110,773262-0885,P-8,16,8,9,3
+Cook,Non Pub Sch,15016785Y,1,0,Latin School of Chicago Upper,Mr. Randall Dunn,59 W North Blvd,Chicago,60610 1403,312582-6014,5-12,12,6,5,3
+Cook,Non Pub Sch,15016787X,11,0,Beverly Hills S D A School,Dahne Foster,9356 S Justine St,Chicago,60620 5126,773779-5158,"P,2,4-8",35,18,1,3
+Cook,Non Pub Sch,15016788X,16,0,Childrens House of Miss Tammie,Tammie Crutcher,1448 E 53rd St,Chicago,60615 4512,773643-4062,"P,U",25,13,1,3
+Cook,Non Pub Sch,15016789Z,11,0,North Shore SDa Junior Academy,Mr. Marshall Merklin,5220 N California Ave,Chicago,60625 3502,773769-0733,P-10,13,7,5,3
+Cook,Non Pub Sch,15016791Y,5,0,Lubavitch Mesivta of Chicago,Moshe Perlstein,2756 W Morse Ave,Chicago,60645 4519,773262-0430,9-12,16,8,9,3
+Cook,Non Pub Sch,15016796Y,1,0,Chicago Academy for the Arts,Mr. Jason Patera,1010 W Chicago Ave,Chicago,60642 5414,312421-0202,9-12,10,5,7,3
+Cook,Non Pub Sch,15016798X,14,0,New Birth Training Institute,Robbie Wilkerson,1140 N Lamon Ave,Chicago,60651 3103,773261-7404,11-12,8,4,7,3
+Cook,Non Pub Sch,15016802X,14,0,West Englewood Christian Comm Sch,Rev. D A Crushshon,7326 S Racine Ave,Chicago,60636 4112,773224-7083,"P-4,6-7",31,16,1,3
+Cook,Non Pub Sch,15016805Y,5,0,Brisk Academy-Yeshivas Brisk,Asher Krupnick,3000 W Devon Ave,Chicago,60659 1406,773274-1177,9-12,16,8,9,3
+Cook,Non Pub Sch,15016806X,10,0,Frances Xavier Warde Schools,Mr. Michael Kennedy,751 N State St,Chicago,60654 3835,312466-0700,P-8,5,3,7,3
+Cook,Non Pub Sch,15016810X,3,0,The Cambridge Sch Chicago,LaTonia Lambert,4611 S Ellis Ave,Chicago,60653 3624,773924-1200,P-6,25,13,7,3
+Cook,Non Pub Sch,15016813S,19,0,Anixter School,Ms. Amber Moyer,6610 N Clark St,Chicago,60626 4062,773761-4651,U,14,7,9,3
+Cook,Non Pub Sch,15016815X,23,0,ICCI Academy,Dr. Mohamed Elnatour,6435 W Belmont Ave,Chicago,60634 3924,773637-3755,P-7,3,2,5,3
+Cook,Non Pub Sch,15016822X,23,0,ICC Full Time School,Ather Sultana,5933 N Lincoln Ave,Chicago,60659 3728,773989-9350,P-8,13,7,5,3
+Cook,Non Pub Sch,15016823Y,5,0,Yeshivas Meor Hatorah,Steven E Kurtz,3635 W Devon Ave,Chicago,60659 1212,773465-0419,9-12,15,8,5,3
+Cook,Non Pub Sch,15016824Y,5,0,Lubavitch Girls High Sch,Mrs. Kreindel A Pinkus,6350 N Whipple St,Chicago,60659 1420,773743-7716,"9-12,U",16,8,9,3
+Cook,Non Pub Sch,15016825X,14,0,Salem Christian Acad,Ms. Mogda Walker,11816 S Indiana Ave,Chicago,60628 6227,773925-0145,P-8,29,15,2,3
+Cook,Non Pub Sch,15016827X,14,0,Educate Empower Academy,Adelia Jones,12900 S Halsted St,Chicago,60628 7433,773629-8867,P-5,28,14,1,3
+Cook,Non Pub Sch,15016828X,6,0,Holy Spirit Academy,Sharon B Jones,1335 W 115th St,Chicago,60643 4446,773264-4649,P,27,14,1,3
+Cook,Non Pub Sch,15016831Z,23,0,Muhammad University,Jason Karriem,7351 S Stony Island Ave,Chicago,60649 3106,773643-0700,P-8,26,13,2,3
+Cook,Non Pub Sch,15016838X,16,0,Council Oak Montessori School,Ms. Lila F Jokanovic,PO Box 175,Blue Island,60406 0175,773779-7606,P-8,27,14,1,3
+Cook,Non Pub Sch,15016845Y,5,0,Bais Yaakov High Sch of Chicago,Shulamis Keller,5800 N Kimball Ave,Chicago,60659 3504,773267-1494,9-12,15,8,5,3
+Cook,Non Pub Sch,15016853X,16,0,Ancona School Society Inc,Bonnie L Wishne,4770 S Dorchester Ave,Chicago,60615 2023,773924-2356,P-8,25,13,1,3
+Cook,Non Pub Sch,15016858S,19,0,Beacon Therapeutic School,Mr. Lawrence A Wyrobek,10650 S Longwood Dr,Chicago,60643 2617,773881-1005,K-8,35,18,3,3
+Cook,Non Pub Sch,15016861Y,1,0,Jane Addams High School,Theresa Comparini,1814 S Union Ave,Chicago,60616 1045,312563-1746,9-12,2,1,4,3
+Cook,Non Pub Sch,15016862Y,1,0,West Town Academy,Ms. Alicia Schutter,534 N Sacramento Blvd,Chicago,60612 1024,312563-9044,9-12,10,5,7,3
+Cook,Non Pub Sch,15016864Y,5,0,Hanna Sacks Bais Yaakov High Sch,Mrs. Tobie Teller,3021 W Devon Ave,Chicago,60659 1405,773338-9222,9-12,16,8,9,3
+Cook,Non Pub Sch,15016868S,19,0,Stuart G Ferst School,Mo Buti,6050 N California Ave,Chicago,60659 3916,773761-4651,2-12,16,8,9,3
+Cook,Non Pub Sch,15016869S,19,0,Chicago Lighthouse Childrens Development Center,Ms. Lee Burklund,1850 W Roosevelt Rd,Chicago,60608 1200,312666-1331,K-12,9,5,7,3
+Cook,Non Pub Sch,15016874Y,1,0,Westside Holistic Leadership Aca,Daisy Lopez,4909 W Division St,Chicago,60651 3161,773261-0994,9-12,8,4,7,3
+Cook,Non Pub Sch,15016883S,19,0,Esperanza School,Cindy Dombkowski,520 N Marshfield Ave,Chicago,60622 6731,312243-6097,1-12,10,5,5,3
+Cook,Non Pub Sch,15016886S,19,0,Gateway to Learning School,Cheryl Hennelly,4925 N Lincoln Ave,Chicago,60625 2609,773784-3200,U,13,7,5,3
+Cook,Non Pub Sch,15016888X,1,0,Sanders Academy of Excellence,Tonisia A Reid,11515 S Prairie Ave,Chicago,60628 5611,773568-7240,P-8,34,17,2,3
+Cook,Non Pub Sch,15016892X,10,0,Cardinal Bernardin Center,Mrs. Barbara Labotka,1651 W Diversey Pkwy,Chicago,60614 1027,773975-6330,"P-3,U",11,6,5,3
+Cook,Non Pub Sch,15016894X,20,0,Oakdale Christian Academy,Brian J Parker,9440 S Vincennes Ave,Chicago,60620 3680,773779-9440,P-6,27,14,1,3
+Cook,Non Pub Sch,15016898Y,26,0,Chicago Hope Academy,Mrs. Alyssa Dons,2189 W Bowler St,Chicago,60612 4201,312491-1600,9-12,9,5,7,3
+Cook,Non Pub Sch,15016899S,19,0,Lawrence Hall Youth Services,Ms. Victoria Hicks,4833 N Francisco Ave,Chicago,60625 3640,773769-3511,3-12,13,7,5,3
+Cook,Non Pub Sch,15016900X,3,0,Chicago West Side Christian Sch,Mary J Post,1240 S Pulaski Rd,Chicago,60623 1233,773542-0663,P-8,9,5,7,3
+Cook,Non Pub Sch,15016905Z,1,0,GCE Lab School,Eric Davis,1535 N Dayton St,Chicago,60642 8054,312643-0991,"6,10-11",9,5,7,3
+Cook,Non Pub Sch,15016910X,16,0,Near North Montessori School,Audrey Perrott,1434 W Division St,Chicago,60642 3778,773384-1434,P-8,10,5,5,3
+Cook,Non Pub Sch,15016915Z,2,0,Ravenswood Baptist Christian Sch,Karl D Engle,4437 N Seeley Ave,Chicago,60625 1703,773561-6576,K-12,13,7,5,3
+Cook,Non Pub Sch,15016927X,16,0,Wonder Montessori School,Mrs. Gwen Ku,5644 N Pulaski Rd,Chicago,60646 6717,773509-1296,"P,K",15,8,5,3
+Cook,Non Pub Sch,15016931X,1,0,Kidwatch Plus Inc,Kathryn Barnaby,3330 N Lockwood Ave,Chicago,60641 4111,773993-0536,"P,K",40,20,4,3
+Cook,Non Pub Sch,15016947S,16,0,Chicago Urban Day School,Renee Jordan,1248 W 69th St,Chicago,60636 3552,773483-3555,"P,3-4,7-8",32,16,7,3
+Cook,Non Pub Sch,15016949Y,3,0,Cornerstone Academy,James T Wilkes,1111 N Wells St # 4TH,Chicago,60610 7635,312573-8854,"9-12,U",9,5,7,3
+Cook,Non Pub Sch,15016950X,1,0,P L A I D Academy,Jean Marie Altman,2017 W 110th Pl,Chicago,60643 4034,773238-2603,P-8,35,18,3,3
+Cook,Non Pub Sch,15016957Y,1,0,Academy of Scholastic Achievement,Gladys Simpson,4651 W Madison St,Chicago,60644 3646,773921-1315,U,10,5,7,3
+Cook,Non Pub Sch,15016962X,10,0,Children of Peace School,Clair Zaffaroni,1900 W Taylor St,Chicago,60612 3742,312243-8186,P-8,9,5,7,3
+Cook,Non Pub Sch,15016963S,19,0,New Horizon Center for the DD,Kathleen Nelson,6737 W Forest Preserve Ave,Chicago,60634 1470,773286-6226,"3-6,8-12",19,10,5,3
+Cook,Non Pub Sch,15016967X,14,0,Circle/Rock Preparatory School,Cathy Strokosch,118 N Central Ave,Chicago,60644 3101,773854-1615,P-8,8,4,7,3
+Cook,Non Pub Sch,15016970X,10,0,San Miguel/Back-of-the-Yards,M Anderer-McClelland,1949 W 48th St,Chicago,60609 4145,773890-1481,6-8,2,1,3,3
+Cook,Non Pub Sch,15016974Z,1,0,Lycee Francais De Chicago,Eric Veteau,1929 W Wilson Ave,Chicago,60640,773665-0066,P-12,12,6,9,3
+Cook,Non Pub Sch,15016975Y,1,0,Austin Career Education Center,Debra Williams,5352 W Chicago Ave,Chicago,60651 2857,773626-6988,10-12,8,4,7,3
+Cook,Non Pub Sch,15016980X,3,0,Salem Christian School,Mr. Hector Quintana,2018 N Richmond St,Chicago,60647 3911,773227-5580,P-8,39,20,4,3
+Cook,Non Pub Sch,15016984X,1,0,Childrens Center Outreach,Ms. Olivia R Ramsey,12803 S Halsted St,Chicago,60628 7430,773264-5171,P-5,28,14,1,3
+Cook,Non Pub Sch,15016985Y,10,0,Cristo Rey Jesuit High School,Ms. Patricia Garrity,1852 W 22nd Pl,Chicago,60608 4302,773890-6800,9-12,2,1,4,3
+Cook,Non Pub Sch,15016994X,1,0,Chicago City Day School,Galeta Kaar Clayton,541 W Hawthorne Pl,Chicago,60657 2922,773327-0900,P-8,12,6,5,3
+Cook,Non Pub Sch,15016996X,26,0,Rescue Missionary Christian Sch,Marilyn Keeter,7740 S Eberhart Ave,Chicago,60619 2919,773224-0439,"P-8,U",34,17,1,3
+Cook,Non Pub Sch,15016999X,1,0,A Place of Hope Christian Ministries,Dr. Donna D Richardson,2434 E 87th St,Chicago,60617 2332,773768-7091,P-3,33,17,2,3
+Dekalb,Non Pub Sch,16019001X,10,0,St Mary School,Ms. Jan Benson,222 Waterman St,Sycamore,60178 2141,815895-5215,P-8,70,35,14,3
+Dekalb,Non Pub Sch,16019002X,16,0,International Montessori Academy Inc,Mrs. Kimberly A Staffey,1815 Mediterranean Dr,Sycamore,60178 3144,815758-6822,P-5,70,35,14,3
+Dekalb,Non Pub Sch,16019003X,10,0,St Mary,Mrs. Roseann Feldmann,210 Gurler Rd,DeKalb,60115 8683,815756-7905,P-8,90,45,16,3
+Dekalb,Non Pub Sch,16019005Y,14,0,Crossroads Academy,Doug Pierson,49W294 US Highway 30,Big Rock,60511 9707,630556-3202,9-12,70,35,14,3
+Dekalb,Non Pub Sch,16019008Z,20,0,Somonauk Christian School,Dennis Keith,315 E North St,Somonauk,60552 3168,815498-2312,P-5,90,45,14,3
+Dekalb,Non Pub Sch,16019100Z,26,0,Cornerstone Christian Academy,Tom Olmstead,355 N Cross St,Sycamore,60178 1231,815895-8522,P-12,70,35,14,3
+Dekalb,Non Pub Sch,16019102S,19,0,The Camelot Schools,Kay Moravek,509 Oak St,DeKalb,60115 3360,815981-4644,1-12,70,35,16,3
+Dekalb,Non Pub Sch,16019103X,16,0,Montessori Childrens House of Sycamore & Dekalb,Robin Bothe,26555 Brickville Rd,Sycamore,60178 8602,815895-0303,"P,K",70,35,14,3
+Dekalb,Non Pub Sch,16019428Z,1,0,The International Online School of America,Mr. Amando R Boncales,PO Box 39,Dekalb,60115 0039,815981-1100,P-12,70,35,16,3
+Dekalb,Non Pub Sch,16019429Z,14,0,Online Christian Academy,Mr. Amando R Boncales,PO Box 39,Dekalb,60115 0039,815981-1100,K-12,77,35,16,3
+Livingston,Non Pub Sch,17053002X,10,0,St Mary School,Richard Morehouse,414 N Main St,Pontiac,61764 1932,815844-6585,K-8,106,53,16,3
+Livingston,Non Pub Sch,17053003X,10,0,St Paul School,Mr. Richard Morehouse,300 S West St,Odell,60460 9502,815998-2194,P-8,106,53,16,3
+Livingston,Non Pub Sch,17053005X,26,0,Pontiac Christian School,Ms. Denise Plenert,18034 N 2100 East Rd,Pontiac,61764 3512,815842-1322,P-8,106,53,16,3
+Livingston,Non Pub Sch,17053027Z,25,0,Open Door of Hope Christian Acad,Rev. Glen Roedell,RR 2 Box 40,Forrest,61741,815832-4695,"4,6,8",105,53,15,3
+Livingston,Non Pub Sch,17053028Y,14,0,Salem Ranch Jr & Sr High Sch,Mr. Terry Benge,15161 N 400 East Rd,Flanagan,61740 9143,815796-4561,7-12,106,53,16,3
+Livingston,Non Pub Sch,17053029X,1,0,Grace Christian School,Mr. Jake Krause,1314 E Indiana Ave,Pontiac,61764 1208,815419-2030,P-8,106,53,16,3
+Logan,Non Pub Sch,17054001X,10,0,Carroll Catholic School,Mr. David Welch,111 4th St,Lincoln,62656 2611,217732-7518,P-8,87,44,18,3
+Logan,Non Pub Sch,17054002X,6,0,Zion Lutheran School,Mrs. Sara McCormick,203 S Vine St,Mount Pulaski,62548 1272,217792-5715,P-8,87,44,18,3
+Logan,Non Pub Sch,17054003Z,2,0,Park Meadows Baptist Academy,Tony Bazen,800 Memorial Park Rd,Lincoln,62656 9112,217732-6900,5-10,87,44,18,3
+Logan,Non Pub Sch,17054010X,6,0,Zion Lutheran School,Mrs. Pamela R Fuiten,1600 Woodlawn Rd,Lincoln,62656 9787,217732-3977,P-8,87,44,18,3
+McLean,Non Pub Sch,17064001X,10,0,Epiphany School,Mike Lootens,1002 E College Ave,Normal,61761 3129,309452-3268,P-8,105,53,18,3
+McLean,Non Pub Sch,17064002X,10,0,Corpus Christi Catholic School,Gwenn M Roche,1909 E Lincoln St,Bloomington,61701 7131,309662-3712,P-8,88,44,13,3
+McLean,Non Pub Sch,17064003Y,10,0,Central Catholic High School,Mr. Sean Foster,1201 Airport Rd,Bloomington,61704 2534,309826-6677,9-12,105,53,18,3
+McLean,Non Pub Sch,17064004X,6,0,Trinity Lutheran,Shawn Hoffmann,1102 W Hamilton Rd,Bloomington,61704 8657,309829-7513,P-8,88,44,13,3
+McLean,Non Pub Sch,17064006X,10,0,St Mary School,Mrs. Jamie L Hartrich,603 W Jackson St,Bloomington,61701 4984,309828-5954,P-8,88,44,13,3
+McLean,Non Pub Sch,17064008Y,1,0,Youthbuild Academy,Ms. Tracey Polson,360 Wylie Dr Ste 305,Normal,61761 5500,309454-3898,9-12,105,53,18,3
+McLean,Non Pub Sch,17064009X,14,0,Christian Life Academy,Joshua J Horning,PO Box 235,Hopedale,61747 0235,309449-3346,P-8,91,46,17,3
+McLean,Non Pub Sch,17064011Z,2,0,Calvary Baptist Academy,Mr. Michael Sturgill,1017 N School St,Normal,61761 1255,309452-7912,K-12,105,53,13,3
+McLean,Non Pub Sch,17064012X,1,0,Mulberry School,Mrs. Kim Walk,1101 Douglas St,Normal,61761 6412,309862-0510,P-3,105,53,18,3
+McLean,Non Pub Sch,17064023S,7,0,Hammitt School at the Baby Fold,Mrs. Dianne Schultz,108 E Willow St,Normal,61761 1640,309452-1170,P-12,105,53,18,3
+McLean,Non Pub Sch,17064027X,26,0,Cornerstone Christian Academy,Doug Pavey,PO Box 1608,Bloomington,61702 1608,309662-9900,P-11,105,53,18,3
+McLean,Non Pub Sch,17064028X,1,0,Chesterbrook Academy,Stacy Stotler,212 N Williamsburg Dr,Bloomington,61704 3571,309662-0803,"P,K",105,53,18,3
+Dupage,Non Pub Sch,19022001X,6,0,Bethany Lutheran School,Pamela Mueller,1550 Modaff Rd,Naperville,60565 6191,630355-6607,P-8,41,21,11,3
+Dupage,Non Pub Sch,19022003X,10,0,Holy Trinity,Pamela Simon,108 S Linden Ave,Westmont,60559 2011,630971-0184,P-8,47,24,6,3
+Dupage,Non Pub Sch,19022004X,6,0,Immanuel Lutheran School,Mr. Paul K Trettin,148 E 3rd St,Elmhurst,60126 2461,630832-9302,P-8,47,24,5,3
+Dupage,Non Pub Sch,19022006X,6,0,Lutheran School of St Luke,Pastor Alex Duff,410 S Rush St,Itasca,60143 2130,630773-0396,"P-8,U",45,23,8,3
+Dupage,Non Pub Sch,19022007X,20,0,Creme De La Creme,Marci Jo Engler,4625 Weaver Pkwy,Warrenville,60555 3933,630393-0989,"P,K",41,21,6,3
+Dupage,Non Pub Sch,19022008X,10,0,Notre Dame School,Mary Ann Feeney,66 Norfolk Ave,Clarendon Hills,60514 1212,630323-1642,P-8,47,24,6,3
+Dupage,Non Pub Sch,19022009X,16,0,New Day Montessori,Heather Craig-Somerlot,25W007 75th St,Naperville,60565 1681,630428-1334,"P,K",81,41,11,3
+Dupage,Non Pub Sch,19022012X,10,0,Holy Family Catholic School,Mrs. Linda M Kelly,145 E Grand Ave,Bensenville,60106 3492,630766-0116,P-8,77,39,5,3
+Dupage,Non Pub Sch,19022013Y,10,0,St Francis High School,Raeann Huhn,2130 W Roosevelt Rd,Wheaton,60187 6085,630668-5800,9-12,42,21,6,3
+Dupage,Non Pub Sch,19022014X,1,0,Avery Coonley School,Mr. Paul Druzinsky,1400 Maple Ave,Downers Grove,60515 4849,630969-0800,P-8,81,41,6,3
+Dupage,Non Pub Sch,19022015X,6,0,Trinity Lutheran School,Mrs. Dawn Koenig,405 Rush St,Roselle,60172 2228,630894-3263,P-8,45,23,8,3
+Dupage,Non Pub Sch,19022016Y,10,0,I C Catholic Prep,Pamela M Levar,217 S Cottage Hill Ave,Elmhurst,60126 3352,630530-3460,9-12,47,24,5,3
+Dupage,Non Pub Sch,19022017X,10,0,St Irene School,Margaret Detwiler,3S601 Warren Ave,Warrenville,60555 3333,630393-9303,P-8,41,21,6,3
+Dupage,Non Pub Sch,19022018Z,16,0,Carmel Montessori Academy,Jacob Lafranzo,3S238 State Route 59,Warrenville,60555 1530,630393-2996,U,41,21,14,3
+Dupage,Non Pub Sch,19022019X,10,0,St John The Baptist,Michelle E Tovey,0S259 Church St,Winfield,60190 1244,630668-2625,P-8,42,21,6,3
+Dupage,Non Pub Sch,19022020X,6,0,St Johns Lutheran,Mr. David Ingwersen,220 S Lincoln Ave,Lombard,60148 2511,630932-3196,P-8,48,24,6,3
+Dupage,Non Pub Sch,19022023X,10,0,St Joseph School,Rita Stasi,4832 Highland Ave,Downers Grove,60515 3615,630969-4306,K-8,81,41,6,3
+Dupage,Non Pub Sch,19022024X,10,0,St Joan of Arc,Mr. Michael Sweeney,4913 Columbia Ave,Lisle,60532 3503,630969-1732,P-8,48,24,11,3
+Dupage,Non Pub Sch,19022025X,16,0,Seton Little Peoples Montessori,Anna Perry,5728 Virginia Ave,Clarendon Hills,60514 1607,630655-1066,P-6,47,24,6,3
+Dupage,Non Pub Sch,19022026X,1,0,Greentree Presch and Early Ed Cnt,Melissa D Alton,25W725 Jewell Rd,Wheaton,60187 2931,630665-2558,"P,K",42,21,6,3
+Dupage,Non Pub Sch,19022027X,10,0,Our Lady of Peace,Mr. Anthony Wilkinson,709 Plainfield Rd,Darien,60561 4213,630325-9220,P-8,82,41,11,3
+Dupage,Non Pub Sch,19022028X,10,0,St Mary of Gostyn School,Mr. Chistopher Tiritilli,440 Prairie Ave,Downers Grove,60515 3832,630968-6155,P-8,81,41,6,3
+Dupage,Non Pub Sch,19022029X,10,0,St Mary,Nancy Coughlin,147 Garden St,West Chicago,60185 2205,630231-1776,P-8,49,25,6,3
+Dupage,Non Pub Sch,19022030X,10,0,St Matthew School,Regina Pestrak,1555 Glen Ellyn Rd,Glendale Heights,60139 2576,630858-3112,P-8,46,23,8,3
+Dupage,Non Pub Sch,19022031X,10,0,St Michael,Lisa Brown,314 W Willow Ave,Wheaton,60187 5050,630665-1454,P-8,42,21,6,3
+Dupage,Non Pub Sch,19022033X,10,0,St Peter the Apostle Sch,Mary Ellyn Billmeyer,500 N Cherry St,Itasca,60143 1602,630773-1979,P-8,45,23,8,3
+Dupage,Non Pub Sch,19022034X,10,0,SS Peter and Paul School,Mrs. Karen Meskill,201 E Franklin Ave,Naperville,60540 4653,630355-0113,K-8,41,21,6,3
+Dupage,Non Pub Sch,19022035X,10,0,St Petronille,Ms. Maureen Aspell,425 Prospect Ave,Glen Ellyn,60137 4548,630469-5041,K-8,48,24,6,3
+Dupage,Non Pub Sch,19022036X,10,0,St Philip the Apostle School,Mrs. Julie Noonan,1233 W Holtz Ave,Addison,60101 2161,630543-4130,P-8,45,23,8,3
+Dupage,Non Pub Sch,19022037X,10,0,St Pius X,Patricia A Walther,601 Westmore Meyers Rd,Lombard,60148 3711,630627-2353,P-8,48,24,8,3
+Dupage,Non Pub Sch,19022038Y,10,0,Benet Academy,Stephen A Marth,2200 Maple Ave,Lisle,60532 2393,630719-2782,9-12,42,21,6,3
+Dupage,Non Pub Sch,19022039X,10,0,St Raphael School,Mrs. Mary Conlon Rehfield,1215 Modaff Rd,Naperville,60540 7818,630355-1880,K-8,41,21,11,3
+Dupage,Non Pub Sch,19022040X,10,0,St Scholastica School,Mrs. Nikki Kanzia,7720 Janes Ave,Woodridge,60517 2922,630985-2515,K-8,85,43,11,3
+Dupage,Non Pub Sch,19022041X,10,0,St Walter School,Mary C Lloyd,201 W Maple Ave,Roselle,60172 2157,630529-1721,P-8,45,23,8,3
+Dupage,Non Pub Sch,19022042Y,3,0,Timothy Christian High School,Mr. Brad Mitchell,1061 S Prospect Ave,Elmhurst,60126 5263,630833-4616,9-12,47,24,5,3
+Dupage,Non Pub Sch,19022043X,3,0,Naperville Christian Academy,Kim Macintyre,1451 Raymond Dr Ste 200,Naperville,60563 8948,630637-9622,P-12,41,21,6,3
+Dupage,Non Pub Sch,19022045X,6,0,Trinity Lutheran Pre-School,Jackie Lesch,331 George St,West Chicago,60185 3118,630231-5849,"P,K",49,25,14,3
+Dupage,Non Pub Sch,19022046X,10,0,Visitation,Christopher Dransoff,851 S York St,Elmhurst,60126 4456,630834-4931,P-8,47,24,5,3
+Dupage,Non Pub Sch,19022047Y,26,0,Wheaton Academy,Mr. Steve Bult,900 Prince Crossing Rd,West Chicago,60185 5136,630562-7500,9-12,45,23,6,3
+Dupage,Non Pub Sch,19022048X,26,0,Wheaton Christian Grammar School,Mr. Stephen E Clum,1N350 Taylor Dr,Winfield,60190 1476,630668-1385,K-8,42,21,6,3
+Dupage,Non Pub Sch,19022049X,1,0,Bright Horizons Chancellory,Kristin Warfield,270 Windsor Dr,Itasca,60143 1200,630250-0400,"P,K",45,23,8,3
+Dupage,Non Pub Sch,19022051X,1,0,Xilin Academy Day Care Cntr,Shree Gurusamy,1163 E Ogden Ave # 301,Naperville,60563 1687,630355-4322,K-5,42,21,6,3
+Dupage,Non Pub Sch,19022052X,10,0,Sacred Heart,Dr. Joy Packard-Higgins,322 W Maple St,Lombard,60148 2415,630629-0536,P-8,48,24,6,3
+Dupage,Non Pub Sch,19022053X,10,0,Immaculate Conception Grade Sch,Mrs. Cathy Linley,132 W Arthur St,Elmhurst,60126 3325,630530-3490,P-8,47,24,5,3
+Dupage,Non Pub Sch,19022054X,10,0,St James the Apostle,Mrs. Mary-Kathryn H Warco,490 S Park Blvd,Glen Ellyn,60137 6864,630469-8060,P-8,48,24,6,3
+Dupage,Non Pub Sch,19022055Y,10,0,Montini Catholic High School,Maryann Oneill,19W070 16th St,Lombard,60148 4749,630627-6930,9-12,48,24,8,3
+Dupage,Non Pub Sch,19022057X,10,0,St Isidore School,Cynthia Collins,431 W Army Trail Rd,Bloomingdale,60108 1390,630529-9323,P-8,46,23,8,3
+Dupage,Non Pub Sch,19022058X,10,0,Holy Ghost School,Dr. Tony Jimenez,260 N Wood Dale Rd,Wood Dale,60191 2092,630766-4508,P-8,45,23,8,3
+Dupage,Non Pub Sch,19022060X,10,0,St Isaac Jogues,Carol Burlinski,421 S Clay St,Hinsdale,60521 4035,630323-3244,K-8,47,24,6,3
+Dupage,Non Pub Sch,19022061X,6,0,Trinity Lutheran School,Mr. Chuck Novak,1165 Westmore Meyers Rd,Lombard,60148 4174,630627-5601,P-8,48,24,8,3
+Dupage,Non Pub Sch,19022064X,16,0,Montessori School of Lisle,Julie Johnson,23W550 Hobson Rd,Naperville,60540 9456,630983-7516,"P,K",81,41,11,3
+Dupage,Non Pub Sch,19022065X,3,0,Timothy Christian Elem  Midd Sch,Tim Hoeksema,188 W Butterfield Rd,Elmhurst,60126 5073,630833-4717,P-8,47,24,5,3
+Dupage,Non Pub Sch,19022066Z,20,0,Marquette Manor Baptist Academy,Mr. Donald Sherwin,333 75th St,Downers Grove,60516 4458,630964-5363,P-12,81,41,6,3
+Dupage,Non Pub Sch,19022067X,26,0,Bartlett Christian Academy,Mrs. Jennifer Christenson,1500 W Stearns Rd,Bartlett,60103 1637,630504-0013,K-3,49,25,6,3
+Dupage,Non Pub Sch,19022068X,16,0,All About Kids Montessori Sch,Trupti Desai,485 N Commons Dr,Aurora,60504 4426,630820-1760,P-5,84,42,11,3
+Dupage,Non Pub Sch,19022070X,6,0,Concord Lutheran School,Mr. Matthew Tuomi,865 S Church Rd,Bensenville,60106 2904,630766-0228,P-8,77,39,5,3
+Dupage,Non Pub Sch,19022071X,10,0,All Saints Catholic Academy,Mrs. Melissa Santos,1155 Aurora Ave,Naperville,60540 6201,630961-6125,P-8,41,21,11,3
+Dupage,Non Pub Sch,19022072X,16,0,Wilson Montessori Academy,Susan Wilson,136 W Vallette St Ste 8,Elmhurst,60126 4377,630279-5300,"P,K",47,24,5,3
+Dupage,Non Pub Sch,19022073X,26,0,Carol Stream Christian Acad,Tim Krahenbuhl,610 E North Ave,Carol Stream,60188 2127,630653-1044,P-8,42,21,6,3
+Dupage,Non Pub Sch,19022074X,10,0,St Elizabeth Seton Preschool,Mary Abel,2220 Lisson Rd,Naperville,60565 5234,630420-9254,P,81,41,11,3
+Dupage,Non Pub Sch,19022075X,26,0,Downers Grove Christian School,Fred T Versluys,929 Maple Ave,Downers Grove,60515 4918,630852-0832,P-8,81,41,6,3
+Dupage,Non Pub Sch,19022077X,14,0,Oak Brook Christian,Maureen Martinson,3100 Midwest Rd,Oak Brook,60523 2502,630986-9693,"P,K",47,24,8,3
+Dupage,Non Pub Sch,19022078X,6,0,Good Shepherd Lutheran Sch,Bryan Scriver,525 63rd St,Downers Grove,60516 2024,630852-5081,P-8,81,41,6,3
+Dupage,Non Pub Sch,19022079X,16,0,Little Blossom Montessori School,SIJI Mathew George,3691 Darlene Ct,Aurora,60504 6516,630362-8134,"P,K",84,42,11,3
+Dupage,Non Pub Sch,19022080X,1,0,Caboose Club Too,Dawn Payne,4321 Wilmette Ave,Rolling Meadows,60008 1196,847991-7900,P-5,54,27,6,3
+Dupage,Non Pub Sch,19022081X,14,0,Clapham School,Mrs. Kathy Bailey,PO Box 209,Wheaton,60187 0209,630547-5125,P-11,42,21,6,3
+Dupage,Non Pub Sch,19022082X,16,0,Maple Tree Academy,Jean Gottlieb,3331 Hobson Rd,Woodridge,60517 1694,630699-8733,"P,K",81,41,11,3
+Dupage,Non Pub Sch,19022083X,16,0,Meher Montessori Academy,Uma Ivatury,1272 Bond St Ste 108,Naperville,60563 3086,630926-6745,"P,K",41,21,11,3
+Dupage,Non Pub Sch,19022084X,1,0,Shining Stars Early Learning Center,Margaret Kusiak,4105 Healthway Dr,Aurora,60504 4190,630898-2596,"P,K",84,42,11,3
+Dupage,Non Pub Sch,19022085X,1,0,Prairie School of DuPage,Ms. Alyssa Maurer,1926 N Main St,Wheaton,60187 3151,630690-6000,P-7,42,21,6,3
+Dupage,Non Pub Sch,19022087X,16,0,ILM Academy,Quarashia S Al Shehab,900 E Geneva Rd,Wheaton,60187 2810,630403-8456,"P,K",48,24,6,3
+Dupage,Non Pub Sch,19022088S,19,0,Krejci Academy/The Mansion,Camille Smith,619 E Franklin Ave,Naperville,60540 4693,630355-6870,K-12,41,21,6,3
+Dupage,Non Pub Sch,19022089X,23,0,Islamic Center of Naperville,Muniba Ali,2844 W Ogden Ave,Naperville,60540 0969,630428-3733,"P,K",41,21,11,3
+Dupage,Non Pub Sch,19022090X,16,0,Diamante Montessori,Alice L Lewaniak,625 Hillside Ave,Glen Ellyn,60137 5035,630790-9030,"P,K",48,24,6,3
+Dupage,Non Pub Sch,19022091Y,14,0,Chesterton Academy of The Holy Family,Ms. Mary Beane,339 4th St,Downers Grove,60515 5260,630442-1424,9-12,81,41,6,3
+Dupage,Non Pub Sch,19022092X,23,0,Masroor Academy,Iqbal Majeed,2S510 IL Route 53,Glen Ellyn,60137 7176,630790-4100,P-3,48,24,6,3
+Dupage,Non Pub Sch,19022094X,23,0,Carriers of Light,Aman Alcharbji,PO Box 6072,Glendale Heights,60139 6072,630474-1265,P-6,48,24,6,3
+Dupage,Non Pub Sch,19022095X,16,0,Naper Montessori Academy Inc.,Te Dora Brown,24W500 Maple Ave,Naperville,60540,630755-1065,P-2,42,21,6,3
+Dupage,Non Pub Sch,19022097X,16,0,Rosehill Montessori School,Betty Chan,1203 Lisle Pl,Lisle,60532 2263,630964-4500,"P,K",48,24,11,3
+Dupage,Non Pub Sch,19022106S,19,0,Bridge High School,Mary Witt,2318 Wisconsin Ave,Downers Grove,60515 4021,630964-1722,9-12,81,41,11,3
+Dupage,Non Pub Sch,19022107X,16,0,Creative Montessori Learning Ctr,Soumini Pillai,550 S Edgewood Ave,Lombard,60148 2822,630620-5505,"P,K",48,24,8,3
+Dupage,Non Pub Sch,19022109X,26,0,Calvary Christian School,Mr. Emery Risdall,9S200 Route 59,Naperville,60564 9404,630375-8600,K-8,84,42,11,3
+Dupage,Non Pub Sch,19022111X,16,0,Wheaton Montessori School,Rebecca Lingo,1980 N Gary Ave,Wheaton,60187 3072,630653-5100,U,42,21,6,3
+Dupage,Non Pub Sch,19022112X,11,0,Downers Grove Adventist,Patricia C Williams,5524 Lee Ave,Downers Grove,60515 4412,630968-8848,"P-1,3-8",81,41,6,3
+Dupage,Non Pub Sch,19022116X,16,0,Montessori Moppet Centre Inc,Judy Hojnacki,25W530 75th St,Naperville,60565 1547,630369-2326,U,81,41,11,3
+Dupage,Non Pub Sch,19022117X,16,0,Montessori Childrens Academy,Lillian Smith,706 E Park Blvd,Villa Park,60181 2728,630832-4423,"P,K",46,23,5,3
+Dupage,Non Pub Sch,19022122X,16,0,Montessori of Woodridge Inc,Pat Whyte,6953 Woodridge Dr,Woodridge,60517 2009,630964-3533,"P,K",85,43,11,3
+Dupage,Non Pub Sch,19022123X,16,0,Montessori Academy of Glen Ellen,Mrs. Anne M Carlson,927 N Main St,Glen Ellyn,60137 3674,630469-4727,P-6,46,23,6,3
+Dupage,Non Pub Sch,19022127Z,23,0,Islamic Foundation School,Ghada Fahmy,300 W Highridge Rd,Villa Park,60181 3165,630941-8800,P-12,46,23,8,3
+Dupage,Non Pub Sch,19022129S,19,0,Marklund Day School,Paula Bodzioch,164 S Prairie Ave,Bloomingdale,60108 1626,630307-1882,P-12,45,23,8,3
+Dupage,Non Pub Sch,19022131X,16,0,Seton Academy,Mary C Thornton,350 N Westmore Ave,Villa Park,60181 1917,630279-4101,U,46,23,8,3
+Dupage,Non Pub Sch,19022134X,16,0,Lor-Jon Montessori School,Kevin Lowe,367 S Spring Rd,Elmhurst,60126 3805,630993-0109,"P,K",47,24,5,3
+Dupage,Non Pub Sch,19022135X,16,0,DuPage Montessori School,Robert Breen,24W500 Maple Ave,Naperville,60540 6055,630369-6899,P-6,42,21,6,3
+Dupage,Non Pub Sch,19022136Z,23,0,College Preparatry Sch of America,Dr. Mohammed T Taher,331 W Madison St,Lombard,60148 3217,630889-8000,P-12,48,24,8,3
+Dupage,Non Pub Sch,19022137X,16,0,DuPage Montessori in Wheaton,Sharon Breen,300 E Cole Ave,Wheaton,60187 3110,630653-1221,P-5,48,24,6,3
+Dupage,Non Pub Sch,19022143X,1,0,Four Winds Waldorf School,Marianne Fieber,30W160 Calumet Ave W,Warrenville,60555 1515,630836-9400,P-8,41,21,14,3
+Dupage,Non Pub Sch,19022149X,14,0,Jubilee Neighborhood School,Jane Scheuermann,345 S President St,Carol Stream,60188 3226,630260-7600,K,46,23,6,3
+Dupage,Non Pub Sch,19022150X,1,0,Tender Loving Care Mont,Mrs. Mona Johnson,30 N Park Ave,Lombard,60148 2475,630932-7777,"P,K",48,24,6,3
+Dupage,Non Pub Sch,19022151X,1,0,Kingswood Academy,Mrs. Bernadette McCarthy,133 Plainfield Rd,Darien,60561 3974,630887-1411,P-8,82,41,11,3
+Dupage,Non Pub Sch,19022153X,17,0,Pythagoras Childrens Academy,Mrs. Dina Jason,893 N Church Rd,Elmhurst,60126 1005,630834-0477,P-5,47,24,5,3
+Dupage,Non Pub Sch,19022154S,19,0,Giant Steps Illinois,Dr. Sylvia Smith,2500 Cabot Dr,Lisle,60532 3607,630864-3800,K-12,42,21,6,3
+Dupage,Non Pub Sch,19022158S,19,0,Camelot School,Michael Gurley,1220 Bond St Ste 136,Naperville,60563 2763,630355-0200,,41,21,11,3
+Dupage,Non Pub Sch,19022159S,19,0,Childs Voice School,Dr. Michele Wilkins,180 Hansen Ct,Wood Dale,60191 1121,630595-8200,P-1,45,23,8,3
+Dupage,Non Pub Sch,19022160X,16,0,Naperville Montessori School,Mrs. Denise Plasch,2936 Artesian Rd,Naperville,60564 8544,630904-5399,"P,K",84,42,11,3
+Dupage,Non Pub Sch,19022161X,1,0,Delphi Academy of Chicago,Allison Floyd,29 E. St. Charles Rd,Villa Park,60181,630620-8950,P-5,48,24,8,3
+Dupage,Non Pub Sch,19022162X,16,0,Aurora Montessori School,Mrs. Karen M Zehnal,3180 N Aurora Rd,Aurora,60502 9680,630898-4346,"P,K",49,25,11,3
+Dupage,Non Pub Sch,19022164X,16,0,Computer Assoc Lisle Child Dev,Kate Mcgivern,2400 Cabot Dr,Lisle,60532 3708,630505-6688,"P,K",42,21,6,3
+Dupage,Non Pub Sch,19022166X,1,0,Elmhurst Acad Early Learning,Colleen Odegaard,212 W Lake St,Elmhurst,60126 1507,630279-2494,P-1,47,24,5,3
+Dupage,Non Pub Sch,19022167Z,1,0,Chesterbrook Acad Naperville 1,Dawn Kemp,1571 Oswego Rd,Naperville,60540 3303,630527-0833,K-5,41,21,11,3
+Dupage,Non Pub Sch,19022169X,1,0,Chesterbrook Acad Lisle 2,Laura Leibforth,4622 Lacey Ave,Lisle,60532 2382,630493-0147,"P,K",48,24,6,3
+Dupage,Non Pub Sch,19022170X,1,0,Chesterbrook Acad Wheaton,Lauren Pangman,275 W Loop Rd,Wheaton,60189 2036,630871-1500,"P,K",42,21,6,3
+Dupage,Non Pub Sch,19022173X,1,0,Chesterbrook Acad Naperville 4,Lu Ann Rokusek,2015 S Naper Blvd,Naperville,60565 3353,630355-7800,P-6,41,21,11,3
+Dupage,Non Pub Sch,19022174X,1,0,Chesterbrook Acad Westmont,Stephanie Kuzelis,6351 S Cass Ave,Westmont,60559 3206,630493-1233,"P,K",47,24,6,3
+Dupage,Non Pub Sch,19022176X,16,0,Let Us Care Montessori Sch,Corazon A Calma,206 Rush St,Roselle,60172 2225,630351-7040,"P,K",45,23,8,3
+Dupage,Non Pub Sch,19022177X,16,0,Discover Montessori Learn Cntr,Rajya Priyadarshanee,2151 Sudbury St,Naperville,60564 8484,630904-7877,"P,K",41,21,11,3
+Dupage,Non Pub Sch,19022178X,7,0,Wheatland Salem Christian Acad,Nancy Eble,1852 95th St,Naperville,60564 8992,630904-7035,"P,K",41,21,14,3
+Dupage,Non Pub Sch,19022179X,14,0,HisGrace Christian Childcare,Victoria Omoike,1500 N Farnsworth Ave,Aurora,60505 1508,630916-6559,"P,K",46,23,8,3
+Dupage,Non Pub Sch,19022180X,16,0,Sunrise Montessori Academy,Inderjit K Singh,960 W Army Trail Blvd,Addison,60101 3194,630628-9000,"P,K",45,23,8,3
+Dupage,Non Pub Sch,19022181X,16,0,Montessori Pebbles,Sashikala Venkateson,7516 S Cass Ave,Darien,60561 4496,630963-2294,"P,K",81,41,6,3
+Dupage,Non Pub Sch,19022182X,16,0,Montessori for Modern Minds,Pareesa Farazandeh,16W331 63rd St,Willowbrook,60527 5357,630325-0089,"P,K",82,41,6,3
+Dupage,Non Pub Sch,19022183Z,14,0,Covenant Classical School,Camie Perrin,2035 E 75th St,Naperville,60565 6803,630983-7500,K-9,81,41,11,3
+Dupage,Non Pub Sch,19022184X,1,0,Nurturing Wisdom Academy,Amanda Vogel,125 S Vine St,Hinsdale,60521 4039,630423-5916,K-12,47,24,6,3
+Gallatin,Non Pub Sch,20030002Z,14,0,Equality Christian Center,Fred G Stacy,PO Box 280,Equality,62934 0280,618276-4236,"K-1,3-7,9-12",118,59,15,3
+Pope,Non Pub Sch,20076001Y,1,0,Golconda Job Corps Academy,David C Floyd,345 Job Corps Rd,Golconda,62938 4158,618285-5206,12,118,59,15,3
+Saline,Non Pub Sch,20083002X,2,0,Eldorado Christian Academy,Ron Jackson,2321 Illinois Ave,Eldorado,62930 1852,618273-3884,"K,5-7",118,59,15,3
+Wabash,Non Pub Sch,20093001X,10,0,St Mary School,Cynthia M Brogan,417 Chestnut St,Mount Carmel,62863 1517,618263-3183,P-8,109,55,15,3
+Wabash,Non Pub Sch,20093002X,14,0,Lancaster Christian School,Mrs. Lynn Blythe,6484 Highway 11,Mount Carmel,62863 4021,618299-8671,P-6,109,55,15,3
+Wayne,Non Pub Sch,20096001Z,22,0,Orchardville Mennonite School,Amos Brubaker,1046 County Highway 13,Keenes,62851 9519,618629-2436,1-10,109,55,15,3
+Franklin,Non Pub Sch,21028001Z,11,0,Thompsonville Christian Sch,Ms. Evelyn Hainey,PO Box 53,Thompsonville,62890 0053,618627-2065,1-10,117,59,12,3
+Franklin,Non Pub Sch,21028002X,10,0,St John the Baptist,Kevin Spiller,702 E Poplar St,West Frankfort,62896 1344,618937-2017,P-8,117,59,12,3
+Franklin,Non Pub Sch,21028003Z,14,0,Ezra Christian School,Mr. Curtis Smith,1345 Ezra St,West Frankfort,62896 4848,618932-6988,K-12,117,59,12,3
+Franklin,Non Pub Sch,21028009Z,22,0,Ewing Mennonite School,Mr. LeRoy Allgyer Jr,18359 Ewing Rd,Ewing,62836 1222,618629-2436,"1-10,U",117,59,12,3
+Franklin,Non Pub Sch,21028011X,25,0,Zeigler Christian Academy,Rev. John Snell Sr,309 Church St,Zeigler,62999 1040,618596-6009,P-7,117,59,12,3
+Franklin,Non Pub Sch,21028012Y,1,0,The Nights Shield,Ms. Lindsey Bullman,301 E Garland St,West Frankfort,62896 3214,618932-6400,K-12,117,59,12,3
+Williamson,Non Pub Sch,21100001X,10,0,Our Lady Mt Carmel School,Faye Myatt,300 W Monroe St,Herrin,62948 1720,618942-4484,K-8,117,59,12,3
+Williamson,Non Pub Sch,21100002X,1,0,Community Christian Academy,Cheryl Smillie,901 Prosperity Ave,Johnston City,62951 1000,618983-3841,"P,K",117,59,12,3
+Williamson,Non Pub Sch,21100003X,11,0,Marion Adventist School,Ms. Cynthia Ferguson,9314 Old Route 13,Marion,62959 5834,618997-1430,1-8,117,59,12,3
+Williamson,Non Pub Sch,21100004X,27,0,Carterville Christian Preparatory Academy,Ms. Diane Taveau,PO Box 132,Carterville,62918 0132,618681-2094,P-5,117,59,12,3
+Williamson,Non Pub Sch,21100011Z,26,0,Unity Christian School,Mr. William McSparin,PO Box 310,Energy,62933 0310,618942-3802,P-8,117,59,12,3
+Williamson,Non Pub Sch,21100013X,1,0,Skyline Academy,Robert Greenwood,709 Skyline Dr,Marion,62959 4872,618993-1499,K-3,117,59,12,3
+Williamson,Non Pub Sch,21100014X,25,0,The Academy of Excellance,David Garner,PO Box 850,Marion,62959 0850,618983-3488,P,117,59,12,3
+Williamson,Non Pub Sch,21100015Y,26,0,Agape Christian High School,Mr. Seth Knox,5208 Meadowland Pkwy # A,Marion,62959 6386,618997-9302,9-12,117,59,12,3
+Grundy,Non Pub Sch,24032002X,10,0,Immaculate Conception,Kim Des Lauriers,505 E North St,Morris,60450 2339,815942-4111,P-8,75,38,16,3
+Kendall,Non Pub Sch,24047001X,6,0,Cross Lutheran School,Susan W Lopez,8535 State Route 47,Yorkville,60560 9751,630553-7861,P-8,75,38,14,3
+Kendall,Non Pub Sch,24047002X,10,0,St Mary School,Mr. Joe Scarpino,817 N Center St,Plano,60545 1055,630552-3345,K-8,75,38,14,3
+Kendall,Non Pub Sch,24047003X,6,0,St Lukes Lutheran School,Linda King,63 Fernwood Rd,Montgomery,60538 2009,630892-0310,P-8,97,49,11,3
+Kendall,Non Pub Sch,24047004X,26,0,Parkview Christian Academy,Ms. Deborah Benson,201 W Center St,Yorkville,60560 1320,630553-5158,P-12,50,25,14,3
+Kendall,Non Pub Sch,24047006X,16,0,Peaceful Pathways Montessori,Shawna Watkins,8250 State Route 71,Yorkville,60560 9202,630553-4263,U,50,25,14,3
+Kendall,Non Pub Sch,24047008Y,1,0,Yorkville Christian High School,Mr. Aaron Sovern,1213 S Bridge St,Yorkville,60560 1716,630708-7927,9-12,50,25,14,3
+Kendall,Non Pub Sch,24047009Z,1,0,Grace Holistic Center for Education,Tairi Grace,210 Beaver St,Yorkville,60560 1705,331207-8932,"P-6,8,10-12",50,25,14,3
+Fulton,Non Pub Sch,26029013Z,2,0,Calvary Baptist Academy,Pastor Greg Ogle,20 N Avenue I,Canton,61520 9536,309647-3444,P-12,91,46,17,3
+Hancock,Non Pub Sch,26034002X,10,0,St Peter and Paul,Mrs. Lisa J Gray,PO Box 160,Nauvoo,62354 0160,217453-2511,P-6,94,47,18,3
+McDonough,Non Pub Sch,26062001X,10,0,St Paul School,Laura Cody,322 W Washington St,Macomb,61455 2119,309833-2470,P-6,93,47,18,3
+McDonough,Non Pub Sch,26062005Z,1,0,Fields Lab School,Dr. Emilye H Fields,408 S McArthur St,Macomb,61455 2930,773425-8685,12,93,47,18,3
+Schuyler,Non Pub Sch,26085001X,14,0,Trinity Academy,Karen DeBruin,306 E South St,Industry,61440 9296,309731-4016,K-7,93,47,18,3
+Bureau,Non Pub Sch,28006001Y,10,0,St Bede Academy,Michelle A Mershon,24 W US Highway 6,Peru,61354 2903,815223-3140,9-12,76,38,16,3
+Bureau,Non Pub Sch,28006003X,10,0,St Louis Grade School,Mr. Richard Koehler,631 Park Ave W,Princeton,61356 1937,815872-8521,P-8,74,37,16,3
+Bureau,Non Pub Sch,28006005X,26,0,Princeton Christian Academy,Mr. Tom Odell,21890 US Highway 34,Princeton,61356 9488,815875-2933,P-8,74,37,16,3
+Henry,Non Pub Sch,28037004X,10,0,St Malachy School,Jack Schlindwein,595 E Ogden Ave,Geneseo,61254 1145,309944-3230,K-6,74,37,17,3
+Henry,Non Pub Sch,28037007X,10,0,Visitation,Ms. Sheila Cromien,107 S Lexington Ave,Kewanee,61443 2127,309856-7451,P-8,74,37,17,3
+Alexander,Non Pub Sch,30002002Z,25,0,Sandusky Christian School,Pastor Clark Short,25447 Big Bend Rd,Tamms,62988 3321,618747-2526,2-12,118,59,12,3
+Alexander,Non Pub Sch,30002004Y,14,0,Olive Branch Christian Academy,Paula Alderson,PO Box 250,Olive Branch,62969 0250,618776-6082,"1-2,4-10,12",118,59,12,3
+Alexander,Non Pub Sch,30002005X,14,0,Freedom Outreach School,Steve Watkins,PO Box 284,Vienna,62995 0284,618658-2772,"1,6,8,11",118,59,15,3
+Jackson,Non Pub Sch,30039001X,6,0,Christ Lutheran School,Mrs. Karen Hall,146 W Jacob Rd,Jacob,62950 2719,618763-4664,P-8,115,58,12,3
+Jackson,Non Pub Sch,30039002X,6,0,Immanuel Lutheran School,Mr. Jim Zobel,1915 Pine St,Murphysboro,62966 1935,618684-3012,P-8,115,58,12,3
+Jackson,Non Pub Sch,30039003X,10,0,St Andrews School,Ms. Jenny Martin,723 Mulberry St,Murphysboro,62966 2667,618687-2013,P-8,115,58,12,3
+Jackson,Non Pub Sch,30039004X,1,0,Carbondale New School,Ms. Carla Watts,1302 E Pleasant Hill Rd,Carbondale,62902 6103,618457-4765,P-8,118,59,12,3
+Jackson,Non Pub Sch,30039007Z,26,0,Trinity Christian School,Chris Hottensen,1218 W Freeman St,Carbondale,62901 2351,618529-3733,P-12,115,58,12,3
+Jackson,Non Pub Sch,30039009S,19,0,Brehm Preparatory School,Terri L Clough,950 S Brehm Ln,Carbondale,62901 5854,618457-0371,6-12,118,59,12,3
+Jackson,Non Pub Sch,30039010Z,1,0,Murphysboro Christian Academy,Gina C Noble,805 N 16th St,Murphysboro,62966 2902,618684-5083,P-12,115,58,12,3
+Perry,Non Pub Sch,30073002X,10,0,St Bruno,Mrs. Brittany Goldman,210 N Gordon St,Pinckneyville,62274 1126,618357-8276,P-8,116,58,12,3
+Perry,Non Pub Sch,30073007Z,14,0,Christian Fellowship Church Sch,Mr. Larry Bullock,PO Box 227,Du Quoin,62832 0227,618542-6800,P-12,116,58,12,3
+Pulaski,Non Pub Sch,30077001Z,14,0,Living Hope Flwshp Christian Sch,Collette Badgley,PO Box 111,Grand Chain,62941 0111,618634-2541,"K-5,10-12",118,59,12,3
+Pulaski,Non Pub Sch,30077002Z,2,0,Caledonia Christian Academy,Jennifer Windings,10076 State Highway 37,Olmsted,62970 2235,618742-8223,U,118,59,12,3
+Pulaski,Non Pub Sch,30077003X,14,0,SJPWC Prep Academy,Valencia Clark,PO Box 226,Pulaski,62976 0226,618342-6041,"P-1,3-5,7,U",118,59,12,3
+Kane,Non Pub Sch,31045001X,10,0,Annunciation,Ms. Jennifer Wardynski,1840 Church Rd,Aurora,60505 8730,630851-4300,P-8,83,42,11,3
+Kane,Non Pub Sch,31045002X,11,0,Aurora Seventh-Day Adventist Sch,Mrs. Teresa Smith,950 Mooseheart Rd,North Aurora,60542 6942,630896-5188,K-8,50,25,14,3
+Kane,Non Pub Sch,31045005Z,1,0,Elgin Academy,Mr. Seth L Hanford,350 Park St,Elgin,60120 4455,847695-0300,P-12,43,22,8,3
+Kane,Non Pub Sch,31045008X,10,0,Holy Angels,Tonya Forbes,720 Kensington Pl,Aurora,60506 4942,630897-3613,P-8,83,42,11,3
+Kane,Non Pub Sch,31045009X,16,0,Fox Valley Montessori,Denise Monnier,850 N Commonwealth Ave,Aurora,60506 2022,630896-7557,P-6,83,42,11,3
+Kane,Non Pub Sch,31045010X,6,0,Immanuel Lutheran School,Mrs. Sue Domeier,5 S Van Buren St,East Dundee,60118 2300,847428-1010,P-8,66,33,8,3
+Kane,Non Pub Sch,31045013Y,10,0,Aurora Central Catholic High Sch,Rev. F William Etheredge,1255 N Edgelawn Dr,Aurora,60506 1672,630907-0095,9-12,83,42,11,3
+Kane,Non Pub Sch,31045014Y,10,0,Marmion Academy,Mr. Anthony M Tinerella,1000 Butterfield Rd,Aurora,60502 9705,630897-6936,9-12,49,25,14,3
+Kane,Non Pub Sch,31045015Z,14,0,Mooseheart Child City and Sch Inc,Mr. Gary Urwiler,255 W James J Davis Dr,Mooseheart,60539 1025,630906-3601,P-12,49,25,14,3
+Kane,Non Pub Sch,31045017X,10,0,Our Lady of Good Counsel School,Mrs. Karen Behrns,601 Talma St,Aurora,60505 5220,630851-4400,P-8,83,42,11,3
+Kane,Non Pub Sch,31045019Y,10,0,Rosary High School,Sr. Ann Brummel,901 N Edgelawn Dr,Aurora,60506 1819,630896-0831,9-12,83,42,11,3
+Kane,Non Pub Sch,31045021X,10,0,St Catherine of Siena,Ms. Colleen Cannon,845 W Main St,West Dundee,60118 2050,847426-4808,P-8,66,33,6,3
+Kane,Non Pub Sch,31045022X,10,0,St Charles Borromeo,Ms. Maureen Jackson,288 E Jefferson Ave,Hampshire,60140 7641,847683-3450,P-8,65,33,14,3
+Kane,Non Pub Sch,31045023Y,10,0,St Edward Central Catholic H S,Ms. Barbara Villont,335 Locust St,Elgin,60123 6374,847741-7535,9-12,43,22,8,3
+Kane,Non Pub Sch,31045024X,6,0,St Johns Lutheran School,Mr. Steven W Moeller,109 N Spring St,Elgin,60120 5519,847741-7633,P-8,43,22,8,3
+Kane,Non Pub Sch,31045025X,10,0,St Joseph School,Peter Trumblay,274 Division St,Elgin,60120 5646,847931-2804,P-8,43,22,8,3
+Kane,Non Pub Sch,31045026X,10,0,St Joseph Elementary,Nancy Coughlin,706 High St,Aurora,60505 2232,630844-3781,P-8,83,42,11,3
+Kane,Non Pub Sch,31045027X,10,0,St Laurence School,Wendy Kelly,572 Standish St,Elgin,60123 6356,847468-6100,K-8,43,22,8,3
+Kane,Non Pub Sch,31045029X,10,0,St Mary School,Ms. Barbara Colandrea,103 S Gifford St,Elgin,60120 6504,847695-6609,K-8,43,22,8,3
+Kane,Non Pub Sch,31045032X,10,0,St Patrick School,Ms. Lori Brown,787 Crane Rd,St Charles,60175,630338-8100,K-8,65,33,6,3
+Kane,Non Pub Sch,31045033X,6,0,St Pauls Lutheran,Mrs. Diane Katz,85 S Constitution Dr,Aurora,60506 4472,630896-3350,P-8,50,25,11,3
+Kane,Non Pub Sch,31045034X,10,0,St Peter School,Mr. Robert F Williams,915 Sard Ave,Aurora,60506 5945,630892-1283,K-8,83,42,11,3
+Kane,Non Pub Sch,31045035X,10,0,St Peter,Ms. Tricia Weis,1881 Kaneville Rd,Geneva,60134 1801,630232-0476,P-8,65,33,14,3
+Kane,Non Pub Sch,31045037X,10,0,St Rita of Cascia,Mrs. Elizabeth Faxon,770 Old Indian Trl,Aurora,60506 2108,630892-0200,P-8,83,42,11,3
+Kane,Non Pub Sch,31045038X,10,0,St Therese of Jesus,Mr. Michael Neis,255 N Farnsworth Ave,Aurora,60505 3066,630898-0620,P-8,84,42,11,3
+Kane,Non Pub Sch,31045039X,10,0,St Thomas More,Sonja Keene,1625 W Highland Ave,Elgin,60123 5137,847742-3959,P-8,65,33,8,3
+Kane,Non Pub Sch,31045041X,27,0,Harvest Christian Academy,Dr. Ollie Gibbs,1000 N Randall Rd,Elgin,60123 7895,847214-3500,P-12,65,33,6,3
+Kane,Non Pub Sch,31045043X,10,0,St John the Evangelist,Mrs. Mary E Billmeyer,513 Parkside Cir,Streamwood,60107 1645,630289-3040,K-8,44,22,8,3
+Kane,Non Pub Sch,31045045Z,26,0,Aurora Christian Schools Inc,Dr. Stacy Beebe,2255 Sullivan Rd,Aurora,60506 6206,630892-1551,P-12,83,42,11,3
+Kane,Non Pub Sch,31045047X,1,0,Einstein Academy,Cathy Ilani,747 Davis Rd,Elgin,60123 1307,847697-3836,P-12,66,33,6,3
+Kane,Non Pub Sch,31045048X,6,0,Resurrection Lutheran School,Mr. Brad Essig,2567 W Sullivan Rd,Aurora,60506 1488,630907-1313,P-8,50,25,14,3
+Kane,Non Pub Sch,31045049X,26,0,Covenant Christian School,Mr. Phil Lundquist,10 N Edgelawn Dr,Aurora,60506 4318,630801-7955,P-8,83,42,11,3
+Kane,Non Pub Sch,31045051X,16,0,Mansio Mens Montessori,Janet Shanahan,102 Howard St,Geneva,60134 2318,630232-6750,"P,K",49,25,14,3
+Kane,Non Pub Sch,31045052X,16,0,Streamwood Montessori,Teresa Halvey,25 W Streamwood Blvd,Streamwood,60107 1344,630233-8567,"P,K",44,22,8,3
+Kane,Non Pub Sch,31045053X,14,0,Geneva Christian School,Brittany Smith,1745 Kaneville Rd,Geneva,60134 1800,630232-8533,P-6,65,33,14,3
+Kane,Non Pub Sch,31045054Z,27,0,Bible Baptist Christian Academy,Pastor Robert M Jacoby,1701 Papoose Rd,Carpentersville,60110 1238,847428-0870,"K-2,6-8",43,22,8,3
+Kane,Non Pub Sch,31045055X,10,0,Holy Cross Catholic School,Mr. Mike Puttin,2300 Main St,Batavia,60510 7625,630593-5290,K-8,50,25,14,3
+Kane,Non Pub Sch,31045056X,16,0,Cosmic Montessori Community,Silvia Dei Rossi,1310 Waterford Dr,Aurora,60504 5502,630585-8881,P-6,84,42,11,3
+Kane,Non Pub Sch,31045057X,1,0,Angel Outreach Inc,Dr. James Jorgenson,106 S Lincolnway Ste F,North Aurora,60542 1597,630801-1669,"3,5",83,42,11,3
+Kane,Non Pub Sch,31045058X,1,0,Shining Stars Early Learning Cntr,Magdalena Kusiak,100 Country Side Dr,Algonquin,60102 3972,847458-2595,"P,K",52,26,6,3
+Kane,Non Pub Sch,31045059Z,2,0,Betel Christian School,Dr. Elmer Fernandez,1315 W Lake St,Bartlett,60103 1547,630736-7300,P-12,45,2,6,3
+Kane,Non Pub Sch,31045068S,19,0,Larkin Center School,Richard Howard,4833 N Francisco Ave,Chicago,60625 3640,847888-9590,U,13,7,5,3
+Kane,Non Pub Sch,31045072Z,26,0,Westminster Christian School,Mr. Steve Hall,2700 W Highland Ave,Elgin,60124 7948,847695-0310,P-12,65,33,6,3
+Kane,Non Pub Sch,31045073X,16,0,Montessori Academy,Stacie Benjamin,595 S River St,Batavia,60510 2602,630879-2586,P-8,49,25,14,3
+Kane,Non Pub Sch,31045080X,20,0,Highland Christian Academy,Bill Warren,2250 W Highland Ave,Elgin,60123 4816,847741-5530,P-8,65,33,6,3
+Kane,Non Pub Sch,31045085X,26,0,Faith Christian Elem/Jr Hi Sch,Ruth V Clapper,1745 Kaneville Rd,Geneva,60134 1800,630232-7779,1-8,65,33,14,3
+Kane,Non Pub Sch,31045086X,1,0,Marie Wilkinson Child Dev Center,Sherri Penson,PO Box 1911,Aurora,60507 1911,630851-7772,P-5,83,42,11,3
+Kane,Non Pub Sch,31045087X,1,0,Summit School,Mrs. Johanna F White,333 W River Rd,Elgin,60123 1572,847468-0490,P-12,66,33,8,3
+Kane,Non Pub Sch,31045089X,16,0,Bridges Montessori Academy,Erin Kaminski,1713 Howard St,St Charles,60174 3622,630513-1686,P-5,65,33,14,3
+Kane,Non Pub Sch,31045090X,16,0,Childrens House Montessori School,Ms. Donna Butcher,417 W Main St,West Dundee,60118 2055,847426-3570,P-3,66,33,6,3
+Kane,Non Pub Sch,31045091X,2,0,Special Creations,Colleen Bandy,1735 W Highland Ave,Elgin,60123 5056,847695-7567,"P,K",65,33,8,3
+Kane,Non Pub Sch,31045093S,19,0,Clarewoods Academy,Mr. John Utterback,125 E Seminary Ave,Wheaton,60187 5308,630289-4221,1-12,42,21,6,3
+Kane,Non Pub Sch,31045097X,6,0,Immanuel Lutheran School,Ms. Donna Laughlin,950 Hart Rd,Batavia,60510 9346,630406-0157,P-8,49,25,14,3
+Kane,Non Pub Sch,31045098X,16,0,Montessori Childrens Garden,Mrs. Ricaphel Tumang,2300 Montgomery Rd,Aurora,60504 5712,630820-1010,P-3,84,42,11,3
+Kane,Non Pub Sch,31045103Y,23,0,Institute of Islamic Education,Mohammad Saleem,1048 Bluff City Blvd,Elgin,60120 7527,847695-4685,"6-12,U",43,22,8,3
+Kane,Non Pub Sch,31045104X,16,0,Kripa Montessori School,Nirmala Raveendran,379 Bartlett Plz,Bartlett,60103 4234,630830-8940,"P,K",45,23,8,3
+Kane,Non Pub Sch,31045105X,1,0,Chesterbrook Acad St Charles,Karen Okicich,600 Courtyard Dr,St Charles,60174 1410,630513-8282,P-5,49,25,6,3
+Kane,Non Pub Sch,31045106X,16,0,Prairie View Montessori,Donna Mishra,2624 Ginger Woods Pkwy,Aurora,60502 7443,630978-7786,"P,K",83,42,11,3
+Kane,Non Pub Sch,31045108X,16,0,Greenbrook Montessori School,Victor LaPorte,1675 Greenbrook Blvd,Hanover Park,60133 5340,630830-1675,"P,K",56,28,8,3
+Iroquois,Non Pub Sch,32038003X,6,0,St Johns Lutheran School,Mr. Timothy Oliver,PO Box 148,Buckley,60918 0148,217394-2422,P-8,106,53,16,3
+Iroquois,Non Pub Sch,32038004X,6,0,St Pauls Lutheran School,Ms. Pam Schippert,108 W Woodworth Rd,Milford,60953 6252,815889-4209,P-8,106,53,16,3
+Iroquois,Non Pub Sch,32038007Y,6,0,Christ Lutheran High School,Mrs. Sandra J Spitz,PO Box 8,Buckley,60918 0008,217394-2547,9-12,106,53,16,3
+Kankakee,Non Pub Sch,32046003X,1,0,L W C Academy,Roger Lane,164 E Oak St,Kankakee,60901 3827,815573-8826,P-6,79,40,2,3
+Kankakee,Non Pub Sch,32046009X,6,0,St Pauls Lutheran School,James F Krupski,1780 Career Center Rd,Bourbonnais,60914 5176,815932-3241,P-8,79,40,2,3
+Kankakee,Non Pub Sch,32046010X,16,0,The Orchard Montessori School,Meghan Wallace,875 Main St NW,Bourbonnais,60914 2314,815936-1900,"P,K",79,40,2,3
+Kankakee,Non Pub Sch,32046011X,10,0,Bishop McNamara Catholic School,Mr. Terry P Granger,550 W Brookmont Blvd,Kankakee,60901 2060,815932-7413,P-12,79,40,2,3
+Kankakee,Non Pub Sch,32046015Z,26,0,Grace Christian Academy,Steve Bull,2499 Waldron Rd,Kankakee,60901 5922,815939-4579,P-12,79,40,2,3
+Kankakee,Non Pub Sch,32046016Z,26,0,Kankakee Trinity Academy,Pastor Brad Prairie,1580 Butterfield Trl,Kankakee,60901 2933,815935-8080,P-12,79,40,2,3
+Kankakee,Non Pub Sch,32046017X,3,0,Unity Christian School,Ms. Trudy L Witvoet,920 W 2nd St,Momence,60954 1439,815472-3230,P-8,34,17,2,3
+Kankakee,Non Pub Sch,32046040Z,25,0,Gospel Assembly Christian Sch,Stephen R Wilkinson,1706 W State Route 102,Bourbonnais,60914 4354,815939-1511,K-12,79,40,2,3
+Kankakee,Non Pub Sch,32046043X,16,0,Kankakee Valley Montessori School,Tracy A Douglas,165 Mohawk Dr,Bourbonnais,60914 1349,815935-5867,U,79,40,2,3
+Knox,Non Pub Sch,33048003X,10,0,Costa Catholic School,Mrs. Jill Marasa,2726 Costa Dr,Galesburg,61401 1234,309344-3151,K-8,74,37,17,3
+Knox,Non Pub Sch,33048009Z,26,0,Galesburg Christian School,Mr. Robert Nutzhorn,746 Hawkinson Ave,Galesburg,61401 2441,309343-8008,P-12,74,37,17,3
+Warren,Non Pub Sch,33094001X,10,0,Immaculate Conception School,Mr. Randy Frakes,115 N B St,Monmouth,61462 1664,309734-6037,K-8,94,47,17,3
+Lake,Non Pub Sch,34049001X,1,0,A Village Green Montessori,Ann Phillips,125 W Church St,Libertyville,60048 2149,847281-9911,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049002X,1,0,Advocate Condell Day Center,Lynn Allison,700 Garfield Ave,Libertyville,60048 3135,847990-5824,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049003X,16,0,Montessori Sch of Lake Forest,Ms. Ann Jordahl,13700 W Laurel Dr,Lake Forest,60045 4540,847918-1000,P-9,59,30,10,3
+Lake,Non Pub Sch,34049005X,16,0,Deerfield Montessori School,Mr. Tony Kambich,760 North Ave,Deerfield,60015 2302,847945-7580,"P,K",58,29,10,3
+Lake,Non Pub Sch,34049006X,10,0,Holy Cross School,Mrs. Janice DiVincenzo,720 Elder Ln,Deerfield,60015 3149,847945-0135,P-8,58,29,10,3
+Lake,Non Pub Sch,34049009X,16,0,Riverwoods Montessori School,Mr. Tony Kambich,3140 Riverwoods Rd,Riverwoods,60015 1669,847945-7582,P-6,59,30,10,3
+Lake,Non Pub Sch,34049011X,16,0,Libertyville Montessori,Joan M Idstein,PO Box 654,Libertyville,60048 0654,847362-5170,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049012X,16,0,Montessori Sch of Long Grove,Lyn R Pearson,1115 Rfd,Long Grove,60047 9567,847634-0430,P-6,51,26,10,3
+Lake,Non Pub Sch,34049014X,10,0,Our Lady of Humility,Patrick Browne,10601 W Wadsworth Rd,Beach Park,60099 3558,847746-3722,P-8,61,31,10,3
+Lake,Non Pub Sch,34049015X,10,0,Prince of Peace,Mrs. Elizabeth B Brown,135 S Milwaukee Ave,Lake Villa,60046 8550,847356-6111,P-8,64,32,10,3
+Lake,Non Pub Sch,34049016X,10,0,St Anastasia,Dr. Kristine Hillmann,629 W Glen Flora Ave,Waukegan,60085 1835,847623-8320,P-8,60,30,10,3
+Lake,Non Pub Sch,34049017X,10,0,St Anne,Mrs. Dawn Kapka,319 Franklin St,Barrington,60010 3215,847381-0311,P-8,51,26,6,3
+Lake,Non Pub Sch,34049019X,10,0,St Bede,Patricia Strang,36399 N Wilson Rd,Ingleside,60041 9609,847587-5541,P-8,64,32,10,3
+Lake,Non Pub Sch,34049020X,10,0,St Francis De Sales,Mr. Roy J Rash,11 S Buesching Rd,Lake Zurich,60047 2569,847438-7921,P-8,51,26,6,3
+Lake,Non Pub Sch,34049021X,10,0,St Gilbert,Mr. Brian Tekampe,231 E Belvidere Rd,Grayslake,60030 2442,847223-8600,P-8,62,31,10,3
+Lake,Non Pub Sch,34049023X,10,0,St Joseph School,Anne Phoenix,221 Park Pl,Libertyville,60048 2241,847362-0730,P-8,51,26,10,3
+Lake,Non Pub Sch,34049024X,10,0,St Joseph,Mrs. Abbie L Miller,118 Lincoln Ave,Round Lake,60073 5008,847546-1720,P-8,62,31,10,3
+Lake,Non Pub Sch,34049025X,10,0,Most Blessed Trinity Academy,Mrs. Sandra Anderson,510 Grand Ave,Waukegan,60085 4251,847623-4110,P-8,60,30,10,3
+Lake,Non Pub Sch,34049026X,10,0,School of St Mary,Dr. Venette Biancalana,185 E Illinois Rd,Lake Forest,60045 1915,847234-0371,P-8,58,29,10,3
+Lake,Non Pub Sch,34049027X,10,0,St Mary of the Annunciation,Mrs. Tammy A Kleckner,22277 W Erhart Rd,Mundelein,60060 9551,847223-4021,P-5,51,26,14,3
+Lake,Non Pub Sch,34049028X,10,0,St Mary,Dr. Stephanie Stoneberg,50 N Buffalo Grove Rd,Buffalo Grove,60089 1702,847459-6270,P-8,57,29,10,3
+Lake,Non Pub Sch,34049029X,6,0,St Matthew Lutheran School,Mr. Doug Duval,24480 N Old McHenry Rd,Lake Zurich,60047 8400,847438-6103,"P,K",51,26,6,3
+Lake,Non Pub Sch,34049030X,10,0,St Patrick,Mrs. Mary Vitulli,15020 W Wadsworth Rd,Wadsworth,60083 9502,847623-8446,P-8,61,31,14,3
+Lake,Non Pub Sch,34049033X,11,0,Gurnee Christian School,Mr. Dwayne Clark,2190 Fuller Rd,Gurnee,60031 1910,847623-7773,K-8,61,31,14,3
+Lake,Non Pub Sch,34049034X,10,0,Transfiguration,Mrs. Tammy A Kleckner,316 W Mill St,Wauconda,60084 1832,847526-6311,P-5,62,31,14,3
+Lake,Non Pub Sch,34049036X,6,0,Immanuel Evangelical Lutheran,David Zank,1310 N Frolic Ave,Waukegan,60085 1357,847249-0011,P-8,60,30,10,3
+Lake,Non Pub Sch,34049038X,6,0,Our Saviors Ev Lutheran School,Pastor Jack Kelly,1800 23rd St,Zion,60099 2347,847872-5922,P-8,61,31,10,3
+Lake,Non Pub Sch,34049039X,6,0,Faith Evangelical Lutheran,Stephen Schultz,1275 Main St,Antioch,60002 2124,847395-1660,P-8,61,31,14,3
+Lake,Non Pub Sch,34049040X,1,0,Lake Forest Country Day School,Bob Whelan,145 S Green Bay Rd,Lake Forest,60045 3053,847234-2350,P-8,58,29,10,3
+Lake,Non Pub Sch,34049041X,10,0,East Lake Academy,Rosario Echavez,13911 W Laurel Dr,Lake Forest,60045 4530,847247-0035,P-8,59,30,10,3
+Lake,Non Pub Sch,34049042Z,26,0,Westlake Christian Academy,Jeffrey D Wilcox,275 S Lake St,Grayslake,60030 2318,847548-6209,P-12,62,31,10,3
+Lake,Non Pub Sch,34049043X,6,0,St Johns Lutheran School,Jon Woldt,501 W Park Ave,Libertyville,60048 2670,847367-1441,P-8,51,26,10,3
+Lake,Non Pub Sch,34049044Z,1,0,Ombudsman Programs,Lisa Schiesher,1585 N Milwaukee Ave,Libertyville,60048 1359,847367-6383,6-12,51,26,10,3
+Lake,Non Pub Sch,34049045Z,20,0,Lake County Baptist School,Pastor Timothy E Kowach,1550 W Yorkhouse Rd,Waukegan,60087 2282,847623-7600,P-12,60,30,10,3
+Lake,Non Pub Sch,34049046X,26,0,Shelia Daniels Christian Academy,Mrs. Patti Carlsen,3601 N Lewis Ave,Waukegan,60087 1516,847263-8147,P-8,60,30,10,3
+Lake,Non Pub Sch,34049048X,16,0,Forest Bluff School,Paula L Preschlack,8 W Scranton Ave,Lake Bluff,60044 2046,847295-8338,U,58,29,10,3
+Lake,Non Pub Sch,34049049Z,2,0,Zion Christian School,Valerie Burnette,1828 Hebron Ave,Zion,60099 1660,847872-4088,"P-9,11-12",61,31,10,3
+Lake,Non Pub Sch,34049051S,19,0,Allendale School,Jennifer Stiemsma,PO Box 1088,Lake Villa,60046 1088,847356-3334,"1-3,5-12,U",64,32,14,3
+Lake,Non Pub Sch,34049054S,19,0,Comm Alternative Renewal,Laura Franz,215 N Milwaukee Ave,Lake Villa,60046 8529,847245-6584,K-12,64,32,14,3
+Lake,Non Pub Sch,34049055Y,10,0,Cristo Rey St Martin,Mr. Michael Odiotti,501 S Martin Luther King Jr Ave,Waukegan,60085 6502,847623-5500,9-12,60,30,10,3
+Lake,Non Pub Sch,34049056X,1,0,First Steps Nursery School,Mrs. Jennifer Pelphrey,2163 N IL Route 83,Round Lake Beach,60073 4906,847223-1299,P-5,62,31,10,3
+Lake,Non Pub Sch,34049059X,1,0,Kinder Care,Heather Hajduk,599 Falling Waters Way,Lindenhurst,60046 1703,847245-4637,K,61,31,10,3
+Lake,Non Pub Sch,34049060Y,1,0,G K Chesterton Academy of Chicago,Mr. Roy M Postel,770 Deerfield Rd,Highland Park,60035 3516,888294-9991,9,58,29,10,3
+Lake,Non Pub Sch,34049061X,1,0,Da Vinci Waldorf School,Christine Grafft,150 W Bonner Rd,Wauconda,60084 3612,847526-1372,P-8,62,31,14,3
+Lake,Non Pub Sch,34049062X,5,0,Torah Academy,Mr. Steven Zehnwirth,720 Armstrong Dr,Buffalo Grove,60089 1884,773771-2613,P-7,57,29,10,3
+Lake,Non Pub Sch,34049067Y,10,0,Woodlands Acad of the Sacred Hrt,Meg Steele,760 E Westleigh Rd,Lake Forest,60045 3263,847234-4300,9-12,58,29,10,3
+Lake,Non Pub Sch,34049068Y,1,0,Lake Forest Academy,Chris Tennyson,1500 W Kennedy Rd,Lake Forest,60045 1047,847615-3210,9-12,58,29,10,3
+Lake,Non Pub Sch,34049069Y,10,0,Carmel Catholic High School,Mr. Mark Ostap,1 Carmel Pkwy,Mundelein,60060 2499,847566-3000,9-12,59,30,10,3
+Lake,Non Pub Sch,34049070X,26,0,Calvary Christian Center,Darla Tucker,134 Monaville Rd,Lake Villa,60046 5517,847356-6198,"P-6,U",64,32,10,3
+Lake,Non Pub Sch,34049072X,1,0,Poko Loko Early Learning Center,Paulette Kretschmar,1601 Northwind Blvd,Libertyville,60048 9613,847680-4433,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049073X,16,0,Country Meadows Montessori Sch,Mary Oyoung,6151 Washington St,Gurnee,60031 5307,847244-9352,P-8,61,31,14,3
+Lake,Non Pub Sch,34049079Z,27,0,Quentin Road Christian School,Pastor Jon Tanney,60 Quentin Rd,Lake Zurich,60047 1668,847438-4494,K-12,51,26,6,3
+Lake,Non Pub Sch,34049083X,16,0,Highland Park Montessori,Carol Lee,1301 Clavey Rd,Highland Park,60035 4539,847433-3383,"P,K",58,29,10,3
+Lake,Non Pub Sch,34049084X,1,0,Long Grove Country School,Karen Zaucha,20400 N Old Hicks Rd,Lake Zurich,60047 8995,847438-4834,"P,K",51,26,6,3
+Lake,Non Pub Sch,34049085X,16,0,Mundelein Montessori School,Ms. Carol Hofbauer,1401 S Lake St,Mundelein,60060 4208,847566-4345,P-1,59,30,10,3
+Lake,Non Pub Sch,34049086X,16,0,Childrens House Daycare Inc,Edward Berez,1220 S Lake St,Mundelein,60060 3706,847949-6340,"P,K",59,30,10,3
+Lake,Non Pub Sch,34049087X,16,0,Steppingstone Montessori School,Paula Folinazzo,101 S Beck Rd,Lindenhurst,60046 9655,847356-4282,"P,K",61,31,10,3
+Lake,Non Pub Sch,34049091X,16,0,Montessori World of Discovery,Carol Hofbauer,1395 N Arlington Heights Rd,Buffalo Grove,60089 1258,847415-2021,"P,K",59,30,10,3
+Lake,Non Pub Sch,34049092X,16,0,Dfld Montessori Childrens House,Mr. Tony Kambich,1500 Wilmot Rd,Deerfield,60015 2029,847945-7581,"P,K",58,29,10,3
+Lake,Non Pub Sch,34049097X,16,0,Montessori Childrens House,Anna Perry,115 Clover Hill Ln,N Barrington,60010 2187,847550-0917,"P,K",51,26,6,3
+Lake,Non Pub Sch,34049098X,16,0,Montessori Connection,Norma Morley,1731 Deerfield Rd,Highland Park,60035 3704,847831-9393,"P,K",58,29,10,3
+Lake,Non Pub Sch,34049101X,1,0,Lindenhurst Early Childhood Ctr,Frank Davis,309 Granada Blvd,Lindenhurst,60046 7738,847356-2288,"P,K",64,32,10,3
+Lake,Non Pub Sch,34049104X,16,0,Old School Montessori,Mrs. Cristina Youtsey,144 Commerce Dr,Grayslake,60030 7832,847223-9606,P-6,62,31,10,3
+Lake,Non Pub Sch,34049106X,16,0,Creative Care Childrens Ctr Inc,Marla S Thoma,1410 S Barrington Rd,Barrington,60010 7400,847382-2812,"P-6,U",52,26,6,3
+Lake,Non Pub Sch,34049107X,16,0,Alta Vista Montessori School,Sophia Ginder,1850 W Winchester Rd Ste 201,Libertyville,60048 5355,847918-1621,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049108S,19,0,CARE Day School,Ann Deuel,PO Box 1128,Lake Villa,60046 1128,847245-6584,6-12,64,32,14,3
+Lake,Non Pub Sch,34049109X,16,0,Childrens House,Angela Tossman,223 W Golf Rd,Libertyville,60048 3233,847816-3590,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049110X,16,0,Lincolnshire Montessori School,Mrs. Mina Dadrass,1970 Riverwoods Rd,Lincolnshire,60069 4005,847562-1662,"P,K",59,30,10,3
+Lake,Non Pub Sch,34049112X,1,0,Alices Discovery Center,Ronald Finch,PO Box 383,North Chicago,60064 0383,847688-0577,"P,K",60,30,10,3
+Lake,Non Pub Sch,34049113Y,1,0,Daisys Resource Optional School,Casandra Brooks,1919 Sherman Ave,North Chicago,60064 2317,847473-4898,10-12,60,30,10,3
+Lake,Non Pub Sch,34049114X,1,0,Lions Math & Science Christian,Dr. Gloria Jean Swopes,1011 Porter St,Waukegan,60085 3861,847360-1054,"P-1,U",60,30,10,3
+Lake,Non Pub Sch,34049117X,16,0,Montessori and Music Center,Celeste M De Guzman,1200 S Lake St,Mundelein,60060 3706,847566-7778,"P,K",59,30,10,3
+Lake,Non Pub Sch,34049119X,16,0,The Grove Montessori School,Mrs. Mina Dadrass,1660 Checker Rd,Long Grove,60047 5289,847562-1662,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049121X,16,0,Bright Beginnings Montessori,Patricia Clauss,620 Mullady Pkwy,Libertyville,60048 3729,847367-9505,"P,K",51,26,10,3
+Lake,Non Pub Sch,34049122X,1,0,Yachad Kids Academy,Iryna Kovalenko,701 W Aptakisic Rd,Buffalo Grove,60089 1059,847634-5600,"P,K",59,30,10,3
+Lake,Non Pub Sch,34049123X,10,0,Frassati Catholic Academy,Mrs. Tammy A Kleckner,316 W Mill St,Wauconda,60084 1832,847487-5600,6-8,62,31,14,3
+Lake,Non Pub Sch,34049124X,16,0,Vernon Hills Montessori Academy,Margarita Shvets,21 W Hawthorn Pkwy Ste 216,Vernon Hills,60061 1445,847918-0342,"P,K",59,30,10,3
+La Salle,Non Pub Sch,35050001X,10,0,Trinity Catholic Academy,Mr. Jerry Carls,650 4th St,La Salle,61301 2116,815223-8523,P-8,76,38,16,3
+La Salle,Non Pub Sch,35050002Z,26,0,Rhema Christian Academy,Rev. Tom Krieger,1634 N IL Route 23,Streator,61364 9406,815672-5751,"P,1-12",76,38,16,3
+La Salle,Non Pub Sch,35050012X,10,0,Peru Catholic School System,Mrs. Amy Perona,2003 5th St,Peru,61354 2502,815224-1914,P-8,76,38,16,3
+La Salle,Non Pub Sch,35050024X,10,0,St Michael the Archangel Sch,Mrs. Emily A Blumenshine,410 S Park St,Streator,61364 2960,815672-3847,P-8,76,38,16,3
+La Salle,Non Pub Sch,35050025X,10,0,Holy Family,Jyll Jasiek,336 Alice Ave,Oglesby,61348 1219,815883-8916,P-8,76,38,16,3
+La Salle,Non Pub Sch,35050028X,10,0,Holy Cross Elementary School,Anita Kobilsek,1008 Jefferson St,Mendota,61342 1550,815539-7003,P-8,76,38,16,3
+La Salle,Non Pub Sch,35050051S,19,0,Lighted Way Association Inc,Jane Duncan Wamhoff,941 6th St,La Salle,61301 2205,815224-1345,9-12,76,38,16,3
+La Salle,Non Pub Sch,35050054Z,20,0,LaSalle-Peru Christian School,Wesley A Waddle,PO Box 1043,La Salle,61301 3043,815223-1037,P-12,76,38,16,3
+La Salle,Non Pub Sch,35050057X,11,0,Seventh Day Adventist School,Laura Damon,3904 E 2603rd Rd,Sheridan,60551 9690,815496-2947,"1-6,8",75,38,16,3
+La Salle,Non Pub Sch,35050058X,16,0,Childrens Montessori School,Deb Selner,2218 Marquette Rd,Peru,61354 1538,815223-5382,P-3,76,38,16,3
+La Salle,Non Pub Sch,35050059Z,26,0,Midwest Center Christian Acad,Karen King,PO Box 1128,La Salle,61301 3128,815224-4077,"K,3-4,7-8,12",76,38,16,3
+La Salle,Non Pub Sch,35050060Z,10,0,Marquette Academy,Brooke Rick,1110 LA Salle St,Ottawa,61350 2021,815433-0125,P-12,76,38,16,3
+Macon,Non Pub Sch,39055001X,10,0,Holy Family School,Debra Alexander,2400 S Franklin Street Rd,Decatur,62521 5305,217423-7049,P-8,101,51,13,3
+Macon,Non Pub Sch,39055002X,10,0,Our Lady of Lourdes,Mr. Chris Uptmor,3950 Lourdes Dr,Decatur,62526 1755,217877-4408,P-8,96,48,13,3
+Macon,Non Pub Sch,39055004X,10,0,St Patrick Elem,Mrs. Jan Sweet,412 N Jackson St,Decatur,62523 1122,217423-4351,P-8,96,48,13,3
+Macon,Non Pub Sch,39055006Y,10,0,St Teresa High School,Mr. Larry Daly,2710 N Water St,Decatur,62526 4232,217875-2431,9-12,96,48,13,3
+Macon,Non Pub Sch,39055007X,26,0,Antioch Christian Academy,Shirley R Shaw,3475 N Maple Ave,Decatur,62526 1458,217875-0529,P-6,101,51,13,3
+Macon,Non Pub Sch,39055008Z,6,0,Lutheran School Association,Mr. Joel James Witt,2001 E Mound Rd,Decatur,62526 9305,217233-2001,K-12,96,48,13,3
+Macon,Non Pub Sch,39055009Y,25,0,Teen Challenge-Home for Girls,Joshua Winn,151 W Prairie Ave,Decatur,62523 1218,217423-9117,9-12,96,48,13,3
+Macon,Non Pub Sch,39055016Z,26,0,Decatur Christian School,Mr. Randy Grigg,137 S Grant St,Forsyth,62535 8938,217877-5636,P-12,101,51,13,3
+Macon,Non Pub Sch,39055020Z,26,0,Northwest Christian Campus,Alan Fella,1306 N Stanley Ave,Decatur,62526 3399,217429-0563,P-8,96,48,13,3
+Macon,Non Pub Sch,39055023Z,27,0,Hillside Bethel Tabernacle,Vickie Horath,3575 E Greenhill Rd,Decatur,62521 4103,217429-5590,P-12,96,48,13,3
+Macon,Non Pub Sch,39055024X,14,0,Maranatha Christian Academy,Debby Inman,555 W Imboden Dr,Decatur,62521 9069,217423-2452,P-7,101,51,13,3
+Macon,Non Pub Sch,39055025X,16,0,Prairie Flower Montessori School,Marianne Dunlap,3130 Turpin Rd,Decatur,62521 5957,217423-5200,P-3,101,51,13,3
+Piatt,Non Pub Sch,39074003X,16,0,Metamorphosis School,Cody Sanantonio,1202 1/2 N State St,Monticello,61856 1102,217762-9645,"P,K",101,51,13,3
+Piatt,Non Pub Sch,39074004X,14,0,Faith Christian School,Mrs. Theresa Peterson,980 Iron Horse Pl,Monticello,61856 8120,217762-7240,"P,K",101,51,13,3
+Piatt,Non Pub Sch,39074006Z,26,0,Monticello Christian Academy,Jeanne Shaffer,225 E Livingston St,Monticello,61856 1626,217762-3544,K-8,101,51,13,3
+Calhoun,Non Pub Sch,40007002X,10,0,St Mary School,Mrs. Brenda Paynic,PO Box 39,Brussels,62013 0039,618883-2124,"P,1-8",100,50,13,3
+Calhoun,Non Pub Sch,40007003X,10,0,St Norbert School,Ms. Rachel Baalman Friedel,401 Vineyard St,Hardin,62047 0620,618576-2514,K-8,100,50,13,3
+Greene,Non Pub Sch,40031001X,10,0,St John the Evangelist School,Mrs. Julie Lake,426 3rd St,Carrollton,62016 1319,217942-6814,P-8,100,50,13,3
+Jersey,Non Pub Sch,40042002X,10,0,St Francis/Holy Ghost School,Janet Goben,412 S State St,Jerseyville,62052 2240,618498-4910,P-8,100,50,13,3
+Macoupin,Non Pub Sch,40056002X,6,0,Zion Lutheran School,David M Manning,220 W Henry St,Staunton,62088 1819,618635-3060,P-8,95,48,13,3
+Madison,Non Pub Sch,41057001Z,2,0,Faith Baptist Academy,James L Mueller,3899 S State Route 159,Glen Carbon,62034 3020,618285-6411,U,112,56,13,3
+Madison,Non Pub Sch,41057002Z,20,0,Mississippi Valley Christian Sch,Mr. David Schneider,2009 Seminary St,Alton,62002 4775,618462-1071,P-12,111,56,12,3
+Madison,Non Pub Sch,41057003X,6,0,Holy Cross Lutheran School,Mrs. Nancy Lochmann,304 South St,Collinsville,62234 2619,618344-3145,P-8,112,56,15,3
+Madison,Non Pub Sch,41057004X,16,0,Montessori Childrens House,Mr. Roderick Connell,5800 Godfrey Rd,Godfrey,62035 2426,618467-3154,P-6,111,56,13,3
+Madison,Non Pub Sch,41057005Y,10,0,Marquette Catholic High School,Mr. Michael E Slaughter,219 E 4th St,Alton,62002 6242,618463-0580,9-12,111,56,12,3
+Madison,Non Pub Sch,41057006X,10,0,St Paul Catholic School,Mrs. Kathy L. Sherman,1416 Main St,Highland,62249 1655,618654-7525,P-8,108,54,15,3
+Madison,Non Pub Sch,41057007X,10,0,Our Lady Queen of Peace,Eve Remiszewski,618 N Prairie St,Bethalto,62010 1327,618377-6401,P-8,111,56,12,3
+Madison,Non Pub Sch,41057008Z,25,0,Word of Life Christian,Lisa Cochran,4870 Maryville Rd,Granite City,62040 2559,618931-3744,"P,2-6,8-10",111,56,12,3
+Madison,Non Pub Sch,41057009X,10,0,St Ambrose School,Ms. Jean Heil,822 W Homer M Adams Pkwy,Godfrey,62035 3335,618466-4216,P-8,111,56,13,3
+Madison,Non Pub Sch,41057011X,10,0,St Boniface,Sr. Anna Flanigan,128 N Buchanan St,Edwardsville,62025 1739,618656-6917,P-8,112,56,13,3
+Madison,Non Pub Sch,41057012X,10,0,St Elizabeth School,Mrs. Karen Jakich,2300 Pontoon Rd,Granite City,62040 4021,618877-3300,P-8,111,56,12,3
+Madison,Non Pub Sch,41057015X,10,0,Holy Family Catholic School,Margaret Holland Pennel,1900 Saint Clair Ave,Granite City,62040 5047,618877-5500,K-8,112,56,12,3
+Madison,Non Pub Sch,41057018X,2,0,Maryville Christian School,Mr. Brian Kamadulski,7110 State Route 162,Maryville,62062 8502,618505-7000,K-9,112,56,15,3
+Madison,Non Pub Sch,41057020Z,14,0,Rivers of Life Christian School,Pastor Travis Watkins,3131 E 23rd St,Granite City,62040 5913,618797-7933,K-12,112,56,12,3
+Madison,Non Pub Sch,41057021Y,1,0,DeWitt Private Academy,Alisa DeWitt,355 Kerns,Worden,62097 1298,618459-3209,9-12,95,48,13,3
+Madison,Non Pub Sch,41057023X,6,0,St Paul Lutheran,Dr. Bruce McLaughlin,112 N Border St,Troy,62294 1137,618667-6314,P-8,108,54,15,3
+Madison,Non Pub Sch,41057024X,6,0,St Peter Lutheran School,Melissa Burns,7182 Renken Rd,Dorsey,62021 1802,618888-2252,P-8,95,48,13,3
+Madison,Non Pub Sch,41057025X,14,0,Kingdom Adventure Center,Djamildo Graham,4064 Oakmont Dr # 4070,Pontoon Beach,62040 4355,618501-4141,P-1,112,56,13,3
+Madison,Non Pub Sch,41057026X,10,0,SS Peter and Paul School,Steve Westrick,210 N Morrison Ave,Collinsville,62234 3423,618344-5450,P-8,112,56,13,3
+Madison,Non Pub Sch,41057027X,6,0,Trinity Lutheran,Wesley D Jones,600 Water St,Edwardsville,62025 1764,618656-7002,P-8,112,56,13,3
+Madison,Non Pub Sch,41057030X,6,0,Zion Lutheran School,Mr. Joseph M. Snyder,625 Church Dr,Bethalto,62010 1830,618377-5507,P-8,111,56,12,3
+Madison,Non Pub Sch,41057033X,10,0,St Marys School,Diane Wepking,1802 Madison Ave,Edwardsville,62025 2620,618656-1230,P-8,112,56,13,3
+Madison,Non Pub Sch,41057035X,10,0,St Mary,Mrs. Judy Kulp,536 E 3rd St,Alton,62002 6301,618465-8523,P-8,111,56,12,3
+Madison,Non Pub Sch,41057036X,16,0,Metro East Montessori School,Ms. Bridget McGuire,4405 State Route 162,Granite City,62040 6412,618931-2508,P-9,112,56,12,3
+Madison,Non Pub Sch,41057044Z,2,0,Central Baptist School,Pastor Wayne Musatics,3940 Highway 111,Granite City,62040 4399,618931-0964,"1-6,8-12",111,56,12,3
+Madison,Non Pub Sch,41057055S,19,0,Catholic Childrens Home,Mrs. Kimberly Speidel,1400 State St,Alton,62002 3410,618465-3594,2-12,111,56,12,3
+Madison,Non Pub Sch,41057056S,19,0,Wm Bedell Achievemnt/Resource Ctr,Gary Osborne,400 S Main St,Wood River,62095 1426,618251-2175,U,111,56,12,3
+Madison,Non Pub Sch,41057058X,14,0,Evangelical School,Bill Bishop,1212 W Homer M Adams Pkwy,Godfrey,62035 3344,618466-1599,K-8,111,56,13,3
+Madison,Non Pub Sch,41057070Y,6,0,Metro-East Lutheran High School,Dr. Jay Krause,6305 Center Grove Rd,Edwardsville,62025 3317,618656-0043,9-12,112,56,13,3
+Madison,Non Pub Sch,41057073X,10,0,St Peter and Paul School,Harry Cavanaugh,801 State St,Alton,62002 6162,618465-8711,K-8,111,56,12,3
+Madison,Non Pub Sch,41057074X,10,0,St John Neumann,Laura Kretzer,142 Wilma Dr,Maryville,62062 5435,618345-7230,P-8,112,56,13,3
+Madison,Non Pub Sch,41057077Z,20,0,Bethel Christian Academy,Mrs. Ranell S Consiglio,PO Box 87207,South Roxana,62087 7207,618254-0188,P-12,49,25,8,3
+Madison,Non Pub Sch,41057078X,6,0,Good Shepherd Lutheran,Robert Mayhew,1300 Belt Line Rd,Collinsville,62234 4373,618344-3153,P-8,112,56,13,3
+Madison,Non Pub Sch,41057089Z,1,0,Lahr-Well Academy,Almeda Lahr-Well,903 N 2nd St,Edwardsville,62025 1556,618288-8024,"P-12,U",112,56,13,3
+Madison,Non Pub Sch,41057099X,26,0,Gateway Legacy Christian Academy,Ms. Melissa Morrison,97 Oaklawn Dr,Glen Carbon,62034 4067,618288-0452,P-12,112,56,13,3
+Madison,Non Pub Sch,41057100X,25,0,New Vision Christian Academy,Tanya Brown,512 Spring St,Alton,62002 6468,618463-1845,P-8,111,56,12,3
+Madison,Non Pub Sch,41057101Y,10,0,Father McGivney Catholic H S,Joe Lombardi,7190 Bouse Rd,Glen Carbon,62034 8538,618855-9010,9-12,112,56,13,3
+McHenry,Non Pub Sch,44063001X,6,0,Immanuel Lutheran School,Mr. Edward R Bower,300 S Pathway Ct,Crystal Lake,60014 6178,815459-1444,P-8,64,32,6,3
+McHenry,Non Pub Sch,44063002Y,6,0,Faith Lutheran High School,Chris Schoenleb,174 S McHenry Ave,Crystal Lake,60014 6007,815479-9305,9-12,64,32,6,3
+McHenry,Non Pub Sch,44063003X,10,0,St Peter and Paul,Mrs. Carolyn Strong,416 1st St,Cary,60013 2757,847639-3041,P-8,52,26,6,3
+McHenry,Non Pub Sch,44063004X,6,0,St Johns Lutheran School,Mr. Roger Kirsch,300 Jefferson St,Algonquin,60102 2633,847658-9311,P-8,52,26,6,3
+McHenry,Non Pub Sch,44063005X,10,0,St Margaret Mary,Mrs. Alison Mallo,119 S Hubbard St,Algonquin,60102 2807,847658-5313,P-8,52,26,6,3
+McHenry,Non Pub Sch,44063006X,16,0,Foundations Montessori School,Susan Baroni,2651 W Algonquin Rd,Algonquin,60102 9408,847458-3220,P-6,66,33,6,3
+McHenry,Non Pub Sch,44063007X,14,0,St Barnabas Christian Preschool and Kindergarten,Cheryl D Vaughn,8901 Cary Algonquin Rd,Cary,60013 2405,847516-4171,"P,K",52,26,6,3
+McHenry,Non Pub Sch,44063009X,10,0,St John The Baptist Catholic Sch,Julie Stark,2304 Church St,Johnsburg,60051 5912,815385-3959,P-8,63,32,14,3
+McHenry,Non Pub Sch,44063010X,10,0,Montini Catholic School,Mr. Mike Shukis,1405 N Richmond Rd,McHenry,60050 1459,815385-1022,P-8,63,32,14,3
+McHenry,Non Pub Sch,44063014X,10,0,St Mary School,Mr. Vincent Sossong,313 N Tryon St,Woodstock,60098 3242,815338-3598,K-8,63,32,14,3
+McHenry,Non Pub Sch,44063015X,6,0,Zion Lutheran School,Dr. Dan J Bertrand,408 Jackson St,Marengo,60152 3204,815568-5156,P-8,63,32,14,3
+McHenry,Non Pub Sch,44063016Y,10,0,Marian Central Catholic H S,Mr. Steven Baldwin,1001 McHenry Ave,Woodstock,60098 3035,815338-4220,9-12,63,32,14,3
+McHenry,Non Pub Sch,44063017X,10,0,St Thomas The Apostle,Deanne Roy,265 King St,Crystal Lake,60014 5739,815459-0496,K-8,64,32,6,3
+McHenry,Non Pub Sch,44063032X,16,0,Crystal Lake Montessori,Ms. Nancy Bauerband,3013 S Country Club Rd,Woodstock,60098 8017,815338-0013,P-8,64,32,14,3
+McHenry,Non Pub Sch,44063034X,6,0,Lord and Savior Lutheran,Mr. Joel Moeller,9300 Ridgefield Rd,Crystal Lake,60012 2758,815455-4175,P-8,64,32,14,3
+McHenry,Non Pub Sch,44063040X,26,0,Woodstock Christian School,Dorothy S Jones,1201 Dean St,Woodstock,60098 3803,815338-1316,P-8,63,32,14,3
+McHenry,Non Pub Sch,44063043X,16,0,Montessori Pathways,Alena Baradzina,133 Illinois St,Crystal Lake,60014 4428,815459-6727,P-6,64,32,14,3
+McHenry,Non Pub Sch,44063044X,16,0,Childrens Gate Montessori,Lorrie Hiatt,3419 Walkup Rd,Crystal Lake,60012 1108,815459-2646,"P,K",64,32,14,3
+McHenry,Non Pub Sch,44063045X,26,0,Trinity Oaks Christian Academy,Dr. Paul Wrobbel,233 Trinity Oaks Way,Cary,60013 2244,847462-5971,P-12,52,26,6,3
+McHenry,Non Pub Sch,44063046X,16,0,McHenry Montessori School,Lori A Lanphier,5213 W Elm St,Mchenry,60050 4026,815344-1015,"P,K",63,32,14,3
+McHenry,Non Pub Sch,44063050Y,19,0,Allendale-Stepping Stone West,Lisa West,1055 Lake Ave,Woodstock,60098 7409,815206-5725,7-12,63,32,14,3
+McHenry,Non Pub Sch,44063051X,6,0,Zion Lutheran School and Preschool,Carrie L Coats,4206 W Elm St,Mchenry,60050 4001,815385-4488,P-3,63,32,14,3
+Monroe,Non Pub Sch,45067001X,10,0,Immaculate Conception,Michael L Kish,321 S Metter Ave,Columbia,62236 2233,618281-5353,P-8,116,58,12,3
+Monroe,Non Pub Sch,45067003X,10,0,St Peter and Paul School,Lisa Buchheit,217 W 3rd St,Waterloo,62298 1344,618939-7217,P-8,116,58,12,3
+Monroe,Non Pub Sch,45067004Y,10,0,Gibault High School,Russell Hart,501 Columbia Ave,Waterloo,62298 1030,618939-3883,9-12,116,58,12,3
+Randolph,Non Pub Sch,45079001Z,26,0,Faith Christian School,Jonathan Brown,PO Box 342,Chester,62233 0342,618318-6861,K-9,116,58,12,3
+Randolph,Non Pub Sch,45079002X,6,0,St John Lutheran School,Wendy L Lochhead,302 W Holmes St,Chester,62233 1308,618826-4345,P-8,116,58,12,3
+Randolph,Non Pub Sch,45079003X,6,0,St Johns Lutheran School,Deitt Schneider,808 S Main St,Red Bud,62278 1243,618282-3873,P-8,116,58,12,3
+Randolph,Non Pub Sch,45079004X,6,0,St Marks Lutheran School,Mr. Larry Allen Luedders,504 N James St,Steeleville,62288 1433,618965-3838,P-8,116,58,12,3
+Randolph,Non Pub Sch,45079006X,6,0,Trinity Lutheran School,Mr. John Bione,10247 S Prairie Rd,Red Bud,62278 4611,618282-2881,P-8,116,58,12,3
+Randolph,Non Pub Sch,45079009X,10,0,St John the Baptist,Ms. Kristine S Hill,519 Hazel St,Red Bud,62278 1241,618282-3215,P-8,116,58,12,3
+Randolph,Non Pub Sch,45079010X,10,0,St Mary School,Janelle Robinson,835 Swanwick St,Chester,62233 1662,618826-3120,P-8,116,58,12,3
+Randolph,Non Pub Sch,45079011Y,6,0,Christ Our Savior Lutheran H S,Matthew Foster,810 Soldiers Way,Evansville,62242 0050,618853-7300,9-12,116,58,12,3
+Lee,Non Pub Sch,47052001X,10,0,St Anne School,Mrs. Karen Payan,1112 N Brinton Ave,Dixon,61021 1234,815288-5619,P-8,90,45,16,3
+Lee,Non Pub Sch,47052003X,10,0,St Mary Elem & Jr High School,Caroline Toppert,704 S Peoria Ave,Dixon,61021 3663,815284-6986,P-8,90,45,16,3
+Lee,Non Pub Sch,47052006Z,26,0,Faith Christian School,Linda Foster,7571 S Ridge Rd,Dixon,61021 9448,815652-4806,P-12,90,45,16,3
+Ogle,Non Pub Sch,47071003X,6,0,St Paul Lutheran School,Mr. Fred Wren,1415 10th Ave,Rochelle,61068 1233,815562-6323,P-8,90,45,16,3
+Whiteside,Non Pub Sch,47098001Z,3,0,Unity Christian School,Mr. Christopher Pluister,711 10th St,Fulton,61252 1265,815589-3912,P-12,71,36,17,3
+Whiteside,Non Pub Sch,47098002Y,10,0,Newman Central Catholic High Sch,Kathleen Howard,1101 W 23rd St,Sterling,61081 9043,815625-0500,9-12,71,36,17,3
+Whiteside,Non Pub Sch,47098004X,10,0,St Andrews,Mr. William Lemmer,701 11th Ave,Rock Falls,61071 1554,815625-1456,P-8,71,36,17,3
+Whiteside,Non Pub Sch,47098005X,10,0,St Mary,Rebecca Schmitt,6 W 6th St,Sterling,61081 3521,815625-2253,P-8,71,36,17,3
+Whiteside,Non Pub Sch,47098011Z,26,0,Sterling Christian School Assn,Jim Brotheridge,PO Box 40,Galt,61037 0040,815625-0309,P-12,71,36,17,3
+Whiteside,Non Pub Sch,47098012X,6,0,Christ Lutheran School,Mrs. Brandi Spreeman,2000 18th Ave,Sterling,61081 1600,815625-3800,P-8,71,36,17,3
+Peoria,Non Pub Sch,48072002X,6,0,Christ Lutheran School,Mr. Terry Mooney,1311 S Faraday Ave,Peoria,61605 3315,309637-1512,P-8,92,46,17,3
+Peoria,Non Pub Sch,48072003X,10,0,Holy Family Parish School,Jill Templin,2329 W Reservoir Blvd,Peoria,61615 4221,309688-2931,P-8,92,46,17,3
+Peoria,Non Pub Sch,48072004Z,26,0,Peoria Christian School,Mrs. Becky Gardner,3506 N California Ave,Peoria,61603 1106,309686-4500,P-12,92,46,17,3
+Peoria,Non Pub Sch,48072010X,10,0,St Edward School,Mike Domico,1221 N 5th St,Chillicothe,61523 1511,309274-2994,P-8,73,37,18,3
+Peoria,Non Pub Sch,48072012X,10,0,St Mark,Dr. Noreen Dillon,711 N Underhill St,Peoria,61606 2404,309676-7131,P-8,92,46,17,3
+Peoria,Non Pub Sch,48072013X,10,0,St Marys Parish Sch of Kickapoo,Mr. Rick Pantages,9910 W Knox St,Edwards,61528 9510,309691-3015,P-8,73,37,18,3
+Peoria,Non Pub Sch,48072017X,10,0,St Philomena School,Mrs. Jodi Peine,3216 N Emery Ave,Peoria,61604 1446,309685-1208,P-8,92,46,17,3
+Peoria,Non Pub Sch,48072018X,10,0,St Thomas the Apostle,Mrs. Maureen Bentley,4229 N Monroe Ave,Peoria Heights,61616 7640,309685-2533,P-8,92,46,18,3
+Peoria,Non Pub Sch,48072019X,10,0,St Vincent De Paul,Mrs. Patsy Santen,6001 N University St,Peoria,61614 4164,309691-5012,P-8,92,46,18,3
+Peoria,Non Pub Sch,48072020Y,10,0,Peoria Notre Dame High School,Mr. Randy Simmons,5105 N Sheridan Rd,Peoria,61614 4855,309691-8741,9-12,92,46,18,3
+Peoria,Non Pub Sch,48072021X,6,0,Concordia Lutheran School,Mr. Paul Thompson,2000 W Glen Ave,Peoria,61614 4643,309691-8921,K-8,92,46,18,3
+Peoria,Non Pub Sch,48072034X,16,0,Montessori School of Peoria,Mr. John Meredith Cox,3601 N North St,Peoria,61604 1548,309685-8995,P-6,92,46,17,3
+Peoria,Non Pub Sch,48072053S,19,0,Kiefer School,Gwynetta Bullock,2130 N Knoxville Ave,Peoria,61603 2460,309687-7236,K-12,92,46,17,3
+Peoria,Non Pub Sch,48072078X,5,0,Peoria Hebrew Day School,Kellie Wood,5614 N University St,Peoria,61614 4157,309692-2821,"P-3,5-8",92,46,18,3
+Peoria,Non Pub Sch,48072095Z,2,0,Calvary Baptist Academy,Melissa Passage,1028 W Cloverdale Rd,Chillicothe,61523 2247,309274-4343,P-12,73,37,18,3
+Peoria,Non Pub Sch,48072098Z,25,0,New Life Christian Academy,Rev. Jonathan M Lashley,3510 W Malone St,Peoria,61605 1261,309637-8359,1-12,92,46,17,3
+Peoria,Non Pub Sch,48072102X,1,0,Little Friends Learning Center,Elaine L Lundberg,1715 W Alta Rd,Peoria,61615 1205,309243-9000,"P,K",73,37,18,3
+Peoria,Non Pub Sch,48072109X,14,0,1 2 3 You N Me Preschool,Lori Flores,809 W Detweiller Dr,Peoria,61615 2149,309692-3470,"P,K",73,37,18,3
+Peoria,Non Pub Sch,48072110X,1,0,Peoria Academy,Mrs. Cheryl Murzyn,2711 W Willow Knolls Dr,Peoria,61614 1116,309692-7570,P-8,73,37,18,3
+Peoria,Non Pub Sch,48072112Y,6,0,R D Preus Evangelical Luthern H S,Rev. Craig Stanford,4911 N Knoxville Ave,Peoria,61614 4913,309691-5277,9-10,92,46,18,3
+Peoria,Non Pub Sch,48072113X,14,0,Daarul Uloom Islamic School,Ms. Mona Rustom,4125 W Charter Oak Rd,Peoria,61615 3208,309691-9089,"P-6,8-10",92,46,18,3
+Peoria,Non Pub Sch,48072114X,10,0,St Jude Catholic School,Sr. Maria Christi Nelson,10911 N Knoxville Ave,Peoria,61615 1114,309243-2493,P-8,73,37,18,3
+Peoria,Non Pub Sch,48072115X,1,0,Methodist Family CCC & Kindergarten,Lee Ann Mowers,415 NE Saint Mark Ct,Peoria,61603 3707,309671-5153,"P,K",92,46,17,3
+Peoria,Non Pub Sch,48072116Y,2,0,Future Academy of Peoria,Mr. Kenneth Drummond,1127 S Laramie St,Peoria,61605 1235,309676-4604,"12,U",92,46,17,3
+Peoria,Non Pub Sch,48072117X,1,0,Future Success Middle Sch,Kenneth Drummond,1127 S Laramie St,Peoria,61605 1235,309676-4604,6,92,46,17,3
+Rock Island,Non Pub Sch,49081001Y,10,0,Alleman High School,Mr. David Hobin,1103 40th St,Rock Island,61201 3114,309786-7793,9-12,72,36,17,3
+Rock Island,Non Pub Sch,49081006X,10,0,Seton Catholic School,Jane Barrett,1320 16th Ave,Moline,61265 3039,309757-5500,P-8,72,36,17,3
+Rock Island,Non Pub Sch,49081007X,6,0,St Pauls Lutheran School,Robert J Pagel,153 19th Ave,Moline,61265 3752,309762-4494,P-8,72,36,17,3
+Rock Island,Non Pub Sch,49081008X,16,0,Villa Montessori,Renee M Detloff,2100 48th St,Moline,61265 8904,309764-7047,K-6,72,36,17,3
+Rock Island,Non Pub Sch,49081009Y,26,0,Quad Cities Christian School,Mr. John Mutum,4000 11th St,Moline,61265 6863,309762-3800,6-12,72,36,17,3
+Rock Island,Non Pub Sch,49081010X,10,0,Our Lady of Grace Academy,Ms. Joan Leonard,603 18th Ave,East Moline,61244 2030,309755-9771,P-8,72,36,17,3
+Rock Island,Non Pub Sch,49081015X,10,0,Jordan Catholic School,Mr. Jacob Smithers,2901 24th St,Rock Island,61201 5310,309793-7366,P-8,72,36,17,3
+Rock Island,Non Pub Sch,49081019Z,20,0,East Moline Christian School,Rev. James R Patrick,900 46th Ave,East Moline,61244 4406,309796-1485,P-12,71,36,17,3
+Rock Island,Non Pub Sch,49081020Z,26,0,Temple Christian Academy,Connie Drumm,2305 7th Ave,Moline,61265 1546,309764-1302,P-7,72,36,17,3
+Saint Clair,Non Pub Sch,50082001X,2,0,First Baptist Academy,Mrs. Jackye Biehl,1111 E Highway 50,O Fallon,62269 2823,618726-6040,K-12,114,57,12,3
+Saint Clair,Non Pub Sch,50082003X,10,0,Blessed Sacrament,Claire Hatch,8809 W Main St,Belleville,62223 1705,618397-1111,P-8,113,57,12,3
+Saint Clair,Non Pub Sch,50082005Z,25,0,Apostolic Learning Academy,Kathy Creasy,400 Louisa Ave,Dupo,62239 1312,618286-4279,"4-8,10-12",116,58,12,3
+Saint Clair,Non Pub Sch,50082006X,6,0,Unity Lutheran Christian Elem Sch,Rev. Aaron Dickerson,1600 N 40th St,East Saint Louis,62204 1866,618874-6605,P-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082007X,10,0,Notre Dame Academy,Mrs. Linda Hobbs,200 S Second St.,Belleville,62220,618233-6414,P-8,113,57,12,3
+Saint Clair,Non Pub Sch,50082009X,10,0,Our Lady Queen of Peace,Michelle Tidwell,5915 N Belt W,Belleville,62223 4222,618234-1206,P-8,113,57,12,3
+Saint Clair,Non Pub Sch,50082010X,10,0,St Teresa,Mr. Skip Birdsong,1108 Lebanon Ave,Belleville,62221 4018,618235-4066,P-8,113,57,12,3
+Saint Clair,Non Pub Sch,50082015Z,20,0,Hope Christian Academy,Rev. Patricia M Whitley,4101 State Route 161 East,Belleville,62221 8602,618746-4872,P-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082017X,14,0,McCasland Temple Christian Acad,Roland Neal,6825 State St,East Saint Louis,62203 1666,618397-0155,,114,57,12,3
+Saint Clair,Non Pub Sch,50082020X,3,0,True Vine Christian Center,Sandra Rhodes,2241 Country Rd,Belleville,62221 2577,618257-8783,P-1,113,57,12,3
+Saint Clair,Non Pub Sch,50082021Z,2,0,Faith Baptist School,Mr. Brandon Ewing,413 E Main St,Belleville,62220 1611,618234-3391,P-12,113,57,12,3
+Saint Clair,Non Pub Sch,50082022X,1,0,Elite Scholars STEAM Academy,Mrs. Anetrise Jones,4510 N Illinois St Ste 5,Swansea,62226 1535,618726-2022,P-8,112,56,12,3
+Saint Clair,Non Pub Sch,50082023Z,27,0,Berean Christian School,Mr. William Root,5100 N Illinois St,Fairview Heights,62208 3412,618825-0609,"P-12,U",113,57,12,3
+Saint Clair,Non Pub Sch,50082024X,10,0,Sr Thea Bowman Catholic School,Mr. Daniel Nickerson,8213 Church Ln,East Saint Louis,62203 1852,618397-0316,K-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082027X,10,0,Holy Trinity Catholic Sch,Michael Edward Oslance,504 Fountains Pkwy,Fairview Heights,62208 2159,618628-7395,P-8,112,56,12,3
+Saint Clair,Non Pub Sch,50082028X,10,0,St Joseph School,John Correll,2 N Alton St,Freeburg,62243 1465,618539-3930,K-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082030X,10,0,Holy Childhood School,Mrs. Claudia J Dougherty,215 N John St,Mascoutah,62258 2213,618566-2922,P-8,108,54,12,3
+Saint Clair,Non Pub Sch,50082031X,10,0,St James Catholic School,Mr. Steve Kidd,412 W Washington St,Millstadt,62260 1162,618476-3510,P-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082032X,10,0,St Agatha School,Mrs. Sarah Lanham,207 S Market St,New Athens,62264 1423,618475-2170,P-8,116,58,12,3
+Saint Clair,Non Pub Sch,50082034X,10,0,St John the Baptist Catholic,Mr. Roy Monti,10 S Lincoln St,Smithton,62285 1614,618233-0581,P-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082036Y,10,0,Althoff Catholic High School,Mrs. Susan L Morford,5401 W Main St,Belleville,62226 4734,618235-1100,9-12,113,57,12,3
+Saint Clair,Non Pub Sch,50082041X,10,0,St Clare Catholic School,Mrs. Clarice McKay,214 W 3rd St,O Fallon,62269 2044,618632-6327,K-8,114,57,12,3
+Saint Clair,Non Pub Sch,50082065S,19,0,Hazel Bland Promise Center,Joyce A Williams,2900 State St,East Saint Louis,62205 2234,618274-3500,9-12,114,57,12,3
+Saint Clair,Non Pub Sch,50082070X,6,0,Zion Lutheran Belleville,Mrs. Ananda Baron,1810 McClintock Ave,Belleville,62221 6460,618234-0275,P-8,113,57,12,3
+Saint Clair,Non Pub Sch,50082074Y,1,0,Vincent Gray Academy,Mrs. Lillian Grinston,PO Box 428,East Saint Louis,62202 0428,618875-7880,9-12,114,57,12,3
+Saint Clair,Non Pub Sch,50082077Z,1,0,Governor French Academy,Mr. Phillip Paeltz,219 W Main St,Belleville,62220 1503,618233-7542,P-12,113,57,12,3
+Saint Clair,Non Pub Sch,50082084X,26,0,Legacy Christian Academy,Anita Gajewski,111 S 2nd St,Caseyville,62232 1519,618345-9571,P-8,112,56,12,3
+Saint Clair,Non Pub Sch,50082085X,16,0,Montessori School,Lindsay Lakin,2360 Country Rd,Belleville,62221 2570,618235-4289,"P,K",113,57,12,3
+Saint Clair,Non Pub Sch,50082088X,1,0,New Enterprise Academy,Lanette R Nowak,206 W Adams St,O Fallon,62269 1103,618632-1505,P-5,114,57,12,3
+Saint Clair,Non Pub Sch,50082089Y,1,0,Emiracle Academy,Pamela C Eubanks,311 S 41st St,Alorton,62207 2606,618874-2554,9-12,114,57,12,3
+Sangamon,Non Pub Sch,51084001X,10,0,Blessed Sacrament,Kathy Wear,748 W Laurel St,Springfield,62704 3653,217522-7534,P-8,99,50,13,3
+Sangamon,Non Pub Sch,51084002X,10,0,Cathedral Elem School,Mr. Tony Cerveny,815 S 6th St,Springfield,62703 2302,217523-2652,P-8,96,48,13,3
+Sangamon,Non Pub Sch,51084003X,10,0,Christ the King,Mrs. Pamela Fahey,1920 Barberry Dr,Springfield,62704 4113,217546-2159,P-8,99,50,18,3
+Sangamon,Non Pub Sch,51084004X,26,0,Springfield Christian Sch,Mr. Jeremiah Auble,2850 Cider Mill Ln,Springfield,62702 3303,217698-1933,K-8,99,50,18,3
+Sangamon,Non Pub Sch,51084005X,6,0,Concordia Lutheran,Janet Burmeister,2300 E Wilshire Rd,Springfield,62703 4949,217529-3309,P-8,99,50,13,3
+Sangamon,Non Pub Sch,51084006Y,6,0,Lutheran High School,Glenn Rollins,3500 W Washington St,Springfield,62711 7923,217546-6363,9-12,99,50,18,3
+Sangamon,Non Pub Sch,51084008X,16,0,Montessori Childrens House,Sue Harris,4147 Sandhill Rd,Springfield,62702 1114,217544-7702,U,87,44,18,3
+Sangamon,Non Pub Sch,51084009X,10,0,Little Flower School,Mr. Josh Ebener,900 Adlai Stevenson Dr,Springfield,62703 4219,217529-4511,P-8,99,50,13,3
+Sangamon,Non Pub Sch,51084010X,6,0,Our Saviors Lutheran School,Jill Gerberding,2645 Old Jacksonville Rd,Springfield,62704 3199,217546-4531,P-8,99,50,13,3
+Sangamon,Non Pub Sch,51084011Y,10,0,Sacred Heart/Griffin High School,Mrs. Kara Rapacz,1200 W Washington St,Springfield,62702 4770,217787-1595,9-12,99,50,13,3
+Sangamon,Non Pub Sch,51084013X,10,0,St Agnes School,Sr. Joan Sorge,251 N Amos Ave,Springfield,62702 4796,217793-1370,P-8,99,50,13,3
+Sangamon,Non Pub Sch,51084014X,10,0,St Aloysius School,Mr. Tom Weir,2125 N 21st St,Springfield,62702 1920,217544-4553,K-8,87,44,13,3
+Sangamon,Non Pub Sch,51084019X,10,0,St Patrick Grade School,Ms. Lori Loveless,1800 South Grand Ave E,Springfield,62703 2733,217523-7670,P-5,96,48,13,3
+Sangamon,Non Pub Sch,51084021X,6,0,Trinity Lutheran,Pamela Sausaman,515 S Macarthur Blvd,Springfield,62704 1744,217787-2323,P-8,99,50,13,3
+Sangamon,Non Pub Sch,51084025X,6,0,St Johns Lutheran Grade School,Mrs. Alissa Mercier,304 E Gibson St,New Berlin,62670 4623,217488-3190,1-8,99,50,18,3
+Sangamon,Non Pub Sch,51084032Z,20,0,Grace Baptist,Richard H Brady,2812 S Walnut St,Springfield,62704 5138,217522-2881,"4-7,9-10,12",99,50,13,3
+Sangamon,Non Pub Sch,51084040S,19,0,Hope School,Cliff Hathaway,15 East Hazel Dell Ln,Springfield,62712 4210,217585-5122,3-12,99,50,13,3
+Sangamon,Non Pub Sch,51084043Z,14,0,Calvary Academy,Donna J Squires,1730 W Jefferson St,Springfield,62702 3510,217546-9700,P-12,99,50,13,3
+Sangamon,Non Pub Sch,51084049X,16,0,Montessori School House of Spfld,Nils Westholm,717 Rickard Rd,Springfield,62704 1027,217787-5505,"P,K,U",99,50,18,3
+Tazewell,Non Pub Sch,53090001X,10,0,Blessed Sacrament,Mr. Michael Birdoes,233 E Greenwood St,Morton,61550 2553,309263-8442,P-8,88,44,18,3
+Tazewell,Non Pub Sch,53090003X,10,0,St Patrick,Doreen M Shipman,100 Harvey St,Washington,61571 2850,309444-4345,P-8,88,44,18,3
+Tazewell,Non Pub Sch,53090004X,10,0,St Joseph School,Mrs. Shannon K Rogers,300 S 6th St,Pekin,61554 4222,309347-7194,P-8,91,46,17,3
+Tazewell,Non Pub Sch,53090016Z,2,0,Faith Baptist Christian School,Rev. Shawn D Haynie,1501 Howard Ct,Pekin,61554 5734,309347-6178,P-12,91,46,17,3
+Tazewell,Non Pub Sch,53090017X,6,0,Good Shepherd Lutheran,Mrs. Reva Simpson,3201 Court St,Pekin,61554 6208,309347-2020,P-8,87,44,17,3
+Tazewell,Non Pub Sch,53090022X,6,0,Bethel Lutheran School,John Jacob,325 E Queenwood Rd,Morton,61550 9715,309266-6592,P-8,88,44,18,3
+Tazewell,Non Pub Sch,53090026Z,25,0,Christian Life Acad-133 S Highlnd,Rev. Ronald Talbot,129 S Highland St,Creve Coeur,61610 4017,309698-2273,"2,4,6-7,9-12",91,46,18,3
+Tazewell,Non Pub Sch,53090030X,14,0,Judah Preparatory Academy,Ms. Donna Du Bois,PO Box 410,Mackinaw,61755 0410,309359-4673,P-6,88,44,18,3
+Tazewell,Non Pub Sch,53090032Z,14,0,New Hope Christian Acacdemy,Marsha Stamper,1206 Arthur St,Pekin,61554 1722,309613-8345,"7-12,U",91,46,17,3
+Tazewell,Non Pub Sch,53090033Z,2,0,Il Central Christian School,Beth Freeman,22648 Grosenbach Rd,Washington,61571 9204,309698-2000,P-12,88,44,18,3
+Tazewell,Non Pub Sch,53090034Z,25,0,Tomorrows Hope Christian Acad,Donna Hall,246 Derby St,Pekin,61554 5562,309348-3813,4-12,91,46,17,3
+Woodford,Non Pub Sch,53102001X,10,0,St Marys School,Mr. Jim Dansart,PO Box 860,Metamora,61548 0860,309367-2528,K-8,73,37,18,3
+Woodford,Non Pub Sch,53102002Z,14,0,Countryside Private Sch,Chris Leman,775 County Rd 1700 E,Eureka,61530,309467-3535,K-12,106,53,18,3
+Vermilion,Non Pub Sch,54092001Z,20,0,First Baptist Christian School,Robert Lazzell,1211 N Vermilion St,Danville,61832 3050,217442-2434,P-12,104,52,15,3
+Vermilion,Non Pub Sch,54092002X,6,0,Danville Lutheran School,Mrs. Kimberly K Wright,1930 N Bowman Avenue Rd,Danville,61832 2298,217442-5036,P-8,104,52,15,3
+Vermilion,Non Pub Sch,54092003Y,10,0,Notre Dame De La Salette,Fr. Michael McMahon,5065 Olivet Rd,Georgetown,61846 6154,217662-2127,8-12,104,52,15,3
+Vermilion,Non Pub Sch,54092010Z,10,0,Schlarman Academy,Gail Lewis,2112 N Vermilion St,Danville,61832 1738,217442-3880,K-12,104,52,15,3
+Vermilion,Non Pub Sch,54092024Z,14,0,Danville Christian Academy,Mrs. Bonnie K Pirie,428 N Walnut St,Danville,61832 4528,217442-1373,P-12,104,52,15,3
+Vermilion,Non Pub Sch,54092025X,1,0,Rainbow of Hope,Ms. Susan Andrews,2201 Kickapoo Dr,Danville,61832 5382,217446-6750,P-1,104,52,15,3
+Will,Non Pub Sch,56099002X,10,0,Cathedral of St Raymond School,Ms. Marjorie HIll,608 N Raynor Ave,Joliet,60435 6028,815722-6626,P-8,86,43,11,3
+Will,Non Pub Sch,56099005X,10,0,Holy Family,Mr. Anthony Simone,600 Brook Forest Ave,Shorewood,60404 6002,815725-8149,P-8,97,49,11,3
+Will,Non Pub Sch,56099006X,11,0,Joliet SDA School,Cynthia J Ferguson,21514 W Division St,Lockport,60441 6535,815730-0664,K-9,98,49,11,3
+Will,Non Pub Sch,56099007Z,2,0,Romeoville Christian Academy,Mr. Mark Widmer,301 W Normantown Rd,Romeoville,60446 1249,815886-4850,P-12,85,43,3,3
+Will,Non Pub Sch,56099012Z,14,0,Cedi,Catherine Fox,535 Regent Rd,University Park,60466 3027,708534-7941,P-12,80,40,2,3
+Will,Non Pub Sch,56099013X,10,0,Providence Catholic Childrens Academy,Mrs. Laura McErlean,1800 W Lincoln Hwy,New Lenox,60451 1693,815485-7129,"P,K",37,19,11,3
+Will,Non Pub Sch,56099015X,10,0,St Mary Nativity,Larry White,702 N Broadway St,Joliet,60435 6319,815722-8518,P-8,86,43,11,3
+Will,Non Pub Sch,56099016X,1,0,Donnas House,Dr. Donna D Richardson,25450 S Stoney Island Ave,Crete,60417 8015,708367-1478,K-8,34,17,2,3
+Will,Non Pub Sch,56099017X,27,0,St Paul the Apostle,Mrs. Corinne Alimento,130 Woodlawn Ave,Joliet,60435 6737,815725-3390,P-8,86,43,11,3
+Will,Non Pub Sch,56099019X,16,0,Dr. Wolfes Montessori School,Doug Wolfe,22955 Folkestone Way,Frankfort,60423 1703,815531-7655,"P,K",80,40,1,3
+Will,Non Pub Sch,56099020X,10,0,St Andrew the Apostle School,Mrs. Carol Albreski,505 Kingston Dr,Romeoville,60446 1253,815886-5953,P-8,85,43,3,3
+Will,Non Pub Sch,56099021X,10,0,St Dennis,Lisa J Smith,1201 S Washington St,Lockport,60441 3569,815838-4494,P-8,85,43,3,3
+Will,Non Pub Sch,56099022X,10,0,St Joseph School,Lynne Scheffler,529 Madison St,Lockport,60441 3082,815838-8173,P-8,85,43,3,3
+Will,Non Pub Sch,56099023X,10,0,St Joseph,Colleen Domke,PO Box 70,Manhattan,60442 0070,815478-3951,P-8,80,40,1,3
+Will,Non Pub Sch,56099024X,10,0,St Mary,Mrs. Beth A Cunningham,11409 195th St,Mokena,60448 1265,708326-9330,P-8,37,19,1,3
+Will,Non Pub Sch,56099025X,10,0,St Mary Immaculate School,Mr. John Garvey,15629 S Route 59,Plainfield,60544 2695,815436-3953,P-8,97,49,11,3
+Will,Non Pub Sch,56099027X,10,0,St Rose School,Linda Bland,626 S Kankakee St,Wilmington,60481 1421,815476-6220,P-8,75,38,16,3
+Will,Non Pub Sch,56099028X,6,0,Zion Lutheran School,Rev. Aaron Moldenhauer,PO Box 369,Beecher,60401 0369,708946-2272,P-8,34,17,2,3
+Will,Non Pub Sch,56099029X,6,0,Ill Lutheran Elem Sch,Scott Sievert,448 Cass St,Crete,60417 2942,708672-5969,P-8,29,15,2,3
+Will,Non Pub Sch,56099030X,16,0,Midwest Christian Montessori Academy,Eileen K. Contos,151 E Briarcliff Rd,Bolingbrook,60440 3070,630783-8644,P-8,85,43,11,3
+Will,Non Pub Sch,56099031X,10,0,St Jude School,Luanne Watson,241 W 2nd Ave,New Lenox,60451 1724,815485-2549,P-8,37,19,11,3
+Will,Non Pub Sch,56099034Y,10,0,Providence Catholic High School,Rev. Richard J McGrath,1800 W Lincoln Hwy,New Lenox,60451 1693,815485-2136,9-12,37,19,11,3
+Will,Non Pub Sch,56099035Y,10,0,Joliet Catholic Academy,Jeffrey Budz,1200 N Larkin Ave,Joliet,60435 3777,815741-0500,9-12,98,49,3,3
+Will,Non Pub Sch,56099036Y,6,0,Illinois Lutheran High School,Joe Archer,1610 Main St,Crete,60417 3146,708672-3262,9-12,29,15,2,3
+Will,Non Pub Sch,56099037X,10,0,St Jude,Sr. Cecilia J Dulik,2204 McDonough St,Joliet,60436 1842,815729-0288,P-8,86,43,11,3
+Will,Non Pub Sch,56099038X,10,0,St Patrick,William W Eggebrecht,110 Willow Ave,Joliet,60436 1558,815726-2924,P-8,86,43,11,3
+Will,Non Pub Sch,56099044X,10,0,St Dominic,Sr. Marie Isaac Staub,420 E Briarcliff Rd,Bolingbrook,60440 3042,630739-1633,P-8,85,43,11,3
+Will,Non Pub Sch,56099047X,6,0,St Peter Lutheran School,Claudia Pautz,310 N Broadway St,Joliet,60435 7169,815722-3567,K-8,86,43,11,3
+Will,Non Pub Sch,56099048X,16,0,Joliet Montessori,Mrs. Carol Andrew,1600 Root St,Crest Hill,60403 1942,815741-4180,P-8,98,49,11,3
+Will,Non Pub Sch,56099053Z,2,0,Community Christian School,Mrs. Amy Mitchell,22811 S Cedar Rd,Manhattan,60442 9476,815485-2379,P-12,80,40,1,3
+Will,Non Pub Sch,56099073S,19,0,UCP of Illinois Prairieland,Mrs. Susan Knaperek,311 S Reed St,Joliet,60436 2050,815744-3500,P-12,86,43,11,3
+Will,Non Pub Sch,56099075S,19,0,Trinity Services Inc,Ms. Mimi Kolb,13318 W Lincoln Hwy,New Lenox,60451 9540,815463-0719,P-12,37,19,11,3
+Will,Non Pub Sch,56099082Z,26,0,Lighthouse Christian Academy,Steven Mcclure,1800 S Water St,Wilmington,60481 9660,815476-7997,P-3,75,38,16,3
+Will,Non Pub Sch,56099093X,26,0,Deer Creek Christian School,Mrs. Julie Wroughton,425 Exchange St,University Park,60484 2783,708672-6200,P-8,80,40,2,3
+Will,Non Pub Sch,56099094X,14,0,St Pauls Christian School,Rev. Peggy Johnson,PO Box 10,Monee,60449 0010,708534-8471,P-5,29,15,2,3
+Will,Non Pub Sch,56099095X,10,0,Noonan Elementary Academy,Mary E Murphy,19131 Henry Dr,Mokena,60448 8313,708479-8988,P-8,37,19,1,3
+Will,Non Pub Sch,56099096X,26,0,Trinity Christian School,Mr. Jon Vugteveen,901 Shorewood Dr,Shorewood,60404 7205,815577-9310,P-8,97,49,11,3
+Will,Non Pub Sch,56099098X,1,0,Triple R Child Care,Kevin Goodwin,9500 W La Porte Rd,Mokena,60448 8365,708479-4646,"P,K",37,19,1,3
+Will,Non Pub Sch,56099099Z,20,0,Heritage Christian School,Dr. Milton Jones,21739 S LA Grange Rd,Frankfort,60423 7478,815464-9100,P-12,80,40,1,3
+Will,Non Pub Sch,56099102X,1,0,Elite Childrens Academy,Alice S Mcnulty,23253 W Renwick Rd,Plainfield,60544 2311,815254-4911,P-2,98,49,11,3
+Will,Non Pub Sch,56099104X,1,0,Kids Station Inc,Patricia Reed,9453 Enterprise Dr,Mokena,60448 8319,708479-3999,"P,K",37,19,1,3
+Will,Non Pub Sch,56099109Z,26,0,Christs Academy,Sharon Meiergerd,22811 S Cedar Rd,Manhattan,60442 9476,815485-2833,P-12,80,40,1,3
+Will,Non Pub Sch,56099110X,1,0,Bobbie Noonans Child Care,Ms. Paula Egan,8717 W Lincoln Hwy,Frankfort,60423 9422,815469-2627,"P,K",37,19,1,3
+Will,Non Pub Sch,56099111X,1,0,Bobbie Noonans Child Care,Mrs. Lori Beasley,947 E Division St,Lockport,60441 4505,815838-2288,"P,K",85,43,3,3
+Will,Non Pub Sch,56099112X,1,0,Bobbie Noonans Child Care,Ms. Ruth Tyrrell,2504 Fairway Dr,Joliet,60435 5220,815741-2627,"P,K",86,43,11,3
+Will,Non Pub Sch,56099113X,1,0,Bobbie Noonans Child Care,Ms. Tara Heilmann,13230 W Cedar Creek Ct,Homer Glen,60491 6891,708301-3939,"P,K",82,41,3,3
+Will,Non Pub Sch,56099114X,16,0,Garden Gate Montessori School,Diane Brown,4998 Theodore St,Plainfield,60586 5779,815254-5012,"P,K",98,49,11,3
+Will,Non Pub Sch,56099117X,16,0,Little Explorers Montessori,Sherry Eubanks,175 Highpoint Dr,Romeoville,60446 3802,815886-4898,"P,K",98,49,11,3
+Will,Non Pub Sch,56099118X,23,0,Furqaan Academy,Mrs. Haiat Bousmaha,519 E Briarcliff Rd,Bolingbrook,60440 3003,630914-5015,P-12,85,43,11,3
+Will,Non Pub Sch,56099119X,14,0,Little Saints of God Academy,Beverly Cannon,590 N Pinecrest Rd,Bolingbrook,60440 2177,630739-7970,"P,K",85,43,11,3
+Will,Non Pub Sch,56099120Z,26,0,Families of Faith Christian Academy,Karen Blan,PO Box 277,Channahon,60410 0277,815521-1381,P-12,86,43,16,3
+Will,Non Pub Sch,56099121Z,14,0,Reflections of Grace Acad College Prep,Mr. Thomas Walker,14130 S Hemingway Cir,Plainfield,60544 6120,779456-2138,P-12,98,49,11,3
+Will,Non Pub Sch,56099122X,10,0,Mother Teresa Catholic Academy,Mrs. Annie Murray,24201 S Kings Rd,Crete,60417 9667,708672-3093,P-8,29,15,2,3
+Will,Non Pub Sch,56099123X,10,0,St Joseph Academy,Jan Novotny,51 W Jackson St,Joliet,60432 1729,815723-4567,P-7,86,43,11,3
+Will,Non Pub Sch,56099124X,1,0,The Learning Experience,Roxann Norman,20611 W Renwick Rd,Crest Hill,60403 9200,815838-6799,P-1,85,43,3,3
+Will,Non Pub Sch,56099729X,14,0,Foundations 4 Advancement,Ms. Wanikka Vance,32 E 34th St,Steger,60475 1702,708248-5926,P-5,29,15,2,3
+Will,Non Pub Sch,56099730X,1,0,Lil Miracles Childrens Center,Bonnie Hawkins,1 Emily Ct,Bolingbrook,60490 4922,630914-5075,P-4,97,49,14,3
+Will,Non Pub Sch,56099731X,16,0,Montessori of Plainfield,Mari Ann Unger,23616 W Main St,Plainfield,60544 3152,815254-0136,"P,K",97,49,14,3
+Will,Non Pub Sch,56099732X,16,0,Montessori of Frankfort,Linda Mora,12 W Sauk Trl,Frankfort,60423 1535,815469-3030,"P,K",80,40,1,3
+Will,Non Pub Sch,56099733X,16,0,Country Creek Montessori Sch,Linda Crawford,893 Country Creek Dr,New Lenox,60451 2355,815462-0935,"P,K",37,19,1,3

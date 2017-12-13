@@ -1,0 +1,399 @@
+name,city(ies),housed,black,low_income,transfers
+Gen George Patton SD 133,Riverdale,233,223,139,125
+Dolton SD 148,"Dolton, Riverdale",1922,1845,1819,497
+Calumet Public SD 132,Calumet Park,1083,844,891,208
+W Harvey-Dixmoor PSD 147,"Harvey, Dixmoor",1117,698,1093,181
+Dolton SD 149,"Dolton, South Holland, Calumet City",2671,2562,2656,425
+Harvey SD 152,Harvey,1904,1297,1897,267
+Country Club Hills SD 160,Country Club Hills,1194,1128,879,154
+CCSD 180,"Burr Ridge, Willowbrook",621,422,510,77
+Hoover-Schrum Memorial SD 157,Calumet City,875,647,699,107
+CCSD 168,Sauk Village,1374,1035,827,168
+Calumet City SD 155,Calumet City,1093,621,749,133
+Prairie-Hills ESD 144,"Hazel Crest, Country Club Hills, Markham, Oak Forest",2574,2154,2425,294
+Lincoln ESD 156,Calumet City,1023,561,906,102
+Forest Park SD 91,Forest Park,836,421,396,80
+Thornton Twp HSD 205,"Harvey, Dolton, South Holland",4857,4126,418,459
+Amandla Charter School,Chicago,278,270,65,26
+Bellwood SD 88,"Melrose Park, Stone Park, Bellwood",2301,1111,2177,203
+Park Forest SD 163,"Park Forest, Chicago Heights",1744,1471,1530,142
+Lindop SD 92,Broadview,407,322,221,33
+Hazel Crest SD 152-5,"Hazel Crest, Markham",980,848,886,75
+Pembroke CCSD 259,Hopkins Park,208,171,157,14
+Ford Heights SD 169,Ford Heights,419,390,409,28
+Burnham SD 154-5,Burnham,197,77,190,13
+Betty Shabazz  Internl Chrtr Sch,Chicago,561,558,352,37
+ESD 159,"Matteson, Richton Park",1888,1582,1400,123
+South Holland SD 150,South Holland,923,828,627,60
+Rich Twp HSD 227,"Park Forest, Olympia Fields, Richton Park",3005,2697,2420,192
+Matteson ESD 162,"Park Forest, Matteson, Olympia Fields, Richton Park",2415,2216,1878,154
+South Holland SD 151,"Harvey, South Holland, Phoenix",1562,944,1545,97
+Lansing SD 158,Lansing,2362,1226,1802,145
+Danville CCSD 118,Danville,5917,2510,4529,361
+Thornton Fractional Twp HSD 215,"Calumet City, Lansing",3098,1997,2311,188
+Posen-Robbins ESD 143-5,"Robbins, Posen",1583,545,1457,96
+Sunnybrook SD 171,Lansing,973,714,43,59
+Brookwood SD 167,Glenwood,1161,871,432,67
+Chicago Heights SD 170,"South Chicago Heights, Chicago Heights",2997,1007,2954,170
+Indian Springs SD 109,"Justice, Bridgeview",2736,451,1754,150
+Fairmont SD 89,Lockport,311,125,201,17
+Maywood-Melrose Park-Broadview 89,"Melrose Park, Maywood, Broadview",4990,1587,3262,268
+Atwood Heights SD 125,"Merrionette Park, Oak Lawn, Alsip",660,96,294,34
+Horizon Science Acad-Belmont,Chicago,495,341,405,22
+Sandridge SD 172,Lynwood,355,196,197,15
+Proviso Twp HSD 209,"Hillside, Maywood, Forest Park",4215,1800,1762,174
+Crete Monee CUSD 201U,"Park Forest, Crete, Monee, University Park",4679,2899,3233,173
+Bloom Twp HSD 206,Chicago Heights,2949,1489,2383,109
+CHSD 218,"Blue Island, Oak Lawn, Palos Heights",5097,1433,5072,186
+Evergreen Park CHSD 231,Evergreen Park,855,279,191,31
+DeKalb CUSD 428,"Dekalb, Cortland, De Kalb, Malta, DeKalb",6226,1142,3696,223
+Cook County SD 130,"Blue Island, Alsip, Crestwood",3409,771,2370,120
+Evergreen Park ESD 124,Evergreen Park,1813,474,791,61
+Midlothian SD 143,Midlothian,1781,466,1327,55
+Flossmoor SD 161,"Flossmoor, Chicago Heights",2297,1486,1081,70
+Zion ESD 6,Zion,2513,1057,2174,76
+Springfield SD 186,Springfield,14025,5643,8916,419
+Bremen CHSD 228,"Country Club Hills, Tinley Park, Oak Forest, Midlothian",4961,1758,1948,147
+Carbondale ESD 95,Carbondale,1486,676,686,44
+Berwyn North SD 98,Berwyn,3085,315,2707,85
+North Chicago SD 187,"North Chicago, Great Lakes",2962,1042,2649,77
+La Salle ESD 122,La Salle,847,54,677,22
+Darien SD 61,Darien,1480,176,563,37
+Alsip-Hazlgrn-Oaklwn SD 126,Alsip,1614,220,947,36
+Kankakee SD 111,Kankakee,4799,2299,2736,107
+Freeport SD 145,Freeport,3995,972,2656,89
+Taft SD 90,Lockport,315,6,115,7
+Rockford SD 205,"Rockford, Cherry Valley",26296,7888,13464,579
+Marquardt SD 15,"Glendale Heights, Bloomingdale",2615,342,1913,57
+Rantoul City SD 137,Rantoul,1679,483,1668,36
+Berkeley SD 87,"Northlake, Berkeley",851,188,714,18
+Homewood Flossmoor CHSD 233,Flossmoor,2724,1868,619,57
+Argo CHSD 217,Summit,1831,243,762,38
+Carbon Cliff-Barstow SD 36,Silvis,291,89,262,6
+Joliet PSD 86,Joliet,11059,2495,10870,227
+Mount Vernon SD 80,Mount Vernon,1389,388,1143,28
+Oak Park ESD 97,Oak Park,6094,1067,1100,119
+Waukegan CUSD 60,Waukegan,16146,2327,11394,311
+Willow Springs SD 108,Willow Springs,365,16,224,7
+Woodridge SD 68,Woodridge,2935,401,1336,56
+Westchester SD 92-5,Westchester,1131,277,418,21
+Galesburg CUSD 205,Galesburg,4225,576,2607,77
+Bloomington SD 87,Bloomington,5066,1146,2935,88
+Carbondale CHSD 165,Carbondale,988,280,579,17
+Thornton SD 154,Thornton,237,53,81,4
+Salt Creek SD 48,"Oakbrook Terrace, Elmhurst, Villa Park",482,39,196,8
+Steger SD 194,Steger,1452,397,1122,24
+Rhodes SD 84-5,River Grove,693,44,571,11
+Chicago Ridge SD 127-5,Chicago Ridge,1451,117,879,23
+Laraway CCSD 70C,Joliet,457,226,346,7
+Miller Twp CCSD 210,Marseilles,198,0,41,3
+Pleasant Valley SD 62,Peoria,530,281,477,8
+Komarek SD 94,North Riverside,544,72,232,8
+East Coloma - Nelson CESD 20,Rock Falls,273,7,129,4
+Hillside SD 93,Hillside,480,217,352,7
+Urbana SD 116,Urbana,4024,1424,2776,58
+Oak Park - River Forest SD 200,Oak Park,3294,740,633,46
+Keeneyville SD 20,"Hanover Park, Roselle",1508,231,599,21
+Valley View CUSD 365U,"Bolingbrook, Romeoville",16520,3275,10268,229
+Rockdale SD 84,Rockdale,291,24,218,4
+Decatur SD 61,Decatur,8517,3919,4637,112
+Mazon-Verona-Kinsman ESD 2C,Mazon,309,1,101,4
+Homewood SD 153,Homewood,1939,939,729,25
+Macomb CUSD 185,Macomb,1949,185,903,25
+Rock Island SD 41,"Milan, Rock Island",6120,1947,3933,78
+St Anne CHSD 302,Saint Anne,239,91,186,3
+SD 45 DuPage County,"Lombard, Villa Park",3485,240,1743,43
+Arbor Park SD 145,"Tinley Park, Oak Forest",1389,195,559,17
+Kewanee CUSD 229,"Neponset, Kewanee",1843,188,1376,22
+Oak Lawn-Hometown SD 123,"Hometown, Oak Lawn",3182,204,1443,37
+Cicero SD 99,Cicero,12070,243,10673,139
+Evanston CCSD 65,"Skokie, Evanston",7556,1657,2853,86
+Chicago Lighthouse Chtr Sch,Chicago,176,175,163,2
+Horizon Science Acad-McKinley Pk,Chicago,725,33,611,8
+Summit SD 104,"Summit, Bedford Park",1824,94,1546,20
+Silvis SD 34,"Silvis, East Moline",653,77,389,7
+Richland GSD 88A,Crest Hill,934,136,412,10
+CUSD 300,"Lake In The Hills, Lake in the Hills, Gilberts, Hampshire, Dundee, West Dundee, Algonquin, Sleepy Hollow, Carpentersville, Pingree Grove",20321,994,8794,215
+Peoria SD 150,"Peoria, West Peoria",12634,7190,9167,131
+East Moline SD 37,"East Moline, Silvis",2736,606,2680,28
+Champaign CUSD 4,"Champaign, Savoy",9625,3364,5280,98
+Queen Bee SD 16,Glendale Heights,1871,99,786,19
+Mattoon CUSD 2,Mattoon,3282,142,1976,33
+Lockport SD 91,Lockport,629,9,181,6
+Maercker SD 60,"Westmont, Willowbrook, Clarendon Hills",1390,114,493,13
+Plano CUSD 88,Plano,2410,238,1449,22
+Pleasant Hill SD 69,Peoria,228,50,184,2
+Joliet Twp HSD 204,Joliet,6388,1356,3999,55
+Niles ESD 71,Niles,585,12,229,5
+Unity Point CCSD 140,Carbondale,702,99,417,6
+Aurora East USD 131,Aurora,13581,1018,10197,115
+McLean County USD 5,"Bloomington, Hudson, Carlock, Towanda, Normal",13357,1582,4274,109
+Pontiac CCSD 429,Pontiac,1247,42,729,10
+Gurnee SD 56,"Wadsworth, Gurnee",2055,398,617,16
+Hinsdale Twp HSD 86,"Hinsdale, Darien",4273,362,680,33
+Zion-Benton Twp HSD 126,Zion,2590,713,1538,20
+CUSD 201,Westmont,1300,102,481,10
+Lyons SD 103,"Stickney, Lyons, Brookfield",2494,111,1762,19
+Rantoul Township HSD 193,Rantoul,788,200,494,6
+Mendota CCSD 289,Mendota,1187,26,649,9
+J S Morton HSD 201,"Berwyn, Cicero",8186,318,7247,62
+Oak Lawn CHSD 229,Oak Lawn,1726,114,665,13
+Central Stickney SD 110,Chicago,400,3,287,3
+Lombard SD 44,Lombard,3161,165,1033,23
+Aurora West USD 129,"Aurora, North Aurora, Montgomery",11872,1344,6570,86
+Galena USD 120,Galena,835,19,325,6
+River Grove SD 85-5,River Grove,701,12,438,5
+High Mount SD 116,Swansea,422,140,304,3
+Cairo USD 1,Cairo,425,356,424,3
+Berwyn South SD 100,Berwyn,3832,122,2908,27
+North Palos SD 117,"Hickory Hills, Palos Hills",3329,168,1977,23
+Fairfield PSD 112,Fairfield,725,33,395,5
+Schaumburg CCSD 54,"Hoffman Estates, Elk Grove Village, Hanover Park, Schaumburg, Roselle",14220,851,2892,97
+Burbank SD 111,Burbank,3542,57,1935,24
+Addison SD 4,Addison,4001,80,2668,27
+Forest Ridge SD 142,Oak Forest,1649,137,636,11
+Mannheim SD 83,"Northlake, Melrose Park",2556,34,1975,17
+SD U-46,"Carol Stream, Elgin, Hanover Park, Hoffman Estates, South Elgin, Wayne, Bartlett, Streamwood",38486,2384,23480,249
+Worth SD 127,Worth,1095,36,601,7
+Chaney-Monge SD 88,Crest Hill,471,53,322,3
+Downers Grove GSD 58,Downers Grove,5140,200,599,32
+Lincoln ESD 27,Lincoln,1154,48,620,7
+Troy CCSD 30C,"Shorewood, Plainfield, Joliet",3636,404,1281,22
+Bensenville SD 2,Bensenville,2161,67,1447,13
+Brookfield Lagrange Park SD 95,"La Grange Park, Brookfield",1180,21,210,7
+DuPage HSD 88,"Addison, Villa Park",3892,220,1927,23
+Mt Vernon Twp HSD 201,Mount Vernon,1190,173,663,7
+Comm Cons SD 59,"Arlington Heights, Elk Grove Village, Des Plaines, Mt Prospect",6803,244,4038,40
+CCSD 62,Des Plaines,4682,199,2478,27
+Bushnell Prairie City CUSD 170,Bushnell,710,4,372,4
+Elwood CCSD 203,Elwood,360,16,93,2
+CCSD 89,"Glen Ellyn, Wheaton",2188,158,435,12
+Skokie SD 68,Skokie,1826,178,891,10
+Ridgeland SD 122,"Bridgeview, Oak Lawn",2375,102,1636,13
+Skokie SD 69,"Skokie, Morton Grove",1674,165,890,9
+Beach Park CCSD 3,"Wadsworth, Beach Park",2248,499,1137,12
+West Chicago ESD 33,West Chicago,4141,103,2320,22
+Grant CCSD 110,Fairview Heights,565,229,296,3
+Litchfield CUSD 12,Litchfield,1322,15,756,7
+Riverside SD 96,"Riverside, Brookfield",1730,38,302,9
+Evanston Twp HSD 202,Evanston,3285,966,1331,17
+Thomasboro CCSD 130,Thomasboro,194,5,134,1
+CHSD 99,Downers Grove,4862,439,1126,25
+Ottawa ESD 141,Ottawa,2012,55,1060,10
+Lebanon CUSD 9,Lebanon,610,147,285,3
+Center Cass SD 66,"Downers Grove, Darien",1018,30,158,5
+Charleston CUSD 1,"Charleston, Ashmore",2751,123,1322,13
+Gavin SD 37,Ingleside,848,32,512,4
+Serena CUSD 2,"Earlville, Sheridan, Serena",651,14,231,3
+Grand Ridge CCSD 95,Grand Ridge,220,0,81,1
+Reavis Twp HSD 220,Burbank,1780,37,886,8
+Antioch CCSD 34,"Antioch, Lake Villa",2906,105,772,13
+St George CCSD 258,Bourbonnais,449,45,120,2
+Rosemont ESD 78,Rosemont,229,3,75,1
+Meridian CUSD 101,Mounds,470,262,468,2
+Streator Twp HSD 40,Streator,942,43,521,4
+Lisle CUSD 202,Lisle,1433,123,433,6
+Schiller Park SD 81,Schiller Park,1444,25,851,6
+CCSD 93,"Carol Stream, Hanover Park, Bloomingdale",3610,234,1396,15
+Indian Prairie CUSD 204,"Bolingbrook, Aurora, Naperville",27145,2436,4464,110
+CUSD 200,"Warrenville, Wheaton, Winfield",12532,805,3459,50
+Glen Ellyn SD 41,Glen Ellyn,3553,126,840,14
+Sterling CUSD 5,Sterling,3323,104,1767,13
+Naperville CUSD 203,"Lisle, Naperville",16125,754,2595,63
+River Ridge CUSD 210,Hanover,514,17,235,2
+Glenbard Twp HSD 87,"Carol Stream, Glen Ellyn, Lombard",7970,646,2719,31
+Pana CUSD 8,Pana,1300,7,809,5
+Bourbonnais SD 53,Bourbonnais,2372,280,1105,9
+Whiteside SD 115,Belleville,1326,680,739,5
+Saratoga CCSD 60C,Morris,803,19,278,3
+Plainfield SD 202,"Joliet, Plainfield, Bolingbrook",26559,2693,7022,99
+Summersville SD 79,Mount Vernon,275,2,142,1
+Elmwood Park CUSD 401,Elmwood Park,2751,63,1419,10
+La Grange SD 105 South,"La Grange, Countryside, Hodgkins",1402,42,564,5
+Yorkville CUSD 115,"Bristol, Yorkville",6011,336,966,21
+Round Lake CUSD 116,"Round Lake Park, Round Lake Heights, Round Lake, Round Lake Beach, Lake Villa",6918,490,4546,24
+Bradley Bourbonnais CHSD 307,Bradley,2053,216,874,7
+Township HSD 211,"Hoffman Estates, Palatine, Schaumburg",11633,612,4081,39
+Peru ESD 124,Peru,913,14,418,3
+Central City SD 133,Centralia,307,6,286,1
+Marion CUSD 2,"Creal Springs, Marion",4044,371,1874,13
+Herrin CUSD 4,Herrin,2501,110,1467,8
+Orland SD 135,Orland Park,5008,224,844,16
+La Grange SD 102,"La Grange, La Grange Park, Brookfield",3132,183,572,10
+Centralia SD 135,Centralia,1268,218,1255,4
+Palatine CCSD 15,"Hoffman Estates, Palatine, Rolling Meadows",12139,368,5145,38
+Rock Falls Twp HSD 301,Rock Falls,648,11,333,2
+Franklin Park SD 84,Franklin Park,1300,3,807,4
+Donovan CUSD 3,Donovan,325,12,164,1
+LEARN 9 Chtr  Campus in Waukegan,Waukegan,328,66,117,1
+United Twp HSD 30,East Moline,1668,208,990,5
+St Anne CCSD 256,Saint Anne,337,7,197,1
+Limestone CHSD 310,Peoria,1015,106,450,3
+CCSD 146,"Tinley Park, Oak Forest, Orland Park",2398,118,860,7
+Palos Heights SD 128,Palos Heights,687,11,80,2
+Signal Hill SD 181,Belleville,348,158,167,1
+Skokie SD 73-5,Skokie,1059,78,313,3
+Kirby SD 140,"Tinley Park, Orland Park",3597,107,493,10
+Ball Chatham CUSD 5,Chatham,4712,269,918,13
+Century CUSD 100,Ullin,368,56,236,1
+Lockport Twp HSD 205,Lockport,3709,224,641,10
+Cons HSD 230,"Orland Hills, Palos Hills, Orland Park",7426,340,1381,20
+Lake Park CHSD 108,Roselle,2601,152,482,7
+Avoca SD 37,"Wilmette, Glenview",748,7,62,2
+Momence CUSD 1,Momence,1130,192,680,3
+Peoria Heights CUSD 325,Peoria Heights,785,94,677,2
+Murphysboro CUSD 186,Murphysboro,1997,338,1966,5
+North Wayne CUSD 200,"Mount Erie, Johnsonville, Cisne",400,0,189,1
+Streator ESD 44,Streator,1614,84,1212,4
+Riverside-Brookfield Twp SD 208,Riverside,1619,92,324,4
+La Salle-Peru Twp HSD 120,La Salle,1218,33,481,3
+Manteno CUSD 5,Manteno,2048,41,724,5
+Quincy SD 172,Quincy,5761,567,3314,14
+Harmony Emge SD 175,Belleville,826,337,564,2
+Morris CHSD 101,Morris,844,9,213,2
+Fairfield Comm H S Dist 225,Fairfield,423,3,178,1
+Moline-Coal Valley CUSD 40,"Moline, Coal Valley",6891,600,3518,16
+Vienna SD 55,Vienna,436,2,250,1
+CUSD 308,"Oswego, Montgomery, Plainfield, Aurora",17470,1497,3343,40
+Mercer County School District 404,"Joy, New Boston, Aledo",1324,16,544,3
+Marshall CUSD 2C,Marshall,1335,8,511,3
+Pecatonica CUSD 321,Pecatonica,891,9,175,2
+Centralia HSD 200,Centralia,911,89,562,2
+Grant CHSD 124,Fox Lake,1836,81,626,4
+River Forest SD 90,River Forest,1380,90,80,3
+Wheeling CCSD 21,"Arlington Heights, Buffalo Grove, Wheeling, Mt Prospect",6446,95,3857,14
+Rock Falls ESD 13,Rock Falls,926,22,723,2
+Woodstock CUSD 200,Woodstock,6536,167,2533,14
+Sparta CUSD 140,"Evansville, Sparta",482,58,271,1
+Seneca CCSD 170,Seneca,488,1,163,1
+Hawthorn CCSD 73,Vernon Hills,4045,77,1162,8
+CHSD 94,West Chicago,2034,32,966,4
+County of Winnebago SD 320,South Beloit,1025,39,684,2
+Georgetown-Ridge Farm CUD 4,Georgetown,1027,18,596,2
+Southland College Prep Chtr HS,Richton Park,522,492,291,1
+Reed Custer CUSD 255U,"Braidwood, Custer Park",1060,5,417,2
+Pope Co CUD 1,Golconda,533,2,300,1
+Rochelle CCSD 231,Rochelle,1605,27,860,3
+Hiawatha CUSD 426,Kirkland,548,6,233,1
+Dixon USD 170,Dixon,2740,64,1377,5
+Sullivan CUSD 300,Sullivan,1098,7,516,2
+Cahokia CUSD 187,"Centreville, Cahokia",3374,2997,2997,6
+Woodland CCSD 50,"Gurnee, Gages Lake",5674,400,2009,10
+Dunlap CUSD 323,"Peoria, Dunlap",4556,310,493,8
+Oglesby ESD 125,Oglesby,571,8,284,1
+East St Louis SD 189,"East Saint Louis, Washington Pk, East St Louis",5261,5134,5040,9
+Big Hollow SD 38,Ingleside,1789,84,508,3
+Zeigler-Royalton CUSD 188,Zeigler,600,9,399,1
+Lincolnwood SD 74,Lincolnwood,1218,19,145,2
+Frankfort CCSD 157C,Frankfort,2474,144,103,4
+El Paso-Gridley CUSD 11,"El Paso, Gridley",1246,15,418,2
+Effingham CUSD 40,Effingham,2502,15,1130,4
+Benjamin SD 25,"Carol Stream, West Chicago",633,11,41,1
+McHenry CCSD 15,"McHenry, Mchenry",4477,53,1864,7
+Prairie Central CUSD 8,"Chatsworth, Fairbury, Forrest, Chenoa",1920,17,797,3
+Hoopeston Area CUSD 11,Hoopeston,1285,5,808,2
+Niles Twp HSD 219,Skokie,4516,294,1428,7
+Harrisburg CUSD 3,Harrisburg,1972,78,1200,3
+Medinah SD 11,"Roselle, Medinah",659,32,189,1
+Jacksonville SD 117,"Jacksonville, South Jacksonville, Murrayville",2676,246,1499,4
+Madison CUSD 12,Madison,672,615,440,1
+Belvidere CUSD 100,"Caledonia, Belvidere",8070,276,4100,12
+Indian Creek CUSD 425,"Shabbona, Waterman",673,10,198,1
+Pontiac Twp HSD 90,Pontiac,675,21,263,1
+Spring Valley CCSD 99,Spring Valley,675,6,474,1
+Amboy CUSD 272,Amboy,685,2,186,1
+East Dubuque USD 119,East Dubuque,688,3,196,1
+East Maine SD 63,"Niles, Des Plaines, Morton Grove, Glenview",3537,132,1957,5
+Harlem UD 122,"Machesney Park, Loves Park",6532,317,3812,9
+Batavia USD 101,Batavia,5840,213,916,8
+Peotone CUSD 207U,"Frankfort, Peotone",1463,18,337,2
+Belleville SD 118,Belleville,3668,1587,2432,5
+Massac UD 1,"Metropolis, Brookport",2214,132,1370,3
+Central A & M CUD 21,"Moweaqua, Assumption",740,11,308,1
+Cass SD 63,Darien,750,35,114,1
+River Trails SD 26,Mt Prospect,1506,31,543,2
+Bradley SD 61,Bradley,1511,129,869,2
+Rockton SD 140,Rockton,1533,31,489,2
+Township HSD 214,"Buffalo Grove, Rolling Meadows, Arlington Heights, Mt Prospect, Wheeling, Elk Grove Village",11585,242,2677,15
+Fox Lake GSD 114,"Fox Lake, Spring Grove",778,23,446,1
+Maine Township HSD 207,"Des Plaines, Park Ridge",6251,156,1794,8
+Prospect Heights SD 23,Prospect Heights,1598,27,531,2
+North Boone CUSD 200,"Capron, Poplar Grove",1644,20,651,2
+Warren Twp HSD 121,Gurnee,4158,416,648,5
+West Northfield SD 31,"Northbrook, Glenview",865,23,191,1
+Kaneland CUSD 302,"Elburn, Maple Park, Sugar Grove, Montgomery",4478,93,692,5
+Elmhurst SD 205,Elmhurst,8149,173,1256,9
+Twp HSD 113,"Highland Park, Deerfield",3676,58,360,4
+Homer CCSD 33C,"Lockport, Homer Glen",3721,37,457,4
+Edwards County CUSD 1,"West Salem, Albion",931,6,344,1
+Warrensburg-Latham CUSD 11,Warrensburg,953,15,355,1
+Roxana CUSD 1,"Roxana, South Roxana",1907,65,1051,2
+Abingdon-Avon CUSD 276,"Avon, Abingdon",958,6,463,1
+Wood Dale SD 7,Wood Dale,974,23,500,1
+Argenta-Oreana CUSD 1,"Oreana, Argenta",989,34,440,1
+Marengo-Union E Cons D 165,Marengo,993,15,519,1
+Belle Valley SD 119,Belleville,994,532,658,1
+Mundelein Cons HSD 120,Mundelein,2004,33,643,2
+Diamond Lake SD 76,Mundelein,1010,14,623,1
+Alton CUSD 11,"Alton, Godfrey",6073,1858,3476,6
+Beecher CUSD 200U,Beecher,1017,19,236,1
+Summit Hill SD 161,"Mokena, Tinley Park, Frankfort",3059,176,421,3
+Mahomet-Seymour CUSD 3,Mahomet,3069,37,648,3
+Central CUSD 4,"Chebanse, Clifton",1024,8,446,1
+Collinsville CUSD 10,"Caseyville, Maryville, Collinsville",6399,802,3600,6
+Lemont-Bromberek CSD 113A,Lemont,2147,23,303,2
+Crystal Lake CCSD 47,Crystal Lake,7526,140,7454,7
+Barrington CUSD 220,"Barrington, North Barrington, Carpentersville, South Barrington",8725,121,1747,8
+Minooka CCSD 201,"Joliet, Minooka, Shorewood",4377,196,1078,4
+Leyden CHSD 212,"Northlake, Franklin Park",3294,53,1828,3
+Coal City CUSD 1,Coal City,2201,14,639,2
+McHenry CHSD 156,McHenry,2226,19,720,2
+Wauconda CUSD 118,"Wauconda, Island Lake",4657,78,1237,4
+Morris SD 54,Morris,1177,25,576,1
+New Lenox SD 122,New Lenox,5062,70,614,4
+Channahon SD 17,Channahon,1272,21,198,1
+Lake Villa CCSD 41,"Lindenhurst, Lake Villa",2592,78,791,2
+Minooka CHSD 111,Minooka,2653,112,24,2
+Carmi-White County CUSD 5,Carmi,1334,4,749,1
+Central CUSD 301,"Elgin, Burlington, Maple Park",4025,102,530,3
+Lemont Twp HSD 210,Lemont,1361,17,171,1
+Beardstown CUSD 15,Beardstown,1363,134,1087,1
+Wilmington CUSD 209U,Wilmington,1367,3,573,1
+Ottawa Twp HSD 140,Ottawa,1375,34,444,1
+Lincoln Way CHSD 210,"New Lenox, Frankfort",6971,232,654,5
+Lake Zurich CUSD 95,"Lake Zurich, Hawthorn Woods",5638,58,786,4
+Oregon CUSD 220,"Mount Morris, Oregon",1440,13,698,1
+Grayslake CHSD 127,Grayslake,2896,105,329,2
+Park Ridge CCSD 64,"Niles, Park Ridge",4442,29,167,3
+Fenton CHSD 100,Bensenville,1487,42,804,1
+Duquoin CUSD 300,Du Quoin,1493,70,826,1
+Morton CUSD 709,Morton,3014,55,471,2
+Mokena SD 159,Mokena,1542,30,271,1
+St Charles CUSD 303,"Wasco, West Chicago, St Charles, Saint Charles, South Elgin",12561,181,1993,8
+Robinson CUSD 2,Robinson,1582,15,703,1
+Glenview CCSD 34,Glenview,4868,87,1229,3
+Kildeer Countryside CCSD 96,"Buffalo Grove, Long Grove",3247,46,325,2
+CHSD 128,"Vernon Hills, Libertyville",3271,56,258,2
+Northfield Twp HSD 225,"Northbrook, Glenview",4982,61,713,3
+Lake Forest CHSD 115,Lake Forest,1672,19,48,1
+Monmouth-Roseville CUSD 238,"Roseville, Monmouth",1713,91,1379,1
+Herscher CUSD 2,"Kankakee, Bonfield, Herscher",1728,14,354,1
+Frankfort CUSD 168,West Frankfort,1816,16,978,1
+Sycamore CUSD 427,Sycamore,3753,109,854,2
+Johnsburg CUSD 12,"Ringwood, Johnsburg",1903,19,506,1
+Hinsdale CCSD 181,"Hinsdale, Burr Ridge, Clarendon Hills",3809,35,140,2
+Huntley Comm Sch Dist 158,"Algonquin, Huntley, Lake in the Hills",9576,193,1463,5
+Clinton CUSD 15,Clinton,1951,14,958,1
+Lyons Twp HSD 204,La Grange,3981,160,565,2
+Hononegah CHD 207,Rockton,2074,36,420,1
+O Fallon Twp HSD 203,O Fallon,2407,473,588,1
+Harvard CUSD 50,Harvard,2487,20,2466,1
+Taylorville CUSD 3,"Taylorville, Stonington",2534,24,1428,1
+CHSD 117,"Antioch, Lake Villa",2655,64,473,1
+Highland CUSD 5,"Highland, Alhambra",2860,28,862,1
+Edwardsville CUSD 7,"Glen Carbon, Hamel, Edwardsville, Moro, Worden",7498,560,1250,2
+North Shore SD 112,"Highland Park, Highwood",3858,75,949,1
+Adlai E Stevenson HSD 125,Lincolnshire,4029,77,218,1
+Belleville Twp HSD 201,Belleville,4719,1822,2085,1
+Arlington Heights SD 25,Arlington Heights,5503,51,117,1
+Granite City CUSD 9,Granite City,6155,885,4038,1
